@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="es" data-theme="dark">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cancionero de Guitarra</title>
+  <meta name="description" content="Cancionero de guitarra con acordes sobre la letra en Markdown, transposición de tonos y auto-scroll">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <div class="app-container">
+    <!-- Navbar -->
+    <header class="navbar">
+      <div style="display: flex; align-items: center; gap: 0.5rem;">
+        <button id="btn-toggle-sidebar" class="btn-icon" title="Abrir lista de canciones" aria-label="Abrir lista">
+          ☰
+        </button>
+        <a href="#" class="nav-brand" id="brand-link">
+          <span class="brand-icon">🎸</span>
+          <span>Cancionero</span>
+        </a>
+      </div>
+
+      <div class="search-box">
+        <span class="search-icon">🔍</span>
+        <input type="search" id="search-input" class="search-input" placeholder="Buscar por título, artista, tono o tag..." autocomplete="off">
+      </div>
+
+      <div class="nav-actions">
+        <button id="btn-new-song" class="btn btn-primary" title="Añadir una nueva canción">
+          <span>+</span> Nueva Canción
+        </button>
+        <button id="btn-theme-toggle" class="btn-icon" title="Cambiar tema claro/oscuro" aria-label="Cambiar tema">
+          🌙
+        </button>
+        <button id="btn-settings" class="btn-icon" title="Ajustes y GitHub" aria-label="Ajustes">
+          ⚙️
+        </button>
+      </div>
+    </header>
+
+    <!-- Main Content Layout -->
+    <div class="main-wrapper">
+      <!-- Sidebar / Song List -->
+      <aside id="sidebar" class="sidebar">
+        <div class="sidebar-header">
+          <span>Canciones</span>
+          <span id="song-count" class="badge">0</span>
+        </div>
+        <ul id="song-list" class="song-list">
+          <!-- Loaded dynamically -->
+        </ul>
+      </aside>
+
+      <!-- Content Area -->
+      <main class="content-area" id="content-area">
+        <!-- Empty State View -->
+        <div id="empty-view" class="empty-view">
+          <div class="empty-view-icon">🎶</div>
+          <h2>Selecciona una canción para comenzar</h2>
+          <p>Elige cualquier canción de la lista a la izquierda o crea una nueva con el botón superior.</p>
+        </div>
+
+        <!-- Song View -->
+        <article id="song-view" class="song-view hidden">
+          <!-- Song Header -->
+          <div class="song-header">
+            <div class="song-title-row">
+              <div>
+                <h1 id="view-title" class="song-title">Título</h1>
+                <div id="view-artist" class="song-artist">Artista</div>
+              </div>
+              <div style="display: flex; gap: 0.5rem; align-items: center;">
+                <button id="btn-edit-current" class="btn btn-secondary" title="Editar esta canción">
+                  ✏️ Editar
+                </button>
+              </div>
+            </div>
+            <div id="view-badges" class="song-badges">
+              <!-- Rendered dynamically -->
+            </div>
+          </div>
+
+          <!-- Sticky Controls for Guitarists -->
+          <div class="song-toolbar">
+            <!-- Transposer -->
+            <div class="toolbar-group">
+              <span class="toolbar-label">Tono:</span>
+              <button id="btn-transpose-down" class="btn-ctrl" title="Bajar medio tono">-</button>
+              <span id="display-transpose" class="ctrl-value">Orig</span>
+              <button id="btn-transpose-up" class="btn-ctrl" title="Subir medio tono">+</button>
+              <button id="btn-transpose-reset" class="btn-ctrl" style="font-size: 0.75rem;" title="Restablecer tono">0</button>
+            </div>
+
+            <!-- Notation Switch -->
+            <div class="toolbar-group">
+              <span class="toolbar-label">Notación:</span>
+              <button id="btn-toggle-notation" class="btn-ctrl" title="Alternar entre C-D-E y Do-Re-Mi">C D E</button>
+            </div>
+
+            <!-- Font Size -->
+            <div class="toolbar-group">
+              <span class="toolbar-label">Texto:</span>
+              <button id="btn-font-smaller" class="btn-ctrl" title="Reducir tamaño">A-</button>
+              <span id="display-font-size" class="ctrl-value" style="font-size: 0.8rem;">100%</span>
+              <button id="btn-font-larger" class="btn-ctrl" title="Aumentar tamaño">A+</button>
+            </div>
+
+            <!-- Auto-Scroll Trigger -->
+            <div class="toolbar-group">
+              <button id="btn-start-scroll" class="btn btn-primary" style="padding: 0.35rem 0.8rem; font-size: 0.85rem;">
+                ▶ Auto-scroll
+              </button>
+            </div>
+          </div>
+
+          <!-- Rendered Song Chords & Lyrics -->
+          <div id="song-body-container" class="song-content">
+            <!-- Rendered by parser.js -->
+          </div>
+        </article>
+      </main>
+    </div>
+
+    <!-- Floating Auto-Scroll Controls -->
+    <div id="autoscroll-controls" class="autoscroll-bar hidden">
+      <button id="btn-scroll-pause" class="btn-ctrl" title="Pausar/Reanudar">⏸</button>
+      <span style="font-size: 0.8rem; font-weight: 600;">Velocidad:</span>
+      <input type="range" id="scroll-speed" class="scroll-speed-slider" min="1" max="10" value="3" title="Velocidad de desplazamiento">
+      <button id="btn-scroll-stop" class="btn-ctrl" title="Detener auto-scroll">⏹</button>
+    </div>
+
+    <!-- Modal: Song Editor / Form -->
+    <div id="modal-editor" class="modal-overlay hidden">
+      <div class="modal-card">
+        <div class="modal-header">
+          <h3 id="editor-modal-title" class="modal-title">Añadir Canción</h3>
+          <button id="btn-close-editor" class="btn-icon" aria-label="Cerrar modal">✕</button>
+        </div>
+        <div class="modal-body">
+          <!-- Metadata Form Grid -->
+          <div class="form-grid">
+            <div class="form-group">
+              <label class="form-label" for="form-title">Título *</label>
+              <input type="text" id="form-title" class="form-input" placeholder="ej. Soldadito Marinero" required>
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="form-artist">Artista *</label>
+              <input type="text" id="form-artist" class="form-input" placeholder="ej. Fito & Fitipaldis">
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="form-key">Tono Original</label>
+              <select id="form-key" class="form-select">
+                <option value="C">C / Do</option>
+                <option value="C#">C# / Do#</option>
+                <option value="D">D / Re</option>
+                <option value="Eb">Eb / Mib</option>
+                <option value="E">E / Mi</option>
+                <option value="F">F / Fa</option>
+                <option value="F#">F# / Fa#</option>
+                <option value="G" selected>G / Sol</option>
+                <option value="Ab">Ab / Lab</option>
+                <option value="A">A / La</option>
+                <option value="Bb">Bb / Sib</option>
+                <option value="B">B / Si</option>
+                <option value="Am">Am / Lam</option>
+                <option value="Em">Em / Mim</option>
+                <option value="Dm">Dm / Rem</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="form-capo">Cejilla (Capo)</label>
+              <select id="form-capo" class="form-select">
+                <option value="0">Sin cejilla (0)</option>
+                <option value="1">Traste 1</option>
+                <option value="2">Traste 2</option>
+                <option value="3">Traste 3</option>
+                <option value="4">Traste 4</option>
+                <option value="5">Traste 5</option>
+                <option value="6">Traste 6</option>
+                <option value="7">Traste 7</option>
+              </select>
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="form-tempo">Tempo (BPM)</label>
+              <input type="number" id="form-tempo" class="form-input" placeholder="ej. 120" min="40" max="250">
+            </div>
+            <div class="form-group">
+              <label class="form-label" for="form-tags">Etiquetas</label>
+              <input type="text" id="form-tags" class="form-input" placeholder="rock, acústico, español">
+            </div>
+          </div>
+
+          <!-- Chord Helper Chips -->
+          <div>
+            <div style="font-size: 0.8rem; font-weight: 600; color: var(--text-muted); margin-bottom: 0.3rem;">
+              Inserción rápida de acordes y secciones (haz clic para insertar en el cursor):
+            </div>
+            <div class="chord-helper-bar" id="chord-helper-chips">
+              <button type="button" class="chord-chip" data-insert="[C]">[C]</button>
+              <button type="button" class="chord-chip" data-insert="[D]">[D]</button>
+              <button type="button" class="chord-chip" data-insert="[E]">[E]</button>
+              <button type="button" class="chord-chip" data-insert="[F]">[F]</button>
+              <button type="button" class="chord-chip" data-insert="[G]">[G]</button>
+              <button type="button" class="chord-chip" data-insert="[A]">[A]</button>
+              <button type="button" class="chord-chip" data-insert="[B]">[B]</button>
+              <button type="button" class="chord-chip" data-insert="[Am]">[Am]</button>
+              <button type="button" class="chord-chip" data-insert="[Dm]">[Dm]</button>
+              <button type="button" class="chord-chip" data-insert="[Em]">[Em]</button>
+              <button type="button" class="chord-chip" data-insert="[E7]">[E7]</button>
+              <button type="button" class="chord-chip" data-insert="[G7]">[G7]</button>
+              <button type="button" class="chord-chip" data-insert="## Intro&#10;">## Intro</button>
+              <button type="button" class="chord-chip" data-insert="## Verso&#10;">## Verso</button>
+              <button type="button" class="chord-chip" data-insert="## Coro&#10;">## Coro</button>
+            </div>
+          </div>
+
+          <!-- Split Textarea & Live Preview -->
+          <div class="editor-split">
+            <div class="editor-pane">
+              <label class="form-label" for="form-body">Letra con acordes entre corchetes [Acorde]:</label>
+              <textarea id="form-body" class="form-textarea" placeholder="## Intro&#10;[G] [D] [Em] [C]&#10;&#10;## Verso 1&#10;[G] Aquí va la letra con [D] acordes sobre las palabras&#10;[Em] y todo se alinea [C] perfectamente"></textarea>
+            </div>
+            <div class="editor-pane">
+              <label class="form-label">Vista previa en tiempo real:</label>
+              <div id="editor-preview" class="preview-container song-content">
+                <span style="color: var(--text-dim); font-style: italic;">La vista previa aparecerá aquí al escribir...</span>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button id="btn-copy-md" class="btn btn-secondary" title="Copiar Markdown con Frontmatter">
+            📋 Copiar Markdown
+          </button>
+          <button id="btn-download-md" class="btn btn-secondary" title="Descargar archivo .md">
+            ⬇️ Descargar .md
+          </button>
+          <button id="btn-save-local" class="btn btn-secondary" title="Guardar en este navegador">
+            💾 Guardar Local
+          </button>
+          <button id="btn-publish-github" class="btn btn-primary" title="Subir directamente a tu repositorio GitHub">
+            🚀 Publicar en GitHub
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Modal: Settings -->
+    <div id="modal-settings" class="modal-overlay hidden">
+      <div class="modal-card modal-card-sm">
+        <div class="modal-header">
+          <h3 class="modal-title">Ajustes del Cancionero</h3>
+          <button id="btn-close-settings" class="btn-icon" aria-label="Cerrar modal">✕</button>
+        </div>
+        <div class="modal-body">
+          <div class="form-group">
+            <label class="form-label" for="setting-repo">Repositorio de GitHub (usuario/repo)</label>
+            <input type="text" id="setting-repo" class="form-input" placeholder="ej. rafaelruiz/canciones">
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="setting-branch">Rama</label>
+            <input type="text" id="setting-branch" class="form-input" placeholder="main" value="main">
+          </div>
+          <div class="form-group">
+            <label class="form-label" for="setting-token">GitHub Personal Access Token (PAT)</label>
+            <input type="password" id="setting-token" class="form-input" placeholder="ghp_xxxxxxxxxxxxxxxxxxxx">
+            <small style="color: var(--text-muted); font-size: 0.78rem; margin-top: 0.25rem;">
+              Crea un token en GitHub (Settings &gt; Developer settings &gt; Personal access tokens &gt; Fine-grained) con permisos de <strong>Contents: Read and write</strong> en tu repositorio. Se guarda únicamente en tu propio navegador.
+            </small>
+          </div>
+
+          <hr style="border: 0; border-top: 1px solid var(--border-color); margin: 0.5rem 0;">
+
+          <div class="form-group">
+            <label class="form-label" for="setting-default-notation">Notación musical por defecto</label>
+            <select id="setting-default-notation" class="form-select">
+              <option value="anglo">Anglosajona (C, D, E, F, G, A, B)</option>
+              <option value="latin">Latina (Do, Re, Mi, Fa, Sol, La, Si)</option>
+            </select>
+          </div>
+
+          <div style="margin-top: 0.5rem;">
+            <button id="btn-clear-cache" class="btn btn-secondary" style="font-size: 0.8rem; width: 100%;">
+              🔄 Restablecer a canciones predeterminadas
+            </button>
+          </div>
+        </div>
+        <div class="modal-footer">
+          <button id="btn-save-settings" class="btn btn-primary">
+            Guardar Ajustes
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Notification Toast -->
+    <div id="toast" class="toast hidden">
+      <span id="toast-message">Notificación</span>
+    </div>
+  </div>
+
+  <script type="module" src="js/app.js"></script>
+</body>
+</html>

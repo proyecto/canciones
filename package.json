@@ -1,0 +1,12 @@
+{
+  "name": "cancionero",
+  "version": "1.0.0",
+  "description": "Cancionero con acordes y letras en Markdown para GitHub Pages",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  },
+  "keywords": ["cancionero", "guitarra", "acordes", "markdown", "github-pages"],
+  "author": "",
+  "license": "MIT"
+}

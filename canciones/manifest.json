@@ -1,0 +1,32 @@
+[
+  {
+    "id": "la-flaca",
+    "title": "La Flaca",
+    "artist": "Jarabe de Palo",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 104,
+    "tags": ["rock", "pop", "español"],
+    "file": "canciones/la-flaca.md"
+  },
+  {
+    "id": "soldadito-marinero",
+    "title": "Soldadito Marinero",
+    "artist": "Fito & Fitipaldis",
+    "key": "G",
+    "capo": 0,
+    "tempo": 120,
+    "tags": ["rock", "español", "acústico"],
+    "file": "canciones/soldadito-marinero.md"
+  },
+  {
+    "id": "stand-by-me",
+    "title": "Stand By Me",
+    "artist": "Ben E. King",
+    "key": "A",
+    "capo": 2,
+    "tempo": 118,
+    "tags": ["classic", "soul", "english"],
+    "file": "canciones/stand-by-me.md"
+  }
+]
