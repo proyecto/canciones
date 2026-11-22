@@ -12,47 +12,52 @@ tags: ["indie", "pop", "español", "acústico"]
 [Bm] [G] [D]
 
 ## Verso 1
-[Bm] Él corría, nunca le ense[G]ñaron a andar,
-Se fue tras luces [D] pálidas.
-[Bm] Ella huía de espe[G]jismos y horas de más,
-Aero[D]puertos. Unos vienen, otros se van,
-[Bm] Igual que Alicia [G] sin ciudad.
-El valor para mar[D]charse,
-El miedo a lle[A]gar.
+[Bm] Él corría, nunca le [G]enseñaron a andar,
+Se fue, tras luces [D]pálidas.
+[Bm] Ella huía de [G]espejismos y horas de más,
+Aero[D]puertos, unos vienen, otros se van,
+[Bm] Igual que Alicia [G]sin ciudad,
+El valor para [D]marcharse, el miedo a [A]llegar.
 
 ## Pre-Coro
-[Bm] Llueve en el ca[G]nal, la corriente enseña
-El ca[D]mino hacia el [A] mar.
-[Bm] Todos duermen [G] ya.
+[Bm] Llueve en el [G]canal,
+La corriente enseña el [D]camino hacia el [A]mar,
+[Bm] Todos duermen [G]ya.
 
 ## Coro
-Dejarse lle[D]var suena dema[A]siado [G] bien.
-Jugar al a[D]zar, nunca saber [A] dónde puedes termi[G]nar...
-O empe[D]zar.
+Dejarse [D]llevar, suena [A]demasiado [G]bien,
+Jugar al [D]azar,
+Nunca saber [A]dónde puedes [G]terminar
+O [D]empezar.
 
 ## Verso 2
-[Bm] Un instante mientras los tu[G]ristas se van,
-Un tren de madru[D]gada
-Consi[Bm]guió tra[G]zar
-La frontera entre [D] siempre o jamás.
+[Bm] Un instante mientras los [G]turistas se van,
+Un tren de madru[D]gada, consiguió tra[Bm]zar [G]
+La frontera entre [D]siempre o jamás.
 
 ## Pre-Coro
-[Bm] Llueve en el ca[G]nal, la corriente enseña
-El ca[D]mino hacia el [A] mar.
-[Bm] Todos duermen [G] ya.
+[Bm] Llueve en el [G]canal,
+La corriente [D]enseña, camino hacia el [A]mar,
+[Bm] Todos duermen [G]ya.
 
 ## Coro
-Dejarse lle[D]var suena dema[A]siado [G] bien.
-Jugar al a[D]zar, nunca saber [A] dónde puedes termi[G]nar...
-O empe[D]zar.
+Dejarse [D]llevar suena [A]demasiado [G]bien,
+Jugar al [D]azar,
+Nunca saber [A]dónde puedes [G]terminar
+O [D]empezar...
+O [G]empezar, [A]ah-ah-ah.
 
 ## Verso 3
-[Bm] Ella duerme tras el [G] vendaval,
-No se quitó la [D] ropa.
+[Bm] Ella duerme, tras el [G]vendaval,
+No se quitó la [D]ropa,
 Sueña con desper[Bm]tar [G]
-En otro tiempo y en [D] otra ciudad.
+En otro tiempo y en [D]otra ciudad.
 
 ## Coro Final
-Dejarse lle[D]var suena dema[A]siado [G] bien.
-Jugar al a[D]zar, nunca saber [A] dónde puedes termi[G]nar...
-O empe[D]zar... O empe[A]zar... [G] [D]
+Dejarse [D]llevar suena [A]demasiado [G]bien,
+Jugar al [D]azar,
+Nunca saber [A]dónde puedes tu [G]acabar...
+O [D]empezar (terminar),
+O [G]empezar (terminar),
+O [A]empezar (terminar),
+O [D]empezar.
