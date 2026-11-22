@@ -49,6 +49,57 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "caminando-por-la-vida",
+    "file": "canciones/caminando-por-la-vida.md",
+    "content": "---\ntitle: \"Caminando por la vida\"\nartist: \"Melendi\"\nkey: \"Am\"\ncapo: 2\ntempo: 110\ntags: [\"rumba\", \"pop\", \"español\", \"2000s\", \"fiesta\"]\n---\n\n// Tono original con Cejilla en el 2º traste (Am - G - F - E)\n\n## Intro\n[Am] [G] [F] [E]\n[Am] [G] [F] [E]\n\n## Verso 1\n[Am] Voy caminando por la vida, sin pausa pero sin [G] prisa\nProcurando no pisar a nadie y con una gran son[F]risa\nQue me acompaña a todas partes, que me viste de fies[E]tero\nPorque en los bolsillos no tengo dinero pero soy un caba[Am]llero\n\n[Am] Y me paro en cada esquina a tomarme un cafelito [G]\nA charlar con los amigos y a contar algún chistecito [F]\nQue la vida son dos días y uno ya se nos ha pasa'o [E]\nY el que no aproveche el tiempo se va a quedar amarga'o\n\n## Coro\n[Am] Y yo voy caminando por la vida, alegre y diver[G]tido\nCon un pantalón vaquero y un zapato desco[F]sido\nBuscando una muchacha que me quiera de ver[E]dad\nY que no le importe un pimiento mi precaria econo[Am]mía [G] [F] [E]\n\n## Verso 2\n[Am] No tengo coche de lujo ni casa en la playa [G]\nNi ropa de marca que me tape las canas [F]\nPero tengo una guitarra que me alegra el corazón [E]\nY un puñado de canciones que me llenan de ilu[Am]sión\n\n## Coro\n[Am] Y yo voy caminando por la vida, alegre y diver[G]tido\nCon un pantalón vaquero y un zapato desco[F]sido\nBuscando una muchacha que me quiera de ver[E]dad\nY que no le importe un pimiento mi precaria econo[Am]mía\n",
+    "title": "Caminando por la vida",
+    "artist": "Melendi",
+    "key": "Am",
+    "capo": 2,
+    "tempo": 110,
+    "tags": [
+      "rumba",
+      "pop",
+      "español",
+      "2000s",
+      "fiesta"
+    ]
+  },
+  {
+    "id": "carolina",
+    "file": "canciones/carolina.md",
+    "content": "---\ntitle: \"Carolina\"\nartist: \"M-Clan\"\nkey: \"G\"\ncapo: 0\ntempo: 128\ntags: [\"rock\", \"español\", \"2000s\", \"clásico\", \"fiesta\"]\n---\n\n## Intro\n[G] [C] [G] [D]\n[G] [C] [G] [D]\n\n## Verso 1\n[G] La reina de las medicinas\nQue no [C] curan el dolor\n[G] Niña que juega a ser mujer\nY se [D] viste de alcohol\n\n[G] Te sientas en la barra\nY me [C] miras de reojo\n[G] Con esa cara de inocente\nY ese [D] brillo en los ojos\n\n## Coro\n[G] Carolina, [C] trátame bien\nNo te [G] rías de mí, no me arranques la [D] piel\n[G] Carolina, [C] trátame bien\nQue no [G] tengo el valor de volverte a [D] perder\nCarolina... [G] [C] [G] [D]\n\n## Verso 2\n[G] Dices que tienes dieciséis\nY que ya [C] sabes lo que hay\n[G] Que la noche no te asusta\nY que no [D] quieres parar\n\n[G] Me pides otra copa\nY me en[C]ciendes un cigarro\n[G] Y yo me voy hundiendo poco a poco\n[D] En este barro\n\n## Coro\n[G] Carolina, [C] trátame bien\nNo te [G] rías de mí, no me arranques la [D] piel\n[G] Carolina, [C] trátame bien\nQue no [G] tengo el valor de volverte a [D] perder\nCarolina... [G]\n",
+    "title": "Carolina",
+    "artist": "M-Clan",
+    "key": "G",
+    "capo": 0,
+    "tempo": 128,
+    "tags": [
+      "rock",
+      "español",
+      "2000s",
+      "clásico",
+      "fiesta"
+    ]
+  },
+  {
+    "id": "chiquilla",
+    "file": "canciones/chiquilla.md",
+    "content": "---\ntitle: \"Chiquilla\"\nartist: \"Seguridad Social\"\nkey: \"Am\"\ncapo: 0\ntempo: 145\ntags: [\"rock\", \"rumba\", \"español\", \"90s\", \"fiesta\"]\n---\n\n## Intro\n[Am] [Dm] [E7] [Am]\n[Am] [Dm] [E7] [Am]\n\n## Verso 1\n[Am] Por la noche cuando me acuesto\nPienso en ti y en tu recuerdo\n[Dm] Y en mis sueños te apareces\n[E7] Como un ángel del cielo\n\n[Am] Miro al techo de mi cuarto\nY no dejo de pensar\n[Dm] Que tus besos son el fuego\n[E7] Que me quema sin piedad\n\n## Coro\n[Am] ¡Ay, chiquilla!\nQue me has hecho [Dm] perder el sentido\n[E7] Que me tienes como loco per[Am]dido\n[Am] ¡Ay, chiquilla!\nCon tus ojos de [Dm] terciopelo\n[E7] Me has robado la calma y el [Am] sueño\n[Am] ¡Ay, chiquilla! [Dm] [E7] [Am]\n\n## Verso 2\n[Am] Cuando sales por la tarde\nCaminando por el barrio\n[Dm] Todo el mundo se da vuelta\n[E7] Para verte pasar\n\n[Am] Y yo sigo tus pisadas\nComo un perro abandonado\n[Dm] Esperando que me mires\n[E7] Y me vuelvas a besar\n\n## Coro\n[Am] ¡Ay, chiquilla!\nQue me has hecho [Dm] perder el sentido\n[E7] Que me tienes como loco per[Am]dido\n[Am] ¡Ay, chiquilla!\nCon tus ojos de [Dm] terciopelo\n[E7] Me has robado la calma y el [Am] sueño\n[Am] ¡Ay, chiquilla!\n",
+    "title": "Chiquilla",
+    "artist": "Seguridad Social",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 145,
+    "tags": [
+      "rock",
+      "rumba",
+      "español",
+      "90s",
+      "fiesta"
+    ]
+  },
+  {
     "id": "como-camaron",
     "file": "canciones/como-camaron.md",
     "content": "---\ntitle: \"Como Camarón\"\nartist: \"Estopa\"\nkey: \"Am\"\ncapo: 0\ntempo: 135\ntags: [\"rumba\", \"rock\", \"español\", \"clásico\"]\n---\n\n## Intro\n[Am] [Dm] [G] [C] [E7]\n[Am] [Dm] [G] [C] [E7]\n\n## Verso 1\n[Am] Cada vez que te miro se me para el cora[Dm]zón\nMe pongo rojo como un to[G]mate\nSe me corta la voz y me entra la tiri[C]tona [E7]\n[Am] Y es que tú tienes algo que me quita el sen[Dm]tío\nAlgo que me vuelve loco, que me [G] deja perdío\nY no sé cómo de[C]cirte que me muero por [E7] ti\n\n## Coro\n[Am] Y yo no sé qué me pasa que cuando me [Dm] miras\nMe pongo a tem[G]blar\nY se me llena la boca de saliva y de [C] ganas de cantar [E7]\n[Am] Y me pongo como Cama[Dm]rón\nCantándole a la luna en el bal[G]cón\nDiciendo cosas bonitas que me [C] salen del cora[E7]zón\nComo Cama[Am]rón... [Dm] [G] [C] [E7]\n\n## Verso 2\n[Am] Salgo a la calle de noche a buscar tu ca[Dm]lor\nPensando en tus ojos verdes, tu ca[G]bello castaño\nY ese andar tuyo tan chi[C]lo [E7]\n[Am] No me hacen falta papeles ni testigos de[Dm]lante\nPa' jurarte que te quiero desde el [G] primer instante\nHasta el último día que me [C] quede de aliento [E7]\n\n## Coro\n[Am] Y yo no sé qué me pasa que cuando me [Dm] miras\nMe pongo a tem[G]blar\nY se me llena la boca de saliva y de [C] ganas de cantar [E7]\n[Am] Y me pongo como Cama[Dm]rón\nCantándole a la luna en el bal[G]cón\nDiciendo cosas bonitas que me [C] salen del cora[E7]zón\nComo Cama[Am]rón\n",
@@ -97,6 +148,58 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "creep",
+    "file": "canciones/creep.md",
+    "content": "---\ntitle: \"Creep\"\nartist: \"Radiohead\"\nkey: \"G\"\ncapo: 0\ntempo: 92\ntags: [\"rock\", \"90s\", \"alternative\", \"himno\", \"fácil\"]\n---\n\n// La magia de esta canción está en el paso de C mayor a Cm menor: G - B - C - Cm\n\n## Intro\n[G] [B] [C] [Cm]\n[G] [B] [C] [Cm]\n\n## Verso 1\nWhen you were here be[G]fore\nCouldn't look you in the [B] eye\nYou're just like an [C] angel\nYour skin makes me [Cm] cry\n\n[G] You float like a feather\nIn a beautiful [B] world\nI wish I was [C] special\nYou're so fucking [Cm] special\n\n## Coro\nBut I'm a [G] creep\nI'm a [B] weirdo\nWhat the hell am I doing [C] here?\nI don't be[Cm]long here\n\n## Verso 2\n[G] I don't care if it hurts\nI wanna have con[B]trol\nI want a perfect [C] body\nI want a perfect [Cm] soul\n\n[G] I want you to notice\nWhen I'm not a[B]round\nYou're so fucking [C] special\nI wish I was [Cm] special\n\n## Coro\nBut I'm a [G] creep\nI'm a [B] weirdo\nWhat the hell am I doing [C] here?\nI don't be[Cm]long here\n\n## Puente\n[G] She's running out the [B] door...\n[C] She's running, she [Cm] runs, runs, runs...\n[G] Runs... [B]\n[C] Runs... [Cm]\n\n## Outro\nWhatever makes you [G] happy\nWhatever you [B] want\nYou're so fucking [C] special\nI wish I was [Cm] special\nBut I'm a [G] creep...\n",
+    "title": "Creep",
+    "artist": "Radiohead",
+    "key": "G",
+    "capo": 0,
+    "tempo": 92,
+    "tags": [
+      "rock",
+      "90s",
+      "alternative",
+      "himno",
+      "fácil"
+    ]
+  },
+  {
+    "id": "de-musica-ligera",
+    "file": "canciones/de-musica-ligera.md",
+    "content": "---\ntitle: \"De Música Ligera\"\nartist: \"Soda Stereo\"\nkey: \"Bm\"\ncapo: 0\ntempo: 126\ntags: [\"rock\", \"latino\", \"argentino\", \"himno\", \"clásico\", \"fácil\"]\n---\n\n// Los 4 acordes más famosos del rock en español: Bm - G - D - A\n\n## Intro\n[Bm] [G] [D] [A]\n[Bm] [G] [D] [A]\n\n## Verso 1\n[Bm] Ella durmió [G] al calor de las [D] masas [A]\n[Bm] Y yo desperté [G] queriendo so[D]ñarla [A]\n[Bm] Algún tiempo a[G]trás pensé en escri[D]birle [A]\n[Bm] Que nunca sorteé [G] las trampas del a[D]mor [A]\n\n## Coro\n[Bm] De aquel a[G]mor\nDe [D] música li[A]gera\n[Bm] Nada nos li[G]bra\n[D] Nada más que[A]da\n\n## Verso 2\n[Bm] No le enviaré [G] cenizas de [D] rosas [A]\n[Bm] Ni pienso evitar [G] un roce se[D]creto [A]\n[Bm] De aquel a[G]mor\nDe [D] música li[A]gera\n[Bm] Nada nos li[G]bra\n[D] Nada más que[A]da\n\n## Solo\n[Bm] [G] [D] [A]\n[Bm] [G] [D] [A]\n\n## Coro\n[Bm] De aquel a[G]mor\nDe [D] música li[A]gera\n[Bm] Nada nos li[G]bra\n[D] Nada más que[A]da\n[Bm] Nada más que[G]da... [D] [A]\n[Bm] Nada más que[G]da... [D] [A] [Bm]\n",
+    "title": "De Música Ligera",
+    "artist": "Soda Stereo",
+    "key": "Bm",
+    "capo": 0,
+    "tempo": 126,
+    "tags": [
+      "rock",
+      "latino",
+      "argentino",
+      "himno",
+      "clásico",
+      "fácil"
+    ]
+  },
+  {
+    "id": "dejame",
+    "file": "canciones/dejame.md",
+    "content": "---\ntitle: \"Déjame\"\nartist: \"Los Secretos\"\nkey: \"G\"\ncapo: 0\ntempo: 130\ntags: [\"pop\", \"rock\", \"80s\", \"español\", \"clásico\"]\n---\n\n## Intro\n[G] [D] [C] [D]\n[G] [D] [C] [D]\n\n## Verso 1\n[G] Déjame, no juegues [D] más conmigo\nEsta [C] vez en serio te lo [D] digo\n[G] Tuviste una oportu[D]nidad y la de[C]jaste esca[D]par\n\n[G] Ya no hay nada que tú [D] puedas hacer\nPara [C] conseguir que vuelva [D] otra vez\n[G] Me hiciste mucho daño y [D] no quiero vol[C]ver a pa[D]sar\n\n## Coro\nPor lo que [C] ya pasé, por lo que [D] ya sufrí\nNo quiero [G] volver a verte [Em] sonreír\nPensando [C] que puedes jugar con[D]migo\nComo si [G] fuera un niño que no sabe a [Em] dónde va\n[C] Déjame, ya no hay [D] nada que ha[G]blar [D]\n\n## Verso 2\n[G] Vete ya, no te quedes [D] parada\nMiran[C]do como si no pasara [D] nada\n[G] Se acabaron las menti[D]ras, se aca[C]bó la fun[D]ción\n\n## Coro\nPor lo que [C] ya pasé, por lo que [D] ya sufrí\nNo quiero [G] volver a verte [Em] sonreír\nPensando [C] que puedes jugar con[D]migo\nComo si [G] fuera un niño que no sabe a [Em] dónde va\n[C] Déjame, ya no hay [D] nada que ha[G]blar\n",
+    "title": "Déjame",
+    "artist": "Los Secretos",
+    "key": "G",
+    "capo": 0,
+    "tempo": 130,
+    "tags": [
+      "pop",
+      "rock",
+      "80s",
+      "español",
+      "clásico"
+    ]
+  },
+  {
     "id": "sufre-mamon",
     "file": "canciones/sufre-mamon.md",
     "content": "---\ntitle: \"Devuélveme a mi chica (Sufre Mamón)\"\nartist: \"Hombres G\"\nkey: \"G\"\ncapo: 0\ntempo: 140\ntags: [\"pop\", \"rock\", \"80s\", \"español\", \"fiesta\"]\n---\n\n## Intro\n[G] [Em] [C] [D]\n[G] [Em] [C] [D]\n\n## Verso 1\n[G] Estoy llorando en mi habi[Em]tación\n[C] Todo se nubla a mi alre[D]dedor\n[G] Ella se fue con un chulo en un Ford [Em] Fiesta blanco\n[C] Y un jersey amarillo [D]\n\n## Verso 2\n[G] Por el parque les veo pa[Em]sear\n[C] Cogidos de la mano me hacen ra[D]biar\n[G] Voy a vengarme de ese maricón [Em]\n[C] Ha de pagar caro lo que me [D] hizo\n\n## Coro\n[G] Sufre mamón, [Em] devuélveme a mi chica\n[C] O te retorcerás entre polvos pi[D]ca-pica\n[G] Sufre mamón, [Em] devuélveme a mi chica\n[C] O te retorcerás entre polvos pi[D]ca-pica\n\n## Puente\n[C] Te quemaré [D] tu jersey\n[G] Y se lo daré de comer [Em] a los cerdos\n[C] Y te perseguiré hasta el fin [D] del mundo\n\n## Coro\n[G] Sufre mamón, [Em] devuélveme a mi chica\n[C] O te retorcerás entre polvos pi[D]ca-pica\n[G] Sufre mamón, [Em] devuélveme a mi chica\n[C] O te retorcerás entre polvos pi[D]ca-pica\n[G]\n",
@@ -130,6 +233,23 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "el-sitio-de-mi-recreo",
+    "file": "canciones/el-sitio-de-mi-recreo.md",
+    "content": "---\ntitle: \"El Sitio de Mi Recreo\"\nartist: \"Antonio Vega\"\nkey: \"C\"\ncapo: 0\ntempo: 85\ntags: [\"pop\", \"español\", \"balada\", \"poesía\", \"acústico\"]\n---\n\n## Intro\n[C] [Em] [Am] [F] [G]\n[C] [Em] [Am] [F] [G]\n\n## Verso 1\n[C] Donde nacen los ca[Em]prichos de la brisa\n[Am] Donde el sol nunca se [F] cansa de alum[G]brar\n[C] Hay un lugar escon[Em]dido en mi memoria\n[Am] Donde guardo las ca[F]ricias que me [G] das\n\n[F] Silencio, brisa y cor[G]dura\nEspacio de [Em] luz y de cal[Am]ma\n[F] Donde se curan las [G] dudas\nQue a veces me [C] rompen el al[G]ma\n\n## Coro\n[C] En el sitio de mi re[Em]creo\nVuelan las [Am] horas que per[F]dí [G]\n[C] Y en las sombras de mi de[Em]seo\nVuelvo a sen[Am]tirme junto a [F] ti [G]\nJunto a [C] ti... [Em] [Am] [F] [G]\n\n## Verso 2\n[C] Viento suave que des[Em]pierta mis sentidos\n[Am] Manantial de agua que [F] calma mi sed [G]\n[C] Entre ramas de lau[Em]reles florecidos\n[Am] He dejado mi can[F]sancio y mi ve[G]jez\n\n## Coro\n[C] En el sitio de mi re[Em]creo\nVuelan las [Am] horas que per[F]dí [G]\n[C] Y en las sombras de mi de[Em]seo\nVuelvo a sen[Am]tirme junto a [F] ti [G]\nEn el sitio de mi re[C]creo\n",
+    "title": "El Sitio de Mi Recreo",
+    "artist": "Antonio Vega",
+    "key": "C",
+    "capo": 0,
+    "tempo": 85,
+    "tags": [
+      "pop",
+      "español",
+      "balada",
+      "poesía",
+      "acústico"
+    ]
+  },
+  {
     "id": "emborracharme",
     "file": "canciones/emborracharme.md",
     "content": "---\ntitle: \"Emborracharme\"\nartist: \"Lori Meyers\"\nkey: \"G\"\ncapo: 0\ntempo: 130\ntags: [\"indie\", \"pop\", \"español\", \"2010s\", \"fiesta\"]\n---\n\n## Intro\n[G] [Em] [C] [D]\n[G] [Em] [C] [D]\n\n## Verso 1\n[G] Quiero emborracharme y no pen[Em]sar en ti\n[C] Olvidarme de las cosas que me [D] hacían sufrir\n[G] Salir a la pista y volver a bai[Em]lar\n[C] Sin mirar atrás, sin mirar a[D]trás\n\n[G] Me dijeron que te vieron con al[Em]guien mejor\n[C] Paseando de la mano por el [D] malecón\n[G] Y a mí qué más me da, si yo ya es[Em]toy aquí\n[C] Con una copa en la mano y mi [D] gente junto a mí\n\n## Coro\n[G] Y quiero emborracharme y no pen[Em]sar en ti\n[C] Cantar a voz en grito hasta el [D] amanecer\n[G] Quiero emborracharme y no pen[Em]sar en ti\n[C] Y que me dé igual lo que vaya a [D] suceder\n\n## Verso 2\n[G] Se acabaron las llamadas a las [Em] tres de la mañana\n[C] Y buscar tus ojos en la madru[D]gada\n[G] Esta noche el mundo me perte[Em]nece a mí\n[C] Y no hay nada en la tierra que me [D] haga infeliz\n\n## Coro\n[G] Y quiero emborracharme y no pen[Em]sar en ti\n[C] Cantar a voz en grito hasta el [D] amanecer\n[G] Quiero emborracharme y no pen[Em]sar en ti\n[C] Y que me dé igual lo que vaya a [D] suceder... [G]\n",
@@ -144,6 +264,23 @@ export const DEFAULT_SONGS = [
       "español",
       "2010s",
       "fiesta"
+    ]
+  },
+  {
+    "id": "en-algun-lugar",
+    "file": "canciones/en-algun-lugar.md",
+    "content": "---\ntitle: \"En Algún Lugar\"\nartist: \"Duncan Dhu\"\nkey: \"G\"\ncapo: 0\ntempo: 130\ntags: [\"pop\", \"rock\", \"80s\", \"español\", \"acústico\"]\n---\n\n## Intro\n[G] [D] [C] [D]\n[G] [D] [C] [D]\n\n## Verso 1\n[G] En algún lugar de un [D] gran país\nOlvi[C]daron construir un hogar [D] donde no queme el sol\n[G] Y al nacer no hay que [D] sonreír\nNi se [C] llora al caer, las manos no [D] tienen dolor\n\n## Pre-Coro\n[Em] En algún lugar, un [C] rayo de sol\nBusca un [G] hueco en el rincón más os[D]curo\n[Em] Y una flor de papel que [C] no sabe oler\nSe mar[D]chita al pie del muro\n\n## Coro\n[G] Silencio, no [D] queda otro camino\nQue se[C]guir adelante y cantar con el [D] viento\n[G] Silencio, que el [D] tiempo no perdona\nA los [C] que se detienen a llorar por sus [D] muertos\nEn algún lu[G]gar... [D] [C] [D]\n\n## Verso 2\n[G] Hay un tren que no tie[D]ne fin\nQue reco[C]rre la estepa sin mirar [D] hacia atrás\n[G] Y en sus vagones van via[D]jeros de hojalata\nQue no [C] tienen memoria ni saben a [D] dónde van\n\n## Coro\n[G] Silencio, no [D] queda otro camino\nQue se[C]guir adelante y cantar con el [D] viento\n[G] Silencio, que el [D] tiempo no perdona\nA los [C] que se detienen a llorar por sus [D] muertos\nEn algún lu[G]gar\n",
+    "title": "En Algún Lugar",
+    "artist": "Duncan Dhu",
+    "key": "G",
+    "capo": 0,
+    "tempo": 130,
+    "tags": [
+      "pop",
+      "rock",
+      "80s",
+      "español",
+      "acústico"
     ]
   },
   {
@@ -179,6 +316,23 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "hallelujah",
+    "file": "canciones/hallelujah.md",
+    "content": "---\ntitle: \"Hallelujah\"\nartist: \"Leonard Cohen\"\nkey: \"C\"\ncapo: 0\ntempo: 60\ntags: [\"folk\", \"balada\", \"classic\", \"arpegios\", \"himno\"]\n---\n\n// Tocar con compás de 6/8 o arpegio suave\n\n## Intro\n[C] [Am] [C] [Am]\n\n## Verso 1\nI've [C] heard there was a [Am] secret chord\nThat [C] David played, and it [Am] pleased the Lord\nBut [F] you don't really [G] care for music, [C] do you? [G]\nIt [C] goes like this: the [F] fourth, the [G] fifth\nThe [Am] minor fall, the [F] major lift\nThe [G] baffled king com[E7]posing Halle[Am]lujah\n\n## Coro\nHalle[F]lujah, Halle[Am]lujah\nHalle[F]lujah, Halle[C]lu---[G]jah [C] [Am] [C] [Am]\n\n## Verso 2\nYour [C] faith was strong but you [Am] needed proof\nYou [C] saw her bathing [Am] on the roof\nHer [F] beauty and the [G] moonlight over[C]threw you [G]\nShe [C] tied you to a [F] kitchen [G] chair\nShe [Am] broke your throne, and she [F] cut your hair\nAnd [G] from your lips she [E7] drew the Halle[Am]lujah\n\n## Coro\nHalle[F]lujah, Halle[Am]lujah\nHalle[F]lujah, Halle[C]lu---[G]jah [C] [Am] [C] [Am]\n\n## Verso 3\nMaybe [C] there's a God a[Am]bove\nAnd [C] all I ever [Am] learned of love\nWas [F] how to shoot at [G] someone who out[C]drew you [G]\nAnd it's [C] not a cry you can [F] hear at [G] night\nIt's [Am] not somebody who's [F] seen the light\nIt's a [G] cold and it's a [E7] broken Halle[Am]lujah\n\n## Coro Final\nHalle[F]lujah, Halle[Am]lujah\nHalle[F]lujah, Halle[C]lu---[G]jah [C]\n",
+    "title": "Hallelujah",
+    "artist": "Leonard Cohen",
+    "key": "C",
+    "capo": 0,
+    "tempo": 60,
+    "tags": [
+      "folk",
+      "balada",
+      "classic",
+      "arpegios",
+      "himno"
+    ]
+  },
+  {
     "id": "hey-jude",
     "file": "canciones/hey-jude.md",
     "content": "---\ntitle: \"Hey Jude\"\nartist: \"The Beatles\"\nkey: \"G\"\ncapo: 0\ntempo: 75\ntags: [\"rock\", \"60s\", \"classic\", \"balada\", \"fácil\"]\n---\n\n## Verso 1\n[G] Hey Jude, don't make it [D] bad\nTake a [D7] sad song and make it [G] better\nRe[C]member to let her into your [G] heart\nThen you can [D] start to make it [G] better\n\n## Verso 2\n[G] Hey Jude, don't be a[D]fraid\nYou were [D7] made to go out and [G] get her\nThe [C] minute you let her under your [G] skin\nThen you be[D]gin to make it [G] better\n\n## Puente 1\n[G7] And anytime you feel the [C] pain, hey Jude, re[Am]frain\nDon't carry the [D/F#] world upon your [G] shoulders\n[G7] For well you know that it's a [C] fool who plays it [Am] cool\nBy making his [D/F#] world a little [G] colder\nDa da da [G7] da... da da [D7] da da...\n\n## Verso 3\n[G] Hey Jude, don't make it [D] bad\nTake a [D7] sad song and make it [G] better\nRe[C]member to let her into your [G] heart\nThen you can [D] start to make it [G] better\n\n## Outro (El gran coro final)\n[G] Na na na [F] na na na na\n[C] Na na na na, hey [G] Jude\n[G] Na na na [F] na na na na\n[C] Na na na na, hey [G] Jude\n[G] Na na na [F] na na na na\n[C] Na na na na, hey [G] Jude\n",
@@ -193,6 +347,24 @@ export const DEFAULT_SONGS = [
       "classic",
       "balada",
       "fácil"
+    ]
+  },
+  {
+    "id": "knockin-on-heavens-door",
+    "file": "canciones/knockin-on-heavens-door.md",
+    "content": "---\ntitle: \"Knockin' on Heaven's Door\"\nartist: \"Bob Dylan\"\nkey: \"G\"\ncapo: 0\ntempo: 70\ntags: [\"rock\", \"folk\", \"70s\", \"classic\", \"fácil\", \"himno\"]\n---\n\n// La progresión de 4 acordes más famosa del mundo: G - D - Am / G - D - C\n\n## Intro\n[G] [D] [Am]\n[G] [D] [C]\n\n## Verso 1\n[G] Mama, take this [D] badge off of [Am] me\n[G] I can't [D] use it any[C]more\n[G] It's gettin' [D] dark, too dark to [Am] see\n[G] I feel I'm [D] knockin' on heaven's [C] door\n\n## Coro\n[G] Knock, knock, [D] knockin' on heaven's [Am] door\n[G] Knock, knock, [D] knockin' on heaven's [C] door\n[G] Knock, knock, [D] knockin' on heaven's [Am] door\n[G] Knock, knock, [D] knockin' on heaven's [C] door\n\n## Verso 2\n[G] Mama, put my [D] guns in the [Am] ground\n[G] I can't [D] shoot them any[C]more\n[G] That long black [D] cloud is comin' [Am] down\n[G] I feel I'm [D] knockin' on heaven's [C] door\n\n## Coro\n[G] Knock, knock, [D] knockin' on heaven's [Am] door\n[G] Knock, knock, [D] knockin' on heaven's [C] door\n[G] Knock, knock, [D] knockin' on heaven's [Am] door\n[G] Knock, knock, [D] knockin' on heaven's [C] door... [G]\n",
+    "title": "Knockin' on Heaven's Door",
+    "artist": "Bob Dylan",
+    "key": "G",
+    "capo": 0,
+    "tempo": 70,
+    "tags": [
+      "rock",
+      "folk",
+      "70s",
+      "classic",
+      "fácil",
+      "himno"
     ]
   },
   {
@@ -276,6 +448,22 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "la-vereda-de-la-puerta-de-atras",
+    "file": "canciones/la-vereda-de-la-puerta-de-atras.md",
+    "content": "---\ntitle: \"La Vereda de la Puerta de Atrás\"\nartist: \"Extremoduro\"\nkey: \"G\"\ncapo: 0\ntempo: 116\ntags: [\"rock\", \"español\", \"clásico\", \"himno\"]\n---\n\n## Intro\n[G] [D] [Em] [C]\n[G] [D] [Em] [C]\n\n## Verso 1\n[G] Ya no queda casi nada\n[D] De la noche de ayer\n[Em] Solo un montón de cenizas\n[C] Y ganas de correr\n\n[G] Que me voy a la vereda\n[D] De la puerta de atrás\n[Em] A ver si encuentro el camino\n[C] Que me lleve a la paz\n\n## Coro\n[G] Y si fuera mi [D] vida una esca[Em]lera\nMe la pa[C]saría ente[G]ra\nBuscando una [D] nube para descan[Em]sar [C]\n\n[G] Y si fuera mi [D] canto como el [Em] viento\nSe lo lle[C]varía el mo[G]mento\nY a nadie ten[D]dría que dar expli[Em]cación [C]\n\n## Verso 2\n[G] Que me entierren en el campo\n[D] Donde crezca la hierba\n[Em] Que no me pongan flores\n[C] Que la lluvia me riegue\n\n[G] Déjame que me pierda\n[D] Entre la multitud\n[Em] Que no necesito un faro\n[C] Si me falta la luz\n\n## Coro\n[G] Y si fuera mi [D] vida una esca[Em]lera\nMe la pa[C]saría ente[G]ra\nBuscando una [D] nube para descan[Em]sar [C]\n\n[G] Y si fuera mi [D] canto como el [Em] viento\nSe lo lle[C]varía el mo[G]mento\nY a nadie ten[D]dría que dar expli[Em]cación... [G]\n",
+    "title": "La Vereda de la Puerta de Atrás",
+    "artist": "Extremoduro",
+    "key": "G",
+    "capo": 0,
+    "tempo": 116,
+    "tags": [
+      "rock",
+      "español",
+      "clásico",
+      "himno"
+    ]
+  },
+  {
     "id": "lady-madrid",
     "file": "canciones/lady-madrid.md",
     "content": "---\ntitle: \"Lady Madrid\"\nartist: \"Pereza\"\nkey: \"G\"\ncapo: 0\ntempo: 122\ntags: [\"rock\", \"pop\", \"español\", \"2000s\"]\n---\n\n## Intro\n[G] [Em] [C] [D]\n[G] [Em] [C] [D]\n\n## Verso 1\n[G] Probaba fortuna en la ca[Em]pital\nVenía del norte dispuesta a [C] triunfar\nCon un vestido de flores y un par [D] de tacones\nQue hacían temblar\n\n[G] Se metió en los garitos de Mala[Em]saña\nBebiendo cerveza, cantando con [C] ganas\nEra la chica más guapa que nunca [D] pisó\nLa Gran Vía al alba\n\n## Coro\n[C] Lady Madrid, [D] la reina de las ver[G]benas [Em]\n[C] Estrella de los te[D]jados, musa de las can[G]ciones [Em]\n[C] Lady Madrid, [D] la flor de la madru[G]gada [Em]\nQue se pasea por [C] Chueca\nBuscando a quién robarle [D] el alma... [G]\n\n## Verso 2\n[G] Dejó corazones rotos en cada [Em] esquina\nLa noche era suya, la calle su [C] ruina\nY aunque los años pasaron sin dar[D]se ni cuenta\nElla nunca se olvida\n\n## Coro\n[C] Lady Madrid, [D] la reina de las ver[G]benas [Em]\n[C] Estrella de los te[D]jados, musa de las can[G]ciones [Em]\n[C] Lady Madrid, [D] la flor de la madru[G]gada [Em]\nQue se pasea por [C] Chueca\nBuscando a quién robarle [D] el alma... [G]\n",
@@ -289,6 +477,41 @@ export const DEFAULT_SONGS = [
       "pop",
       "español",
       "2000s"
+    ]
+  },
+  {
+    "id": "lamento-boliviano",
+    "file": "canciones/lamento-boliviano.md",
+    "content": "---\ntitle: \"Lamento Boliviano\"\nartist: \"Los Enanitos Verdes\"\nkey: \"Em\"\ncapo: 0\ntempo: 124\ntags: [\"rock\", \"latino\", \"argentino\", \"himno\", \"fácil\"]\n---\n\n## Intro\n[Em] [Am] [Em] [B7]\n[Em] [Am] [Em] [B7]\n\n## Verso 1\n[Em] Me quieren agitar\n[Am] Me incitan a gritar\n[Em] Soy como una roca que el viento no puede que[B7]brar\n\n[Em] Y van a caer\n[Am] Mil lágrimas al mar\n[Em] Pero mi corazón no se va a cansar de pe[B7]lear\n\n## Coro\n[Em] Y yo estoy aquí\nBorracho y [Am] loco\nY mi corazón idio[Em]ta\nSiempre brillará [B7]\n\n[Em] Y yo te amaré\nTe amaré por [Am] siempre\nNena, no te peines en la [Em] cama\nQue los viajantes se van a atra[B7]sar\n\n## Solo\n[Em] [Am] [Em] [B7]\n[Em] [Am] [Em] [B7]\n\n## Verso 2\n[Em] Hoy es un buen día\n[Am] Para renacer\n[Em] Dejar los temores y echar a co[B7]rrer\n\n## Coro\n[Em] Y yo estoy aquí\nBorracho y [Am] loco\nY mi corazón idio[Em]ta\nSiempre brillará [B7]\n\n[Em] Y yo te amaré\nTe amaré por [Am] siempre\nNena, no te peines en la [Em] cama\nQue los viajantes se van a atra[B7]sar... [Em]\n",
+    "title": "Lamento Boliviano",
+    "artist": "Los Enanitos Verdes",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 124,
+    "tags": [
+      "rock",
+      "latino",
+      "argentino",
+      "himno",
+      "fácil"
+    ]
+  },
+  {
+    "id": "let-it-be",
+    "file": "canciones/let-it-be.md",
+    "content": "---\ntitle: \"Let It Be\"\nartist: \"The Beatles\"\nkey: \"C\"\ncapo: 0\ntempo: 72\ntags: [\"rock\", \"classic\", \"60s\", \"balada\", \"fácil\", \"himno\"]\n---\n\n## Intro\n[C] [G] [Am] [F]\n[C] [G] [F] [C]\n\n## Verso 1\nWhen I [C] find myself in [G] times of trouble, [Am] Mother Mary [F] comes to me\n[C] Speaking words of [G] wisdom, let it [F] be [C]\nAnd [C] in my hour of [G] darkness she is [Am] standing right in [F] front of me\n[C] Speaking words of [G] wisdom, let it [F] be [C]\n\n## Coro\nLet it [Am] be, let it [G] be, let it [F] be, let it [C] be\n[C] Whisper words of [G] wisdom, let it [F] be [C]\n\n## Verso 2\nAnd [C] when the broken [G] hearted people [Am] living in the [F] world agree\n[C] There will be an [G] answer, let it [F] be [C]\nFor [C] though they may be [G] parted, there is [Am] still a chance that [F] they will see\n[C] There will be an [G] answer, let it [F] be [C]\n\n## Coro\nLet it [Am] be, let it [G] be, let it [F] be, let it [C] be\n[C] There will be an [G] answer, let it [F] be [C]\nLet it [Am] be, let it [G] be, let it [F] be, let it [C] be\n[C] Whisper words of [G] wisdom, let it [F] be [C]\n\n## Solo\n[F] [C] [G] [C]\n[F] [C] [G] [C]\n\n## Coro Final\nLet it [Am] be, let it [G] be, let it [F] be, let it [C] be\n[C] Whisper words of [G] wisdom, let it [F] be... [C]\n",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "key": "C",
+    "capo": 0,
+    "tempo": 72,
+    "tags": [
+      "rock",
+      "classic",
+      "60s",
+      "balada",
+      "fácil",
+      "himno"
     ]
   },
   {
@@ -321,6 +544,41 @@ export const DEFAULT_SONGS = [
       "latino",
       "90s",
       "fiesta"
+    ]
+  },
+  {
+    "id": "marta-sebas-guille-y-los-demas",
+    "file": "canciones/marta-sebas-guille-y-los-demas.md",
+    "content": "---\ntitle: \"Marta, Sebas, Guille y los demás\"\nartist: \"Amaral\"\nkey: \"G\"\ncapo: 0\ntempo: 120\ntags: [\"pop\", \"rock\", \"español\", \"2000s\", \"amigos\", \"himno\"]\n---\n\n## Intro\n[G] [D] [Em] [C]\n[G] [D] [Em] [C]\n\n## Verso 1\n[G] Hoy hace frío en Ma[D]drid\nY me he puesto a pen[Em]sar en ti\nEn las [C] tardes de verano que pasa[G]mos\nRiendo en aquel por[D]tal\nSin saber qué iba a pa[Em]sar\nCon la [C] vida que teníamos de[D]lante\n\n[G] Marta se fue a vivir a [D] Berlín\nSebas sigue en el mismo [Em] bar\nY Guille [C] jura que este año va a cam[G]biar\nY yo sigo aquí con mi gui[D]tarra\nCantándole al [Em] mar\nQue nunca [C] baña esta ciu[D]dad\n\n## Coro\n[G] Son mis amigos\nPor en[D]cima de todas las cosas\n[Em] Son esa gente\nQue no [C] te pide nada a cambio\n[G] Son mis amigos\nY me [D] salvan la vida mil veces\n[Em] Cuando me caigo\nY ya no [C] puedo levan[D]tarme\nSon mis ami[G]gos... [D] [Em] [C]\n\n## Verso 2\n[G] Hemos bailado hasta el [D] amanecer\nHemos llorado por [Em] amor\nY hemos [C] jurado no volver a caer [G]\nPero siempre que nos vol[D]vemos a ver\nEs como si el [Em] tiempo\nNo hu[C]biera pasado a[D]yer\n\n## Coro\n[G] Son mis amigos\nPor en[D]cima de todas las cosas\n[Em] Son esa gente\nQue no [C] te pide nada a cambio\n[G] Son mis amigos\nY me [D] salvan la vida mil veces\n[Em] Cuando me caigo\nY ya no [C] puedo levan[D]tarme\nSon mis ami[G]gos\n",
+    "title": "Marta, Sebas, Guille y los demás",
+    "artist": "Amaral",
+    "key": "G",
+    "capo": 0,
+    "tempo": 120,
+    "tags": [
+      "pop",
+      "rock",
+      "español",
+      "2000s",
+      "amigos",
+      "himno"
+    ]
+  },
+  {
+    "id": "mil-horas",
+    "file": "canciones/mil-horas.md",
+    "content": "---\ntitle: \"Mil Horas\"\nartist: \"Los Abuelos de la Nada\"\nkey: \"Am\"\ncapo: 0\ntempo: 128\ntags: [\"rock\", \"pop\", \"argentino\", \"80s\", \"himno\"]\n---\n\n## Intro\n[Am] [Dm] [G] [C]\n[Am] [Dm] [G] [C]\n\n## Verso 1\n[Am] Hace frío y estoy lejos de [Dm] casa\n[G] Hace tiempo que estoy sentado sobre esta [C] piedra\n[Am] Yo me pregunto para qué sirven las [Dm] guerras\n[G] Tengo un cohete en el pantalón [C]\n\n[Am] Vos estás tan fría como la [Dm] nieve\n[G] A mi lado y no te puedo to[C]car\n[Am] Y en el circo vos sos una es[Dm]trella\n[G] Una estrella que no sabe bri[C]llar\n\n## Coro\n[Am] Te esperé bajo la lluvia dos [Dm] horas\n[G] Mil horas, como un [C] perro\n[Am] Y cuando llegaste me mi[Dm]raste\nY me dijiste: [G] \"Loco, estás moja'o, ya no te [C] quiero\"\n\n[Am] Te esperé bajo la lluvia dos [Dm] horas\n[G] Mil horas, como un [C] perro\n[Am] Y cuando llegaste me mi[Dm]raste\nY me dijiste: [G] \"Loco, estás moja'o, ya no te [C] quiero\"\n\n## Verso 2\n[Am] En el circo vos sos una es[Dm]trella\n[G] Una estrella que brilla en la oscuri[C]dad\n[Am] Pero cuando se apagan las [Dm] luces\n[G] Sos tan solo una sombra que se [C] va\n\n## Coro\n[Am] Te esperé bajo la lluvia dos [Dm] horas\n[G] Mil horas, como un [C] perro\n[Am] Y cuando llegaste me mi[Dm]raste\nY me dijiste: [G] \"Loco, estás moja'o, ya no te [C] quiero\"\n",
+    "title": "Mil Horas",
+    "artist": "Los Abuelos de la Nada",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 128,
+    "tags": [
+      "rock",
+      "pop",
+      "argentino",
+      "80s",
+      "himno"
     ]
   },
   {
@@ -374,6 +632,39 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "noches-de-bohemia",
+    "file": "canciones/noches-de-bohemia.md",
+    "content": "---\ntitle: \"Noches de Bohemia\"\nartist: \"Navajita Plateá\"\nkey: \"Am\"\ncapo: 0\ntempo: 96\ntags: [\"flamenco\", \"rumba\", \"balada\", \"español\", \"clásico\"]\n---\n\n## Intro\n[Am] [Dm] [G] [C] [F] [B7] [E]\n[Am] [Dm] [G] [C] [F] [B7] [E]\n\n## Verso 1\n[Am] Noches de bohemia y de ilu[Dm]sión\nQue pegan en mi alma como un [G] tiro\nRecordando el aroma de tu [C] piel\nY el calor de tu res[E]piro\n\n[Am] Me paso las madrugadas en el bal[Dm]cón\nEsperando que me traiga el [G] viento\nUn susurro que me hable de tu a[C]mor\nY me alivie este tor[E]mento\n\n## Coro\n[Am] Noches de bohemia que me van a ma[Dm]tar\nSi tú no vuelves conmigo no me [G] puedo levantar\nQue me falta tu alegría, que me [C] falta tu mirar [E]\n[Am] Noches de bohemia llenas de sole[Dm]dad\nCon la guitarra en la mano y la [G] luna en la ciudad\nBuscando por los rincones donde [C] te puedas ha[E]llar... [Am]\n\n## Verso 2\n[Am] He dejado la puerta sin ce[Dm]rrar\nPor si te da por aparecer de re[G]pente\nNo me importa lo que diga la [C] gente\nSolo quiero verte en[E]trar\n\n## Coro\n[Am] Noches de bohemia que me van a ma[Dm]tar\nSi tú no vuelves conmigo no me [G] puedo levantar\nQue me falta tu alegría, que me [C] falta tu mirar [E]\n[Am] Noches de bohemia llenas de sole[Dm]dad\nCon la guitarra en la mano y la [G] luna en la ciudad\nBuscando por los rincones donde [C] te puedas ha[E]llar\n",
+    "title": "Noches de Bohemia",
+    "artist": "Navajita Plateá",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 96,
+    "tags": [
+      "flamenco",
+      "rumba",
+      "balada",
+      "español",
+      "clásico"
+    ]
+  },
+  {
+    "id": "por-la-boca-vive-el-pez",
+    "file": "canciones/por-la-boca-vive-el-pez.md",
+    "content": "---\ntitle: \"Por la Boca Vive el Pez\"\nartist: \"Fito & Fitipaldis\"\nkey: \"G\"\ncapo: 0\ntempo: 132\ntags: [\"rock\", \"español\", \"2000s\", \"clásico\"]\n---\n\n## Intro\n[G] [D] [C] [D]\n[G] [D] [C] [D]\n\n## Verso 1\n[G] Salir a la calle a buscar un mo[D]tivo\nPara no que[C]darme en casa con la sole[D]dad\n[G] Encontrar en un vaso de vino el des[D]tino\nY saber que ma[C]ñana todo volverá a empe[D]zar\n\n[Em] Nunca he sido de los que echan el [Bm] freno\n[C] Siempre fui de los que pisan a [D] fondo\n[Em] Si me caigo del cielo al in[Bm]fierno\n[C] No me busques que estoy en lo más [D] hondo\n\n## Coro\n[G] Porque por la boca vive el [D] pez\nY por las ma[C]nos se escapa la vida a ve[D]ces\n[G] Si me das a elegir otra [D] vez\nMe que[C]daría con todo lo que me [D] ofreces\n[G] Por la boca vive el [D] pez\n[C] Y por los ojos se asoma la [D] calma\n[G] Por la boca vive el [D] pez... [C] [D]\n\n## Verso 2\n[G] No me digas que ya no te a[D]cuerdas\nDe las noches que pa[C]samos sin dor[D]mir\n[G] De los besos robados a [D] tientas\nY las ganas que te[C]níamos de vi[D]vir\n\n## Coro\n[G] Porque por la boca vive el [D] pez\nY por las ma[C]nos se escapa la vida a ve[D]ces\n[G] Si me das a elegir otra [D] vez\nMe que[C]daría con todo lo que me [D] ofreces... [G]\n",
+    "title": "Por la Boca Vive el Pez",
+    "artist": "Fito & Fitipaldis",
+    "key": "G",
+    "capo": 0,
+    "tempo": 132,
+    "tags": [
+      "rock",
+      "español",
+      "2000s",
+      "clásico"
+    ]
+  },
+  {
     "id": "princesas",
     "file": "canciones/princesas.md",
     "content": "---\ntitle: \"Princesas\"\nartist: \"Pereza\"\nkey: \"G\"\ncapo: 0\ntempo: 130\ntags: [\"rock\", \"pop\", \"español\", \"2000s\"]\n---\n\n## Intro\n[G] [D] [Em] [C]\n[G] [D] [Em] [C]\n\n## Verso 1\n[G] Eran las dos de la ma[D]ñana\nEn un garito de Ma[Em]drid\nTú te acercaste con tu [C] copa\nY me empezaste a sonre[G]ír\n\n[G] Me hablaste de tus ilus[D]iones\nDe tus ganas de cam[Em]biar\nY entre trago y cigarr[C]illo\nNos pusimos a can[D]tar\n\n## Coro\n[G] Y si no nos queda [D] tiempo\nPara volver a empa[Em]tar\nPrincesas de barrio que [C] bajan al centro\nA buscarse la [G] vida, a bailar con el [D] viento\nPrincesas sin reino que [Em] saben perder\nY volver a empa[C]tar... [G] [D] [Em] [C]\n\n## Verso 2\n[G] Salimos a la calle [D] fría\nSin saber muy bien a [Em] dónde\nBuscando un taxi que nos [C] lleve\nA cualquier sitio que se es[G]conda\n\n[G] Me dijiste al oído: [D] quédate un ratito más\n[Em] Que la noche se acaba [C] y la magia se nos [D] va\n\n## Coro\n[G] Y si no nos queda [D] tiempo\nPara volver a empa[Em]tar\nPrincesas de barrio que [C] bajan al centro\nA buscarse la [G] vida, a bailar con el [D] viento\nPrincesas sin reino que [Em] saben perder\nY volver a empa[C]tar... [G]\n",
@@ -387,6 +678,24 @@ export const DEFAULT_SONGS = [
       "pop",
       "español",
       "2000s"
+    ]
+  },
+  {
+    "id": "rayando-el-sol",
+    "file": "canciones/rayando-el-sol.md",
+    "content": "---\ntitle: \"Rayando el Sol\"\nartist: \"Maná\"\nkey: \"G\"\ncapo: 0\ntempo: 88\ntags: [\"rock\", \"pop\", \"latino\", \"balada\", \"clásico\", \"fácil\"]\n---\n\n## Intro\n[G] [D] [Em] [C]\n[G] [D] [Em] [C]\n\n## Verso 1\n[G] Rayando el sol [D]\n[Em] Rayando por ti [C]\n[G] Esta noche loca [D] me desespero\n[Em] Porque no estás aquí [C]\n\n[G] Te busco en la luna [D]\n[Em] Te busco en el mar [C]\n[G] Y no encuentro rastro [D] de tus pasos\n[Em] Me voy a ahogar [C]\n\n## Coro\n[G] Rayando el sol, [D] ¡oh eh!\nDesespera[Em]ción\nEs más fácil lle[C]gar al sol que a tu cora[G]zón\nMe muero por [D] ti, ¡oh eh!\nVivir sin [Em] ti\nY no aguanto un se[C]gundo más sin tu ca[G]lor [D] [Em] [C]\n\n## Verso 2\n[G] A paso lento [D]\n[Em] Se va el dolor [C]\n[G] Pero me queda una herida abierta [D]\n[Em] En el corazón [C]\n\n## Coro\n[G] Rayando el sol, [D] ¡oh eh!\nDesespera[Em]ción\nEs más fácil lle[C]gar al sol que a tu cora[G]zón\nMe muero por [D] ti, ¡oh eh!\nVivir sin [Em] ti\nY no aguanto un se[C]gundo más sin tu ca[G]lor... [D] [Em] [C] [G]\n",
+    "title": "Rayando el Sol",
+    "artist": "Maná",
+    "key": "G",
+    "capo": 0,
+    "tempo": 88,
+    "tags": [
+      "rock",
+      "pop",
+      "latino",
+      "balada",
+      "clásico",
+      "fácil"
     ]
   },
   {
@@ -520,6 +829,23 @@ export const DEFAULT_SONGS = [
     ]
   },
   {
+    "id": "wish-you-were-here",
+    "file": "canciones/wish-you-were-here.md",
+    "content": "---\ntitle: \"Wish You Were Here\"\nartist: \"Pink Floyd\"\nkey: \"G\"\ncapo: 0\ntempo: 62\ntags: [\"rock\", \"70s\", \"classic\", \"balada\", \"acústico\"]\n---\n\n## Intro\n[Em7] [G] [Em7] [G]\n[Em7] [A7sus4] [Em7] [A7sus4] [G]\n\n## Verso 1\n[C] So, so you think you can [D] tell\nHeaven from [Am] hell, blue skies from [G] pain?\nCan you tell a green [D] field from a cold steel [C] rail?\nA smile from a [Am] veil? Do you think you can [G] tell?\n\n## Verso 2\nDid they get you to [C] trade your heroes for [D] ghosts?\nHot ashes for [Am] trees? Hot air for a [G] cool breeze?\nCold comfort for [D] change? Did you ex[C]change\nA walk-on part in the [Am] war for a lead role in a [G] cage?\n\n## Solo\n[Em7] [G] [Em7] [G]\n[Em7] [A7sus4] [Em7] [A7sus4] [G]\n\n## Coro\n[C] How I wish, how I wish you were [D] here\nWe're just [Am] two lost souls swimming in a fish bowl [G]\nYear after year [D]\nRunning over the same old [C] ground, what have we found?\nThe same old [Am] fears, wish you were [G] here\n\n## Outro\n[Em7] [G] [Em7] [G]\n[Em7] [A7sus4] [Em7] [A7sus4] [G]\n",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "key": "G",
+    "capo": 0,
+    "tempo": 62,
+    "tags": [
+      "rock",
+      "70s",
+      "classic",
+      "balada",
+      "acústico"
+    ]
+  },
+  {
     "id": "wonderwall",
     "file": "canciones/wonderwall.md",
     "content": "---\ntitle: \"Wonderwall\"\nartist: \"Oasis\"\nkey: \"Em\"\ncapo: 2\ntempo: 87\ntags: [\"rock\", \"90s\", \"britpop\", \"fácil\"]\n---\n\n// Cejilla en el 2º traste. Mantén el 3er y 4º dedo fijos en las cuerdas 1 y 2 traste 3\n\n## Intro\n[Em7] [G] [Dsus4] [A7sus4]\n[Em7] [G] [Dsus4] [A7sus4]\n\n## Verso 1\n[Em7] Today is gonna be the day that they're [G] gonna throw it back to you\n[Dsus4] By now you should've somehow realized [A7sus4] what you gotta do\n[Em7] I don't believe that anybody [G] feels the way I do\nAbout you [Dsus4] now [A7sus4]\n\n## Verso 2\n[Em7] Backbeat, the word is on the street that the [G] fire in your heart is out\n[Dsus4] I'm sure you've heard it all before, but you [A7sus4] never really had a doubt\n[Em7] I don't believe that anybody [G] feels the way I do\nAbout you [Dsus4] now [A7sus4]\n\n## Pre-Coro\nAnd [C] all the roads we [D] have to walk are [Em7] winding\nAnd [C] all the lights that [D] lead us there are [Em7] blinding\n[C] There are many things that [D] I would like to [G] say to [D/F#] you\nBut I [Em7] don't know [A7sus4] how\n\n## Coro\nBecause [C] maybe [Em7] [G]\nYou're gonna be the one that [Em7] saves me [C] [Em7]\nAnd [G] after all [Em7]\nYou're my [C] wonder[Em7]wall [G] [Em7]\n",
@@ -565,6 +891,23 @@ export const DEFAULT_SONGS = [
       "60s",
       "classic",
       "fácil"
+    ]
+  },
+  {
+    "id": "zombie",
+    "file": "canciones/zombie.md",
+    "content": "---\ntitle: \"Zombie\"\nartist: \"The Cranberries\"\nkey: \"Em\"\ncapo: 0\ntempo: 84\ntags: [\"rock\", \"90s\", \"grunge\", \"fácil\", \"himno\"]\n---\n\n// Progresión de 4 acordes durante toda la canción: Em - C - G - D\n\n## Intro\n[Em] [C] [G] [D]\n[Em] [C] [G] [D]\n\n## Verso 1\n[Em] Another head hangs [C] lowly\n[G] Child is slowly [D] taken\n[Em] And the violence caused such [C] silence\n[G] Who are we mis[D]taken?\n\n## Pre-Coro\nBut you [Em] see, it's not me, it's not [C] my family\nIn your [G] head, in your head, they are [D] fighting\nWith their [Em] tanks and their bombs, and their [C] bombs and their guns\nIn your [G] head, in your head, they are [D] crying\n\n## Coro\nIn your [Em] head, in your [C] head\nZombie, [G] zombie, zombie-ie-[D]ie\nWhat's in your [Em] head, in your [C] head\nZombie, [G] zombie, zombie-ie-[D]ie, oh\n\n## Verso 2\n[Em] Another mother's [C] breakin'\n[G] Heart is taking [D] over\n[Em] When the violence causes [C] silence\n[G] We must be mis[D]taken\n\n## Pre-Coro\nIt's the [Em] same old theme since [C] nineteen-sixteen\nIn your [G] head, in your head, they're still [D] fighting\nWith their [Em] tanks and their bombs, and their [C] bombs and their guns\nIn your [G] head, in your head, they're still [D] dying\n\n## Coro\nIn your [Em] head, in your [C] head\nZombie, [G] zombie, zombie-ie-[D]ie\nWhat's in your [Em] head, in your [C] head\nZombie, [G] zombie, zombie-ie-[D]ie, oh... [Em]\n",
+    "title": "Zombie",
+    "artist": "The Cranberries",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 84,
+    "tags": [
+      "rock",
+      "90s",
+      "grunge",
+      "fácil",
+      "himno"
     ]
   }
 ];
