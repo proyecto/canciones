@@ -592,6 +592,8 @@ Oh, [C] stand now, [D] stand by me
     brandLink: document.getElementById('brand-link'),
     sidebar: document.getElementById('sidebar'),
     btnToggleSidebar: document.getElementById('btn-toggle-sidebar'),
+    sidebarOverlay: document.getElementById('sidebar-overlay'),
+    btnCloseSidebar: document.getElementById('btn-close-sidebar'),
     songList: document.getElementById('song-list'),
     songCount: document.getElementById('song-count'),
     searchInput: document.getElementById('search-input'),
@@ -735,6 +737,28 @@ Oh, [C] stand now, [D] stand by me
     }
   }
 
+  function openSidebar() {
+    elements.sidebar.classList.add('open');
+    if (elements.sidebarOverlay) {
+      elements.sidebarOverlay.classList.add('active');
+    }
+  }
+
+  function closeSidebar() {
+    elements.sidebar.classList.remove('open');
+    if (elements.sidebarOverlay) {
+      elements.sidebarOverlay.classList.remove('active');
+    }
+  }
+
+  function toggleSidebar() {
+    if (elements.sidebar.classList.contains('open')) {
+      closeSidebar();
+    } else {
+      openSidebar();
+    }
+  }
+
   function renderSongList(filteredSongs = null) {
     const list = filteredSongs || state.songs;
     elements.songCount.textContent = list.length;
@@ -768,9 +792,7 @@ Oh, [C] stand now, [D] stand by me
 
       li.addEventListener('click', () => {
         selectSong(song.id);
-        if (window.innerWidth <= 800) {
-          elements.sidebar.classList.remove('open');
-        }
+        closeSidebar();
       });
 
       elements.songList.appendChild(li);
@@ -1059,8 +1081,30 @@ capo: ${song.capo || 0}
   function initEvents() {
     elements.btnThemeToggle.addEventListener('click', toggleTheme);
 
-    elements.btnToggleSidebar.addEventListener('click', () => {
-      elements.sidebar.classList.toggle('open');
+    elements.btnToggleSidebar.addEventListener('click', (e) => {
+      e.stopPropagation();
+      toggleSidebar();
+    });
+
+    if (elements.btnCloseSidebar) {
+      elements.btnCloseSidebar.addEventListener('click', (e) => {
+        e.stopPropagation();
+        closeSidebar();
+      });
+    }
+
+    if (elements.sidebarOverlay) {
+      elements.sidebarOverlay.addEventListener('click', () => {
+        closeSidebar();
+      });
+    }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeSidebar();
+        closeEditor();
+        elements.modalSettings.classList.add('hidden');
+      }
     });
 
     elements.searchInput.addEventListener('input', (e) => {
@@ -1246,17 +1290,19 @@ capo: ${song.capo || 0}
     });
   }
 
-  // Arranque inicial
-  document.addEventListener('DOMContentLoaded', () => {
+  // Arranque inicial garantizado exactamente una vez
+  let appStarted = false;
+  function startApp() {
+    if (appStarted) return;
+    appStarted = true;
     initTheme();
     initEvents();
     loadSongs();
-  });
+  }
 
-  // Si el DOM ya cargó
-  if (document.readyState === 'interactive' || document.readyState === 'complete') {
-    initTheme();
-    initEvents();
-    loadSongs();
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', startApp);
+  } else {
+    startApp();
   }
 })();

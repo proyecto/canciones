@@ -44,13 +44,19 @@
       <!-- Sidebar / Song List -->
       <aside id="sidebar" class="sidebar">
         <div class="sidebar-header">
-          <span>Canciones</span>
-          <span id="song-count" class="badge">0</span>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <span>Canciones</span>
+            <span id="song-count" class="badge">0</span>
+          </div>
+          <button id="btn-close-sidebar" class="btn-icon mobile-only" aria-label="Cerrar menú" style="width: 28px; height: 28px; font-size: 0.85rem;">✕</button>
         </div>
         <ul id="song-list" class="song-list">
           <!-- Loaded dynamically -->
         </ul>
       </aside>
+
+      <!-- Mobile Sidebar Overlay Backdrop -->
+      <div id="sidebar-overlay" class="sidebar-overlay"></div>
 
       <!-- Content Area -->
       <main class="content-area" id="content-area">
