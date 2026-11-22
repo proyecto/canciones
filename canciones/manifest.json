@@ -7,7 +7,8 @@
     "capo": 0,
     "tempo": 104,
     "tags": ["rock", "pop", "español"],
-    "file": "canciones/la-flaca.md"
+    "file": "canciones/la-flaca.md",
+    "content": "---\ntitle: \"La Flaca\"\nartist: \"Jarabe de Palo\"\nkey: \"Am\"\ncapo: 0\ntempo: 104\ntags: [\"rock\", \"pop\", \"español\"]\n---\n\n## Intro\n[Am] [Am] [Am] [Am]\n\n## Verso 1\n[Am] En la vida conocí [E7] mujer igual a la Flaca\n[Dm] Coral negro de la Habana, [E7] tremendísima mulata\n[Am] Cien libras de piel y hueso, [E7] cuarenta kilos de salsa\n[Dm] Y en la cara dos soles [E7] que sin palabras hablaban\n[Dm] Que sin palabras hablaban\n\n## Coro\n[Am] Por un beso de la Flaca daría lo que [E7] fuera\n[E7] Por un beso de ella, aunque sólo uno [Am] fuera\n[Am] Por un beso de la Flaca daría lo que [E7] fuera\n[E7] Por un beso de ella, aunque sólo uno [Am] fuera\nAunque sólo uno [E7] fuera... [Am]\n\n## Verso 2\n[Am] Mojé mis sábanas blancas, [E7] como dice la canción\n[Dm] Recordando las caricias [E7] que me brindó el primer día\n[Am] Y enloquezco de ganas [E7] de dormir a su ladito\n[Dm] Porque Dios que me libre [E7] de tener esa mujer\n[Dm] De tener esa mujer\n\n## Coro\n[Am] Por un beso de la Flaca daría lo que [E7] fuera\n[E7] Por un beso de ella, aunque sólo uno [Am] fuera\n[Am] Por un beso de la Flaca daría lo que [E7] fuera\n[E7] Por un beso de ella, aunque sólo uno [Am] fuera\nAunque sólo uno [E7] fuera... [Am]"
   },
   {
     "id": "soldadito-marinero",
@@ -17,7 +18,8 @@
     "capo": 0,
     "tempo": 120,
     "tags": ["rock", "español", "acústico"],
-    "file": "canciones/soldadito-marinero.md"
+    "file": "canciones/soldadito-marinero.md",
+    "content": "---\ntitle: \"Soldadito Marinero\"\nartist: \"Fito & Fitipaldis\"\nkey: \"G\"\ncapo: 0\ntempo: 120\ntags: [\"rock\", \"español\", \"acústico\"]\n---\n\n## Intro\n[G] [D] [Em] [C] [G] [D] [C] [D]\n\n## Verso 1\n[G] Él era un chico rubio, casi [D] albino\n[Em] Ella una mujer de ojos [C] oscuros\n[G] El destino los cruzó en un [D] camino\n[C] Y el amor hizo el resto, [D] te lo aseguro\n\n[G] Él navegaba por todos los [D] mares\n[Em] Ella lo esperaba en el [C] puerto\n[G] Olvidándose de todos sus [D] pesares\n[C] Cuando él regresaba con [D] el viento\n\n## Coro\n[G] Soldadito mari[D]nero conociste a una si[Em]rena\nDe esas que dicen te [C] quiero si ven la cartera [G] llena\nEscogiste a la más [D] guapa y a la menos [Em] buena\nSin saber cómo te [C] ha clavado su espada en el [G] corazón [D]\nEn el corazón... [C] [D]\n\n## Solo\n[G] [D] [Em] [C] [G] [D] [C] [D]"
   },
   {
     "id": "stand-by-me",
@@ -27,6 +29,7 @@
     "capo": 2,
     "tempo": 118,
     "tags": ["classic", "soul", "english"],
-    "file": "canciones/stand-by-me.md"
+    "file": "canciones/stand-by-me.md",
+    "content": "---\ntitle: \"Stand By Me\"\nartist: \"Ben E. King\"\nkey: \"A\"\ncapo: 2\ntempo: 118\ntags: [\"classic\", \"soul\", \"english\"]\n---\n\n## Intro\n[G] [Em] [C] [D] [G]\n\n## Verse 1\nWhen the [G] night has come\n[Em] And the land is dark\nAnd the [C] moon is the [D] only light we'll [G] see\nNo, I [G] won't be afraid\nOh, I [Em] won't be afraid\nJust as [C] long as you [D] stand, stand by [G] me\n\n## Chorus\nSo darling, darling, [G] stand by me\nOh, [Em] stand by me\nOh, [C] stand, [D] stand by me\n[G] Stand by me\n\n## Verse 2\nIf the [G] sky that we look upon\n[Em] Should tumble and fall\nOr the [C] mountain should [D] crumble to the [G] sea\nI won't [G] cry, I won't cry\nNo, I [Em] won't shed a tear\nJust as [C] long as you [D] stand, stand by [G] me\n\n## Chorus\nAnd darling, darling, [G] stand by me\nOh, [Em] stand by me\nOh, [C] stand now, [D] stand by me\n[G] Stand by me"
   }
 ]

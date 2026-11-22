@@ -1,0 +1,7 @@
+include:
+  - .nojekyll
+  - canciones
+  - js
+  - css
+markdown: kramdown
+permalink: pretty
