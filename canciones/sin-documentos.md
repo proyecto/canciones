@@ -7,7 +7,7 @@ tempo: 130
 tags: ["rock", "rumba", "español", "90s"]
 ---
 
-// Tono original en Gm, transportado a Am para fácil ejecución con guitarra acústica (o cejilla traste 3 para Gm)
+// Tono original en Gm (cejilla en traste 3 para Gm, o tocar en Am para principiantes)
 ## Intro
 [Am] [E7] [F] [E7]
 [Am] [E7] [F] [E7]
@@ -18,32 +18,38 @@ tags: ["rock", "rumba", "español", "90s"]
 [Am] Porque no queda salida, porque pa[E7]reces dormida,
 [F] Porque buscando tu sonrisa estaría [E7] toda mi vida.
 
-## Coro 1
+## Pre-Coro
 [F] Quiero ser el único que te muerda en la [E7] boca,
 [F] Quiero saber que la vida contigo no va a termi[E7]nar.
-
-## Estribillo
-[Am] ¡Porque sí, porque sí, porque sí!
-Porque en esta [E7] vida
-No quiero pasar más de un [F] día entero sin [E7] ti.
-[Am] ¡Porque sí, porque sí, porque sí!
-Porque mientras espero [E7] por ti me muero
-Y no [F] quiero seguir a[E7]sí.
 
 ## Verso 2
-[Am] Déjame entrar en tu sueño de [E7] contrabando,
-[F] Que la noche se pasa y te sigo es[E7]perando.
-[Am] Dame de tu medicina que me con[E7]mueve y me cura,
-[F] Dame un poco de locura para sal[E7]var este amor.
+[Am] Déjame que te cierre esta noche los [E7] ojos,
+[F] Y mañana vendré con un cigarro a la [E7] cama,
+[Am] Porque no tengo más inten[E7]ciones
+[F] Que seguir bebiendo de esta copa que no está tan [E7] rota.
 
-## Coro 1
+## Pre-Coro
 [F] Quiero ser el único que te muerda en la [E7] boca,
 [F] Quiero saber que la vida contigo no va a termi[E7]nar.
 
-## Estribillo
+## Coro
+[Am] ¡Porque sí, porque sí, porque sí!
+Porque en esta [E7] vida
+No quiero pasar más de un [F] día entero sin [E7] ti, oh no.
+[Am] ¡Porque sí, porque sí, porque sí!
+Porque mientras te espero [E7] por ti me muero
+Y no [F] quiero seguir a[E7]sí.
+
+## Verso 3
+[Am] Déjame atravesar el viento [E7] sin documentos,
+[F] Que lo haré por el tiempo que tu[E7]vimos...
+[Am] Porque no queda salida, porque pa[E7]reces dormida,
+[F] Porque buscando tu sonrisa estaría [E7] toda mi vida.
+
+## Coro Final
 [Am] ¡Porque sí, porque sí, porque sí!
 Porque en esta [E7] vida
 No quiero pasar más de un [F] día entero sin [E7] ti.
 [Am] ¡Porque sí, porque sí, porque sí!
-Porque mientras espero [E7] por ti me muero
+Porque mientras te espero [E7] por ti me muero
 Y no [F] quiero seguir a[E7]sí. [Am]

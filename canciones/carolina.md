@@ -22,7 +22,8 @@ tags: ["rock", "español", "2000s"]
 [D] Eso es mucho para mí.
 
 ## Pre-Coro
-[Am] Esa va a [D] ser mi ruina, [Am] pequeña Caro[D]lina,
+[Am] Esa va a [D] ser mi ruina,
+[Am] Pequeña Caro[D]lina,
 [C] Vete [G] por fa[D]vor.
 
 ## Coro
@@ -32,17 +33,18 @@ tags: ["rock", "español", "2000s"]
 O al fi[Bb]nal te ten[F]dré que co[G]mer.
 
 ## Verso 2
-[C] La reina de las medi[G]cinas,
-[D] Que no se venden en la farma[Am]cia.
-[C] Se viste con ropa a[G]dulta
-[D] Para entrar en la discoteca.
-[C] La culpa no es de la [G] noche,
-[D] Ni tampoco de la músi[Am]ca.
-[C] Si me la cruzo de [G] frente,
-[D] Ya no sé lo que me pasa.
+[C] No queda en la ciudad es[G]quina
+[D] Tras la que yo me pueda escon[Am]der.
+[C] Siempre aparece Caro[G]lina
+[D] Con algún tipo de interés.
+[C] La reina de las medi[G]cinas
+[D] Que no se venden en farmacia le[Am]gal,
+[C] Vinagre para las he[G]ridas,
+[D] Dulce azúcar al final.
 
 ## Pre-Coro
-[Am] Esa va a [D] ser mi ruina, [Am] pequeña Caro[D]lina,
+[Am] El diablo es[D]tá en mi vida,
+[Am] Pequeña Caro[D]lina,
 [C] Vete [G] por fa[D]vor.
 
 ## Coro
@@ -50,3 +52,9 @@ O al fi[Bb]nal te ten[F]dré que co[G]mer.
 [Em] No me ar[C]ranques la [G] piel. [D]
 [Em] Carolina, [C] trátame [G] bien,
 O al fi[Bb]nal te ten[F]dré que co[G]mer.
+
+## Coro Final
+[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
+[Em] No me ar[C]ranques la [G] piel. [D]
+[Em] Carolina, [C] trátame [G] bien,
+O al fi[Bb]nal te ten[F]dré que co[G]mer... [G]

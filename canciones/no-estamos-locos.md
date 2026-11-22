@@ -8,35 +8,33 @@ tags: ["flamenco", "rumba", "español", "90s"]
 ---
 
 ## Intro
-[Em] [A] [Em] [A]
-[F#m] [B7] [F#m] [B7]
-
-## Coro
-[Em] No estamos locos, sa[A]bemos lo que que[Em]remos,
-Vive la [F#m] vida igual que [B7] si fuera un [F#m] sueño, [B7]
-Pero que nunca se ol[Em]vida... [A] [Em] [A]
-[Em] No estamos locos, sa[A]bemos lo que que[Em]remos,
-Vive la [F#m] vida igual que [B7] si fuera un [F#m] sueño, [B7]
-Pero que nunca se ol[Em]vida... [A] [Em] [A]
+[Em] [B7] [Em] [B7]
 
 ## Verso 1
-[Em] Me levanté esta ma[A]ñana, ya empieza de nuevo el [F#m] día, [B7]
-[Em] Después de una borra[A]chera, me he tomado una manza[F#m]nilla. [B7]
-[G] Voy en busca del Cam[C]borio que se lo toma en ar[D]cilla,
-[Em] Tengo que tranquili[A]zarme, me desmadro todos los [F#m] días... [B7]
+[Em] Quiero tenerte siempre, siempre que [B7] quieras,
+Para poder be[Em]sarte bajo la luna [B7] llena.
+Y hacer el amor con[Em]tigo tumbaíto sobre la a[B7]rena,
+Y hacer el amor con[Em]tigo tumbaíto sobre la a[B7]rena.
+Me gusta tu cuerpo mo[Am]reno,
+Tus ojos [B7] negros, tu piel ca[Em]nela.
 
 ## Coro
-[Em] No estamos locos, sa[A]bemos lo que que[Em]remos,
-Vive la [F#m] vida igual que [B7] si fuera un [F#m] sueño, [B7]
-Pero que nunca se ol[Em]vida... [A] [Em] [A]
+[Em] No estamos locos, que sabemos lo que que[B7]remos,
+Vive la vida igual que si fuera un [Em] sueño,
+Pero que nunca termina, que se pierde con el [B7] tiempo...
+[Em] No estamos locos, que sabemos lo que que[B7]remos,
+Vive la vida igual que si fuera un [Em] sueño,
+Pero que nunca termina, que se pierde con el [B7] tiempo...
 
 ## Verso 2
-[Em] Qué bonita es la ma[A]ñana cuando sale el sol bri[F#m]llando, [B7]
-[Em] Me dan ganas de can[A]tarle a la gente y al ba[F#m]rrio. [B7]
-[G] Yo te doy mis can[C]ciones, te regalo una flor, [D]
-[Em] Para que en esta [A] vida no te falte el a[F#m]mor. [B7]
+[Em] Quiero tenerte siempre, siempre que [B7] quieras,
+Para poder be[Em]sarte bajo la luna [B7] llena.
+Y hacer el amor con[Em]tigo tumbaíto sobre la a[B7]rena,
+Y hacer el amor con[Em]tigo tumbaíto sobre la a[B7]rena.
+Me gusta tu cuerpo mo[Am]reno,
+Tus ojos [B7] negros, tu piel ca[Em]nela.
 
 ## Coro Final
-[Em] No estamos locos, sa[A]bemos lo que que[Em]remos,
-Vive la [F#m] vida igual que [B7] si fuera un [F#m] sueño, [B7]
-Pero que nunca se ol[Em]vida... [A] [Em]
+[Em] No estamos locos, que sabemos lo que que[B7]remos,
+Vive la vida igual que si fuera un [Em] sueño,
+Pero que nunca termina, que se pierde con el [B7] tiempo... [Em]

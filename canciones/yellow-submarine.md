@@ -7,6 +7,9 @@ tempo: 110
 tags: ["rock", "60s", "classic", "fácil"]
 ---
 
+## Intro
+[G] [D] [C] [G]
+
 ## Verso 1
 [D] In the [C] town where [G] I was [Em] born
 [Am] Lived a [C] man who [D] sailed to sea
@@ -29,10 +32,22 @@ Yellow submarine, [G] yellow submarine
 [G] And our [D] friends are [C] all on [G] board
 [Am] Many [C] more of them live [D] next door
 [G] And the [D] band be[C]gins to [G] play:
-[Am] [C] [D] (Música)
+[Am] [C] [D] (Música marinera)
 
 ## Coro
 [G] We all live in a [D] yellow submarine
 Yellow submarine, [G] yellow submarine
 [G] We all live in a [D] yellow submarine
 Yellow submarine, [G] yellow submarine
+
+## Verso 4
+[G] As we [D] live a [C] life of [G] ease
+[Am] Every [C] one of us has [D] all we need
+[G] Sky of [D] blue and [C] sea of [G] green
+[Am] In our [C] yellow [D] submarine
+
+## Coro Final
+[G] We all live in a [D] yellow submarine
+Yellow submarine, [G] yellow submarine
+[G] We all live in a [D] yellow submarine
+Yellow submarine, [G] yellow submarine... [G]

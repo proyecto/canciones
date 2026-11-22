@@ -34,6 +34,22 @@ Her [C] soul [G] slides a[Am]way
 [E7] But don't look [F] back in anger
 [G] I heard you [C] say [G] [Am] [E7] [F] [G] [C]
 
+## Verso 2
+[C] Take me to the [G] place where you [Am] go
+Where [E7] nobody [F] knows
+If it's [G] night or [C] day [Am] [G]
+[C] Please don't put your [G] life in the [Am] hands
+Of a [E7] rock and roll [F] band
+Who'll [G] throw it all a[C]way [Am] [G]
+
+## Pre-Coro
+[F] Gonna start a revo[Fm]lution from my [C] bed
+'Cause you [F] said the brains I [Fm] had went to my [C] head
+[F] Step outside, 'cause the [Fm] summertime's in [C] bloom
+[G] Stand up beside the fireplace
+[E7/G#] Take that look from off your face
+'Cause [Am] you ain't ever [G] gonna burn my [F] heart out [G]
+
 ## Coro Final
 [C] And [G] so Sally can [Am] wait
 She [E7] knows it's too [F] late
