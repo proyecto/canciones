@@ -1,46 +1,36 @@
 ---
 title: "María"
 artist: "Ricky Martin"
-key: "Am"
+key: "Gm"
 capo: 0
 tempo: 128
-tags: ["pop", "latino", "90s", "fiesta"]
+tags: ["pop", "latino", "bailable", "90s"]
 ---
 
 ## Intro
-[Am] [Dm] [E7] [Am]
-[Am] [Dm] [E7] [Am]
+[D7] [D#] [D7] [D#] [D7]
+[Gm] [D7] [Gm] [D7]
 
 ## Verso 1
-[Am] Ella es una mujer especial
-Como caída de otro plane[Dm]ta
-Ella es un laberinto sin fin
-Donde te pierdes si no te a[E7]prietas
-
-[Am] Tiene en los labios veneno y miel
-Y en la mirada fuego y can[Dm]dela
-Si te descuidas te roba la piel
-Y te condena a vivir sin [E7] ella
+[Gm] Ella es una mujer especial, como caída de otro pla[D7]neta.
+[Gm] Ella es un laberinto carnal que te atrapa y no te en[D7]teras.
+[Gm] Así es María, blanca como el día, pero es veneno si te quieres enamo[D7]rar.
+[Gm] Así es María, tan caliente y fría, que si la bebes de seguro te va a ma[D7]tar.
 
 ## Coro
-[Am] ¡Un, dos, tres! Un pasito pa'lante, Ma[Dm]ría
-[G] ¡Un, dos, tres! Un pasito pa'trás [C] [E7]
-[Am] Aunque me muera ahora mismo, Ma[Dm]ría
-[E7] María, ¿qué tienes tú que me vuelves lo[Am]co?
-
-[Am] ¡Un, dos, tres! Un pasito pa'lante, Ma[Dm]ría
-[G] ¡Un, dos, tres! Un pasito pa'trás [C] [E7]
-[Am] Todo el mundo cantando a Ma[Dm]ría
-[E7] ¡María, mi amor, mi dulce ve[Am]neno!
+[Gm] Un, dos, tres, un pasito pa'lante, Ma[D7]ría.
+[Gm] Un, dos, tres, un pasito pa'[D7]trás.
+[Gm] Aunque me muera ahora, María (¡Un, dos, tres!) un pasito pa'lante, Ma[D7]ría.
+[Gm] Un, dos, tres, un pasito pa'[D7]trás.
 
 ## Verso 2
-[Am] Ella te baila como una diosa
-Y tú no puedes mirar pa' [Dm] otro la'o
-Tiene el perfume de alguna rosa
-Y el corazón medio conge[E7]la'o
+[Gm] Ella es como un pecado mortal que te condena poco a [D7] poco.
+[Gm] Ella es un espejismo sensual que te va volviendo [D7] loco.
+[Gm] Así es María, blanca como el día, pero es veneno si te quieres enamo[D7]rar.
+[Gm] Así es María, tan caliente y fría, que si la bebes de seguro te va a ma[D7]tar.
 
 ## Coro
-[Am] ¡Un, dos, tres! Un pasito pa'lante, Ma[Dm]ría
-[G] ¡Un, dos, tres! Un pasito pa'trás [C] [E7]
-[Am] Aunque me muera ahora mismo, Ma[Dm]ría
-[E7] María, ¿qué tienes tú que me vuelves lo[Am]co?
+[Gm] Un, dos, tres, un pasito pa'lante, Ma[D7]ría.
+[Gm] Un, dos, tres, un pasito pa'[D7]trás.
+[Gm] Aunque me muera ahora, María (¡Un, dos, tres!) un pasito pa'lante, Ma[D7]ría.
+[Gm] Un, dos, tres, un pasito pa'[D7]trás. [Gm]

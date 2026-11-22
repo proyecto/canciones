@@ -1,42 +1,57 @@
 ---
 title: "Devuélveme a mi chica (Sufre Mamón)"
 artist: "Hombres G"
-key: "G"
+key: "Dm"
 capo: 0
-tempo: 140
-tags: ["pop", "rock", "80s", "español", "fiesta"]
+tempo: 138
+tags: ["pop", "rock", "español", "80s"]
 ---
 
 ## Intro
-[G] [Em] [C] [D]
-[G] [Em] [C] [D]
+[Dm] [Am] [Dm] [Am]
 
 ## Verso 1
-[G] Estoy llorando en mi habi[Em]tación
-[C] Todo se nubla a mi alre[D]dedor
-[G] Ella se fue con un chulo en un Ford [Em] Fiesta blanco
-[C] Y un jersey amarillo [D]
+[Dm] Estoy llorando en mi habita[Am]ción,
+[Dm] Todo se nubla a mi alrede[Am]dor.
+[Gm] Ella se fue con un niño [Dm] pijo,
+En un Ford [Gm] Fiesta blanco y un jersey ama[Am]rillo.
+
+[Dm] Por el parque les veo pa[Am]sar,
+[Dm] Cuando se besan lo paso fa[Am]tal.
+[Gm] Voy a vengarme de ese ma[Dm]rica,
+Voy a lle[Gm]narle el cuello de polvos pica-[Am]pica.
+
+## Coro
+[Bb] Sufre, ma[F]món,
+[Bb] Devuélveme a mi [F] chica,
+[Bb] O te retorce[F]rás
+[G] Entre polvos pica-[C]pica.
+[Bb] Sufre, ma[F]món,
+[Bb] Devuélveme a mi [F] chica,
+[Bb] O te retorce[F]rás
+[G] Entre polvos pica-[C]pica.
+
+## Solo
+[Dm] [Am] [Dm] [Am]
+[Gm] [Dm] [Gm] [Am]
 
 ## Verso 2
-[G] Por el parque les veo pa[Em]sear
-[C] Cogidos de la mano me hacen ra[D]biar
-[G] Voy a vengarme de ese maricón [Em]
-[C] Ha de pagar caro lo que me [D] hizo
+[Dm] Le he quemado su jer[Am]sey,
+[Dm] Se ha comprado cinco o [Am] seis.
+[Gm] Voy a destrozarle el [Dm] coche,
+Lo tengo prepa[Gm]rado, voy esta [Am] noche.
 
-## Coro
-[G] Sufre mamón, [Em] devuélveme a mi chica
-[C] O te retorcerás entre polvos pi[D]ca-pica
-[G] Sufre mamón, [Em] devuélveme a mi chica
-[C] O te retorcerás entre polvos pi[D]ca-pica
+[Dm] No te reirás nunca más de [Am] mí,
+[Dm] Lo siento, nene, vas a mo[Am]rir.
+[Gm] Tú me quitaste lo que más que[Dm]ría,
+Y volverá con[Gm]migo, volverá algún [Am] día.
 
-## Puente
-[C] Te quemaré [D] tu jersey
-[G] Y se lo daré de comer [Em] a los cerdos
-[C] Y te perseguiré hasta el fin [D] del mundo
-
-## Coro
-[G] Sufre mamón, [Em] devuélveme a mi chica
-[C] O te retorcerás entre polvos pi[D]ca-pica
-[G] Sufre mamón, [Em] devuélveme a mi chica
-[C] O te retorcerás entre polvos pi[D]ca-pica
-[G]
+## Coro Final
+[Bb] Sufre, ma[F]món,
+[Bb] Devuélveme a mi [F] chica,
+[Bb] O te retorce[F]rás
+[G] Entre polvos pica-[C]pica.
+[Bb] Sufre, ma[F]món,
+[Bb] Devuélveme a mi [F] chica,
+[Bb] O te retorce[F]rás
+[G] Entre polvos pica-[C]pica... [Dm]

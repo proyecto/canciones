@@ -3,46 +3,50 @@ title: "Carolina"
 artist: "M-Clan"
 key: "G"
 capo: 0
-tempo: 128
-tags: ["rock", "español", "2000s", "clásico", "fiesta"]
+tempo: 126
+tags: ["rock", "español", "2000s"]
 ---
 
 ## Intro
-[G] [C] [G] [D]
-[G] [C] [G] [D]
+[Em] [C] [G] [D] (x3)
+[Bb] [F] [G]
 
 ## Verso 1
-[G] La reina de las medicinas
-Que no [C] curan el dolor
-[G] Niña que juega a ser mujer
-Y se [D] viste de alcohol
+[C] La dulce niña Caro[G]lina,
+[D] No tiene edad para hacer el a[Am]mor.
+[C] Su madre la estará bus[G]cando,
+[D] O eso es lo que creo yo.
+[C] No puedo echarla de mi [G] casa,
+[D] Me dice que no tiene dónde dor[Am]mir.
+[C] Después se mete en mi [G] cama,
+[D] Eso es mucho para mí.
 
-[G] Te sientas en la barra
-Y me [C] miras de reojo
-[G] Con esa cara de inocente
-Y ese [D] brillo en los ojos
+## Pre-Coro
+[Am] Esa va a [D] ser mi ruina, [Am] pequeña Caro[D]lina,
+[C] Vete [G] por fa[D]vor.
 
 ## Coro
-[G] Carolina, [C] trátame bien
-No te [G] rías de mí, no me arranques la [D] piel
-[G] Carolina, [C] trátame bien
-Que no [G] tengo el valor de volverte a [D] perder
-Carolina... [G] [C] [G] [D]
+[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
+[Em] No me ar[C]ranques la [G] piel. [D]
+[Em] Carolina, [C] trátame [G] bien,
+O al fi[Bb]nal te ten[F]dré que co[G]mer.
 
 ## Verso 2
-[G] Dices que tienes dieciséis
-Y que ya [C] sabes lo que hay
-[G] Que la noche no te asusta
-Y que no [D] quieres parar
+[C] La reina de las medi[G]cinas,
+[D] Que no se venden en la farma[Am]cia.
+[C] Se viste con ropa a[G]dulta
+[D] Para entrar en la discoteca.
+[C] La culpa no es de la [G] noche,
+[D] Ni tampoco de la músi[Am]ca.
+[C] Si me la cruzo de [G] frente,
+[D] Ya no sé lo que me pasa.
 
-[G] Me pides otra copa
-Y me en[C]ciendes un cigarro
-[G] Y yo me voy hundiendo poco a poco
-[D] En este barro
+## Pre-Coro
+[Am] Esa va a [D] ser mi ruina, [Am] pequeña Caro[D]lina,
+[C] Vete [G] por fa[D]vor.
 
 ## Coro
-[G] Carolina, [C] trátame bien
-No te [G] rías de mí, no me arranques la [D] piel
-[G] Carolina, [C] trátame bien
-Que no [G] tengo el valor de volverte a [D] perder
-Carolina... [G]
+[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
+[Em] No me ar[C]ranques la [G] piel. [D]
+[Em] Carolina, [C] trátame [G] bien,
+O al fi[Bb]nal te ten[F]dré que co[G]mer.

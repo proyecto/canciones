@@ -3,43 +3,46 @@ title: "No Dudaría"
 artist: "Antonio Flores"
 key: "C"
 capo: 0
-tempo: 108
-tags: ["pop", "español", "acústico", "clásico", "fácil"]
+tempo: 104
+tags: ["pop", "rock", "acústico", "español", "80s"]
 ---
 
 ## Intro
-[C] [Am] [F] [G]
-[C] [Am] [F] [G]
+[C] [G] [F] [G] [C] [F] (x2)
 
 ## Verso 1
-[C] Si pudiera olvidar [Am] todo aquello que fui
-[F] Si pudiera borrar [G] todo lo que yo vi
-[C] No dudaría, [Am] no dudaría en [F] volver a reír [G]
+[C] Si pudiera olvidar todo aquello que fui,
+[G] Si pudiera borrar todo aquello que vi,
+[F] No duda[G]ría, no dudaría en volver a re[C]ír.
 
-[C] Si el llanto por fin [Am] se pudiera secar
-[F] Si pudiera empezar [G] otra vez a cantar
-[C] No dudaría, [Am] no dudaría en [F] volver a empezar [G]
+[C] Si pudiera explicar las vidas que quité,
+[G] Si pudiera quemar las almas que usé,
+[F] No duda[G]ría, no dudaría en volver a re[C]ír.
 
 ## Coro
-[C] Prometo ver la alegría, [Am] escarmentar de la experiencia
-[F] Pero nunca más usar la vio[G]lencia
-[C] Prometo ver la alegría, [Am] escarmentar de la experiencia
-[F] Pero nunca más usar la vio[G]lencia
+[F] Prometo ver la ale[G]gría,
+[C] Escarmentar de la expe[Am]riencia,
+[Dm] Pero nunca, [G] nunca más usar la vio[C]lencia.
+[F] Prometo ver la ale[G]gría,
+[C] Escarmentar de la expe[Am]riencia,
+[Dm] Pero nunca, [G] nunca más usar la vio[C]lencia.
 
 ## Puente
-[C] ¡La la la la [Am] la la!
-[F] ¡La la la la [G] la la!
-[C] ¡La la la la [Am] la la!
-[F] ¡La la la la [G] la la!
+[C] [F] [G] [C]
 
 ## Verso 2
-[C] Si pudiera cambiar [Am] todo el odio de ayer
-[F] Por un poco de paz [G] y ganas de querer
-[C] No dudaría, [Am] no dudaría en [F] volver a nacer [G]
+[C] Si pudiera sembrar los campos que arrasé,
+[G] Si pudiera devolver la paz que quité,
+[F] No duda[G]ría, no dudaría en volver a re[C]ír.
 
-## Coro
-[C] Prometo ver la alegría, [Am] escarmentar de la experiencia
-[F] Pero nunca más usar la vio[G]lencia
-[C] Prometo ver la alegría, [Am] escarmentar de la experiencia
-[F] Pero nunca más usar la vio[G]lencia
-[C]
+[C] Si pudiera olvidar aquel llanto que oí,
+[G] Si pudiera lograr apartarlo de mí,
+[F] No duda[G]ría, no dudaría en volver a re[C]ír.
+
+## Coro Final
+[F] Prometo ver la ale[G]gría,
+[C] Escarmentar de la expe[Am]riencia,
+[Dm] Pero nunca, [G] nunca más usar la vio[C]lencia.
+[F] Prometo ver la ale[G]gría,
+[C] Escarmentar de la expe[Am]riencia,
+[Dm] Pero nunca, [G] nunca más usar la vio[C]lencia. [C]

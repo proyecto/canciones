@@ -1,44 +1,42 @@
 ---
 title: "En Algún Lugar"
 artist: "Duncan Dhu"
-key: "G"
+key: "Em"
 capo: 0
-tempo: 130
-tags: ["pop", "rock", "80s", "español", "acústico"]
+tempo: 138
+tags: ["pop", "rock", "español", "80s"]
 ---
 
 ## Intro
-[G] [D] [C] [D]
-[G] [D] [C] [D]
+[Em] [G] [D] [Em] (x2)
 
 ## Verso 1
-[G] En algún lugar de un [D] gran país
-Olvi[C]daron construir un hogar [D] donde no queme el sol
-[G] Y al nacer no hay que [D] sonreír
-Ni se [C] llora al caer, las manos no [D] tienen dolor
+[Em] En al[G]gún lugar de un [D] gran país [Em]
+Olvi[G]daron cons[D]truir [Em]
+Un ho[G]gar donde no [D] queme el sol [Em]
+Y al na[G]cer no haya que mo[D]rir. [Em]
 
-## Pre-Coro
-[Em] En algún lugar, un [C] rayo de sol
-Busca un [G] hueco en el rincón más os[D]curo
-[Em] Y una flor de papel que [C] no sabe oler
-Se mar[D]chita al pie del muro
+## Puente
+[Bm] Y en la sombra
+[C] Mueren [G] genios [D] sin sa[Em]ber
+[Bm] De su magia,
+[C] Concedida sin pedirlo
+[G] Mucho tiempo antes de na[D]cer.
 
 ## Coro
-[G] Silencio, no [D] queda otro camino
-Que se[C]guir adelante y cantar con el [D] viento
-[G] Silencio, que el [D] tiempo no perdona
-A los [C] que se detienen a llorar por sus [D] muertos
-En algún lu[G]gar... [D] [C] [D]
+[G] No hay ca[D]mino que [Am] llegue hasta aquí [C]
+[G] Y luego pre[D]tenda sa[Am]lir, [C]
+[G] Con el [D] fuego del a[Em]tardecer
+[C] Arde la hierba.
 
 ## Verso 2
-[G] Hay un tren que no tie[D]ne fin
-Que reco[C]rre la estepa sin mirar [D] hacia atrás
-[G] Y en sus vagones van via[D]jeros de hojalata
-Que no [C] tienen memoria ni saben a [D] dónde van
+[Em] En al[G]gún lugar de un [D] gran país [Em]
+Olvi[G]daron cons[D]truir [Em]
+Un lu[G]gar donde llo[D]rar en paz [Em]
+Y con[G]tar historias sin te[D]mor. [Em]
 
 ## Coro
-[G] Silencio, no [D] queda otro camino
-Que se[C]guir adelante y cantar con el [D] viento
-[G] Silencio, que el [D] tiempo no perdona
-A los [C] que se detienen a llorar por sus [D] muertos
-En algún lu[G]gar
+[G] No hay ca[D]mino que [Am] llegue hasta aquí [C]
+[G] Y luego pre[D]tenda sa[Am]lir, [C]
+[G] Con el [D] fuego del a[Em]tardecer
+[C] Arde la hierba. [G]

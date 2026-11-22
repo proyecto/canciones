@@ -8,44 +8,41 @@ tags: ["indie", "rock", "español", "2010s"]
 ---
 
 ## Intro
-[Am] [F] [C] [G]
-[Am] [F] [C] [G]
+[Am] [Em] [Am]
 
 ## Verso 1
-[Am] Bailemos el vals de los he[F]ridos
-En la pista central de Copa[C]cabana
-Que no quede ni un hueso en su [G] sitio
-Cuando empiece a sonar la cam[Am]pana
-
-[Am] Que las luces de neón nos con[F]funden
-Y el sudor se nos mezcle en la [C] piel
-Ya vendrá la mañana con [G] dudas
-Esta noche sabemos qué ha[Am]cer
-
-## Coro
-[Am] Y gritar que esta [F] vez
-No nos van a que[C]brar
-Que podemos rom[G]per
-El cristal de la sole[Am]dad
-
-[Am] Y bailar hasta el [F] fin
-Con los pies en el [C] mar
-En el club más her[G]moso
-Que se pueda so[Am]ñar
+[Am] Antes de nada dejaremos claras las páginas que nos im[Em]portan, [Am]
+Las de libros abiertos de vidas cercanas, paredes que por siempre callan.
+[Am] Y al resto del mundo deseo sin[G]cero de éxitos en la batalla,
+Que [Am] pensemos despacio, que[C]ramos deprisa y cami[G]nemos con la frente [Am] alta.
 
 ## Verso 2
-[Am] Las sirenas aúllan a lo [F] lejos
-Pero aquí no nos pueden to[C]car
-Somos náufragos llenos de [G] fiesta
-Que aprendieron de pronto a vo[Am]lar
+[Am] Incluso en este justo momento en que nada ocurre,
+[C] Calma blanca, ropa de cama de hotel, olores de vida plena.
+[Dm] Sexo ligero, [F] agua fresca, zumo de fruta y ca[Am]fé.
+[Am] Incluso ahora que ya no hay miedo, que nada tiembla,
+[C] Sal de baño, brillo dorado en la piel y un beso sincero en la boca,
+[Dm] Pies descalzos, [F] arena virgen, Copaca[Am]bana y claqué.
+
+## Verso 3
+[Am] Cine desierto, sol en la cara, latina ardiente, ron de caña,
+[C] Domingo desde las tres, terraza de vino y rosas.
+[Dm] Soñar despierto, [F] dormir contigo, viajar des[Am]pacio y volver.
 
 ## Coro
-[Am] Y gritar que esta [F] vez
-No nos van a que[C]brar
-Que podemos rom[G]per
-El cristal de la sole[Am]dad
+Es un [F] parpadeo, un [G] rápido destello,
+Un [Am] rayo de sol que deja ciego.
+Cambia en un [F] instante la [G] forma en que los cuerpos
+Toman [Am] aire. Y para el tiempo.
 
-[Am] Y bailar hasta el [F] fin
-Con los pies en el [C] mar
-En el club más her[G]moso
-Que se pueda so[Am]ñar... [F] [C] [G] [Am]
+## Puente
+[Am] Así que atentos todos al cielo, calma, quietos,
+[C] Cojan aire, quizá nos toque correr.
+Que al [Dm] menos quede el re[F]cuerdo de aquel momento que fue per[Am]fecto,
+Copacabana y claqué.
+
+## Coro
+Es un [F] parpadeo, un [G] rápido destello,
+Un [Am] rayo de sol que deja ciego.
+Cambia en un [F] instante la [G] forma en que los cuerpos
+Toman [Am] aire. Y para el tiempo.

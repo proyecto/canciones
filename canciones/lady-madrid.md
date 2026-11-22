@@ -1,43 +1,42 @@
 ---
 title: "Lady Madrid"
 artist: "Pereza"
-key: "G"
+key: "C"
 capo: 0
-tempo: 122
+tempo: 116
 tags: ["rock", "pop", "español", "2000s"]
 ---
 
 ## Intro
-[G] [Em] [C] [D]
-[G] [Em] [C] [D]
+[C] [F] [C] [G]
+[C] [G] [F] [C]
 
 ## Verso 1
-[G] Probaba fortuna en la ca[Em]pital
-Venía del norte dispuesta a [C] triunfar
-Con un vestido de flores y un par [D] de tacones
-Que hacían temblar
-
-[G] Se metió en los garitos de Mala[Em]saña
-Bebiendo cerveza, cantando con [C] ganas
-Era la chica más guapa que nunca [D] pisó
-La Gran Vía al alba
+[C] Más bonita que nin[G]guna, ponía a la [F] peña de [C] pie,
+Con más [G] noches que la [Am] luna, estaba [F] todo [G] bien.
+[C] Probaste fortuna en [G] 1996, [F] [C]
+De Málaga [G] hasta La Co[Am]ruña, durmiendo en la es[F]tación de [G] tren.
 
 ## Coro
-[C] Lady Madrid, [D] la reina de las ver[G]benas [Em]
-[C] Estrella de los te[D]jados, musa de las can[G]ciones [Em]
-[C] Lady Madrid, [D] la flor de la madru[G]gada [Em]
-Que se pasea por [C] Chueca
-Buscando a quién robarle [D] el alma... [G]
+[C] La estrella de los te[G]jados, lo más [Am] rock&roll de por a[F]quí,
+[C] Los gatos andábamos col[G]gados, [F] Lady Ma[C]drid... [G7]
 
 ## Verso 2
-[G] Dejó corazones rotos en cada [Em] esquina
-La noche era suya, la calle su [C] ruina
-Y aunque los años pasaron sin dar[D]se ni cuenta
-Ella nunca se olvida
+[C] Más viciosa que nin[G]guna, pero tan di[F]fícil de co[C]ger,
+Tuvo un [G] piso en las al[Am]turas, "handle with [F] care", [G]
+[C] Probaste fortuna con [G] héroes de barrio y con[F]migo tam[C]bién,
+Algunos to[G]davía [Am] dudan si vas a vol[F]ver... [G]
 
 ## Coro
-[C] Lady Madrid, [D] la reina de las ver[G]benas [Em]
-[C] Estrella de los te[D]jados, musa de las can[G]ciones [Em]
-[C] Lady Madrid, [D] la flor de la madru[G]gada [Em]
-Que se pasea por [C] Chueca
-Buscando a quién robarle [D] el alma... [G]
+[C] La estrella de los te[G]jados, lo más [Am] rock&roll de por a[F]quí,
+[C] Los gatos andábamos col[G]gados, [F] Lady Ma[C]drid... [G7]
+
+## Puente
+[C] Pitillos ajus[G]tados, era The [Am] Burning, Ronaldos y Lou [F] Reed,
+[C] Y nunca hablaron los dia[G]rios de [F] Lady Ma[G]drid.
+
+## Coro Final
+[C] La estrella de los te[G]jados, lo más [Am] rock&roll de por a[F]quí,
+[C] Los gatos andábamos col[G]gados, [F] Lady Ma[C]drid...
+[C] Pitillos ajus[G]tados, era The [Am] Burning, Ronaldos y Lou [F] Reed,
+[C] Y nunca hablaron los dia[G]rios de [F] Lady Ma[C]drid. [F] [C]

@@ -4,38 +4,52 @@ artist: "Lori Meyers"
 key: "G"
 capo: 0
 tempo: 130
-tags: ["indie", "pop", "español", "2010s", "fiesta"]
+tags: ["indie", "pop", "español", "2010s"]
 ---
 
 ## Intro
-[G] [Em] [C] [D]
-[G] [Em] [C] [D]
+[D] [G] [Am] (x2)
 
 ## Verso 1
-[G] Quiero emborracharme y no pen[Em]sar en ti
-[C] Olvidarme de las cosas que me [D] hacían sufrir
-[G] Salir a la pista y volver a bai[Em]lar
-[C] Sin mirar atrás, sin mirar a[D]trás
-
-[G] Me dijeron que te vieron con al[Em]guien mejor
-[C] Paseando de la mano por el [D] malecón
-[G] Y a mí qué más me da, si yo ya es[Em]toy aquí
-[C] Con una copa en la mano y mi [D] gente junto a mí
+[D] Empiezo a que[G]rerte, [Am]
+Empiezo a pen[G]sar que no hay un [Am] día
+Que no quiera [D] verte,
+Y demos[G]trar todo el a[Am]mor que te me[D]reces.
+Y vesti[G]ré como tú [Am] digas, iré más de[D]cente
+Para poder [G] ir a esos [Am] sitios depri[D]mentes,
+Haré de es[G]coba y de fel[Am]pudo, haré de sir[D]viente
+Y tritu[G]rar mi cora[Am]zón con ingre[C]dien[D]tes.
 
 ## Coro
-[G] Y quiero emborracharme y no pen[Em]sar en ti
-[C] Cantar a voz en grito hasta el [D] amanecer
-[G] Quiero emborracharme y no pen[Em]sar en ti
-[C] Y que me dé igual lo que vaya a [D] suceder
+[G] Y beber todo ese batido,
+[Em] Acompañarlo después con vino,
+[Am] Beber hasta emborracharme,
+[D] Hasta caer rendido y levantarme.
 
 ## Verso 2
-[G] Se acabaron las llamadas a las [Em] tres de la mañana
-[C] Y buscar tus ojos en la madru[D]gada
-[G] Esta noche el mundo me perte[Em]nece a mí
-[C] Y no hay nada en la tierra que me [D] haga infeliz
+[D] Me levanté [G] tarde [Am]
+Y la re[G]saca que ahora [Am] tengo
+Me impide lla[D]marte,
+Y con las [G] ganas que ahora [Am] tengo de fo[D]llarte.
+Y me has man[G]dado algún men[Am]saje que vi [D] tarde,
+No va el Whats[G]App, no carga el [Am] vídeo que man[C]das[D]te.
 
 ## Coro
-[G] Y quiero emborracharme y no pen[Em]sar en ti
-[C] Cantar a voz en grito hasta el [D] amanecer
-[G] Quiero emborracharme y no pen[Em]sar en ti
-[C] Y que me dé igual lo que vaya a [D] suceder... [G]
+[G] Y beber todo ese batido,
+[Em] Acompañarlo después con vino,
+[Am] Beber hasta emborracharme,
+[D] Hasta caer rendido y levantarme.
+
+## Puente
+[G] Sigo aún borracho per[Em]dido
+Pero me atrevo a con[Am]tarte
+Que yo no puedo ser tu a[D]migo.
+[G] Sigo aún borracho per[Em]dido
+Pero me atrevo a con[Am]tarte
+Que yo no quiero ser tu a[D]mante.
+
+## Coro Final
+[G] Y beber todo ese batido,
+[Em] Acompañarlo después con vino,
+[Am] Beber hasta emborracharme,
+[D] Hasta caer rendido y levantarme... [G]

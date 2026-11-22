@@ -1,51 +1,49 @@
 ---
 title: "Turnedo"
 artist: "Iván Ferreiro"
-key: "C"
+key: "A"
 capo: 0
-tempo: 120
-tags: ["indie", "pop", "español", "himno"]
+tempo: 105
+tags: ["indie", "pop", "español", "2000s"]
 ---
 
 ## Intro
-[C] [G] [Am] [F]
-[C] [G] [Am] [F]
+[A] [D] [A] [D]
 
 ## Verso 1
-[C] Desde aquí, desde mi casa
-[G] Veo la playa vacía
-[Am] Ya se van los sentimientos
-[F] Que ocuparon todo el día
+[A] Desde aquí, desde mi casa veo la playa vacía,
+[D] Ya lo estaba hace unos días, ahora está llena de lluvia.
+[A] Y tú ahí sigues sin paraguas, sin tu ropa, paseando,
+[D] Como una tarde de julio pero con frío y tronando.
 
-[C] He dejado que el silencio
-[G] Se acomode en mi salón
-[Am] Y he apagado las alarmas
-[F] Que asustaban mi razón
+## Puente 1
+[E] ¿Se puede saber qué esperas? ¿Que te mire y que te seque?
+[D] ¿Que te vea y que me quede tomando la luna juntos?
+[Bm] La luna, tú y yo expectantes [C#m] a que pase algún cometa
+[D] O baje algún platillo volante.
 
 ## Coro
-[C] Hoy te vas a quedar a dor[G]mir
-Aunque no tengamos [Am] camas
-Dormiremos en el [F] suelo
-O colgaremos de las [C] ramas
-
-[C] Y si al despertar se nos [G] va
-La cordura por la es[Am]quina
-Brindaremos con cer[F]veza
-Y reiremos en la co[C]cina [G] [Am] [F]
+Y la playa [A] llora y llora y desde mi casa [D] grito
+Que no tengo [A] miedo a nada y que tú no estás tan [D] lejos.
+¿Quién no tiene el [Bm] valor para marcharse? [C#m]
+¿Quién prefiere que[D]darse y aguantar?
+¿Quién no tiene el [Bm] valor para marcharse? [C#m]
+¿Quién prefiere que[D]darse y aguantar?
 
 ## Verso 2
-[C] Me da igual lo que nos digan
-[G] Los que miran sin entender
-[Am] Que la vida no es un plan
-[F] Es un salto sin red
+[A] Ya pasó, ya no hay tormenta, ya salieron las estrellas,
+[D] Ya no queda casi nadie paseando por la arena.
+[A] Y tú ahí sigues mirándome fijamente a la ventana,
+[D] Con la cara empapada y la ropa desgarrada.
+
+## Puente 2
+[E] ¿Se puede saber qué esperas? ¿Que te mire y que te seque?
+[D] ¿Que te vea y que me quede tomando la luna juntos?
+[Bm] La luna, tú y yo expectantes [C#m] a que pase algún cometa
+[D] O baje algún platillo volante.
 
 ## Coro
-[C] Hoy te vas a quedar a dor[G]mir
-Aunque no tengamos [Am] camas
-Dormiremos en el [F] suelo
-O colgaremos de las [C] ramas
-
-[C] Y si al despertar se nos [G] va
-La cordura por la es[Am]quina
-Brindaremos con cer[F]veza
-Y reiremos en la co[C]cina... [G] [Am] [F] [C]
+¿Quién no tiene el [Bm] valor para marcharse? [C#m]
+¿Quién prefiere que[D]darse y aguantar?
+¿Quién no tiene el [Bm] valor para marcharse? [C#m]
+¿Quién prefiere que[D]darse y aguantar? [A]

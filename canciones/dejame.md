@@ -3,38 +3,45 @@ title: "Déjame"
 artist: "Los Secretos"
 key: "G"
 capo: 0
-tempo: 130
-tags: ["pop", "rock", "80s", "español", "clásico"]
+tempo: 128
+tags: ["pop", "rock", "español", "80s"]
 ---
 
 ## Intro
-[G] [D] [C] [D]
-[G] [D] [C] [D]
+[G] [Em] [C] [D] (x2)
 
 ## Verso 1
-[G] Déjame, no juegues [D] más conmigo
-Esta [C] vez en serio te lo [D] digo
-[G] Tuviste una oportu[D]nidad y la de[C]jaste esca[D]par
-
-[G] Ya no hay nada que tú [D] puedas hacer
-Para [C] conseguir que vuelva [D] otra vez
-[G] Me hiciste mucho daño y [D] no quiero vol[C]ver a pa[D]sar
-
-## Coro
-Por lo que [C] ya pasé, por lo que [D] ya sufrí
-No quiero [G] volver a verte [Em] sonreír
-Pensando [C] que puedes jugar con[D]migo
-Como si [G] fuera un niño que no sabe a [Em] dónde va
-[C] Déjame, ya no hay [D] nada que ha[G]blar [D]
+[G] Déjame, no [Em] juegues más con[C]migo, [D]
+[G] Esta vez en [Em] serio te lo [C] digo. [D]
+[Am] Tuviste una oportuni[D]dad
+[G] Y la dejaste esca[Em]par.
+[Am] [F] [D]
 
 ## Verso 2
-[G] Vete ya, no te quedes [D] parada
-Miran[C]do como si no pasara [D] nada
-[G] Se acabaron las menti[D]ras, se aca[C]bó la fun[D]ción
+[G] Déjame, no [Em] vuelvas a mi [C] lado, [D]
+[G] Una vez es[Em]tuve equivo[C]cado, [D]
+[Am] Pero ahora todo eso pa[D]só,
+[G] No queda nada de ese a[Em]mor.
+[Am] [D] [G] [G7]
 
 ## Coro
-Por lo que [C] ya pasé, por lo que [D] ya sufrí
-No quiero [G] volver a verte [Em] sonreír
-Pensando [C] que puedes jugar con[D]migo
-Como si [G] fuera un niño que no sabe a [Em] dónde va
-[C] Déjame, ya no hay [D] nada que ha[G]blar
+[C] No hay nada que ahora ya [D] puedas hacer
+[C] Porque a tu lado yo no volve[D]ré.
+No volve[G]ré. [Em] [C] [F] [D]
+
+## Verso 3
+[G] Déjame, ya [Em] no tiene sen[C]tido, [D]
+[G] Es mejor que [Em] sigas tu ca[C]mino, [D]
+[Am] Que yo el mío segui[D]ré,
+[G] Por eso ahora déja[Em]me.
+[Am] [D] [G]
+
+## Solo
+[C] [D] [C] [D]
+[G] [Em] [C] [F] [D]
+
+## Coro Final
+[C] No hay nada que ahora ya [D] puedas hacer
+[C] Porque a tu lado yo no volve[D]ré.
+No volve[G]ré. [Em] [C] [D]
+Déja[G]me.

@@ -1,43 +1,65 @@
 ---
 title: "Caminando por la vida"
 artist: "Melendi"
-key: "Am"
-capo: 2
-tempo: 110
-tags: ["rumba", "pop", "español", "2000s", "fiesta"]
+key: "Dm"
+capo: 0
+tempo: 108
+tags: ["rumba", "pop", "español", "2000s"]
 ---
 
-// Tono original con Cejilla en el 2º traste (Am - G - F - E)
-
 ## Intro
-[Am] [G] [F] [E]
-[Am] [G] [F] [E]
+[Dm] [C] [F] [Bb]
 
 ## Verso 1
-[Am] Voy caminando por la vida, sin pausa pero sin [G] prisa
-Procurando no pisar a nadie y con una gran son[F]risa
-Que me acompaña a todas partes, que me viste de fies[E]tero
-Porque en los bolsillos no tengo dinero pero soy un caba[Am]llero
+[Dm] Huele a aire de prima[C]vera,
+[F] Tengo alergia en el cora[C]zón,
+[Bb] Voy cantando por la carre[F]tera,
+[C] De copiloto llevo el [Bb] sol.
 
-[Am] Y me paro en cada esquina a tomarme un cafelito [G]
-A charlar con los amigos y a contar algún chistecito [F]
-Que la vida son dos días y uno ya se nos ha pasa'o [E]
-Y el que no aproveche el tiempo se va a quedar amarga'o
+[Dm] Y a mí no me hace falta es[C]trella
+[F] Que me lleve hasta tu por[C]tal,
+[Bb] Como ayer estaba bo[F]rracho
+[C] Fui tirando migas de [Bb] pan.
 
 ## Coro
-[Am] Y yo voy caminando por la vida, alegre y diver[G]tido
-Con un pantalón vaquero y un zapato desco[F]sido
-Buscando una muchacha que me quiera de ver[E]dad
-Y que no le importe un pimiento mi precaria econo[Am]mía [G] [F] [E]
+[F] Voy ca[C]minando por la [Dm] vida,
+Sin pausa pero sin [Bb] prisa,
+Procu[F]rando no hacer ruido,
+Ves[C]tío con una sonrisa.
+Sin com[Dm]plejos ni temores,
+Canto [Bb] rumbas de colores,
+Y el llo[F]rar no me hace [C] daño
+Siempre y cuando tú no [Dm] llores... [Bb]
+Siempre y cuando tú no [Dm] llores... [Bb]
 
 ## Verso 2
-[Am] No tengo coche de lujo ni casa en la playa [G]
-Ni ropa de marca que me tape las canas [F]
-Pero tengo una guitarra que me alegra el corazón [E]
-Y un puñado de canciones que me llenan de ilu[Am]sión
+[Dm] Y el milindri a mí me [C] llaman
+[F] En el mundillo ca[C]lé,
+[Bb] Porque al coger mi gui[F]tarra
+[C] Se me van solos los [Bb] pies.
+
+[Dm] Y este año le pido al [C] cielo
+[F] La salud del ante[C]rior,
+[Bb] No necesito di[F]nero,
+[C] Voy sobrao en el a[Bb]mor.
 
 ## Coro
-[Am] Y yo voy caminando por la vida, alegre y diver[G]tido
-Con un pantalón vaquero y un zapato desco[F]sido
-Buscando una muchacha que me quiera de ver[E]dad
-Y que no le importe un pimiento mi precaria econo[Am]mía
+[F] Voy ca[C]minando por la [Dm] vida,
+Sin pausa pero sin [Bb] prisa,
+Procu[F]rando no hacer ruido,
+Ves[C]tío con una sonrisa.
+Sin com[Dm]plejos ni temores,
+Canto [Bb] rumbas de colores,
+Y el llo[F]rar no me hace [C] daño
+Siempre y cuando tú no [Dm] llores... [Bb]
+Siempre y cuando tú no [Dm] llores... [Bb]
+
+## Puente
+[Dm] Y no quiero amores no correspondidos, no quiero [F] guerras,
+No quiero amigos que no me [C] quieran sin mis ga[Bb]lones.
+[Dm] No me tires flores ni falsas miradas de inexpre[F]sión
+Que no dicen nada del cora[C]zón que me las pro[Bb]pone.
+
+## Coro Final
+[F] Voy ca[C]minando por la [Dm] vida,
+Sin pausa pero sin [Bb] prisa... [F]

@@ -4,36 +4,42 @@ artist: "Jarabe de Palo"
 key: "Am"
 capo: 0
 tempo: 104
-tags: ["rock", "pop", "español"]
+tags: ["rock", "latino", "español", "90s"]
 ---
 
 ## Intro
-[Am] [Am] [Am] [Am]
+[Am] [E] [D] [C] [E] [Am]
 
 ## Verso 1
-[Am] En la vida conocí [E7] mujer igual a la Flaca
-[Dm] Coral negro de la Habana, [E7] tremendísima mulata
-[Am] Cien libras de piel y hueso, [E7] cuarenta kilos de salsa
-[Dm] Y en la cara dos soles [E7] que sin palabras hablaban
-[Dm] Que sin palabras hablaban
-
-## Coro
-[Am] Por un beso de la Flaca daría lo que [E7] fuera
-[E7] Por un beso de ella, aunque sólo uno [Am] fuera
-[Am] Por un beso de la Flaca daría lo que [E7] fuera
-[E7] Por un beso de ella, aunque sólo uno [Am] fuera
-Aunque sólo uno [E7] fuera... [Am]
+[Am] En la vida cono[E]cí mujer igual a la [D] flaca,
+Coral [C] negro de La Ha[E]bana, tremendísima mu[Am]lata.
+Cien libras de piel y [E] hueso, cuarenta kilos de [D] salsa,
+Y en la [C] cara dos [F] soles [F#] que [G] sin palabras [Am] hablan... [E]
+Que sin palabras [Am] hablan. [E]
 
 ## Verso 2
-[Am] Mojé mis sábanas blancas, [E7] como dice la canción
-[Dm] Recordando las caricias [E7] que me brindó el primer día
-[Am] Y enloquezco de ganas [E7] de dormir a su ladito
-[Dm] Porque Dios que me libre [E7] de tener esa mujer
-[Dm] De tener esa mujer
+La flaca [Am] duerme de [E] día, dice que así el hambre en[D]gaña,
+Cuando [C] cae la noche [E] baja a bailar a la [Am] tasca.
+Y bailar y bailar y to[E]mar y tomar
+Una cer[C]veza tras [F] otra, [F#] pero [G] ella nunca en[Am]gorda... [D7]
+Pero ella nunca en[F]gorda. [G] [Am]
 
 ## Coro
-[Am] Por un beso de la Flaca daría lo que [E7] fuera
-[E7] Por un beso de ella, aunque sólo uno [Am] fuera
-[Am] Por un beso de la Flaca daría lo que [E7] fuera
-[E7] Por un beso de ella, aunque sólo uno [Am] fuera
-Aunque sólo uno [E7] fuera... [Am]
+Por un [F] beso de la [G] flaca daría lo que [Am] fuera,
+Por un [D] beso de ella [F] aunque sólo uno fuera.
+Por un [G] beso de la flaca daría lo que [Am] fuera,
+Por un [D] beso de ella [F] aunque [F#] sólo [G] uno [Am] fuera... [E]
+Aunque sólo uno [Am] fuera. [E]
+
+## Verso 3
+Mo[Am]jé mis sábanas [E] blancas, como dice la can[D]ción,
+Recor[C]dando las ca[E]ricias que me brindó el primer [Am] día.
+Y enloquezco de [E] ganas de dormir a su la[D]dito,
+Porque, [C] Dios, que esta [F] flaca [F#] a [G] mí me tiene lo[Am]quito... [D7]
+A mí me tiene lo[F]quito. [G] [Am]
+
+## Coro Final
+Por un [F] beso de la [G] flaca yo daría lo que [Am] fuera,
+Por un [D7] beso de ella [F] aunque sólo uno fuera.
+Por un [G] beso de la flaca yo daría lo que [Am] fuera,
+Por un [D7] beso de ella [F] aunque [F#] sólo [G] uno [Am] fuera... [Am]

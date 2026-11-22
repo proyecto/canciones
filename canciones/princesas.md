@@ -3,46 +3,41 @@ title: "Princesas"
 artist: "Pereza"
 key: "G"
 capo: 0
-tempo: 130
+tempo: 120
 tags: ["rock", "pop", "español", "2000s"]
 ---
 
 ## Intro
-[G] [D] [Em] [C]
-[G] [D] [Em] [C]
+[G] [D] [Em] [C] (x2)
 
 ## Verso 1
-[G] Eran las dos de la ma[D]ñana
-En un garito de Ma[Em]drid
-Tú te acercaste con tu [C] copa
-Y me empezaste a sonre[G]ír
+[G] Sigo buscando una sonrisa de repente en un bar,
+Una calada de [D] algo que me pueda colocar,
+Una película que con[Em]siga hacerme llorar, ahá... [C]
+[G] Cambiar un "no me creo nada" por "te quiero, chaval",
+Cualquier excusa, una cho[D]rrada, es buena para brindar,
+Soltar en una carca[Em]jada todo lo que va mal, ahá... [C]
 
-[G] Me hablaste de tus ilus[D]iones
-De tus ganas de cam[Em]biar
-Y entre trago y cigarr[C]illo
-Nos pusimos a can[D]tar
+## Pre-Coro
+[Em] Sentirme como una co[D]lilla entre unos labios al fu[C]mar,
+[Em] Colgado de tu pelo [D] rojo que me va a matar... [C] [D]
 
 ## Coro
-[G] Y si no nos queda [D] tiempo
-Para volver a empa[Em]tar
-Princesas de barrio que [C] bajan al centro
-A buscarse la [G] vida, a bailar con el [D] viento
-Princesas sin reino que [Em] saben perder
-Y volver a empa[C]tar... [G] [D] [Em] [C]
+De prin[G]cesas que buscan tipos que coleccio[D]nar
+A los pies de su [Em] cama, eres algo que he olvi[C]dado ya.
+De prin[G]cesas que buscan tipos que coleccio[D]nar
+En el fondo del [Em] vaso, me parece que te [C] vi pasar.
 
 ## Verso 2
-[G] Salimos a la calle [D] fría
-Sin saber muy bien a [Em] dónde
-Buscando un taxi que nos [C] lleve
-A cualquier sitio que se es[G]conda
-
-[G] Me dijiste al oído: [D] quédate un ratito más
-[Em] Que la noche se acaba [C] y la magia se nos [D] va
+[G] Sigo esperando que me llames y me digas qué tal,
+Que te has cansado de [D] hacerte la chica de arrabal,
+Que ya no sales con [Em] tipos que van de rock&roll, [C]
+[G] Que se te caen los anillos si me dices adiós,
+Que todavía te a[D]cuerdas de lo nuestro en el colchón,
+Y que te mueres de [Em] pena si te falta mi voz... [C]
 
 ## Coro
-[G] Y si no nos queda [D] tiempo
-Para volver a empa[Em]tar
-Princesas de barrio que [C] bajan al centro
-A buscarse la [G] vida, a bailar con el [D] viento
-Princesas sin reino que [Em] saben perder
-Y volver a empa[C]tar... [G]
+De prin[G]cesas que buscan tipos que coleccio[D]nar
+A los pies de su [Em] cama, eres algo que he olvi[C]dado ya.
+De prin[G]cesas que buscan tipos que coleccio[D]nar
+En el fondo del [Em] vaso, me parece que te [C] vi pasar... [G]

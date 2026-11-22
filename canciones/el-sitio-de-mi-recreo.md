@@ -1,43 +1,45 @@
 ---
 title: "El Sitio de Mi Recreo"
 artist: "Antonio Vega"
-key: "C"
+key: "G"
 capo: 0
-tempo: 85
-tags: ["pop", "español", "balada", "poesía", "acústico"]
+tempo: 78
+tags: ["acústico", "balada", "poesía", "español", "90s"]
 ---
 
 ## Intro
-[C] [Em] [Am] [F] [G]
-[C] [Em] [Am] [F] [G]
+[G] [Em] [C] [Am] [D]
 
 ## Verso 1
-[C] Donde nacen los ca[Em]prichos de la brisa
-[Am] Donde el sol nunca se [F] cansa de alum[G]brar
-[C] Hay un lugar escon[Em]dido en mi memoria
-[Am] Donde guardo las ca[F]ricias que me [G] das
-
-[F] Silencio, brisa y cor[G]dura
-Espacio de [Em] luz y de cal[Am]ma
-[F] Donde se curan las [G] dudas
-Que a veces me [C] rompen el al[G]ma
+[G] Donde nos llevó la imaginación,
+[Em] Donde con los ojos cerrados
+Se di[C]visan infi[Am]nitos [D] campos.
+[G] Donde se creó la primera luz,
+[Em] Junto a la semilla del cielo azul,
+Volve[C]ré a ese lu[Am]gar donde na[D]cí.
 
 ## Coro
-[C] En el sitio de mi re[Em]creo
-Vuelan las [Am] horas que per[F]dí [G]
-[C] Y en las sombras de mi de[Em]seo
-Vuelvo a sen[Am]tirme junto a [F] ti [G]
-Junto a [C] ti... [Em] [Am] [F] [G]
+[C] De sol, es[G]piga y deseo,
+[Am] Son sus manos [D] en mi pelo,
+[C] De nieve, hura[G]cán y abismos,
+[Am] El sitio de [D] mi recreo.
 
 ## Verso 2
-[C] Viento suave que des[Em]pierta mis sentidos
-[Am] Manantial de agua que [F] calma mi sed [G]
-[C] Entre ramas de lau[Em]reles florecidos
-[Am] He dejado mi can[F]sancio y mi ve[G]jez
+[G] Viento que en su murmullo parece hablar,
+[Em] Mueve el mundo con gracia los ves bailar,
+Y con [C] él el esce[Am]nario de mi ho[D]gar.
+[G] Mar, bandeja de plata, mar infernal,
+[Em] Es un temperamento muy natural,
+Poco o [C] nada cuesta [Am] ser uno [D] más.
 
 ## Coro
-[C] En el sitio de mi re[Em]creo
-Vuelan las [Am] horas que per[F]dí [G]
-[C] Y en las sombras de mi de[Em]seo
-Vuelvo a sen[Am]tirme junto a [F] ti [G]
-En el sitio de mi re[C]creo
+[C] De sol, es[G]piga y deseo,
+[Am] Son sus manos [D] en mi pelo,
+[C] De nieve, hura[G]cán y abismos,
+[Am] El sitio de [D] mi recreo.
+
+## Outro
+[C] Silencio, [G] brisa y cordura,
+[Am] Ponen freno a [D] mi locura,
+[C] Caer en un [G] pozo sin fondo,
+[Am] El sitio de [D] mi recreo... [G]

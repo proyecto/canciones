@@ -1,52 +1,55 @@
 ---
 title: "La Vereda de la Puerta de Atrás"
 artist: "Extremoduro"
-key: "G"
-capo: 0
-tempo: 116
-tags: ["rock", "español", "clásico", "himno"]
+key: "Am"
+capo: 1
+tempo: 110
+tags: ["rock", "español", "poesía", "2000s"]
 ---
 
+// Cejilla en traste 1 para tono original de disco
 ## Intro
-[G] [D] [Em] [C]
-[G] [D] [Em] [C]
+[Am] [G] [F] [G] (x4)
 
 ## Verso 1
-[G] Ya no queda casi nada
-[D] De la noche de ayer
-[Em] Solo un montón de cenizas
-[C] Y ganas de correr
+[Am] Si no fuera porque hice colo[G]cado [F]
+El ca[G]mino de tu es[Am]pera
+Me ha[G]bría desco[F]nectado, [G]
+[Am] Condenado a mirarte desde [G] fuera [F]
+Y de[G]jar que te to[Am]cara el [G] sol. [F] [G]
 
-[G] Que me voy a la vereda
-[D] De la puerta de atrás
-[Em] A ver si encuentro el camino
-[C] Que me lleve a la paz
+[Am] Y si fuera mi vida una esca[G]lera [F]
+Me la he pa[G]sado en[Am]tera
+Bus[G]cando el si[F]guiente esca[G]lón,
+[Am] Convencido que estás en el te[G]jado [F]
+Espe[G]rando a ver si [Am] llego [G] yo. [F] [G]
 
 ## Coro
-[G] Y si fuera mi [D] vida una esca[Em]lera
-Me la pa[C]saría ente[G]ra
-Buscando una [D] nube para descan[Em]sar [C]
-
-[G] Y si fuera mi [D] canto como el [Em] viento
-Se lo lle[C]varía el mo[G]mento
-Y a nadie ten[D]dría que dar expli[Em]cación [C]
+[C] Y dejar de lado la ve[Am]reda de la puerta de a[Em]trás
+Por donde te vi pa[F]sar.
+[C] Como una regadera que la [Am] hierba hace que vuelva a bro[Em]tar
+Y ahora todo es [F] campo ya.
 
 ## Verso 2
-[G] Que me entierren en el campo
-[D] Donde crezca la hierba
-[Em] Que no me pongan flores
-[C] Que la lluvia me riegue
+[Am] Sus soldados son flores de ma[G]dera [F]
+Y mi ejér[G]cito no tiene ban[Am]dera,
+Es [G] sólo un cora[F]zón, [G]
+[Am] Condenado a vivir entre ma[G]lezas [F]
+Sem[G]brando flores [Am] de algo[G]dón. [F] [G]
 
-[G] Déjame que me pierda
-[D] Entre la multitud
-[Em] Que no necesito un faro
-[C] Si me falta la luz
+[Am] Si me espera la muerte traicio[G]nera [F]
+Y antes [G] de repartirme del [Am] todo
+Me [G] veo en un ca[F]jón, [G]
+[Am] Que me entierren con la picha por [G] fuera [F]
+Pa' [G] que se la coma un ra[Am]tón. [G] [F] [G]
 
 ## Coro
-[G] Y si fuera mi [D] vida una esca[Em]lera
-Me la pa[C]saría ente[G]ra
-Buscando una [D] nube para descan[Em]sar [C]
+[C] Y muere a todas horas gente [Am] dentro de mi televi[Em]sor,
+Quiero oír alguna can[F]ción
+[C] Que no hable de sandeces y que [Am] diga que no sobra el a[Em]mor
+Y que empiece en sí, [F] no en no.
 
-[G] Y si fuera mi [D] canto como el [Em] viento
-Se lo lle[C]varía el mo[G]mento
-Y a nadie ten[D]dría que dar expli[Em]cación... [G]
+[C] Y dejar de lado la ve[Am]reda de la puerta de a[Em]trás
+Por donde te vi mar[F]char.
+[C] Como una regadera que la [Am] hierba hace que vuelva a bro[Em]tar
+Y ahora todo es [F] campo ya.

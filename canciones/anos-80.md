@@ -1,45 +1,50 @@
 ---
 title: "Años 80"
 artist: "Los Piratas"
-key: "G"
+key: "D"
 capo: 0
-tempo: 126
-tags: ["rock", "indie", "español", "2000s", "himno"]
+tempo: 124
+tags: ["indie", "rock", "español", "2000s"]
 ---
 
 ## Intro
-[G] [D] [Em] [C]
-[G] [D] [Em] [C]
+[G] [F#m] [Em] (x2)
+[D] [Dmaj7] [Em] (x2)
 
 ## Verso 1
-[G] No te echo de menos en los [D] años ochenta
-[Em] Ni te busco en las esquinas de los [C] bares
-[G] Sé que estás bien, que te van [D] bien las cosas
-[Em] Que encontraste a alguien que te da lo que [C] soñabas
+[D] Cuando me [Dmaj7] hiciste llamar no sospe[C]chaba,
+[D] Plasti[Dmaj7]lina con color, ropa inte[C]rior, recuerdos de allá [A] fuera,
+[D] Cómics de [Dmaj7] ciencia-ficción, vida inte[C]rior.
 
-[G] Yo me quedé con mis discos de [D] vinilo
-[Em] Y con las canciones que te ha[C]cían llorar
-[G] Pero no te preocupes por [D] mí
-[Em] Aquí todo sigue [C] igual
+## Pre-Coro
+[Bm] Y yo no quiero [Em] volver, [F#m]
+[Bm] No me repitas ja[Em]más que no sabes qué [Bm] hora es,
+¿Las siete y veinti[F#m]siete o no?
+[G] Ya terminé.
 
 ## Coro
-[G] Y no te preocupes por [D] mí
-Que ya he aprendido a con[Em]tar
-Los minutos que faltan para [C] verte marchar
-[G] No te preocupes por [D] mí
-Que no me va a pasar [Em] nada
-Solo quiero una noche más [C] en tu cama... [G] [D] [Em] [C]
+[D] No te echaré de [Dmaj7] menos en sep[Em]tiembre, [A]
+[D] Verano muerto ve[Dmaj7]ré a las chicas pa[Em]sar, [A]
+[G] Será como a[F#m]quella canción de los [Em] años 80,
+[G] Seré como el [F#m] tipo que algún día [Em] fui. [A]
 
 ## Verso 2
-[G] Pasan los días, los meses, los [D] años
-[Em] Y los recuerdos se vuelven de [C] plástico
-[G] Pero hay momentos en que suenas tan [D] claro
-[Em] Como si estuvieras aquí al [C] lado
+[D] Bloody [Dmaj7] Marys en el bar, [C]
+Un déjà [A] vu, Matrix está cam[D]biando
+Por la confe[Dmaj7]sión brutal de tu re[C]lato.
+
+## Pre-Coro
+[Bm] Y yo no quiero [Em] volver, [F#m]
+[Bm] No me repitas ja[Em]más que no sabes qué [Bm] hora es,
+¿Las siete y veinti[F#m]siete o no?
+[G] Ya terminé.
 
 ## Coro
-[G] Y no te preocupes por [D] mí
-Que ya he aprendido a con[Em]tar
-Los minutos que faltan para [C] verte marchar
-[G] No te preocupes por [D] mí
-Que no me va a pasar [Em] nada
-Solo quiero una noche más [C] en tu cama... [G]
+[D] No te echaré de [Dmaj7] menos en sep[Em]tiembre, [A]
+[D] Verano muerto ve[Dmaj7]ré a las chicas pa[Em]sar, [A]
+[G] Será como a[F#m]quella canción de los [Em] años 80,
+[G] Seré como el [F#m] tipo que algún día [Em] fui.
+
+## Outro
+[G] Será como a[F#m]quella canción de los [Em] años 80,
+[G] Seré como el [F#m] tipo que algún día [Em] fui... [D]

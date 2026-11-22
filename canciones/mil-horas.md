@@ -1,46 +1,45 @@
 ---
 title: "Mil Horas"
 artist: "Los Abuelos de la Nada"
-key: "Am"
+key: "Gm"
 capo: 0
-tempo: 128
-tags: ["rock", "pop", "argentino", "80s", "himno"]
+tempo: 118
+tags: ["rock", "pop", "argentina", "80s"]
 ---
 
 ## Intro
-[Am] [Dm] [G] [C]
-[Am] [Dm] [G] [C]
+[Gm] [Dm] [Gm] [Dm]
 
 ## Verso 1
-[Am] Hace frío y estoy lejos de [Dm] casa
-[G] Hace tiempo que estoy sentado sobre esta [C] piedra
-[Am] Yo me pregunto para qué sirven las [Dm] guerras
-[G] Tengo un cohete en el pantalón [C]
-
-[Am] Vos estás tan fría como la [Dm] nieve
-[G] A mi lado y no te puedo to[C]car
-[Am] Y en el circo vos sos una es[Dm]trella
-[G] Una estrella que no sabe bri[C]llar
-
-## Coro
-[Am] Te esperé bajo la lluvia dos [Dm] horas
-[G] Mil horas, como un [C] perro
-[Am] Y cuando llegaste me mi[Dm]raste
-Y me dijiste: [G] "Loco, estás moja'o, ya no te [C] quiero"
-
-[Am] Te esperé bajo la lluvia dos [Dm] horas
-[G] Mil horas, como un [C] perro
-[Am] Y cuando llegaste me mi[Dm]raste
-Y me dijiste: [G] "Loco, estás moja'o, ya no te [C] quiero"
+[Gm] Hace frío y estoy lejos de [Dm] casa, [Gm]
+Hace tiempo que estoy sentado sobre esta [Dm] piedra, [Gm]
+[Eb] Yo me pregunto: ¿para qué sirven las [Dm] guerras? [C7]
 
 ## Verso 2
-[Am] En el circo vos sos una es[Dm]trella
-[G] Una estrella que brilla en la oscuri[C]dad
-[Am] Pero cuando se apagan las [Dm] luces
-[G] Sos tan solo una sombra que se [C] va
+[Gm] Tengo un cohete en el panta[C7]lón,
+[Gm] Y vos estás tan [C7] fría
+[Gm] Como la nieve a mi alrededor,
+[Gm] Vos estás tan blanca que yo no sé qué ha[Eb]cer.
 
 ## Coro
-[Am] Te esperé bajo la lluvia dos [Dm] horas
-[G] Mil horas, como un [C] perro
-[Am] Y cuando llegaste me mi[Dm]raste
-Y me dijiste: [G] "Loco, estás moja'o, ya no te [C] quiero"
+[Gm] La otra noche te esperé bajo la lluvia
+[Cm] Dos horas, [Dm] mil horas, como un [Eb] perro.
+[Gm] Y cuando llegaste me miraste y me dijiste:
+[Cm] "Loco, estás mo[Dm]jado, ya no te [Eb] quiero".
+
+## Puente
+[Cm] En el circo [Dm] vos ya sos una es[Gm]trella,
+[Cm] Una estrella [Dm] roja que todos se la ima[Gm]ginan.
+[Cm] Si te pre[Dm]guntan, vos no me cono[C7]cías, no, no...
+
+## Verso 3
+[Gm] Tengo un cohete en el panta[C7]lón,
+[Gm] Y vos estás tan [C7] fría
+[Gm] Como la nieve a mi alrededor,
+[Gm] Vos estás tan blanca que yo no sé qué ha[Eb]cer.
+
+## Coro Final
+[Gm] La otra noche te esperé bajo la lluvia
+[Cm] Dos horas, [Dm] mil horas, como un [Eb] perro.
+[Gm] Y cuando llegaste me miraste y me dijiste:
+[Cm] "Loco, estás mo[Dm]jado, ya no te [Eb] quiero"... [Gm]

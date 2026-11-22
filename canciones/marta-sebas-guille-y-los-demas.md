@@ -1,57 +1,63 @@
 ---
 title: "Marta, Sebas, Guille y los demás"
 artist: "Amaral"
-key: "G"
+key: "D"
 capo: 0
 tempo: 120
-tags: ["pop", "rock", "español", "2000s", "amigos", "himno"]
+tags: ["pop", "rock", "español", "2000s"]
 ---
 
 ## Intro
-[G] [D] [Em] [C]
-[G] [D] [Em] [C]
+[G] [D] [A]
 
 ## Verso 1
-[G] Hoy hace frío en Ma[D]drid
-Y me he puesto a pen[Em]sar en ti
-En las [C] tardes de verano que pasa[G]mos
-Riendo en aquel por[D]tal
-Sin saber qué iba a pa[Em]sar
-Con la [C] vida que teníamos de[D]lante
+[D] Marta me llamó a las [A] seis, hora española,
+[Bm] Sólo para hablar, sólo [G] se sentía sola.
+[D] Porque Sebas se mar[A]chó de vuelta a Buenos Aires,
+[Bm] El dinero se acabó, [G] ya no hay sitio para nadie.
 
-[G] Marta se fue a vivir a [D] Berlín
-Sebas sigue en el mismo [Em] bar
-Y Guille [C] jura que este año va a cam[G]biar
-Y yo sigo aquí con mi gui[D]tarra
-Cantándole al [Em] mar
-Que nunca [C] baña esta ciu[D]dad
-
-## Coro
-[G] Son mis amigos
-Por en[D]cima de todas las cosas
-[Em] Son esa gente
-Que no [C] te pide nada a cambio
-[G] Son mis amigos
-Y me [D] salvan la vida mil veces
-[Em] Cuando me caigo
-Y ya no [C] puedo levan[D]tarme
-Son mis ami[G]gos... [D] [Em] [C]
+## Puente 1
+[Em] ¿Dónde empieza y dónde aca[Bm]bará
+El des[D]tino que nos une y nos separa[A]rá?
 
 ## Verso 2
-[G] Hemos bailado hasta el [D] amanecer
-Hemos llorado por [Em] amor
-Y hemos [C] jurado no volver a caer [G]
-Pero siempre que nos vol[D]vemos a ver
-Es como si el [Em] tiempo
-No hu[C]biera pasado a[D]yer
+[D] Yo estoy sola en el ho[A]tel, estoy viendo amanecer,
+[Bm] Santiago de Chile se des[G]pierta entre montañas.
+[D] Aguirre toca la gui[A]tarra en la 304,
+[Bm] Un gato rebelde que anda [G] medio enamorao
+De la seño[Em]rita rock and roll,
+Aunque [D] no lo ha confe[Bm]sado,
+[A] Eso lo sé yo.
 
 ## Coro
-[G] Son mis amigos
-Por en[D]cima de todas las cosas
-[Em] Son esa gente
-Que no [C] te pide nada a cambio
-[G] Son mis amigos
-Y me [D] salvan la vida mil veces
-[Em] Cuando me caigo
-Y ya no [C] puedo levan[D]tarme
-Son mis ami[G]gos
+[D] Son mis a[A]migos, [Bm] en la calle
+[G] Pasábamos las [D] horas. [A]
+[D] Son mis a[A]migos, [Bm] por encima de
+[G] Todas las [D] cosas. [A]
+
+## Verso 3
+[D] Carlos me contó que a su [A] hermana Isabel
+La e[Bm]charon del trabajo sin sa[G]ber por qué.
+[D] No le dieron ni las [A] gracias porque estaba sin contrato,
+A[Bm]quella misma tarde fuimos [G] a celebrarlo:
+[Em] Ya no tendrás que soportar al im[D]bécil de tu [Bm] jefe
+Ni un mi[A]nuto más.
+
+## Coro
+[D] Son mis a[A]migos, [Bm] en la calle
+[G] Pasábamos las [D] horas. [A]
+[D] Son mis a[A]migos, [Bm] por encima de
+[G] Todas las [D] cosas. [A]
+
+## Puente 2
+[G] Alicia fue a vivir a Barce[D]lona,
+Y [Bm] hoy ha venido a mi me[A]moria.
+[G] Claudia tuvo un hijo y de Guille y [D] los demás
+Ya [Bm] no sé [A] nada...
+
+## Coro Final
+[D] Son mis a[A]migos, [Bm] en la calle
+[G] Pasábamos las [D] horas. [A]
+[D] Son mis a[A]migos, [Bm] por encima de
+[G] Todas las [D] cosas. [A]
+[G] Son mis a[A]migos... [D] [Bm] [G] [D] [A] [D]

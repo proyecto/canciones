@@ -1,44 +1,38 @@
 ---
 title: "La Chica de Ayer"
 artist: "Nacha Pop"
-key: "A"
+key: "G"
 capo: 0
-tempo: 128
-tags: ["pop", "rock", "80s", "español", "movida"]
+tempo: 125
+tags: ["movida", "pop", "español", "80s"]
 ---
 
 ## Intro
-[A] [F#m] [D] [E]
-[A] [F#m] [D] [E]
+[G] [D] [C] (x2)
 
 ## Verso 1
-[A] Un día cualquiera, no sabes qué [F#m] hora es
-[D] Te sientas y notas que el tiempo se [E] va
-[A] Miras los libros, no hay nada que [F#m] leer
-[D] Y buscas a alguien con quien conver[E]sar
-
-## Pre-Coro
-[D] Y luego el sol al despun[E]tar te alumbrará
-[D] Y entre la niebla su silueta apa[E]recerá
+[Bm] Un día cualquiera no [Am] sabes qué hora [G] es,
+[Am] Te acuestas a mi [D] lado sin saber por [C] qué.
+[Bm] Las calles mojadas te [Am] han visto cre[G]cer,
+[Am] Y tú en tu corazón es[D]tás llorando otra [C] vez.
 
 ## Coro
-[A] La chica de a[F#m]yer
-La que una [D] noche te hizo enloque[E]cer
-[A] La chica de a[F#m]yer
-La que te [D] besa y te hace desfa[E]llecer
+[G] Me asomo a la ven[D]tana y eres la [C] chica de ayer,
+[G] Jugando con las [D] flores de mi jar[C]dín.
+[D] Demasiado [C] tarde para com[G]prender,
+[D] Chica, vete a tu [C] casa, hoy no podemos ju[G]gar.
 
 ## Verso 2
-[A] Pasan las horas, miras el reloj [F#m]
-[D] La tarde se muere sin compa[E]sión
-[A] Te sientes solo en la habita[F#m]ción
-[D] Y en tu cabeza suena una can[E]ción
-
-## Pre-Coro
-[D] Y luego el sol al despun[E]tar te alumbrará
-[D] Y entre la niebla su silueta apa[E]recerá
+[Bm] La luz de la mañana [Am] entra en mi habita[G]ción,
+[Am] Tus cabellos do[D]rados parecen el [C] sol.
+[Bm] Y luego por la noche [Am] "al Penta" a escu[G]char
+[Am] Canciones que consiguen [D] que te pueda a[C]mar.
 
 ## Coro
-[A] La chica de a[F#m]yer
-La que una [D] noche te hizo enloque[E]cer
-[A] La chica de a[F#m]yer
-La que te [D] besa y te hace desfa[E]llecer... [A]
+[G] Me asomo a la ven[D]tana y eres la [C] chica de ayer,
+[D] Demasiado [C] tarde para com[G]prender.
+
+## Outro
+[D] Mi cabeza da [C] vueltas persiguién[G]dote,
+[D] Mi cabeza da [C] vueltas persiguién[G]dote,
+[D] Mi cabeza da [C] vueltas persiguién[G]dote... [G]

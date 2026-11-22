@@ -2,40 +2,48 @@
 title: "Tu Calorro"
 artist: "Estopa"
 key: "Am"
-capo: 2
-tempo: 125
-tags: ["rumba", "rock", "español", "clásico"]
+capo: 0
+tempo: 132
+tags: ["rumba", "rock", "español", "90s"]
 ---
 
-// Tocar con ritmo de rumba catalana
-
 ## Intro
-[Am] [Dm] [G] [C] [E]
-[Am] [Dm] [G] [C] [E]
+[E] [F] [G] [C] [F] [G] [F] [E]
 
 ## Verso 1
-[Am] Cada mañana veo tu [E] imagen al despertar
-[Am] Y me pongo a pensar si algún [E] día te podré besar
-[Am] Y es que me pongo tan [Dm] calorro cuando te veo pa[G]sar
-Que se me suben las [C] babas y no puedo respi[E]rar
+[E] Fui a la orilla del [F] río y vi que estabas muy sola,
+Vi que te habías dor[G]mido, vi que crecían ama[C]polas
+En lo alto de tu [F] pecho, tu pecho hecho en la [G] gloria,
+Yo me fui pa' ti de[F]recho [G] y así en[F]traste en mi me[E]moria.
 
-[Am] Y si supieras lo que [E] siento por dentro
-[Am] Cuando te veo moverte [E] lenta como el viento
-[Am] Te daría mi vida y [Dm] todo lo que tengo
-[G] Y nos iríamos juntos a [C] dar un buen paseo [E]
+[E] Tú me vestiste los [F] ojos, yo te besaba la boca,
+Toas' las palomas que [G] cojo vuelan a la pata [C] coja,
+Tú ibas tendiendo las [F] alas, yo iba cerrando la [G] boca,
+Tú eras flor desarro[F]pada y [E] yo el calorro que te arropa.
 
 ## Coro
-[Am] Porque tú eres mi calorro, [Dm] mi calorro de verdad
-[G] La que me alegra los días [C] y me quita la sole[E]dad
-[Am] Porque tú eres mi calorro, [Dm] mi calorro sin igual
-[G] Con esa mirada tuya [C] que me tiene encandila[E]o
-
-## Puente
-[Am] [Dm] [G] [C] [E]
-[Am] [Dm] [G] [C] [E]
+[E] Tu perfume es el veneno
+[F] Que contamina el aire que tu pelo corta,
+[G] Que me corta hasta el habla y el entendimiento
+Porque es la droga que [C] vuelve mi cabeza loca.
+Después me quedo dor[F]mido
+En una cama más [G] dura que una roca,
+Soñando que aún no te has [F] ido,
+Soñando [G] que aún [F] me [E] tocas.
 
 ## Verso 2
-[Am] Ya no duermo por las [E] noches pensando en tu piel
-[Am] Y en lo dulce que sería [E] probar de tu miel
-[Am] Me vuelves tan majara, [Dm] me vuelves tan loco
-[G] Que cuando no te miro [C] siento que me desmo[E]rono
+[E] El sol se va sonro[F]jando porque la noche le va cayendo,
+Los pájaros van lle[G]gando, los árboles tienen [C] sueño,
+Sus hojas ya se han can[F]sado de aguardar tanto el in[G]vierno,
+Y yo sigo aquí a tu [F] lado y [G] hasta que [F] me lleve el [E] viento.
+
+[E] De luto se pone el [F] cielo que viene con nubes negras,
+Será porque tiene [G] celos de que esta noche te [C] tenga,
+Qué oscuro que se está ha[F]ciendo, échale leña a la ho[G]guera,
+La hoguera de senti[F]mientos que arde si es[E]toy a tu vera.
+
+## Coro Final
+[E] Tu perfume es el veneno
+[F] Que contamina el aire que tu pelo corta,
+[G] Que me corta hasta el habla y el entendimiento
+Porque es la droga que [C] vuelve mi cabeza loca... [E]

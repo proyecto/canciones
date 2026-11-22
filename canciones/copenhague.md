@@ -1,46 +1,46 @@
 ---
 title: "Copenhague"
 artist: "Vetusta Morla"
-key: "D"
+key: "Bm"
 capo: 0
 tempo: 96
 tags: ["indie", "pop", "español", "acústico"]
 ---
 
 ## Intro
-[D] [G] [Bm] [A]
-[D] [G] [Bm] [A]
+[Bm] [G] [D]
+[Bm] [G] [D]
 
 ## Verso 1
-[D] Llueve en Copen[G]hague
-Y el frío se cuela por las rendijas [Bm]
-De una puerta que dejé en[A]treabierta
-Por si acaso vol[D]vías
+[Bm] Él corría, nunca le ense[G]ñaron a andar,
+Se fue tras luces [D] pálidas.
+[Bm] Ella huía de espe[G]jismos y horas de más,
+Aero[D]puertos. Unos vienen, otros se van.
+[Bm] El espacio es un lu[G]gar tan vacío sin ti,
+Un en[D]jambre sin reina.
 
-[D] Las bicicletas ruedan en si[G]lencio
-Bajo un cielo gris de plu[Bm]mo
-Y yo que no encuentro el ca[A]mino
-Ni el aire en el que me es[D]fumo
+## Pre-Coro
+[Bm] Llueve en el ca[G]nal,
+La co[D]rriente enseña el ca[A]mino hacia el mar.
+[Bm] Todos duermen [G] ya.
 
 ## Coro
-[G] Y dejarse llevar suena de[D]masiado bien
-[Bm] Jugar al azar con las car[A]tas que nos den
-[G] Es el momento de asaltar las esta[D]ciones
-[Bm] Y quemar los mapas de las can[A]ciones
+Dejarse lle[D]var suena dema[A]siado [G] bien,
+Jugar al a[D]zar, nunca saber [A] dónde puedes termi[G]nar.
+O empe[D]zar.
 
 ## Verso 2
-[D] Me siento en la barra de un [G] bar
-Donde nadie pronuncia mi [Bm] nombre
-Miro hacia afuera pasar
-A fantasmas vestidos de [A] hombre
+[Bm] Danzar al compás del [G] radar,
+Navegar en un [D] mar de asfalto y cristal.
+[Bm] Despegar sin mi[G]rar hacia atrás,
+Conquistar la ciu[D]dad en un parpadeo.
 
-[D] Pero hay una chispa en tus [G] ojos
-Que viaja conmigo en el [Bm] tren
-Y aunque la nieve caiga por [A] kilos
-Sé que todo saldrá [D] bien
+## Pre-Coro
+[Bm] Llueve en el ca[G]nal,
+La co[D]rriente enseña el ca[A]mino hacia el mar.
+[Bm] Todos duermen [G] ya.
 
 ## Coro
-[G] Y dejarse llevar suena de[D]masiado bien
-[Bm] Jugar al azar con las car[A]tas que nos den
-[G] Es el momento de asaltar las esta[D]ciones
-[Bm] Y quemar los mapas de las can[A]ciones... [D]
+Dejarse lle[D]var suena dema[A]siado [G] bien,
+Jugar al a[D]zar, nunca saber [A] dónde puedes termi[G]nar.
+O empe[D]zar.

@@ -1,44 +1,50 @@
 ---
 title: "Por la Boca Vive el Pez"
 artist: "Fito & Fitipaldis"
-key: "G"
+key: "Am"
 capo: 0
-tempo: 132
-tags: ["rock", "español", "2000s", "clásico"]
+tempo: 130
+tags: ["rock", "español", "2000s"]
 ---
 
 ## Intro
-[G] [D] [C] [D]
-[G] [D] [C] [D]
+[F] [G] [Am] (x2)
 
 ## Verso 1
-[G] Salir a la calle a buscar un mo[D]tivo
-Para no que[C]darme en casa con la sole[D]dad
-[G] Encontrar en un vaso de vino el des[D]tino
-Y saber que ma[C]ñana todo volverá a empe[D]zar
+[F] Algo, lo que me in[G]vade, todo viene de [Am] dentro,
+[F] Nunca lo que me [G] sacie, siempre quiero, lobo ham[Am]briento.
+[F] Todo me queda [G] grande para no estar con[Am]tigo,
+[F] ¿Sabes?, quisiera [G] darte siempre un poco más de lo que te [Am] pido.
 
-[Em] Nunca he sido de los que echan el [Bm] freno
-[C] Siempre fui de los que pisan a [D] fondo
-[Em] Si me caigo del cielo al in[Bm]fierno
-[C] No me busques que estoy en lo más [D] hondo
+## Pre-Coro
+[G] Sabes que soñaré si no es[F]tás, que me despierto con[Am]tigo,
+[G] Sabes que quiero más, no sé vi[F]vir sólo con cinco sen[Am]tidos.
+[F] Este mar cada [G] vez guarda más barcos hun[Am]didos. [F] [G] [Am]
 
 ## Coro
-[G] Porque por la boca vive el [D] pez
-Y por las ma[C]nos se escapa la vida a ve[D]ces
-[G] Si me das a elegir otra [D] vez
-Me que[C]daría con todo lo que me [D] ofreces
-[G] Por la boca vive el [D] pez
-[C] Y por los ojos se asoma la [D] calma
-[G] Por la boca vive el [D] pez... [C] [D]
+[F] Tú eres aire, yo papel, donde [Am] vayas yo me iré,
+[F] Si me quedo a oscuras, luz de la lo[E]cura, ven y alúmbra[Am]me.
+[F] Alguien dijo alguna vez "por la [Am] boca vive el pez"
+[F] Y yo lo estoy diciendo, te lo estoy di[E]ciendo, otra [Am] vez...
+
+## Solo
+[F] [G] [Am] (x2)
 
 ## Verso 2
-[G] No me digas que ya no te a[D]cuerdas
-De las noches que pa[C]samos sin dor[D]mir
-[G] De los besos robados a [D] tientas
-Y las ganas que te[C]níamos de vi[D]vir
+[F] Dime por qué pre[G]guntas cuánto te he echao de [Am] menos,
+[F] Si en cada canción que es[G]cribo, corazón, eres tú el a[Am]cento.
+[F] No quiero estrella er[G]rante, no quiero ver la au[Am]rora,
+[F] Quiero mirar tus [G] ojos del color de la coca-[Am]cola.
 
-## Coro
-[G] Porque por la boca vive el [D] pez
-Y por las ma[C]nos se escapa la vida a ve[D]ces
-[G] Si me das a elegir otra [D] vez
-Me que[C]daría con todo lo que me [D] ofreces... [G]
+## Pre-Coro
+[G] Sabes que soñaré si no es[F]tás, que me despierto con[Am]tigo,
+[G] Sabes que quiero más, no sé vi[F]vir sólo con cinco sen[Am]tidos.
+[F] Este mar cada [G] vez guarda más barcos hun[Am]didos.
+
+## Parte Final
+[Dm] No estás conmigo siempre que te canto, yo hago canciones para estar con[Am]tigo,
+[E] Porque escribo igual que sangro, porque sangro todo lo que es[Am]cribo.
+[Dm] Me he dado cuenta, cada vez que canto, que si no canto no sé lo que [Am] digo,
+[E] La pena está bailando con el llanto y cuando quiera bailará con[Am]migo.
+[Dm] La vida eterna sólo dura un rato, que es lo que tengo para estar con[Am]tigo,
+[E] Para decirte lo que nunca canto, para cantarte lo que nunca [Am] digo.

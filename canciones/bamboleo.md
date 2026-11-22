@@ -3,8 +3,8 @@ title: "Bamboleo"
 artist: "Gipsy Kings"
 key: "Em"
 capo: 0
-tempo: 125
-tags: ["rumba", "flamenco", "fiesta", "clásico"]
+tempo: 120
+tags: ["flamenco", "rumba", "clásico", "80s"]
 ---
 
 ## Intro
@@ -12,25 +12,30 @@ tags: ["rumba", "flamenco", "fiesta", "clásico"]
 [Em] [B7] [Em] [B7]
 
 ## Verso 1
-[Em] Este amor llega así, esta ma[B7]nera
-No tiene la culpa, caba[Em]llo de sabana vieja
-Porque tiene por la mañana, no me digas que [B7] no
-Tú me quieres, tú me amas, corazón de mi [Em] amor
+[Em] Este amor llega así, de esta manera,
+No tiene la [B7] culpa.
+Caballo de sabana vieja
+Porque muy depre[Em]ciado,
+Por eso no te perdón de llo[B7]rar.
 
 ## Coro
-[Em] Bamboleo, bambo[Am]lea
-Porque mi vida yo la pre[D]fiero vivir a[G]sí [B7]
-[Em] Bamboleo, bambo[Am]lea
-Porque mi vida yo la pre[D]fiero vivir a[G]sí [B7]
+[Em] Bamboleo, [Am] bambolea,
+Porque mi [B7] vida,
+Yo la prefiero vi[Em]vir así.
+[Em] Bamboleo, [Am] bambolea,
+Porque mi [B7] vida,
+Yo la prefiero vi[Em]vir así.
 
-## Verso 2
-[Em] No te mires en el espejo, que te vas a con[B7]fundir
-El amor que yo te tengo nadie te lo va a [Em] dar
-Baila que baila la rumba, rumba de cora[B7]zón
-Mueve la cintura, morena, al compás de mi [Em] son
+## Puente
+No tiene per[Am]dón de Dios,
+[D7] Tú eres mi vida, la for[G]tuna del destino,
+[C] Pero el destino tendría pa[Am]rados
+Lo mismo que a[B7]yer, lo mismo soy [Em] yo.
 
 ## Coro
-[Em] Bamboleo, bambo[Am]lea
-Porque mi vida yo la pre[D]fiero vivir a[G]sí [B7]
-[Em] Bamboleo, bambo[Am]lea
-Porque mi vida yo la pre[D]fiero vivir a[G]sí [B7] [Em]
+[Em] Bamboleo, [Am] bambolea,
+Porque mi [B7] vida,
+Yo la prefiero vi[Em]vir así.
+[Em] Bamboleo, [Am] bambolea,
+Porque mi [B7] vida,
+Yo la prefiero vi[Em]vir así. [Em]

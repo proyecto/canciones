@@ -3,44 +3,44 @@ title: "Como Camarón"
 artist: "Estopa"
 key: "Am"
 capo: 0
-tempo: 135
-tags: ["rumba", "rock", "español", "clásico"]
+tempo: 136
+tags: ["rumba", "rock", "español", "90s"]
 ---
 
 ## Intro
-[Am] [Dm] [G] [C] [E7]
-[Am] [Dm] [G] [C] [E7]
+[Am] [G] [Em] [F] [E]
+[Am] [G] [Em] [F] [E]
 
 ## Verso 1
-[Am] Cada vez que te miro se me para el cora[Dm]zón
-Me pongo rojo como un to[G]mate
-Se me corta la voz y me entra la tiri[C]tona [E7]
-[Am] Y es que tú tienes algo que me quita el sen[Dm]tío
-Algo que me vuelve loco, que me [G] deja perdío
-Y no sé cómo de[C]cirte que me muero por [E7] ti
-
-## Coro
-[Am] Y yo no sé qué me pasa que cuando me [Dm] miras
-Me pongo a tem[G]blar
-Y se me llena la boca de saliva y de [C] ganas de cantar [E7]
-[Am] Y me pongo como Cama[Dm]rón
-Cantándole a la luna en el bal[G]cón
-Diciendo cosas bonitas que me [C] salen del cora[E7]zón
-Como Cama[Am]rón... [Dm] [G] [C] [E7]
+[Am] Superior a mí...
+Es la fuerza que me lleva en el pulso que mantengo
+[G] Con la oscuridad que tiñen de oscuro tus ojos negros.
+[Em] Y ¿qué me cuentas del tiempo que pasa en tu pestañeo,
+[F] Que me trae por esta calle de amargura y de lamento? [E]
 
 ## Verso 2
-[Am] Salgo a la calle de noche a buscar tu ca[Dm]lor
-Pensando en tus ojos verdes, tu ca[G]bello castaño
-Y ese andar tuyo tan chi[C]lo [E7]
-[Am] No me hacen falta papeles ni testigos de[Dm]lante
-Pa' jurarte que te quiero desde el [G] primer instante
-Hasta el último día que me [C] quede de aliento [E7]
+[Am] Te imagino bailando en la calle con un vestido verde,
+[G] Que se pierde en la penumbra de mi mente cuando duerme.
+[Em] Y me despierto con la sensación de no haberte tenido nunca,
+[F] Preguntándole al silencio que responde con preguntas. [E]
 
 ## Coro
-[Am] Y yo no sé qué me pasa que cuando me [Dm] miras
-Me pongo a tem[G]blar
-Y se me llena la boca de saliva y de [C] ganas de cantar [E7]
-[Am] Y me pongo como Cama[Dm]rón
-Cantándole a la luna en el bal[G]cón
-Diciendo cosas bonitas que me [C] salen del cora[E7]zón
-Como Cama[Am]rón
+[F] Que yo sé que la sonrisa que se dibuja en mi cara
+[G] Tiene que ver con la brisa que abanica tu mirada.
+[F] Tan despacio y tan deprisa, tan normal y tan extraña,
+[G] Yo me parto la camisa como Camarón.
+[Am] Tú me rompes las entrañas, me trepas como una araña,
+[Em] Bebes del sudor que empaña el cristal de mi habitación.
+[Am] Y después por la mañana despierto y no tengo alas,
+[G] Llevo diez horas durmiendo y mi almohada está empapada.
+[F] Todo había sido un sueño muy real y muy profundo,
+[Em] Tus ojos no tienen dueño porque no son de este mundo...
+
+## Solo
+[Am] [G] [Em] [F] [E]
+
+## Coro
+[F] Que yo sé que la sonrisa que se dibuja en mi cara
+[G] Tiene que ver con la brisa que abanica tu mirada.
+[F] Tan despacio y tan deprisa, tan normal y tan extraña,
+[G] Yo me parto la camisa como Camarón... [Am]

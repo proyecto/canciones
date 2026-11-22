@@ -1,44 +1,52 @@
 ---
 title: "Volando Voy"
 artist: "Camarón de la Isla"
-key: "A"
+key: "E"
 capo: 0
-tempo: 120
-tags: ["flamenco", "rumba", "español", "clásico", "fácil"]
+tempo: 110
+tags: ["flamenco", "rumba", "español", "70s"]
 ---
 
-// Himno de la rumba: sólo alterna entre La y Mi (A y E)
-
+// Compuesta por Kiko Veneno, inmortalizada por Camarón en "La leyenda del tiempo"
 ## Intro
-[A] [E] [A] [E]
-[A] [E] [A] [E]
+[F#m] [B7] [E] (x2)
 
 ## Coro
-[A] Volando voy, [E] volando vengo
-[A] Volando voy, [E] volando vengo
-[A] Por el camino [E] yo me entretengo
-[A] Por el camino [E] yo me entretengo
+[F#m] Volando voy, [B7] volando vengo, [E]
+[F#m] Volando voy, [B7] volando vengo, [E]
+[F#m] Por el camino [B7] yo me entretengo, [E]
+[F#m] Por el camino [B7] yo me entretengo. [E]
 
 ## Verso 1
-[A] Enamora'o de la vida, aunque a veces me [E] duela
-[A] Enamora'o de la vida, aunque a veces me [E] duela
-[A] Si me quitan la luna, yo me busco una es[E]trella
-[A] Si me quitan la luna, yo me busco una es[E]trella
+[F#m] Enamorao de la [B7] vida, aunque a veces duele, [E]
+[F#m] Enamorao de la [B7] vida, aunque a veces duele, [E]
+[F#m] Si tengo frío [B7] busco candela, [E]
+[F#m] Si tengo frío [B7] busco candela. [E]
 
 ## Coro
-[A] Volando voy, [E] volando vengo
-[A] Volando voy, [E] volando vengo
-[A] Por el camino [E] yo me entretengo
-[A] Por el camino [E] yo me entretengo
+[F#m] Y vola, volando voy, [B7] volando vengo, vengo, [E]
+[F#m] Vola, volando voy, [B7] volando vengo, vengo, [E]
+[F#m] Por el camino [B7] yo me entretengo, [E]
+[F#m] Por el camino [B7] yo me entretengo. [E]
 
 ## Verso 2
-[A] Señores, vengan a ver cómo baila esta [E] niña
-[A] Señores, vengan a ver cómo baila esta [E] niña
-[A] Que parece un velero navegando en la [E] orilla
-[A] Que parece un velero navegando en la [E] orilla
+[F#m] Señoras y señores, [B7] sepan ustedes, [E]
+[F#m] Señoras y señores, [B7] sepan ustedes, [E]
+[F#m] Que la flor de la noche [B7] pa' quien la merece, [E]
+[F#m] Que la flor de la noche [B7] pa' quien la merece. [E]
 
 ## Coro
-[A] Volando voy, [E] volando vengo
-[A] Volando voy, [E] volando vengo
-[A] Por el camino [E] yo me entretengo
-[A] Por el camino [E] yo me entretengo... [A]
+[F#m] Y vola, volando voy, [B7] volando vengo, vengo, [E]
+[F#m] Vola, volando voy, [B7] volando vengo, vengo, [E]
+[F#m] Por el camino [B7] yo me entretengo, [E]
+[F#m] Por el camino [B7] yo me entretengo. [E]
+
+## Verso 3
+[F#m] Enamorao de la [B7] vida que a veces duele, [E]
+[F#m] Enamorao de la [B7] vida que a veces duele, [E]
+[F#m] Yo no soy quien soy [B7] ni los que me quieren, [E]
+[F#m] Yo no soy quien soy [B7] ni los que me quieren. [E]
+
+## Coro Final
+[F#m] Volando voy, [B7] volando vengo, [E]
+[F#m] Por el camino [B7] yo me entretengo... [E]
