@@ -21,11 +21,6 @@
         </a>
       </div>
 
-      <div class="search-box">
-        <span class="search-icon">🔍</span>
-        <input type="search" id="search-input" class="search-input" placeholder="Buscar por título, artista, tono o tag..." autocomplete="off">
-      </div>
-
       <div class="nav-actions">
         <button id="btn-new-song" class="btn btn-primary" title="Añadir una nueva canción">
           <span>+</span> Nueva Canción
@@ -50,6 +45,15 @@
           </div>
           <button id="btn-close-sidebar" class="btn-icon mobile-only" aria-label="Cerrar menú" style="width: 28px; height: 28px; font-size: 0.85rem;">✕</button>
         </div>
+
+        <!-- Buscador dentro del desplegable -->
+        <div class="sidebar-search">
+          <div class="search-box">
+            <span class="search-icon">🔍</span>
+            <input type="search" id="search-input" class="search-input" placeholder="Buscar por título, artista o tono..." autocomplete="off">
+          </div>
+        </div>
+
         <ul id="song-list" class="song-list">
           <!-- Loaded dynamically -->
         </ul>
