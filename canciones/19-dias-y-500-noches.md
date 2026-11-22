@@ -54,8 +54,20 @@ Sospecho que a[B7]sí, se vengaba a través del olvido, Cupido de [E] mí.
 No, no pido perdón, ¿para qué? si me va a perdonar, porque ya no le im[F#m]porta,
 Siempre tuvo la [B7] frente muy alta, la lengua muy larga, y la falda muy [E] corta.
 
+## Verso 5
+[E] Me abandonó como se abandonan los zapatos [F#m] viejos,
+Destrozó el cris[B7]tal de mis gafas de lejos,
+Sacó del es[E]pejo su vivo retrato,
+Y fui tan to[E7]rero por los calle[A]jones [Am]
+Del juego y el [E] vino, que ayer el portero
+Me echó del ca[B7]sino de Torrelodones. [E]
+Qué pena tan [A] grande, negaría el Santo Sacra[E]mento
+En el mismo mo[B7]mento que ella me lo [E] mande.
+
 ## Coro Final
 [A] Y regresé a la maldición del cajón sin su [E] ropa,
 A la perdi[B7]ción de los bares de [E] copas,
+A las ceni[A]cientas de saldo y es[E]quina,
+Y por esas [B7] ventas del fino [E] Laina...
 Tanto la que[A]ría, que tardé en aprender a olvi[E]darla,
 Diecinueve [B7] días... Y quinientas [E] noches.
