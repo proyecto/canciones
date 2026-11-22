@@ -38,7 +38,7 @@ O al fi[Bb]nal te ten[F]dré que co[G]mer, ¡eh!
 [C] Siempre aparece Caro[G]lina
 [D] Con algún tipo de interés.
 [C] La reina de las medi[G]cinas
-[D] Que no se venden en farmacia le[Am]gal,
+[D] Que no se venden en farmacia legal, [Am]
 [C] Vinagre para las he[G]ridas,
 [D] Dulce azúcar al final.
 
@@ -54,7 +54,7 @@ O al fi[Bb]nal te ten[F]dré que co[G]mer, ¡eh!
 O al fi[Bb]nal te ten[F]dré que co[G]mer, ajam.
 
 ## Solo de Guitarra
-// ¡Santi Campillo a la guitarra!
+¡Santi Campillo a la guitarra!
 [Em] [C] [G] [D] (x2)
 [Bb] [F] [G]
 
