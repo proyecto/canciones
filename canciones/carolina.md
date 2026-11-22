@@ -22,15 +22,15 @@ tags: ["rock", "español", "2000s"]
 [D] Eso es mucho para mí.
 
 ## Pre-Coro
-[Am] Esa va a [D] ser mi ruina,
-[Am] Pequeña Caro[D]lina,
-[C] Vete [G] por fa[D]vor.
+(Ah) [Am] Esa va a [D] ser mi ruina,
+(Ah) [Am] Pequeña Caro[D]lina,
+[C] Vete, [G] por fa[D]vor.
 
 ## Coro
 [Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
 [Em] No me ar[C]ranques la [G] piel. [D]
 [Em] Carolina, [C] trátame [G] bien,
-O al fi[Bb]nal te ten[F]dré que co[G]mer.
+O al fi[Bb]nal te ten[F]dré que co[G]mer, ¡eh!
 
 ## Verso 2
 [C] No queda en la ciudad es[G]quina
@@ -43,18 +43,33 @@ O al fi[Bb]nal te ten[F]dré que co[G]mer.
 [D] Dulce azúcar al final.
 
 ## Pre-Coro
-[Am] El diablo es[D]tá en mi vida,
-[Am] Pequeña Caro[D]lina,
-[C] Vete [G] por fa[D]vor.
+(Ah) [Am] El Diablo es[D]tá en mi vida,
+(Ah) [Am] Pequeña Caro[D]lina,
+[C] Vete, [G] por fa[D]vor.
 
 ## Coro
 [Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
 [Em] No me ar[C]ranques la [G] piel. [D]
 [Em] Carolina, [C] trátame [G] bien,
-O al fi[Bb]nal te ten[F]dré que co[G]mer.
+O al fi[Bb]nal te ten[F]dré que co[G]mer, ajam.
+
+## Solo de Guitarra
+// ¡Santi Campillo a la guitarra!
+[Em] [C] [G] [D] (x2)
+[Bb] [F] [G]
+
+## Puente
+(Ah) [Am] Eh, el Diablo es[D]tá en mi vida,
+(Ah) [Am] Pequeña Caro[D]lina,
+[C] Vete, [G] por fa[D]vor.
 
 ## Coro Final
 [Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
 [Em] No me ar[C]ranques la [G] piel. [D]
 [Em] Carolina, [C] trátame [G] bien,
-O al fi[Bb]nal te ten[F]dré que co[G]mer... [G]
+O al fi[Bb]nal te ten[F]dré que co[G]mer.
+[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,
+[Em] No me ar[C]ranques la [G] piel. [D]
+[Em] Carolina, [C] trátame [G] bien,
+O al fi[Bb]nal te ten[F]dré que co[G]mer, eh, eh, eh.
+Dulce niña Caro[G]lina, eh.
