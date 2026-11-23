@@ -107,6 +107,23 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Algo se muere en el alma\"\nartist: \"Cantores de Híspalis\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"sevillana\", \"clásico\", \"popular\"]\n---\n\n## Verso 1\nAlgo se muere en el alma, cuando un amigo se va\nY va dejando una huella que no se puede borrar\n\nNo te vayas todavía, no te vayas por favor\nNo te vayas todavía que hasta la guitarra mía\nLlora cuando dice adiós.\n\nUn pañuelo de silencio a la hora de partir\nPorque hay palabras que hieren y no se deben decir\nUn barco se hace pequeño cuando se aleja en el mar\nY cuando se va perdiendo que grande es la soledad\nEse vacío que deja, el amigo que se va.\nEs como un pozo sin fondo que no se vuelve a llenar.\n"
   },
   {
+    "id": "all-my-loving",
+    "title": "All My Loving",
+    "artist": "The Beatles",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "pop",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/all-my-loving.md",
+    "content": "---\ntitle: \"All My Loving\"\nartist: \"The Beatles\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"pop\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Am(maj7)] 1000\n\n## Verso 1\n[Dm] [G] [C] [Am]/ [F] [Dm] [A#]-[G7]\nClose your eyes and I'll kiss you\nTomorrow I'll miss you\nRemember I'll always be true\n\n[Dm] [G] [C] [Am]/ [F] [G] [C]\nAnd then while I'm away\nI'll write home everyday\nAnd I'll send all my loving to you\n\n[Dm] [G] [C] [Am]/ [F] [Dm] [A#]-[G7]\nI'll pretend that I'm kissing\nThe lips I am missing\nAnd hope that my dreams will come true\n\n[Dm] [G] [C] [Am]/ [F] [G] [C]\nAnd then while I'm away\nI'll write home everyday\nAnd I'll send all my loving to you\n\n[Am] [Am(maj7)] [C] (2)\nAll my loving, I will send to you\nAll my loving, darling, I'll be true\n\n[Dm] [G] [C] [Am]/ [F] [Dm] [A#]-[G7]\nClose your eyes and I'll kiss you\nTomorrow I'll miss you\nRemember I'll always be true\n\n[Dm] [G] [C] [Am]/ [F] [G] [C]\nAnd then while I'm away\nI'll write home everyday\nAnd I'll send all my loving to you\n\n[Am] [Am(maj7)] [C] (2)/ [Am] [C] (2)\nAll my loving, I will send to you\nAll my loving, darling, I'll be true\nAll my loving, all my loving\nAll my loving, I will send to you.\n\n[Am] [D]/ [G] [Em]/ [C] ([Am] [F] [D7]/ [D] [G]) (2) [Em] [G](2)\n"
+  },
+  {
     "id": "alma-corazon-y-vida",
     "title": "Alma, corazón y vida",
     "artist": "Adrián Flores",
@@ -150,6 +167,23 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/amante-enamorado.md",
     "content": "---\ntitle: \"Amante-enamorado\"\nartist: \"Popurrí\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"rumba\", \"popurrí\", \"flamenco\"]\n---\n\n## Intro\n[F]\n\nAy que el traje de\n\nlos domingos,\n\n[E]\nTe lo pones to los días.\n\n[C] [Em] [F] [G]\nYo no quiero ser tu amante\nY yo no puedo serlo más\nYo no quiero ser tu amante\nY yo quiero ser algo más\n\n[G]_[Em] [C] [D] (2) -[G]\nEnamorao de ella,\nLoco perdío por ella\nY veo que su estrella\nDe mis manos se me va (bis)\n\nVuela, pensamiento mío,\nCorre, pensamiento corre,\nDile que mi luz se apaga,\nSiento que la necesito,\nQue venga, que me hace falta.\n"
+  },
+  {
+    "id": "and-i-love-her",
+    "title": "And I Love Her",
+    "artist": "The Beatles",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "balada",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/and-i-love-her.md",
+    "content": "---\ntitle: \"And I Love Her\"\nartist: \"The Beatles\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Dm] [Am] (3) [F] [G] [C] (2)\n\n## Verso 1\nI give her all my love, that’s all I do\nAnd if you saw my love, you’d love her too, I love her\nshe gives me everything, and tenderly,\nThe kiss my lover brings, she brings to me, and I love her\n\n[Am] [G] [Am] [Em] [Am] [Em] [G]\nA love like ours could never die\nAs long as I have you near me\n\nBright are the stars that shine, dark is the sky,    -la\nI know this love of mine will never die, and I love her\n"
   },
   {
     "id": "anos-80",
@@ -198,6 +232,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Así estoy yo sin ti\"\nartist: \"Joaquín Sabina\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"rock\", \"español\"]\n---\n\n## Intro\n[G] [D] [Em]/[C] [D] [G]/[C] [D] [Em]/[C] [Am] [A7] [D]\n\nExtraño, como un pato en el Manzanares, torpe como un suicida sin vocación\nAbsurdo como un belga por soleares, vacío, como una isla sin Robinson\n\n[G] [D] [Em]/ [C] [D] [G]/ [B7] [Em]/ [C] [Am] [A7] [D]\nOscuro como un túnel sin tren expreso, negro como los ángeles de Machín\nFebril como la carta de amor de un preso, así estoy yo, así estoy yo sin ti\n\n[C] [D] [G]/ [B7] [Em] [D] [C]/ [Am] [C] [D] [_(]2)\nPerdido como un quinto en día de permiso\nComo un santo sin paraíso, como el ojo de un maniquí.\n-Huraño, como un dandi con lamparones,\nComo un barco sin polizones, así estoy yo sin ti\n\n[Am7] [C] [G] [D] [C]/ [G] [C](2) [G] [Am] [C]\nMás triste que un torero, al otro lado del telón de acero\nAsí estoy yo, así estoy yo, así estoy yo sin ti\n\n[G] [D] [Em] [C] [D] [G]/[C] [D] [Em]/[C] [Am]-[A7]-[D]\nVencido como un viejo que pierde al tute, lascivo como el beso del coronel,\nFurtivo como el Lute cuando era el Lute, inquieto, como un párroco en un burdel.\n\n[G] [D] [Em] [C] [D] [G]/ [B7] [Em] [C] [Am] [A7] [D]\nErrante como un taxi por el desierto, quemado como el cielo de Chernóbil,\nSolo, como un poeta en el aeropuerto, así estoy yo, así estoy yo sin ti.\n\n[C] [D] [G]/ [B7] [Em] [D] [C]/ [Am] [C] [D] [_(]2)\n-Inútil como un sello por triplicado\nComo el semen de los ahorcados, como el libro del porvenir.\n-Violento como un niño sin cumpleaños,\nComo el perfume del desengaño, así estoy yo sin ti\n\n[Am7] [C] [G] [D] [C]/ [G] [C](2) [G] [Am] [C]\nMás triste que un torero, al otro lado del telón de acero\nAsí estoy yo, así estoy yo, así estoy yo sin ti\n\n[C] [D] [G]/ [B7] [Em] [D] [C]/ [Am] [C] [D] (2)\n-Amargo, como el vino del exiliado,\nComo el domingo del jubilado, como una boda por lo civil.\n-Macabro, como el vientre de los misiles,\nComo un pájaro en un desfile, así estoy yo sin ti.\n\n[Am7] [C] [G] [D] [C]/ [G] [C](2) [G] [Am] [C] -[G]\nMás triste que un torero, al otro lado del telón de acero\nAsí estoy yo, así estoy yo, así estoy yo sin ti\n"
   },
   {
+    "id": "ayo-technology",
+    "title": "Ayo Technology",
+    "artist": "Milow",
+    "key": "Am",
+    "capo": 2,
+    "tempo": 100,
+    "tags": [
+      "acoustic",
+      "pop",
+      "2000s",
+      "inglés"
+    ],
+    "file": "canciones/ayo-technology.md",
+    "content": "---\ntitle: \"Ayo Technology\"\nartist: \"Milow\"\nkey: \"Am\"\ncapo: 2\ntempo: 100\ntags: [\"acoustic\", \"pop\", \"2000s\", \"inglés\"]\n---\n\n## Intro\n[Am] [G] [F] (4) [G] [F]\n\n## Verso 1\nBaby this a new age,\nYou like my new craze\nLet's get together\nMaybe we can start a new phase.\nThe smokes got the club all hazy,\nSpotlights don't do you justice baby\nWhy don't you come over here,\nYou got me saying:\nAyo, I'm tired of using technology,\nWhy don't you sit down, on top of me\nAyo, I'm tired of using technology\nI need you right in front of me\n\n[Am] [G] [F] (2) [G] [F]\nShe work it girl, she work the pole\nShe break it down, she take it low\nShe’s fine as hell,\nShe’s_about the dough\nShe doing her thing out on the floor\nHer money money, she makin' makin’\nLook at the way she shakin'\nMake you wanna touch it,\nMake you wanna taste her\nHave you lustin' for her…\nGo crazy, face it\n\n[Am] [G] [F] (4) [G] [F]\nBaby this a new age,\nYou like my new craze\nLet's get together\nMaybe we can start a new phase\nThe smokes got the club all hazy,\nSpotlights don't do you justice baby\nWhy don't you come over here,\nYou got me saying:\nAyo, I'm tired of using technology,\nWhy don't you sit down on top of me\nAyo, I'm tired of using technology\nI need you right in front of me.\n"
+  },
+  {
     "id": "baila-baila-negra",
     "title": "Baila, baila negra",
     "artist": "Manuelito",
@@ -244,6 +294,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Bamboleo\"\nartist: \"Gipsy Kings\"\nkey: \"Em\"\ncapo: 0\ntempo: 120\ntags: [\"flamenco\", \"rumba\", \"clásico\", \"80s\"]\n---\n\n## Intro\n[Em] [B7] [Em] [B7]\n[Em] [B7] [Em] [B7]\n\n## Verso 1\n[Em] Este amor llega así, de esta manera,\nNo tiene la [B7] culpa.\nCaballo de sabana vieja\nPorque muy depre[Em]ciado,\nPor eso no te perdón de llo[B7]rar.\n\n## Coro\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida,\nYo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida,\nYo la prefiero vi[Em]vir así.\n\n## Puente\nNo tiene per[Am]dón de Dios,\n[D7] Tú eres mi vida, la for[G]tuna del destino,\n[C] Pero el destino tendría pa[Am]rados\nLo mismo que a[B7]yer, lo mismo soy [Em] yo.\n\n## Coro\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida,\nYo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida,\nYo la prefiero vi[Em]vir así. [Em]\n"
   },
   {
+    "id": "beautiful",
+    "title": "Beautiful",
+    "artist": "Christina Aguilera",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop",
+      "balada",
+      "2000s",
+      "inglés"
+    ],
+    "file": "canciones/beautiful.md",
+    "content": "---\ntitle: \"Beautiful\"\nartist: \"Christina Aguilera\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"2000s\", \"inglés\"]\n---\n\n## Verso 1\nIntro: [D] [C] [G] [A#] (2)\n\n[D] [C] [Bm] [A#] (2)\nEveryday is so wonderful\nThen suddenly, it's hard to breathe\nNow and then I get insecure\nFrom all the pain I'm so ashamed\n[G] [C] [D] [C] [G] (2)\nI am beautiful\nNo matter what they say\nWords can't bring me down\nI am beautiful, in every single way\nYes, words can't bring me down. Oh no\nSo don't you bring me down today\n[D] [C] [Bm] [A#] (2)\nTo all your friends you're delirious\nSo consumed\nIn all your doom, ooh\nTrying hard to fill the emptiness\nThe pieces gone\nLeft the puzzle undone\nAin't that the way it is\n\n[G] [C] [D] [C] [G] (2)\nYou are beautiful\nNo matter what they say\nWords can't bring you down. Oh no\nYou are beautiful, in every single way\nYes words can't bring you down. Oh no\nSo don't you bring me down today\n\n[D] [C] [Bm] [A#] (2)\nNo matter what we do (no matter what we do)\nNo matter what we say (no matter what we say)\nWe'll sing the song inside the tune (yeah, oh yeah)\nFull of beautiful mistakes\nAnd everywhere we go (and everywhere we go)\nThe sun will always shine\n(the sun will always, always, shine)\nAnd tomorrow we might awake\nOn the other side\n[G] [C] [D] [C] [G] (2)\n'Cause, we are beautiful\nNo matter what they say\nYes words won't bring us down. Oh no\nWe are beautiful, in every single way\nYes words can't bring us down. Oh no\nSo don't you bring me down today. Oh, oh oh\nDon't you bring me down today, yeah\nDon't you bring me down, ooh, today\n"
+  },
+  {
     "id": "besame-mucho",
     "title": "Bésame mucho",
     "artist": "Consuelo Velázquez",
@@ -259,6 +325,23 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Bésame mucho\"\nartist: \"Consuelo Velázquez\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"clásico\", \"romántico\"]\n---\n\n## Intro\n[Am] [Dm] [Am] [E7] [Am]\n\n(2) [A7]\nBésame, bésame mucho, como si fuera esta noche la última vez\nBésame, bésame mucho, que tengo miedo a perderte, perderte después (bis)\n\n[Dm] [Am] [E7] [Am]\nQuiero tenerte muy cerca, mirarme en tus ojos y estar junto a ti\nPiensa que tal vez mañana, estaré muy lejos, muy lejos de aquí\n\n[Am] [Dm] [Am] [E7] [Am]\nBésame, bésame mucho, como si fuera esta noche la última vez\nBésame, bésame mucho, que tengo miedo a perderte, perderte después (bis)\nQue tengo miedo a perderte, perderte después\nQue tengo miedo a perderte… a perderte después\n"
   },
   {
+    "id": "blowing-in-the-wind",
+    "title": "Blowin' in the Wind",
+    "artist": "Bob Dylan",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk",
+      "classic",
+      "60s",
+      "protest",
+      "inglés"
+    ],
+    "file": "canciones/blowing-in-the-wind.md",
+    "content": "---\ntitle: \"Blowin' in the Wind\"\nartist: \"Bob Dylan\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"folk\", \"classic\", \"60s\", \"protest\", \"inglés\"]\n---\n\n## Intro\n[D]-[G] [D] / [D] [G] [A] (3)\n\n## Verso 1\nHow many roads must a man walk down\nBefore you call him a man?\nHow many seas must a white dove sail\nBefore she sleeps in the sand?\nYes, and how many times\nMust the cannonballs fly\nBefore they're forever banned?\n\n[G] [A] [D] [Bm]/ [G] [A] [D]\nThe answer, my friend,\nIs blowin' in the wind\nThe answer is blowin' in the wind\n\n[D]-[G] [D] / [D] [G] [A] (3)\nYes, and how many years\nMust a mountain exist\nBefore it is washed to the sea?\nAnd how many years\nCan some people exist\nBefore they're allowed to be free?\nYes, and how many times\nCan a man turn his head\nAnd pretend that he just doesn't see?\n\n[G] [A] [D] [Bm]/ [G] [A] [D]\nThe answer, my friend,\nIs blowin' in the wind\nThe answer is blowin' in the wind\n\n[D]-[G] [D] / [D] [G] [A] (3)\nYes, and how many times\nMust a man look up\nBefore he can see the sky?\nAnd how many ears must one man have\nBefore he can hear people cry?\nYes, and how many deaths\nWill it take 'til he knows\nThat too many people have died?\n\n> *DOmaj7 032000/ FAmaj7 003210/MIsus4 0(2)2200\n"
+  },
+  {
     "id": "bongo-bong",
     "title": "Bongo Bong / Je ne t'aime plus",
     "artist": "Manu Chao",
@@ -272,6 +355,23 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/bongo-bong.md",
     "content": "---\ntitle: \"Bongo Bong / Je ne t'aime plus\"\nartist: \"Manu Chao\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"reggae\", \"mestizaje\", \"internacional\"]\n---\n\n## Verso 1\nBongo Bong/ Je ne t’aime plus\n\nBangin' on my bongo\nAll that swing belongs to me\nI'm\n\n[Amx2] [Dm] [G]\nso happy there's nobody\nIn my place instead of me\nI'm a king without a crown\nHanging loose in a big town\nI'm the king of bongo baby\nI'm the king of bongo, bong\n\nMama was queen of the mambo\nPapa was king of the Congo\nDeep down in a jungle\nI started bangin' my first bongo\n-Every monkey'd like to be\nIn my place instead of me\nCause I'm the king of bongo, baby\nI'm the king of bongo bong\n\nI'm the king of the bongo,\nKing of the bongo bong\nHear me when I come, baby\nKing of the bongo bong\nHear me when I come\nMama was queen of the mambo\nPapa was king of the Congo\nDeep down in a jungle\nI started bangin' my first bongo\nEvery monkey'd like to be\nIn my place instead of me\nCause I'm the king of bongo, baby\nI'm the king of bongo bong\n\nI went to the big town\nWhere there is a lot of sound\nFrom the jungle to the city\nLooking for a bigger crown\n-So I play my boogie\nFor the people of big city\nBut they don't go crazy\nWhen I'm bangin' on my boogie\n\nI'm the, king of the bongo,\nKing of the bongo bong\nHear me when I come, baby\nKing of the bongo, king of the bongo bong\n\nNobody'd like to be in my place\nInstead of me\nCause nobody go crazy\nWhen I'm bangin' on my boogie\nI'm a king without a crown\nHanging loose in a big town\nBut I'm the king of bongo baby\nI'm the king of bongo bong\n\nHear me when I come, baby\nHear me when I come\n\nJe ne t'aime plus, mon amour Je ne t'aime plus, tous les jours (5)\n\n> *\nParfois j'aimerais mourir\nTellement j'ai voulu croire\n\n-Parfois j'aimerais mourir\nPour ne plus rien avoir\n-Parfois j'aimerais mourir\nPour plus jamais te voir\n\nI'm the king of the bongo,\nKing of the bongo bong\nHear me when I come, baby\nKing of the bongo, king of the bongo bong\nHear me when I come\n\nJe ne t'aime plus, mon amour\nJe ne t'aime plus tous les jours (4) 2*\n\nParfois j'aimerais mourir\nTellement y'a plus d'espoir\n\nThey say that I'm a clown\nMaking too much dirty sound\nThey say there is no place\nFor little monkey in this town\nNobody'd like to be in my place instead of me\nCause nobody go crazy when I'm bangin' on\n\nParfois j'aimerais mourir\nPour plus jamais te revoir\nParfois j'aimerais mourir\nPour ne plus rien savoir\nJe ne t'aime plus, mon amour\n\nI'm the, king of the bongo,\nKing of the bongo bong\nHear me when I come, baby\n\nJe ne t'aime plus, mon amour\nJe ne t'aime plus tous les jours (4)\n\n> (*3)\n"
+  },
+  {
+    "id": "bridge-over-troubled-water",
+    "title": "Bridge Over Troubled Water",
+    "artist": "Simon & Garfunkel",
+    "key": "F",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk",
+      "balada",
+      "70s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/bridge-over-troubled-water.md",
+    "content": "---\ntitle: \"Bridge Over Troubled Water\"\nartist: \"Simon & Garfunkel\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"folk\", \"balada\", \"70s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[F] [C] (5)  [G7] [C] -7  [F]- [D7]-[G]\n\n## Verso 1\nWhen you’re weary, feeling small, when tears are in your eyes, I will dry them all\nI’m on your side, ooh when times get rough and friends just can’t be found\n\n[C]-7-[F] [C] [A7] [F] [E7] ([Am] /[C]) (BIS)\nLike a bridge over troubled water, I will lay me down(2)\n\n[F] [C] (5) [G7] [C] -7 [F] [D7]-[G]\nWhen you’re down and out, when you’re on the street,\nWhen evening falls so hard, I will comfort you,\nI’ll take your part, ooh when darkness comes, and pain is all around\n\n[C]-7 [F] [C] [A7] [F] [E7] ([Am] /[C]) (BIS)\nLike a bridge over troubled water, I will lay me down(2)\n\n[F] [C] (5)  [G7] [C] -7  [F]- [D7]-[G]\nSail on silver girl, sail on by, your time has come to shine, all your dreams are on the way.\nSee how they shine, ooh if you need a friend, I’m sailing right behind\n\n[C]-7 [F] [C] [A7] [F] [E7] ([Am] /[C]) (BIS)\nLike a bridge over troubled water, I will ease your mind\n"
   },
   {
     "id": "caballo-viejo",
@@ -302,6 +402,23 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/cadillac-solitario.md",
     "content": "---\ntitle: \"Cadillac solitario\"\nartist: \"Loquillo\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"español\", \"80s\"]\n---\n\n## Intro\n[D] [A] [Bm] [G] (2 )\n\n> *arpegio\n-\n*Siempre quise ir a L.A.\nDejar un día esta ciudad\nCruzar el mar en tu compañía\n-Pero ya hace tiempo que me has dejado\nY probablemente me habrás olvidado\nNo sé que aventuras correré sin ti.\n\n[Bm] [G] (2) [D]/ [A] [Bm] [G]\n-Y ahora estoy aquí sentado\nEn un viejo Cadillac segunda mano\nJunto\n_al Merbeyé, a mis pies mi ciudad\n-Y hace un momento que me ha dejado\nAquí en la ladera del Tibidabo la última rubia\nQue vino a probar el asiento de atrás\n\n[D] [A] [Bm] [G]\nQuizás el Martini me ha hecho recordar\nNena ¿por qué no volviste a llamar?\nCreí que podía olvidarte sin más,\nY aún a ratos ya ves\n\n[Bm] [G] (2) [D] [A] [Bm] [G]\nY al irse la rubia me he sentido extraño\nMe he quedado solo fumando un cigarro\nQuizás he pensado, nostalgia de ti\nY desde esta curva donde estoy parado\nMe he sorprendido mirando a tu barrio\nMe han atrapado luces de ciudad\n\n[D] [A] [Bm] [G]\nEl amanecer me sorprenderá\nDormido, borracho, en el Cadillac\nJunto a las palmeras, cruce solitario\nY dice la gente que ahora eres formal\nY yo aquí borracho en el Cadillac\nBajo las palmeras, cruce y solitario\nY no estás tú, nena\n\n(2)\nNo estás tú, no estás tú (no estás tú)\n"
+  },
+  {
+    "id": "california-dreamin",
+    "title": "California Dreamin",
+    "artist": "The Mamas & The Papas",
+    "key": "Am",
+    "capo": 4,
+    "tempo": 100,
+    "tags": [
+      "folk rock",
+      "60s",
+      "classic",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/california-dreamin.md",
+    "content": "---\ntitle: \"California Dreamin'\"\nartist: \"The Mamas & The Papas\"\nkey: \"Am\"\ncapo: 4\ntempo: 100\ntags: [\"folk rock\", \"60s\", \"classic\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7]\n\n## Verso 1\n_[Am] [G] [F] [G] [E] -7/ [F] [C]-[F] [E7]\nAll the leaves are brown             (all the leaves are brown)\nAnd the sky is gray             (and the sky is gray)\nI've been for a walk             (I've been for a walk)\nOn a winter's day                 (on a winter's day)\n\n_[Am] [G] [F] [G] [E7] (2)\nI'd be safe and warm             (I'd be safe and warm)\nIf I was in LA                 (If I was in LA)\nCalifornia dreamin'             (California dreamin')\nOn such a winter's day\n\n_[Am] [G] [F] [G] [E] -7/ [F] [C]-[F] [E7]\nStopped into a church, I passed along the way\nWell, I got down on my knees         (got down on my knees)\nAnd I pretend to pray             (I pretend to pray)\n\n_[Am] [G] [F] [G] [E7] (2)\nYou know the preacher like the cold     (preacher like the cold)\nHe knows I'm gonna stay         (knows I'm gonna stay)\nCalifornia dreamin'             (California dreamin')\nOn such a winter's day\n\n_[Am] [G] [F] [G] [E] -7/ [F] [C]-[F] [E7]\nAll the leaves are brown (all the leaves are brown)\nAnd the sky is gray (and the sky is gray)\nI've been for a walk (I've been for a walk)\nOn a winter's day (on a winter's day)\n\n_[Am] [G] [F] [G] [E7] (4).  -[Am]\nIf I didn't tell her (if I didn't tell her)\nI could leave today (I could leave today)\nCalifornia dreamin' (California dreamin')\nOn such a winter's day (California dreamin')\nOn such a winter's day (California dreamin')\nOn such a winter's day\n"
   },
   {
     "id": "calle-melancolia",
@@ -1131,6 +1248,23 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"España camisa blanca\"\nartist: \"Ana Belén\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"himno\", \"español\"]\n---\n\n## Intro\n[G] [D] [C] [G]/ [E7] [Am]-[C]-[D] [A]\n\nEspaña camisa blanca de mi esperanza\nLa negra pena nos atenaza\nLa pena deja, plomo en las alas.\nQuisiera poner el hombro y pongo palabras\nQue casi siembre acaban en nada\nCuando se enfrentan, al ancho mar.\n\n[A] [E] [D] [F#m] [A]/ [F#] [Bm]-[D]-[E]_ -[D7]\nEspaña camisa blanca de mi esperanza\nA veces madre y siempre madrastra\nNavaja, barro, clavel, espada.\nLa muerte siempre nos acompaña\nEn nuestras cosas más cotidianas\nY al fin nos hace a todos igual.\n\n[G] [D] [C] [G]/ [E7] [Am]-[C]-[D] [G]\nEspaña camisa blanca de mi esperanza\nDe fuera o dentro, dulce o amarga,\nDe olor a incienso, de cal y caña.\n¿quién puso el desasosiego\nEn nuestras entrañas?\nNos hizo libres, pero sin alas,\nNos dejó el hambre y se llevó el pan?\n\nEn el comedor se sientan separados a comer,\nSi se miran bien, les corren\nMil hormigas por los pies,\n\n[G] [D] [C] [G]/[E7] [Am]-[C]-[D] [A]-[D] [A]\nEspaña camisa blanca de mi esperanza\nAquí me tienes, nadie me manda,\nQuererte tanto me cuesta nada.\nNos haces siempre a tu imagen y semejanza,\nLo bueno y malo que hay en tu estampa\nDe peregrina a ningún lugar.\n"
   },
   {
+    "id": "every-breath-you-take",
+    "title": "Every Breath You Take",
+    "artist": "The Police",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "new wave",
+      "80s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/every-breath-you-take.md",
+    "content": "---\ntitle: \"Every Breath You Take\"\nartist: \"The Police\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"new wave\", \"80s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[G] [Em] [C] [D] [G]                                    [C] [Am] [F] [G] [C]\n\n## Verso 1\nEvery breath you take and every move you make\nEvery bond you break, every step you take, I'll be watching you\nEvery single day and every word you say\nEvery game you play, every night you stay, I'll be watching you\n\n[C] [G] [A] [D]                                    [F] [C] [D] [G]\nOh, can't you see you belong to me\nHow my poor heart aches with every step you take\n\n[G] [Em] [C] [D] [G]                                    [C] [Am] [F] [G] [C]\nEvery move you make, and every vow you break\nEvery smile you fake, every claim you stake, I'll be watching you\n\n[D#] [F]_ (2) [G]                                    [G#] [A#]__(2) [C]\nSince you've gone, I've been lost without a trace\nI dream at night, I can only, see your face\nI look around but it's you I can't replace\nI feel so cold and I long for your, embrace\nI keep crying, \"Baby, baby, please\"\n\n[C] [G] [A] [D]                                    [F] [C] [D] [G]\nOh, can't you see you belong to me\nHow my poor heart aches with every step you take\n\n[G] [Em] [C] [D] [G]                                    [C] [Am] [F] [G] [C]\nEvery move you make and every vow you break\nEvery smile you fake, every claim you stake, I'll be watching you\nEvery move you make, every step you take,\nI'll be watching you, I'll be watching you\n\n//: Every breath you take and every move you make\nEvery bond you break, every step you take (I'll be watching you)\nEvery single day, every word you say\nEvery game you play, every night you stay (I'll be watching you)\nEvery move you make, every vow you break\nEvery smile you fake, every claim you stake (I'll be watching you)\nEvery single day, every word you say\nEvery game you play, every night you stay (I'll be watching you) ://\n"
+  },
+  {
     "id": "fandangos-de-huelva",
     "title": "Fandangos de Huelva",
     "artist": "Popular",
@@ -1190,6 +1324,23 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/frenesi.md",
     "content": "---\ntitle: \"Frenesí\"\nartist: \"Alberto Domínguez\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"chachachá\", \"clásico\"]\n---\n\n## Verso 1\n(A. Domínguez Borrás ‘39)\n\n[INTRO:]\n[G]-[Em]-[Am]-[Dmaj7] ([x2])\nRitmo Bolero\n[G] [Em—Lam]\nBésame tú a mí\n\n[Dmaj7] [G] [Em]-[Am]-[Dmaj7]\nBésame igual que mi boca te besó\n\n[G] [Em—Lam] [IMPORTANTE] [CAMBIO] [DE] [TONO]\nDame el frenesí\n\n[D] [G] [C#m—Fa#M]\nQue mi locura te dio\n\n[B] [G#m—Do#m]\nQuién si no fui yo\n\n[F#] [B] [G#m—Do#m—Fa#M]\nPudo enseñarte el camino del amor\n\nMuerta mi altivez\n\n[B] [G#m—Do#m]\nCuando mi orgullo rodó a tus pies\n\n[F#] [B] [D7M]\n(Ritmo chachachá) [Am] [D7M]\n(piano) Quiero que vivas solo para mí\n\n[Am] [D7M] [Am] [D7M]\nY que tú vayas por donde yo voy\n\n[Am] [D7M] [G] [Bm—La#m—Lam]\nPara que mi alma sea nomás de ti\n\n[D7M] [G]\nBésame con frenesí\n(piano) Dame la luz que tiene tu mirar,\nY la ansiedad que entre tus labios vi,\nEsa locura de vivir y amar, que es más que amor, frenesí\n\n[Bmaj7] [C] [Bmaj7]\nHay en el beso que te di, alma, piedad, corazón\n\n[C] [Bmaj7] [C] [Amaj7] [Dmaj7]\nDime qué sabes tú sentir, lo mismo que siento yo\n\n[Am] [D7M] (4) [G] [Bm]-[A#m]-[Am] [D7M] [G] (BIS) [Bmaj7] [C] [Bmaj7]\nHay en el beso que te di, alma, piedad, corazón\n\n[C] [Bmaj7] [C] [Amaj7] [Dmaj7]\nDime qué sabes tú sentir, lo mismo que siento yo\nQuiero que vivas solo para mí, y que tú vayas por donde yo voy Para que mi alma sea nomás de ti, Bésame con frenesí , Bésame con frenesí\n\n[C#m]\n[F#]\n[B]\nBésame con frenesí\n\n[G#m]\n"
+  },
+  {
+    "id": "girl",
+    "title": "Girl",
+    "artist": "The Beatles",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "folk",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/girl.md",
+    "content": "---\ntitle: \"Girl\"\nartist: \"The Beatles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"folk\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7] [Am] [Dm] ([C] [E7]/ [Am]) (2)\n\n## Verso 1\nIs there anybody going to listen to my story\nAll about the girl who came to stay\nShe’s the kind of girl you want so much it makes you sorry,\nStill you don’t regret a single day\n\n[C] [Em] [Dm] [G7]/ [C] [Em] [Dm7] [G7]\nAH GIRL, GIRL\n\nWhen I think of all the times I’ve tried so hard to leave her,\nShe will turn to me and start to cry\nAnd she promises the earth to me and I believe her\nAfter all this time I don’t know why\n\n[Dm] [A]/ [Dm7] [A](2) [Dm7]\nShe’s the kind of girl who puts you down\nWhen friends are there you feel a fool\nWhen you say she’s looking good\nShe acts as if it’s understood, she’s cool,\n\n[F] [C] [Em] [Dm7] [G7] [C] [Em] [Dm]\nOh, oh, oh, girl, girl\n\n[Am] [E7] [Am] [Dm] ([C] [E7]/ [Am]) (2)\nWas she told when she was young that pain would lead to pleasure,\nDid she understand it when they said\nThat a man must break his back to earn his day of leisure\nWill she still believe it when he’s dead\n\n[C] [Em] [Dm] [G7]/ [C] [Em] [Dm7] [G7]\nAH GIRL, GIRL\n"
   },
   {
     "id": "guantanamera",
@@ -1272,6 +1423,40 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Hijo de la luna\"\nartist: \"Mecano\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"clásico\"]\n---\n\n## Verso 1\nCruz de navajas por una mujer…\n\n[Em]-[Bm]-[C]-[D7] (2)\nTonto el que no entienda, cuenta una leyenda,\n\n[G] [D] [Em] [Bm] [C] [D7] [Em] [D] (2)\n-Que una hembra gitana,\nConjuró a la luna hasta el amanecer\nLlorando pedía al llegar el día desposar un calé\n\n[Em]-[Bm]-[C]-[D7](2)\n-Tendrás a tu hombre, piel morena,\nDesde el cielo habló la luna llena,\n\n[G] [D] [Em] [Bm] [C] [D7] [Em] [D] (2)\nPero a cambio quiero,\nEl hijo primero que le engendres a él\nQue quien sufre inmola,\nPara no estar sola, poco le iba a querer\n\n[F#]- [Bm]-[F#m]-[G]-[F#7]-[Bm]_[D] [F#7] [Bm](2)\nLuna, quieres ser madre,\n\n[\\]\n[F#7]-[Bm](2) [Em]\nY no encuentras querer que te haga mujer\nDime luna de plata, ¿qué pretendes hacer\ncon un niño de piel? Ah, ah, hijo de la luna\n\n[Em] [Bm] [C] [D7](2)\nDe padre canela nació un niño,\nBlanco como el lomo de un armiño,\n\n[G] [D] [Em] [Bm] [C] [D7] [Em] [D] (2)\nCon los ojos grises, en vez de aceituna,\nNiño albino de luna. Maldita su estampa,\nEste hijo es de un payo, y yo no me lo callo\n\n[Em] [Bm] [C] [D7](2)\n-Gitano al creerse deshonrado,\nSe fue a su mujer cuchillo en mano,\n\n¿De quién es el hijo? me has engañao fijo\nY de muerte la hirió, luego se hizo al monte,\nCon el niño en brazos y allí lo abandonó\n\n[G] [D] [Em] [Bm] [C] [D7] [Em] [D] (2)\n[Em] [Bm] [C] [D7](2)\n-Y en las noches que haya luna llena,\nSerá porque el niño esté de buenas.\n\n[G] [D] [Em] [Bm] [C] [D7] [Em] [D] (2)\n"
   },
   {
+    "id": "hit-the-road-jack",
+    "title": "Hit the Road Jack",
+    "artist": "Ray Charles",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "r&b",
+      "soul",
+      "classic",
+      "60s",
+      "inglés"
+    ],
+    "file": "canciones/hit-the-road-jack.md",
+    "content": "---\ntitle: \"Hit the Road Jack\"\nartist: \"Ray Charles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"r&b\", \"soul\", \"classic\", \"60s\", \"inglés\"]\n---\n\n## Intro\n[Am] [G] [F] [E7]\n\n## Verso 1\nHit the road Jack and don't you come back\nNo more, no more, no more, no more\nHit the road Jack and don't you come back\nNo more (What'd you say?)\nHit the road Jack and don't you come back\nNo more, no more, no more, no more\nHit the road Jack and don't you come back, no more\n\nOh woman, oh woman, don't treat me so mean\nYou're the meanest old woman that I've ever have seen.\nI guess, if you say so, I'll have to pack my things and go (that's right)\n\nHit the road Jack and don't you come back\n\nNow baby listen baby, don't you treat me this way\n'Cause I'll be back on my feet someday\nDon't care if you do, 'cause it's understood\nYou ain't got no money, you just ain't no good\nWell, I guess if you say so\nI'll have to pack my things and go (that's right)\n"
+  },
+  {
+    "id": "hotel-california",
+    "title": "Hotel California",
+    "artist": "The Eagles",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "classic",
+      "70s",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/hotel-california.md",
+    "content": "---\ntitle: \"Hotel California\"\nartist: \"The Eagles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"classic\", \"70s\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7] [G] [D]/ [F] [C] [Dm] [E7] (2)\n\n## Verso 1\nOn a dark desert highway, cool wind in my hair\nWarm smell of colitas, rising up through the air\nUp ahead in the distance, I saw a shimmering light\nMy head grew heavy and my sight grew dim. I had to stop for the night\nThere she stood in the doorway, I heard the mission bell\nAnd I was thinking to myself: \"This could be Heaven or this could be Hell\"\nThen she lit up a candle, and she showed me the way\nThere were voices down the corridor I thought I heard them say\n\n[F] [C] [E7] [Am] /[F] [C] [Dm] [E]\nWelcome to the Hotel California, such a lovely place, such a lovely face\nPlenty of room at the Hotel California. Any time of year, you can find it here\n\n[Am] [E7] [G] [D]/ [F] [C] [Dm] [E7] (2)\nHer mind is Tiffany-twisted, she got the Mercedes bends\nShe got a lot of pretty, pretty boys she calls friends\nHow they dance in the courtyard, sweet summer sweat\nSome dance to remember, some dance to forget\nSo I called up the Captain, \"Please bring me my wine.\"\nHe said, \"We haven't had that spirit here since 1969.\"\nAnd still those voices are calling from far away\nWake you up in the middle of the night\nJust to hear them say\n\n[F] [C] [E7] [Am] /[F] [C] [Dm] [E]\nWelcome to the Hotel California, such a lovely place, such a lovely face\nThey livin' it up at the Hotel California. What a nice surprise, bring your alibis\n\n[Am] [E7] [G] [D]/ [F] [C] [Dm] [E7] (2)\nMirrors on the ceiling, the pink champagne on ice\nAnd she said: \"We are all just prisoners here, of our own device\"\nAnd in the master's chambers, they gathered for the feast\nThey stab it with their steely knives, but they just can't kill the beast\nLast thing I remember, I was, running for the door\nI had to find the passage back, to the place I was before\n\"Relax,\" said the night man: we’re programmed to receive\nYou can check-out any time you like, but you can never leave!\"\n"
+  },
+  {
     "id": "hoy-gloria-estefan",
     "title": "Hoy",
     "artist": "Gloria Estefan",
@@ -1285,6 +1470,90 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/hoy-gloria-estefan.md",
     "content": "---\ntitle: \"Hoy\"\nartist: \"Gloria Estefan\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"pop latino\", \"andino\", \"balada\"]\n---\n\n## Intro\n[Am] [C] [G] [Am] ([x3]) [Am] [E] [Am] ([×4])\n\nIntro:\n\n[Am] [G]\n[F] [G] [C] -[E7]\nTengo marcado en el pecho todos los días que el tiempo no me dejó estar aquí (estar aquí)\n\n[E] [Am]\n[Am] [G] [F]\nTengo una fe que madura, que va conmigo y me cura desde que te conocí\n\n[Am] [G] [F] [G] [C]-[E7]\nTengo una huella perdida entre tu sombra y la mía que no me deja mentir: (no me deja mentir)\n\n[Am] [G] [F] [E] [Am]\nSoy una moneda en la fuente, tú, mi deseo pendiente, mis ganas de revivir:\n\n[F] [G] [C]\nTengo una mañana constante y una acuarela esperando verte pintado de azul.\n\n[E] [Am]\n[F] [G]\n[C]\nTengo tu amor y tu suerte, y un caminito empinado.\n\n[E7] [Am]\nTengo el mar del otro lado, tú eres mi norte y mi sur.\n\nHoy voy a verte de nuevo, voy a envolverme en tu ropa.\n\n[F] [G] [C]\n[E7] [Am]\nSusúrrame en tu silencio, cuando me veas llegar\n\n[F] [G] [C]\nHoy voy a verte de nuevo, voy a alegrar tu tristeza.\n\n[Am] [E] [Am] ([×4])\n[E7] [Am]\nVamos a hacer una fiesta, pa que este amor crezca más\n\n[F] [G] [C] -[E7]\nTengo una frase colgada, entre mi boca y mi almohada que me desnuda ante ti.\n\n[Am] [G]\n[Am] [G] [F]\n[E7] [Am]\nTengo una playa y un pueblo que me acompañan de noche cuando no estás junto a mí.\n\nTengo una mañana constante y una acuarela esperando verte pintado de azul.\n\n[F] [G] [C]\n[E] [Am]\n[F] [G] [C]\nTengo tu amor y tu suerte, y un caminito empinado.\n\nTengo el mar del otro lado, tú eres mi norte y mi sur.\n\n[E7] [Am]\nHoy voy a verte de nuevo, voy a envolverme en tu ropa.\n\n[F] [G] [C]\nSusúrrame en tu silencio, cuando me veas llegar\n\n[E7] [Am]\n> (1ª vez A capela)\n[F] [G] [C]\nHoy voy a verte de nuevo, voy a alegrar tu tristeza.\n\nVamos a hacer una fiesta, pa que este amor crezca más. (BIS)\n\n[E7] [Am]\n"
+  },
+  {
+    "id": "i-am-a-rock",
+    "title": "I Am a Rock",
+    "artist": "Simon & Garfunkel",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk rock",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/i-am-a-rock.md",
+    "content": "---\ntitle: \"I Am a Rock\"\nartist: \"Simon & Garfunkel\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"folk rock\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[C] [F] [C]/ [Dm]-[G7] [F]-[C]/ [Dm]/-[Em7](2)\n\n## Verso 1\nA winters day, in a deep and dark december:\nI am alone, gazing from my window\nTo the streets bellow on a freshly fallen silent shroud of snow\n\n[F] [C] [F] [G7] [C]\nI am rock, I am a island\n\nI’ve built walls, a fortress deep and mighty\nThat none may penetrate. I have no need of friendship, friendship causes pain.\nIt’s laughter and it’s loving i disdain\n\nDon’t talk of love, I’ve heard the word before;\nIt’s sleeping in my memory, I won’t disturb the slumber of feelings that have died.\nIf i never loved i never would have cried.\n\nI have my books and my poetry to protect me; I am shielded in my armour,\nHiding in my room, safe within my womb.I touch no one and no one touches me.\n\n[Dm7]-[G7]-[C](2)\nAnd a rock feels no pain, and a island never cries\n"
+  },
+  {
+    "id": "i-still-havent-found-what-im-looking-for",
+    "title": "I Still Haven't Found What I'm Looking For",
+    "artist": "U2",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "80s",
+      "classic",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/i-still-havent-found-what-im-looking-for.md",
+    "content": "---\ntitle: \"I Still Haven't Found What I'm Looking For\"\nartist: \"U2\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"80s\", \"classic\", \"himno\", \"inglés\"]\n---\n\n## Verso 1\nWhat I’m looking for (U2)\n\n[D] [G] [D]\nI have climbed the highest mountains\nI have run through the fields.\nOnly to be with you\nOnly to be with you\nI have run, I have crawled\nI have scaled these city walls\nThese city walls\nOnly to be with you\n\n[A] [G] [D]\nBUT I STILL HAVEN’T FOUND\nWHAT I’M LOOKING FOR (2)\n\n[D] [G] [D]\nI have kissed honey lips\nFelt the healing in her fingertips\nIt burned like fire, this burning desire\nI have spoken with the tongue of angels\nI have held the hand of the devil\nIt was warm in the night,\nI was cold as a stone.\n\n[A] [G] [D]\nBUT I STILL HAVEN’T FOUND\nWHAT I’M LOOKING FOR (2)\n\n[D] [G] [D]\nI believe in the kingdom come\nThen all the colours will,\nBleed into one (2)\nBut yes, I’m still running\nYou broke the bonds,\nYou loosened the chains\nYou carried the cross\nAnd my shame (2) You know I believe it\n\n[A] [G] [D]\nBUT I STILL HAVEN’T FOUND\nWHAT I’M LOOKING FOR (2)\n"
+  },
+  {
+    "id": "i-will-survive",
+    "title": "I Will Survive",
+    "artist": "Gloria Gaynor",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "disco",
+      "70s",
+      "classic",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/i-will-survive.md",
+    "content": "---\ntitle: \"I Will Survive\"\nartist: \"Gloria Gaynor\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"disco\", \"70s\", \"classic\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [Dm] [G] [Cmaj7]*[Fmaj7]*RemMIsus4*[E]\n\n## Verso 1\nAt first I was afraid, I was petrified\nKept thinking I could never live\nWithout you by my side\nBut then I spent so many nights\nThinking how you did me wrong\nAnd I grew strong and I learned how to get along\n\nAnd so you're back, from outer space\nI just walked in to find you here\nWith that sad look upon your face\nI should've changed that stupid lock\nI should’ve made you leave your key\nIf I'd have known for just one second\nYou'd be back to bother me\n\nGo on, now, go, walk out the door,\nJust turn around now,\nCause you're not welcome anymore\nWeren’t you the one\nWho tried to hurt me with goodbye\nDid you think I'd crumble?\nYou think I'd lay down and die?\nOh, no, not I, I will survive\nOh, as long as I know how to love,\nI know I'll stay alive. I've got all my life to live\nAnd I’ve got all my love to give\nAnd I’ll survive, I will survive, hey hey\n\nIt took all my strength I had not to fall apart\nJust trying hard to mend the pieces\nOf my broken heart\nAnd I spent, oh so many nights\nFeeling sorry for myself\nI used to cry but now I hold my head up high\nAnd you see me, somebody new\nI'm not that chained up little person\nStill in love with you\nAnd so you felt like droppin' in\nAnd just expect me to be free\nBut now I'm saving all my lovin'\nFor someone who's loving me\nGo on now, go, walk out the door…(bis)\n"
+  },
+  {
+    "id": "im-yours",
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop",
+      "acoustic",
+      "2000s",
+      "inglés"
+    ],
+    "file": "canciones/im-yours.md",
+    "content": "---\ntitle: \"I'm Yours\"\nartist: \"Jason Mraz\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"acoustic\", \"2000s\", \"inglés\"]\n---\n\n## Intro\n[G] [D] [Em] [C]            [C] [G] [Am] [F]\n\n## Verso 1\nWell, you done done me and you bet I felt it\nI tried to be chill but you’re so hot that I melted\nI fell right through the cracks,\nAnd I’m trying to get back\nBefore the cool done run out, I’ll be giving it my bestest\nAnd nothing’s gonna stop me but divine intervention\nI reckon it's again my turn to win some or learn some\n\nBut, I won't hesitate no more, no more, it cannot wait I’m yours\n\nWell, open up your mind and see like me\nOpen up your plans and damn you're free\nLook into your heart and you'll find love, love, love, love\nListen to the music of the moment\nPeople dance and sing we’re just one big family,\nIt’s your God-forsaken right to be loved, loved, loved, loved\n\nSo, I won't hesitate no more, no more, it cannot wait I’m sure\nThere’s no need to complicate our time is short, this is our fate, I’m yours\n\nI've been, spending way too long, checking my tongue in the mirror\nAnd bending over backwards, just to try to see it clearer\nBut my breath fogged up the glass, and so I drew a new face and I laughed\nI guess what I be saying, is there ain't no better reason\nTo rid yourself of vanities and just go with the seasons\nIt's what we aim to do, our name is our virtue\n\nBut I won't hesitate no more, no more, it cannot wait, I’m yours\n\nI *won't hesitate no more,\nNo more, it cannot wait, I’m sure\nThere’s no need to complicate,\nOur time is short, this is our fate,\nI’m yours (bis)\n\n*Well, open up your mind and see like me\nOpen up your plans and damn you're free\nAnd look into your heart and you'll find that the sky is yours\nSo please don’t, please don’t, please don’t\nThere’s no need to complicate, ‘cause our time is short\nthis oh, this oh, this is our fate, I’m yours (2)\n"
+  },
+  {
+    "id": "imagine",
+    "title": "Imagine",
+    "artist": "John Lennon",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "balada",
+      "70s",
+      "classic",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/imagine.md",
+    "content": "---\ntitle: \"Imagine\"\nartist: \"John Lennon\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"70s\", \"classic\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[C] [F] (4) [Am]   [Dm] [G]\n\n## Verso 1\nImagine there’s no heaven, it’s easy if you try\nNo hell below us, above there’s only sky\nImagine all the people living for today ah!\nImagine there’s no countries, it isn’t hard to do\nNothing to kill or die for, and no religion too\nImagine all the people living life in peace…\n\n[F] [G] [C] [E7] (3) [F] [G] [C]\nYou may say I’m a dreamer\nBut I’m not the only one\nI hope someday you’ll join us\nAnd the world will be as one.\n\nImagine no possessions, I wonder if you can\nNo need for greed or hunger, a brotherhood of man\nImagine all the people sharing all the world.\n"
   },
   {
     "id": "jardin-de-rosas",
@@ -1348,6 +1617,22 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/la-bachata.md",
     "content": "---\ntitle: \"La bachata\"\nartist: \"Manuel Turizo\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"bachata\", \"pop latino\", \"2020s\"]\n---\n\n## Intro\n[C] [D] [G] [Em] (2) [C] [D] [G]\n\nTe bloqueé de Insta\nPero por otra cuenta veo tus historias (oh…)\nTu número lo borré\nNo sé pa qué si me lo sé de memoria\nMe hiciste dañ, y así te extraño\nY aunque sé que un día te voy a olvidar\nAún no lo hago\nEs complicado\nTodo lo que hicimos, me gusta recordar\n\n[C] [D] [Em] [Bm] (2)\nAndo manejando\nPor las calles que me besaste\nOyendo las canciones\nQue un día me dedicaste\nTe diría que volvieras\nPero eso no se pide\nMejor le pido a Dios\nQue me cuide (porque…)\n\n[C] [D] [G] [Em] (2) [C] [D] [G]\nQue me cuide de otra que se parezca a ti\nNo quiero caer como hice por ti\nOjalá te enamores\nTe hagan lo mismo que me hiciste a mí\nTú me enseñaste a no amar a cualquiera\nY también como no quiero que me quieran\nNo, éramos tres en una relación de dos\nNo te perdono, pídele perdón a Dios\nDije que te olvidé y la verdad es que yo, yo\n\n[C] [D] [Em] [Bm] (2)\nAndo manejando\nPor las calles que me besaste\nOyendo las canciones\nQue un día me dedicaste\nTe diría que volvieras\nPero eso no se pide\nMejor le pido a Dios\nQue me cuide (porque…)\n\nHoy ya no vuelan mariposas\n"
+  },
+  {
+    "id": "la-bamba-twist-and-shout",
+    "title": "La Bamba / Twist and Shout",
+    "artist": "The Beatles",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock and roll",
+      "classic",
+      "60s",
+      "inglés"
+    ],
+    "file": "canciones/la-bamba-twist-and-shout.md",
+    "content": "---\ntitle: \"La Bamba / Twist and Shout\"\nartist: \"The Beatles\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock and roll\", \"classic\", \"60s\", \"inglés\"]\n---\n\n## Intro\n[C] [F] [G]\n\n## Verso 1\nPara bailar la bamba (2) Se necesita una poca de gracia.\nUna poca de gracia pa mí y pa ti. Ay arriba y arriba.\nAy arriba y arriba, por ti seré, por ti seré, por ti seré\nYo no soy marinero. Yo no soy marinero\nSoy capitán Soy capitán. Soy capitán\nBamba bamba (3)\n\nPara subir al cielo (2) Se necesita una escalera grande.\nUna escalera grande y otra chiquita. Ay arriba y arriba.\nAy arriba y arriba, por ti seré, por ti seré, por ti seré\nBamba bamba (3)\n\nWell, shake it up, baby, now    (Shake it up, baby)\nTwist and shout             (Twist and shout)\nCome on (4), baby, now         (Come on, baby)\nCome on and work it on out    (Work it on out)\nWell, work it on out, honey        (Work it on out)\nYou know you look so good     (Look so good)\nYou know you got me goin' now.    (Got me goin')\nJust like I knew you would        (Like I knew you would)\n\nWell, shake it up, baby, now    (Shake it up, baby)\nTwist and shout             (Twist and shout)\nCome on (4), baby, now         (Come on, baby)\nCome on and work it on out    (Work it on out)\nYou know you twist, little girl.     (Twist, little girl)\nYou know you twist so fine        (Twist so fine)\nCome on and twist a little closer now    (Twist a little closer)\nAnd let me know that you're mine     (Let me know you're mine)\n\nBam-ba-bamba (3) oh!\n\nhttps://www.youtube.com/watch?v=9zRIHqlycss\nhttps://www.youtube.com/watch?v=Jp6j5HJ-Cok\n[A] [D] [E]\n"
   },
   {
     "id": "la-bamba",
@@ -1767,6 +2052,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Los amantes\"\nartist: \"Mecano\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"80s\", \"español\"]\n---\n\n## Intro\n[C]-[C4]/5-[C] (2) [G] [Am] -[F]- [G] (3)\n\n- Yo soy uno de esos amantes, tan elegantes\nComo los de antes,\nQue siempre llevan guantes.\n- Entre semana voy deportivo,\nPero el domingo me pongo muy fino,\nCon mi chaqué de lino.\n- Y voy buscando por los balcones\nBellas Julietas para mis canciones\nY hacerles los honores.\n\n[F] [G]/ [F] [Am] / [F] [G]/[F]_[C]-[F]-[G]\nY siempre estoy rompiéndome la voz\nCantando coplas bajo tu ventana,\nAmor, sal ya, que este trovador\nSe está asando de calor.\n\n[C]-[C4]/5-[C] (2) [G] [Am] -[F]- [G] (3)\nSoy educado caballero, bello, cortés\nY amable compañero, un codiciado soltero.\n-Y como no tengo complejos,\nMe miro siempre en todos los espejos\nAntes de echar los tejos.\n- Si alguna vez cometo errores,\npa que no llores pido mil perdones,\nCon un millón de flores.\n\n[F] [G]/ [F] [Am] / [F] [G]/ [F] [C]-[F]-[G]\nY siempre estoy rompiéndome la voz\nCantando coplas bajo tu ventana,\nAmor, sal ya, que este trovador\nSe está asando de calor.\n\n[C] [C4]/5 [C]\n"
   },
   {
+    "id": "losing-my-religion",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "key": "F",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "alt rock",
+      "90s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/losing-my-religion.md",
+    "content": "---\ntitle: \"Losing My Religion\"\nartist: \"R.E.M.\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"alt rock\", \"90s\", \"classic\", \"inglés\"]\n---\n\n## Verso 1\nIntro: [F] [Dm] [G] [Am] (2) [G]_\n\n[Am] [Em] [Am] (2) [Em]_[Dm] [G]\nOh, life is bigger, it's bigger than you, and you are not me\nThe lengths that I will go to, the distance in your eyes…\nOh no, I've said too much. I set it up.\n\n[Am] [Em] [Am] (2) [Em] [Dm] [G]\nThat's me in the corner, that's me in the spotlight, losing my religion,\nTrying to keep, up with you, and I don't know if I can do it\nOh no, I've said too much, I haven't said enough\n_[F] [G]-[Am]/ [F] [G]-[Am]_[G]\nI thought that I heard you laughing, I thought that I heard you sing.\nI think I thought I saw you try\n\n[Am] [Em] [Am] (2) [Em]_[Dm] [G]\nEvery whisper, of every waking hour I'm choosing my confessions\nTrying to keep, an eye on you, like a hurt lost and blinded fool, fool\nOh no, I've said too much. I set it up\n\n[Am] [Em] [Am] (2) [Em]_[Dm] [G]\nConsider this, consider this, the hint of the century, consider this\nThe slip, that brought me to my knees failed, what if all, these fantasies come,\nFlailing around, now I've said, too much\n\n_[F] [G]-[Am]/ [F] [G]-[Am]\nI thought that I heard you laughing, I thought that I heard you sing.\nI think I thought I saw you try…\n\n[C] [D] (2)\nBut that was just a dream, that was just a dream\n\n[Am] [Em] [Am] (2) [Em] [Dm] [G]\nThat's me in the corner, that's me in the spotlight\nLosing my religion, trying to keep, up with you\nAnd I don't know if I can do it\nOh no, I've said too much, I haven't said enough\n_[F] [G]-[Am]/ [F] [G]-[Am]\nI thought that I heard you laughing, I thought that I heard you sing\nI think I thought I saw you try\n\n[F] [G]/[Am]/[F]/ [G]-[Am]/_[G] -[Am]\nBut that was just a dream. Try, cry. Why, try?\nThat was just a dream, just a dream, just a dream, dream.\n"
+  },
+  {
     "id": "love-me-do",
     "title": "Love Me Do",
     "artist": "The Beatles",
@@ -1781,6 +2082,22 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/love-me-do.md",
     "content": "---\ntitle: \"Love Me Do\"\nartist: \"The Beatles\"\nkey: \"G\"\ncapo: 0\ntempo: 148\ntags: [\"rock\", \"60s\", \"classic\", \"fácil\"]\n---\n\n## Intro\n[G] [C] [G] [C]\n[G] [C] [G] [C]\n\n## Verso 1\n[G] Love, love me [C] do\nYou [G] know I love [C] you\nI'll [G] always be [C] true\nSo please... [C] [C]\nLove me [G] do [C] [G]\nWhoa, love me [G] do [C] [G]\n\n## Verso 2\n[G] Love, love me [C] do\nYou [G] know I love [C] you\nI'll [G] always be [C] true\nSo please... [C] [C]\nLove me [G] do [C] [G]\nWhoa, love me [G] do [C] [G]\n\n## Puente\n[D] Someone to love\n[C] Somebody [G] new\n[D] Someone to love\n[C] Someone like [G] you [D]\n\n## Verso 3\n[G] Love, love me [C] do\nYou [G] know I love [C] you\nI'll [G] always be [C] true\nSo please... [C] [C]\nLove me [G] do [C] [G]\nWhoa, love me [G] do [C] [G]\nYeah, love me [G] do [C] [G]\n"
+  },
+  {
+    "id": "love-me-tender",
+    "title": "Love Me Tender",
+    "artist": "Elvis Presley",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock and roll",
+      "classic",
+      "balada",
+      "inglés"
+    ],
+    "file": "canciones/love-me-tender.md",
+    "content": "---\ntitle: \"Love Me Tender\"\nartist: \"Elvis Presley\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"rock and roll\", \"classic\", \"balada\", \"inglés\"]\n---\n\n## Intro\n[D] [E] [A] -7 [D](2)\n\n## Verso 1\nLove me tender, love me sweet, never let me go\nYou have made my life complete, and I love you so\n\n[D]-[F#]-[Bm]-[D7]-[G]-[Gm]-[D]/[D] [B7] [E]_ [A] -7 [D]\nLove me tender, love me true, all my dreams fulfil\nFor my darlin’, I love you and I always will\n"
   },
   {
     "id": "loviu",
@@ -2041,6 +2358,23 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Mi viejo San Juan\"\nartist: \"Noel Estrada\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"puerto rico\", \"clásico\"]\n---\n\n## Intro\n[E]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E] (bis) [E] [B7]\n\nEn mi viejo San Juan cuantos sueños forjé en mis años de infancia,\n\nMi primera ilusión y mis cuitas de amor son recuerdos del alma.\n\n[E]\n[E] [E7] [A] [Am]\nUna tarde partí hacia extraña nación pues lo quiso el destino,\n\n[E] [C#m] [F#m] [B7] [E]\nPero mi corazón se quedó junto al mar, en mi viejo San Juan.\n\n[B7] [E](2)\nAdiós, (adiós, adiós)\nBoriquen querido, (la tierra del amor)\nAdiós, (adiós, adiós)\nMi diosa del mar. (la reina del palmar)\n\n[E7] [A] [Am] [E] [C#m] -[F#m] -[B7]-[E]\nMe voy, (yo ya me voy)\nPero un día volveré, a buscar mi querer,\nA soñar otra vez en mi viejo San Juan.\n\n[E]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E] (bis) [E] [B7]\nPero el tiempo pasó y el destino burló mi terrible nostalgia,\n\n[E]\nY no pude volver al San Juan que yo amé, pedacito de patria.\n\n[E] [E7] [A] [Am]\nMi cabello blanqueó, ya mi vida se va, ya la muerte me llama,\n\nY no quiero morir alejado de ti, Puerto Rico del alma.\n\n[E] [C#m] [F#m] [B7] [E]\n"
   },
   {
+    "id": "michelle",
+    "title": "Michelle",
+    "artist": "The Beatles",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "balada",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/michelle.md",
+    "content": "---\ntitle: \"Michelle\"\nartist: \"The Beatles\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[E] [Am7] [D] / [Dbdim] [B7](2)\n\n## Verso 1\nMichelle, ma belle, these are words that go together well (ooh), my Michelle\nMichelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble\n\n[Em]_ [G] [C] /[B7]-[Em]-[Am] /[Em]-[G]+-[Em7]-[Em6]-[Am] [B7]\nI love you, I love you, I love you (Ooh, ooh) that's all I want to say\n(Ooh) until I find a way\nI will say the only words I know that you'll understand\n\nMichelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble\n\n[Em]_ [G] [C] /[B7]-[Em]-[Am] /[Em]-[G]+-[Em7]-[Em6]-[Am] [B7]\nI need to, I need to, I need to, I need to make you see (ooh)\nOh, what you mean to me (ooh, ooh)\nUntil I do, I'm hoping you will know what I mean, I love you (ooh, ooh)\n\nMichelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble\n\nI want you, I want you, I want you (ooh, ooh) I think you know by now\nI'll get to you somehow\nUntil I do, I'm telling you, so you'll understand\n\nMichelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble\n\nAnd I will say the only words I know that you'll understand, my Michelle (hmm)\n"
+  },
+  {
     "id": "mil-calles-llevan-hacia-ti",
     "title": "Mil calles llevan hacia ti",
     "artist": "La Guardia",
@@ -2100,6 +2434,23 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/mon-amour.md",
     "content": "---\ntitle: \"Mon amour\"\nartist: \"Zzoilo & Aitana\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"indie pop\", \"español\"]\n---\n\n## Verso 1\n(Zzoilo/\n\nAitana\n\n)\nMon amour, je t’aime…\n\n[C] [E] [Am] [F] [Zzoilo]/\nte juro que volé\n\n[Aitana]\nEs que me encantas tanto\nSi me miras mientras canto\nSe me pone cara tont@\nNiña, tú me tienes loc@\nY es que me gustas, no sé cuánto\nMás que el olor a café cuando me levanto\nContigo no hace falta dinero en el banco\nContigo veo Paris desde todo lo alto\nDe la Torre Eiffel, que se está muy bien\nMon amour, je t'aime\nParece un cliché pero no lo es\nContigo aprendí lo que es vivir\nPero ya lo ves, ah, ah, ah\nSomos increíbles, somos increíbles… (Y&Á)\nSon las seis de la mañana y me da igual\nVoy a salir a la calle, voy a ponerme a gritar\nVoy a gritar que te quiero,\nQue te quiero de verdad\nCon esa sonrisa puesta\n\n[C] [E] [Am] [F]\nSon las seis de la mañana y me da igual\nVoy a salir a la calle, voy a ponerme a gritar\nVoy a gritar que te quiero,\nQue te quiero de verdad\nCon esa sonrisa puesta\nDe verdad que no me cuesta\nPensar en ti cuando me acuesto\nPero Aitana, no imagines el resto\nQue si no, no queda bonito esto.\n\nVoy a ir directo a ti\nVoy a mirarte a los ojos, no te voy a mentir\nY como dos niños chicos, te pediré salir\nEsperando un \"sí\", esperando un\n\nY es que me encantas tanto\nSi me miras mientras canto\nSe me pone cara tonto\nNiña, tú me tienes loco\n\nkiss\n\nY es que me gustas, no sé cuánto\n\"Gogoko zaitut\" como dirían los vascos\n\nSi quieres te lo digo hasta en portugués,\n“Eu gosto de você”\nSe me paraliza el cuerpo cuando vas a besarme\nMe-acuerdo de ti cuando voy a maquillarme\nCantando en los conciertos,\nTe imagino delante,\nSiendo el más elegante,\nSiendo el más importante\n\nVoy a ir directo a ti\nVoy a mirarte a los ojos, no te voy a mentir\nY como dos niños chicos, te pediré salir\nEsperando un \"sí\", esperando un kiss\n\nY es que me encantas tanto\nSi me miras mientras canto\nSe me pone cara tont@\nNiña, tú me tienes loc@\nY es que me gustas, no sé cuánto\nMás que el olor a café cuando me levanto\nContigo no hace falta dinero en el banco\nContigo veo París desde todo lo alto.\nCuando salgo de grabar,\nSolo quiero ir a buscarte\nMe da igual Madrid o París,\nSolo contigo escaparme\nMon amour, s'il vous plaît, vámonos de aquí\n\nGrabando con Aitana,\nYa pensando en buscarte\nY yo en cruzar el charco,\nPa poder ir a verte\nNo importa el idioma, solo quiero cantarte\nMon amour, amore mio, solo quiero comerte\n\n[F] [G] [C] [E7]\nCuando te veo, mamá, como un formula one\nPaso de cero a cien, contigo implosioné\nDe ti me envenené, yo ya no sé qué hacer\nMe abrazaste y volé,\n\nPues nos vamos…\n\nAdiós\n"
+  },
+  {
+    "id": "moonlight-shadow",
+    "title": "Moonlight Shadow",
+    "artist": "Mike Oldfield",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk rock",
+      "pop",
+      "80s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/moonlight-shadow.md",
+    "content": "---\ntitle: \"Moonlight Shadow\"\nartist: \"Mike Oldfield\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"folk rock\", \"pop\", \"80s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Dm] [A#]/ [C]_[F] [C] (2)\n\n## Verso 1\nThe last, time_ever she saw him\nCarried away by a moonlight shadow\nHe passed on worried and warning\nCarried away by a moonlight shadow.\n\n[F]_[C] [Dm]-[A#] [C](2)\nLost in a riddle that Saturday night, far away on the other side\nHe was caught in the middle of a desperate fight\nAnd she couldn’t find how to push through.\n\n[Dm] [A#]/ [C]_[F] [C] (2)\nThe trees that whisper in the evening,\nCarried away by a moonlight shadow\nSing_a_song, of sorrow and grieving\nCarried away by a moonlight shadow.\n\n[F]_[C] [Dm]-[A#] [C] (2)\nAll_she_saw_was_the silhouette of a gun far away on the other side\nHe was shot six times by a man on the run, and she couldn’t find how to push through.\n\n[C]_ [F] [A#] [C] (2)\nI STAY, I PRAY SEE YOU-OU IN HEAVEN FAR AWAY\nI STAY, I PRAY SEE YOU-OU IN HEAVEN ONE DAY\n\n[Dm] [A#]/ [C]_[F] [C] (2)\nFour, a.m. in the morning\nCarried away by a moonlight shadow\nI watch your vision forming\nCarried away by a moonlight shadow.\n\n[F]_[C] [Dm]-[A#] [C](2)\nThe stars move slowly in a silvery light\nFar away on the other side\nWill you come to talk to me this night\nBut she couldn’t find how to push through.\n\n[C]_ [F] [A#] [C] (2)\nI STAY, I PRAY SEE YOU-OU IN HEAVEN FAR AWAY\nI STAY, I PRAY SEE YOU-OU IN HEAVEN ONE DAY\n\n[F]_[C] [Dm]-[A#] [C] (4) [F]...\nCaught in the middle of a hundred and five\nThe night was heavy and the air was alive\nBut she couldn’t find how to push through\nFar away on the other side\nBut she couldn’t find how to push through\n"
   },
   {
     "id": "mucho-mejor",
@@ -2332,6 +2683,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Oración del remanso\"\nartist: \"Jorge Fandermole\"\nkey: \"D7\"\ncapo: 0\ntempo: 100\ntags: [\"folklore\", \"argentino\", \"acústico\"]\n---\n\n## Intro\n[Intro:] _ [D7] [G] [Em] [C] [D7] [G] [C] [G] [G] [Em]\n\nSoy de la orilla brava, del agua turbia y la correntada\n\n[C] [D7]\nQue baja hermosa por su barrosa profundidad\n\n[Am7] [F] [G] [Em]\nSoy un paisano serio, soy gente del remanso Valerio\n\n[C] [D7] [G] [C]\nQue es donde el cielo remonta vuelo en el Paraná.\n\n-Tengo el color del río, y su misma voz en mi canto sigo\n\n[G] [Em]\n[C] [Am] [D7]\nDel agua mansa y su suave danza en el corazón\n\n[Am] [F] [G] [Em]\nPero a veces oscura, va turbulenta en la ciega hondura\n\nY se hace brillo en este cuchillo de pescador.\n\n[C] [D7] [G]\n[Em] [C]\n[D7] [G] [Em] [C]\n[D] [G]\nCristo de las redes,\n\nno nos abandones\n\n, y en los espineles,\n\ndéjanos tus dones\n\n[D7] [Am]\nNo pienses que nos perdiste, es que la pobreza nos pone tristes\n\n[C] [D7] [G] [G] 7\nLa sangre tensa y uno no piensa más que en morir.\n\n[C] [F] [G] [Em]\n/:Agua del río viejo, llévate pronto este canto lejos\n\n(2ª vez, pausa)\n\n[C] [D7] [G]\nQue está aclarando y vamos pescando para vivir.\n\n(2ª vez del estribillo :/)\n\nLlevo mi sombra alerta, sobre la escama del agua abierta\n\n[G] [Em]\n[C] [D7]\nY en el reposo vertiginoso del espinel.\n\nSueño que alzo la proa, y subo_a_la_luna en la canoa\n\n[Am7] [F] [G] [Em]\n[C] [D7] [G] [C]\nY allí descanso, hecha un remanso, mi propia piel.\n\n[G] [Em]\n-Calma de mis dolores, ay, Cristo de los pescadores\n\n[C] [D7]\nDile a mi amada, que está apenada esperándome,\n\n[Am7] [F] [G] [Em]\nQue ando pensando en ella, mientras voy vadeando las estrellas\n\n[C] [D7] [G]\nQue el río está bravo y estoy cansado para volver.\n"
   },
   {
+    "id": "over-the-rainbow",
+    "title": "Over the Rainbow / What a Wonderful World",
+    "artist": "Israel Kamakawiwoʻole",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "hawaiian",
+      "balada",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/over-the-rainbow.md",
+    "content": "---\ntitle: \"Over the Rainbow / What a Wonderful World\"\nartist: \"Israel Kamakawiwoʻole\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"hawaiian\", \"balada\", \"classic\", \"inglés\"]\n---\n\n## Verso 1\nIntro: [C] [G] [Am] [F](2) [F] /  [C] [Em] [F] [C]/ [C] [E7] [Am] [F]\nOoh\n\n[C]             [Em]                       [F]        [C]\nSomewhere over the rainbow, way up high,\n[F]          [C]                                   [G]               [Am]     [F]\nAnd the dreams that you dream of, once in a lullaby…\n[C]             [Em]                        [F]          [C]\nOh,   somewhere  over the rainbow, bluebirds fly\n[F]          [C]                                        [G]                              [Am]     [F].\nAnd the dreams that you dreamed of, dreams really do come true…\n\n[C]                                             [G]                                                       [Am]     [F]\nSomeday I’ll wish upon a star, wake up where the clouds are far behind, me…\n[C]                                                           [G]                                                          [Am]         [F]\nWhere trouble melts like lemon drops, high above the chimney tops, that’s where, you’ll find me…\n\n[C]            [Em]                      [F]           [C]\nOh, somewhere over the rainbow, bluebirds fly\n[F]          [C]                                    [G]                       [Am]   [F]\nAnd the dream that you dare to, oh why, oh why can’t I…\n\n[C]         [Em]        [F]           [C]  [F]                    [C]            [E7]      [Am]\nWell I see, trees of green and, red roses too, I'll watch them bloom for, me and you\n[F]                   [G]                          [Am] -[F]\nAnd I, think to myself: What a wonderful world!\n\n[C]       [Em]             [F]              [C]                  [F]                [C] [E7]                   [Am]\nWell, I see skies of blue and I see, clouds of white, and the brightness of day highlight the dark\n[F]                             [G]                          [C]      [F]-[C]\nAnd I think to myself: What a wonderful world!\n[G]                                         [C]                         [G]                           [C]\nThe colors of the rainbow, so pretty in the sky are also on the faces, of people passing by\n[F]                     [C]                 [F]                [C]  [F]                   [C]       [Dm]          [G]\nI see friends shaking hands saying, \"How do you do?\"   They're really saying, \"I, I love you\"\n\n[C]             [Em]    [F]                     [C]      [F]                        [C]     [E7]          [Am]\nI hear babies cry and I watch them grow. They'll learn much more   than we'll know\n[F]                      [G]                          [Am]           [F]\nAnd I think to myself: What a wonderful wooorld, wooorld\n\n[C]                                             [G]                                                       [Am]     [F]\nSomeday I’ll wish upon a star, wake up where the clouds are far behind, me…\n[C]                                                           [G]                                                          [Am]        [F]\nWhere trouble melts like lemon drops, high above the chimney tops, that’s where, you’ll find me\n\n[C]             [Em]                       [F]        [C]\nSomewhere over the rainbow, way up high,\n[F]          [C]                                    [G]                       [Am]   [F]\nAnd the dream that you dare to, oh why, oh why can’t I…\n\n[C] [Em] [F] [C]/ [C] [E7] [Am] [F]\nOoh\n"
+  },
+  {
     "id": "para-volver-a-volver",
     "title": "Para volver a volver",
     "artist": "Siempre Así",
@@ -2360,6 +2727,22 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/paseando-por-la-mezquita.md",
     "content": "---\ntitle: \"Paseando por la mezquita\"\nartist: \"Medina Azahara\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"rock andaluz\", \"español\", \"70s\"]\n---\n\n## Verso 1\n(Medina Azahara ‘79)\n\nPensaba una noche a solas\nEn quien llegaría al cielo\nPaseaba por la mezquita,\nEstuve un tiempo en silencio\n\n[Em] [D] [Em]\nCon el cuerpo destrozado\nLleno de ira y desprecio\nPor tantas humillaciones\nQue hace pasar por el tiempo\n\nNos unimos en silencio\nCon una esperanza nueva\nDe ver surgir en el cielo\nUnida nuestra bandera\n"
+  },
+  {
+    "id": "perfect",
+    "title": "Perfect",
+    "artist": "Ed Sheeran",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop",
+      "balada",
+      "2010s",
+      "inglés"
+    ],
+    "file": "canciones/perfect.md",
+    "content": "---\ntitle: \"Perfect\"\nartist: \"Ed Sheeran\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"2010s\", \"inglés\"]\n---\n\n## Intro\n[G] [Em] [C] [D] (4)\n\n## Verso 1\nI found a love, for me,\nDarling, just dive right in, and follow my lead.\nWell I found a girl, beautiful and sweet\nOh, I never knew you were the someone waiting for me\n\n'Cause we were just kids_when we fell in love\nNot knowing what it was, I will not give you up, this time\nBut darling, just kiss me slow, your heart is all I own,\nAnd in your eyes you're holding mine\n\n[Em] [C] [G] [D]/ [Em] [C] [G] [D] (2) [G]\nBaby, I'm dancing in the dark, with you between my arms\nBarefoot on the grass, listening to, our favourite song\nWhen you said you looked a mess, I whispered underneath my breath\nBut you heard it, darling you, look perfect, tonight.\n\n[G] [Em] [C] [D] (4)\nWell, I found a woman, stronger than anyone I know\nShe shares my dreams, I hope that someday I'll share her home\nI found a love, to carry more than just my secrets\nTo carry love, to carry children of our own\n\nWe are still kids but we're so in love, fighting against all odds\nI know we'll be alright this time,\nDarling, just hold my hand, be my girl, I'll be your man,\nI see my future in your eyes\n\n[Em] [C] [G] [D]/ [Em] [C] [G] [D] (2) [G]\nBaby, I'm dancing in the dark with you between my arms\nBarefoot on the grass, listening to our favourite song\nWhen I saw you in that dress, looking so beautiful\nI don't deserve this, darling you look perfect tonight.\n\nBaby, I'm dancing in the dark with you between my arms\nBarefoot on the grass, listening to our favourite song\nI have faith in what I see, now I know I have met an angel,\nIn person and she looks perfect.\n[G]/[B]    [C]           [Dsus4]      [D]          [G]\nI don't deserve this, you look perfect tonight\n"
   },
   {
     "id": "pero-a-tu-lado",
@@ -2543,6 +2926,23 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Quiéreme\"\nartist: \"El Barrio\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"flamenco pop\", \"español\", \"2000s\"]\n---\n\n## Intro\n[Am] [G]\n\nQuiéreme, pero, que mira,\nQue te digo que tú quiéreme (4)\nResulta muy tópico decirle al mundo\nQue el amor es un sentimiento\nQue tiene lado claro y lado oscuro\nY las alegrías o penas van por dentro\n\nPero, mi amor es como un hilo\nQue arregla y cose los descosíos (2)\n\nPero, que mira, que tú quiéreme\nPero, que mira, que te digo que tú quiéreme (3)\nResulta muy tópico decir al valiente\nAl que juega con los amores\nQue la soledad suena muy diferente\nA cuando uno la quiera, a cuando te la imponen\n\nPero, mi amor es como un hilo\nQue arregla y cose los descosíos (2)\n\nPero, que mira, que tú quiéreme\nPero, que mira, que te digo que tú quiéreme (2)\npero, que mi\n\n[F] [Em7] (2)\nY caminando, camina, camina,\nMe encontré contigo\nPara que veas tú lo tópico que,\nMuchos a veces, es el destino\n\n[Am] [F] [G] [Em7]\nMi amor, se muere por mis andares\nMe tengo contado los pasos\nQue me llevan a su calle (2)\n\n[G] [Am]\nTópico es el besar con los ojos abiertos\nTópico es acordarte solo cuando truena\nTópico es no sentir lo que llevas dentro mi niña\nTópico es creer que el amor es una cadena\nQue ya te he dicho que mi amor es como un hilo\nQue arregla y cose los descosíos\nQue ya te he dicho que, mi amor (2) es como un hilo\nQue arregla y cose los descosíos\nQue no te olvides, que tú quiéreme\nPero, que mira, que te digo, que tú quiéreme (3)\n"
   },
   {
+    "id": "raindrops-keep-fallin-on-my-head",
+    "title": "Raindrops Keep Fallin' on My Head",
+    "artist": "B.J. Thomas",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop",
+      "soundtrack",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/raindrops-keep-fallin-on-my-head.md",
+    "content": "---\ntitle: \"Raindrops Keep Fallin' on My Head\"\nartist: \"B.J. Thomas\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"soundtrack\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[C] [Cmaj7]/ [C7]/ [F]_ [Em7] [A7] [Em7] /[A7] [Dm7]  -[G7]\n\n## Verso 1\nRain drops keep fallin’ on my head,\nAnd just like the guy whose feet are too big for his bed,\nNothing seems to fit.\nThose raindrops are fallin’ on my head,\nThey keep fallin’\n\nSo I just did, some talking to the sun.\nAnd I said I didn’t like the way he got things done,\nSleeping on the job.\nThose raindrops are falling on my head.\nThey keep falling!\n\n-[C] [Cmaj7]/ [F] [G] [G7]-[Em7]_/ [A7] [Dm7]  -[G7]\nBut there’s one thing, i know,\nThe blues they send to meet me won’t defeat me.\nIt won’t be long\nTill happiness steps up to greet me\n\nRain drops keep fallin’ on my head,\nBut that doesn’t mean my eyes\nWill soon be turnin’ red\nCrying’ is not for me ‘cause\nI’m never gonna stop the rain by complainin’.\n\n-[C] [Cmaj7]/ [Dm7] [G7] [C]\nBecause I’m free, nothin’s worryin’ me\n"
+  },
+  {
     "id": "rayando-el-sol",
     "title": "Rayando el Sol",
     "artist": "Maná",
@@ -2605,6 +3005,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Rocío\"\nartist: \"Rocío Jurado\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"andaluz\", \"clásico\"]\n---\n\n## Intro\n[Am]-[E]-[Am](2)[A7]_ [Dm] [E] [Am] /[G] [C](2)[E] [Am] (2)\n\nDe Sevilla un patio,\n\nsalpicao\n\nde flores\nUna fuente en medio con un surtidor\nRosas y claveles de todos colores\nQue no los soñara mejor ni un pintor\n-Junto a la cancela de hierro\n\nforjao\n\nHay una mocita de tez\n\nbronceá\n\nY juntito a ella, moreno y\n\nplantao\n\n,\nUn mozo\n\nencendío\n\n, que hablándole está\n\n[Am] [E] [F] [E7]\nLa luna, rosa de plata, el patio bañao de luz,\nMuy cerquita de su novia\nDijo el mocito andaluz:\n\n[Am] [E7] [Am](2) -[A7] [Dm] [G7] [C] [E7] [Am]\nRocío, ¡ay mi Rocío!, manojito de claveles\nCapullitos\n\nflorecíos\n\n,\nDe pensar en tus quereres\nVoy a perder el\n\nsentío\n\n,\nPorque te quiero mi\n\n,\nComo nadie te ha\n\nquerío\n\nvía\n\n¡Ay Rocío, ay mi Rocío!\n\n[Am]-[E]-[Am](2)[A7]_ [Dm] [E] [Am] /[G] [C](2)[E] [Am] (2)\nAhora es otro el patio\n\nsalpicao\n\nde rosas\nPatio de las monjas de la caridad\nDonde hasta la fuente llora silenciosa\nLa canción amarga de su soledad\n-regando las flores hay una monjita\nQue como ellas tiene carita de flor\nY que se parece a aquella mocita\nQue tras la cancela le hablaban de amor\n\n[Am] [E] [F] [E7]\nLa luna, rosa de plata, el patio\n\nde luz\nMas ya no suena la copla\nDe aquel mocito andaluz\n\nbañao\n\n[Am] [E7] [Am] [E7]-[Am] -[A7] [Dm] [G7] [C] [E7] [Am]\nRocío, ¡ay mi Rocío!, manojito de claveles\nCapullitos\n\nflorecíos\n\n,\nDe pensar en tus quereres\nVoy a perder el\n\nsentío\n"
   },
   {
+    "id": "row-your-boat",
+    "title": "Row, Row, Row Your Boat",
+    "artist": "Popular",
+    "key": "A7",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "popular",
+      "infantil",
+      "tradicional",
+      "inglés"
+    ],
+    "file": "canciones/row-your-boat.md",
+    "content": "---\ntitle: \"Row, Row, Row Your Boat\"\nartist: \"Popular\"\nkey: \"A7\"\ncapo: 0\ntempo: 100\ntags: [\"popular\", \"infantil\", \"tradicional\", \"inglés\"]\n---\n\n## Verso 1\n-[A7]  [D]\nRow, row your boat\nGently down the stream\nMerrily, Merrily, Merrily, Merrily\nLife is but a dream\n"
+  },
+  {
     "id": "ruido",
     "title": "Ruido",
     "artist": "Joaquín Sabina",
@@ -2633,6 +3049,40 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/sabor-de-amor.md",
     "content": "---\ntitle: \"Sabor de amor\"\nartist: \"Danza Invisible\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"80s\", \"español\"]\n---\n\n## Verso 1\n> OR: LA\n[G] [D]\nSabor de amor, todo me sabe a ti\n\n[C]\nComerte sería un placer,\n\nPorque nada me gusta más que tú\n\n[D] [G]\nBoca de piñón, bésame con frenesí\n\n[G] [D]\n[C] [D] [G]\nBesarte es como comer palomitas de maíz\n\n[G] [D]\nCorazón de melón, Venus salida del mar\n\nDel negro de un mejillón\n\n[C]\nSon tus ojos en su punto de sal\n\n[D] [G]\nSabor de amor, tu olor me da hambre,\n\n[Em] [C]\n[Am] [D]\nSi no estás mi amor, muero de sed\n\n[G] [C] [Em] [C]\nLabios de fresa sabor de amor\n\n[G] [C] [G] [D]\nPulpa de la fruta de la pasión (3)\n\n[C] [G]\nTodo me sabe a ti, comerte sería un placer\n\n[D] [C]\nEs el sabor de tu amor\n\n[D] [G]\nPorque nada me gusta más que tú\n\n[G] [Bm]\nBoca de piñón, bésame con frenesí\n\n[Em]\n[C] [D] [G]\nBesarte es como comer\n\nNaranjas en agosto y uvas en abril\n\n[Em] [C] [G]\nSabor de amor, espuma de mar\n\nPiel de melocotón, orgía de palabras\n\n[Am]\nSabor de amor (BIS)\nLabios de fresa sabor de amor\nPulpa de la fruta de la pasión (4)\nEs el sabor de tu amor\n\n[D]\n[Dm] [Am] [G] [F] [E] [Am]\nOh, oh, oh, oh, oh\n\n(4) que siempre te cuentan\n"
+  },
+  {
+    "id": "sailing",
+    "title": "Sailing",
+    "artist": "Rod Stewart",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "balada",
+      "70s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/sailing.md",
+    "content": "---\ntitle: \"Sailing\"\nartist: \"Rod Stewart\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"70s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[C] [Am] [F] [C] [D] [Am] [Dm] [C] [G]\n\n## Verso 1\nI am sailing (2) home again, ‘cross the sea\nI am sailing stormy waters, to be near you, to be free\n\nI am flying, I am flying like a bird ‘cross the sky\nI am flying passing high clouds to be with you, to be free\n\nCan you help me? (2)\nThrough the dark night, faraway\nI am dying, for ever crying\nTo be with you, who can say?\n"
+  },
+  {
+    "id": "scarborough-fair",
+    "title": "Scarborough Fair / Canticle",
+    "artist": "Simon & Garfunkel",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk",
+      "classic",
+      "60s",
+      "balada",
+      "inglés"
+    ],
+    "file": "canciones/scarborough-fair.md",
+    "content": "---\ntitle: \"Scarborough Fair / Canticle\"\nartist: \"Simon & Garfunkel\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"folk\", \"classic\", \"60s\", \"balada\", \"inglés\"]\n---\n\n## Intro\n[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm]-[Am]-[G]/[Am] [G] [Am]\n\n## Verso 1\nAre you going to Scarborough Fair?\nParsley, sage, rosemary, and thyme\nRemember me to one who lives there\nShe once was a true love of mine\n\n[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]\nTell_her to make me a cambric shirt\n(On the side of a hill in the deep forest green)\nParsley, sage, rosemary, and thyme\n(Tracing a sparrow on snow-crested ground)\nWithout no seams, nor needlework\n(Blankets and bedclothes the child of the mountain)\nThen, she'll be a true love of mine\n(Sleeps unaware of the clarion call)\n\n[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]\nTell her to find me an acre of land\n(On the side of a hill, a sprinkling of leaves)\nParsley, sage, rosemary, and thyme\n(Washes the ground with so many tears)\nBetween the salt water and the sea strand\n(A soldier cleans and polishes a gun)\nThen she'll be a true love of mine\n(mine)\n\n[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]\nTell her to reap it in a sickle of leather\n(War bellows, blazing in scarlet battalions)\nParsley, sage, rosemary, and thyme\n(Generals order their soldiers to kill)\nAnd to gather it all in a bunch of heather\n(And to fight for a cause they've long ago forgotten)\nThen she'll be a true love of mine\n\n[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]\nAre you going to Scarborough Fair?\nParsley, sage, rosemary, and thyme\nRemember me to one who lives there\nShe once was a true love of mine\n"
   },
   {
     "id": "se-me-va",
@@ -2772,6 +3222,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Sombras\"\nartist: \"Rosario Sansores\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"pasillo\", \"bolero\", \"clásico\"]\n---\n\n## Intro\n[Dm] [A7]\n\nCuando tú te hayas ido, me envolverán las sombras.\n\n[Dm]\nCuando tú te hayas ido, con mi dolor a solas,\n\n[D7] [Gm] [Dm]\nEvocaré este idilio, con sus azules horas.\n\nCuando tú te hayas ido, me envolverán las sombras.\n\n[A7] [Dm]\n[A7]\n[Dm]\nY en la penumbra vaga, de la pequeña alcoba\n\ndonde una tibia tarde, te acariciaba toda\n\n[C7] [F]\nTe buscarán mis brazos, te besará mi boca\n\n[A7] [Dm]\n[D7] [Gm] [C7] [F]\ny aspiraré en el aire, aquel olor a rosa.\n\nCuando tú te hayas ido, me envolverán las sombras.\n\n[A7]\n[Dm]\n[Dm] [A7]\nCuando llegue el olvido, marchitarán las rosas.\n\n[Dm]\nCuando llegue el olvido, mi verso se hará prosa,\n\nNo cantaré a tus ojos, ni cantaré a tu boca.\n\n[D7] [Gm.] [Dm]\n[A7] [Dm]\nCuando tú te hayas ido,\n\nte habrás ido\n\nen las sombras.\n\n[Dm]\n[A7]\nY en la penumbra vaga, de la pequeña alcoba\n\n[C7] [F]\ndonde una tibia tarde, te acariciaba toda\n\nTe buscarán mis brazos, te besará mi boca\n\n[A7] [Dm]\ny aspiraré en el aire, aquel olor a rosa.\n\n[Gm] [C7] [F]\nCuando tú te hayas ido,\n\n[A7]\n[Dm] [A7]-[Dm]\nte perderé\n\nen las sombras.\n"
   },
   {
+    "id": "someone-like-you",
+    "title": "Someone Like You",
+    "artist": "Adele",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop",
+      "balada",
+      "2010s",
+      "inglés"
+    ],
+    "file": "canciones/someone-like-you.md",
+    "content": "---\ntitle: \"Someone Like You\"\nartist: \"Adele\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"2010s\", \"inglés\"]\n---\n\n## Intro\n[G] [Bm] [Em] [C]\n\n## Verso 1\nI heard, that you're, settled down that you, found a girl and you're, married now\nI heard that your dreams came true, guess she gave you things, I didn't give to you\nOld friend, why are you so shy? Ain't like you to hold back or hide from the light\n\n[D] [Em] [C] (2)\nI hate to turn up out of the blue, uninvited, but I couldn't stay away, I couldn't fight it\nI had hoped you'd see my face, and that you'd be reminded that for me, it isn't over\n[G] [D] [Em] [C] (5)\nNever mind, I'll find someone like you, I wish nothing but the best for you, too\n\"Don't forget me, \" I beg. I remember, you said\n\"Sometimes it lasts in love, but sometimes it hurts instead\"(2)\n\n[G] [Bm] [Em] [C]\nYou know how the, time flies only, yesterday was the time of our lives\nWe were born and raised in a summer haze, bound by the surprise, of our glory days\n[D] [Em] [C] (2)/ [G] [D] [Em] [C] (5)\nI hate to turn up out of the blue, uninvited…\n\n[D] [Em] [C]/ [Am] [G] [C]\nNothing compares, no worries or cares\nRegrets and mistakes, they're memories made\nWho would have known how bittersweet this would taste?\n[G] [D] [Em] [C] (5)\nNever mind, I'll find someone like you… (2)\n"
+  },
+  {
     "id": "son-borinqueno",
     "title": "Son borinqueño",
     "artist": "Tuna de Cayey",
@@ -2818,6 +3284,23 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Stand By Me\"\nartist: \"Ben E. King\"\nkey: \"A\"\ncapo: 2\ntempo: 118\ntags: [\"classic\", \"soul\", \"english\"]\n---\n\n## Intro\n[G] [Em] [C] [D] [G]\n\n## Verse 1\nWhen the [G] night has come\n[Em] And the land is dark\nAnd the [C] moon is the [D] only light we'll [G] see\nNo, I [G] won't be afraid\nOh, I [Em] won't be afraid\nJust as [C] long as you [D] stand, stand by [G] me\n\n## Chorus\nSo darling, darling, [G] stand by me\nOh, [Em] stand by me\nOh, [C] stand, [D] stand by me\n[G] Stand by me\n\n## Verse 2\nIf the [G] sky that we look upon\n[Em] Should tumble and fall\nOr the [C] mountain should [D] crumble to the [G] sea\nI won't [G] cry, I won't cry\nNo, I [Em] won't shed a tear\nJust as [C] long as you [D] stand, stand by [G] me\n\n## Chorus\nAnd darling, darling, [G] stand by me\nOh, [Em] stand by me\nOh, [C] stand now, [D] stand by me\n[G] Stand by me\n"
   },
   {
+    "id": "strawberry-fields-forever",
+    "title": "Strawberry Fields Forever",
+    "artist": "The Beatles",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "psychedelic",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/strawberry-fields-forever.md",
+    "content": "---\ntitle: \"Strawberry Fields Forever\"\nartist: \"The Beatles\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"psychedelic\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[G]_ [Dm7]/_ [E7] /[C] [E] /[Cmaj7] [G]\n\n## Verso 1\nLet me take you down ‘cause I’m going to\nStrawberry fields, nothing is real\nAnd nothing to get hang about:\nStrawberry fields forever\n\n[D] RE7m [D7]/ [Em] [C]/ [D]/ [G] [Em] /[C] [D] [C]  -[G]\nLiving is easy with eyes closed, misunderstanding all you see\nIt’s getting hard to be someone but it all works out,\nIt doesn’t matter much to me\n\n[G]_ [Dm7]/_ [E7] /[C] [E] /[Cmaj7] [G]\nLet me take you down ‘cause I’m going to\nStrawberry fields, nothing is real\nAnd nothing to get hang about:\nStrawberry fields forever\n\n[D] RE7m [D7]/ [Em] [C]/ [D]/ [G] [Em] /[C] [D] [C]  -[G]\nNo one I think is in my tree, I mean it must be high or low,\nThat is you know you can’t tune_in but it’s all right,\nThat is, I think it’s not too bad\n\n[G]_ [Dm7]/_ [E7] /[C] [E] /[Cmaj7] [G]\nLet me take you down ‘cause I’m going to\nStrawberry fields, nothing is real\nAnd nothing to get hang about:\nStrawberry fields forever\n\n[D] RE7m [D7]/ [Em] [C]/ [D]/ [G] [Em] /[C] [D] [C]  -[G]\nAlways know, sometimes think it’s me,\nBut you know and I know it’s a dream,\nI think I know of thee, ah yes but it’s all wrong,\nThat is I think I disagree\n"
+  },
+  {
     "id": "sufre-mamon",
     "title": "Devuélveme a mi chica (Sufre Mamón)",
     "artist": "Hombres G",
@@ -2832,6 +3315,22 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/sufre-mamon.md",
     "content": "---\ntitle: \"Devuélveme a mi chica (Sufre Mamón)\"\nartist: \"Hombres G\"\nkey: \"Dm\"\ncapo: 0\ntempo: 138\ntags: [\"pop\", \"rock\", \"español\", \"80s\"]\n---\n\n## Intro\n[Dm] [Am] [Dm] [Am]\n\n## Verso 1\n[Dm] Estoy llorando en mi habita[Am]ción,\n[Dm] Todo se nubla a mi alrede[Am]dor.\n[Gm] Ella se fue con un niño [Dm] pijo,\nEn un Ford [Gm] Fiesta blanco y un jersey ama[Am]rillo.\n\n[Dm] Por el parque les veo pa[Am]sar,\n[Dm] Cuando se besan lo paso fa[Am]tal.\n[Gm] Voy a vengarme de ese ma[Dm]rica,\nVoy a lle[Gm]narle el cuello de polvos pica-[Am]pica.\n\n## Coro\n[Bb] Sufre, ma[F]món,\n[Bb] Devuélveme a mi [F] chica,\n[Bb] O te retorce[F]rás\n[G] Entre polvos pica-[C]pica.\n[Bb] Sufre, ma[F]món,\n[Bb] Devuélveme a mi [F] chica,\n[Bb] O te retorce[F]rás\n[G] Entre polvos pica-[C]pica.\n\n## Solo\n[Dm] [Am] [Dm] [Am]\n[Gm] [Dm] [Gm] [Am]\n\n## Verso 2\n[Dm] Le he quemado su jer[Am]sey,\n[Dm] Se ha comprado cinco o [Am] seis.\n[Gm] Voy a destrozarle el [Dm] coche,\nLo tengo prepa[Gm]rado, voy esta [Am] noche.\n\n[Dm] No te reirás nunca más de [Am] mí,\n[Dm] Lo siento, nene, vas a mo[Am]rir.\n[Gm] Tú me quitaste lo que más que[Dm]ría,\nY volverá con[Gm]migo, volverá algún [Am] día.\n\n## Coro Final\n[Bb] Sufre, ma[F]món,\n[Bb] Devuélveme a mi [F] chica,\n[Bb] O te retorce[F]rás\n[G] Entre polvos pica-[C]pica.\n[Bb] Sufre, ma[F]món,\n[Bb] Devuélveme a mi [F] chica,\n[Bb] O te retorce[F]rás\n[G] Entre polvos pica-[C]pica... [Dm]\n"
+  },
+  {
+    "id": "sweet-dreams",
+    "title": "Sweet Dreams (Are Made of This)",
+    "artist": "Eurythmics",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "synth-pop",
+      "80s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/sweet-dreams.md",
+    "content": "---\ntitle: \"Sweet Dreams (Are Made of This)\"\nartist: \"Eurythmics\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"synth-pop\", \"80s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Am] [F] [E]\n\n## Verso 1\nSweet dreams are made of this who am I to disagree?\nI traveled the world and the seven seas\nEverybody's looking for something\n\nSome of them want to use you. Some of them want to get used by you\nSome of them want to abuse you. Some of them want to be abused\n\nSweet dreams are made of this…\n\n[Am] [C] [Am]\nHold your head up. Keep your head up (movin' on)\nHold your head up (movin' on) (3) Keep your head up\n\nSome of them want to use you…\n\nSweet dreams are made of this…(4)\n"
   },
   {
     "id": "sweet-home-alabama",
@@ -2896,6 +3395,107 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Te quiero\"\nartist: \"Hombres G\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"80s\", \"balada\"]\n---\n\n## Intro\n[C] [Am] [Em]/ [F] [G] [C] [G](2)\n\nNo, no, no me llores,\nNo me vayas a hacer llorar a mi\nDame, dame tu mano,\nInténtalo mi niña, quiero verte reír\n\n[C] [Am] (2) [C] [F] [Fm] [G] [C]\nAbrázame fuerte, ven corriendo a mí\nTe quiero, te quiero, te quiero\nY no hago otra cosa que pensar en ti\n\n[C] [Am] [Em]/ [F] [G] [C] [G](2)\nTú, que estás dormida,\nY yo te abrazo y siento que respiras\nSueño, con tu sonrisa,\nTe beso muy despacio en las mejillas\n\n[C] [Am] (2) [Cm] [Fm] [Fm] [Cm]-[Fm] [Gm] [Cm] [Am]\nNecesito verte, donde quiera que estés\nTe quiero, te quiero, te quiero\nY no hago otra cosa que pensar en ti\nSólo vivo y respiro para ti\n\n[F] [G] [C] [Am]/ [F] [G] [C] [Cm] [G]\nTe quiero, te quiero,\nTe quiero, te quiero\n\nAbrázame fuerte, ven corriendo a mí\nDéjame que te diga otra vez\nQue te quiero, te quiero\n"
   },
   {
+    "id": "tears-in-heaven",
+    "title": "Tears in Heaven",
+    "artist": "Eric Clapton",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "acoustic",
+      "balada",
+      "90s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/tears-in-heaven.md",
+    "content": "---\ntitle: \"Tears in Heaven\"\nartist: \"Eric Clapton\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"acoustic\", \"balada\", \"90s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[A] [E] [F#m]  [D] [Bm] [E] (2)/ [F#m] [E] (2) [D] [E] -7 [A]\n\n## Verso 1\nWould you know my name if i saw you in heaven?\nWould it be the same if i saw you in heaven?\nI must be strong and carry on\n‘Cause i know I don’t belong, here in heaven\n\nWould you hold my hand if I saw you in heaven?\nWould you help me stand if I saw you in heaven?\nI’ll find my way through night and day\n‘Cause i know i just can’t stay here in heaven\n\n[A] [E] [F#m] [Bm] [E]\nTime can bring you down\nTime can bend your knees,\nTime can break your heart\nHave you begging please, (begging please)\nBeyond the door, there’s peace I’m sure\nAnd I know there’ll be no more tears in heaven\n\n[A] [E] [F#m]  [D] [Bm] [E] (2)/ [F#m] [E] (2) [D] [E] -7 [A]\nWould you know my name if i saw you in heaven?\nWould it be the same if i saw you in heaven?\nI must be strong and carry on\n‘Cause I know I don’t belong, here in heaven\n‘Cause I know I don’t belong, here in heaven\n"
+  },
+  {
+    "id": "the-boxer",
+    "title": "The Boxer",
+    "artist": "Simon & Garfunkel",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk",
+      "classic",
+      "60s",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/the-boxer.md",
+    "content": "---\ntitle: \"The Boxer\"\nartist: \"Simon & Garfunkel\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"folk\", \"classic\", \"60s\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[C] [Am] [G] [G7] [C]/ [C] [Am] [G] [F]/ [C] [G7] [C]\n\n## Verso 1\nI am just a poor boy and my story’s seldom told\nI’ve squandered my resistance\nFor a pocketful of mumbles, such are promises\nAll lies and jest, still the man hears\nWhat he wants to hear\nAnd disregards the rest, hmmmm\n\n[C] [Am] /[G] [G7] [C]/ [C] [Am] [G] [F]/_[C] [G7] [C]\nWhen I left my home and my family, I was no more than a boy\nIn the company of strangers, in the quiet of the railway station, running scared\nLaying low, seeking out the poorer quarters,\nWhere the ragged people go, looking for the places only they would know\n\n[Am] [Em] [Am] [G] [C]\nLie la lie...\n\n[C] [Am] /[G] [G7] [C]/ [C] [Am] [G] [F]/_[C] [G7] [C]\nAsking only workman’s wages, I come looking for a job, but I get no offers\nJust a come on from the whores on 7th avenue, I do declare,\nThere were times, when I was so lonesome\nI took some comfort there\n\n[C] [Am] [G] [G7] [C]/ [C] [Am] [G] [F]/ [C] [G7] [C]\nAnd I’m laying out my winter clothes,\nWishing I was gone, going home\nWhere the New York city winters\nAren’t bleeding me, leading me, to go home\n\n[C] [Am] [G] [G7] [C]/ [C] [Am] [G] [F]/ [C] [G7] [C]\nIn the clearing stands a boxer, and a fighter by his trade\nand he carries the reminders of every glove\nThat laid him down or cut him til he cried out\nIn his anger and his shame,\nI am leaving, I am leaving,\nBut the fighter still remains, yes, he still remains\n\n[Am] [Em] [Am] [G] [C]\nLie la lie...\n"
+  },
+  {
+    "id": "the-fool-on-the-hill",
+    "title": "The Fool on the Hill",
+    "artist": "The Beatles",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "psychedelic",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/the-fool-on-the-hill.md",
+    "content": "---\ntitle: \"The Fool on the Hill\"\nartist: \"The Beatles\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"psychedelic\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]\n\n## Verso 1\nDay after day alone on a hill , the man with the foolish grin\nIs keeping perfectly still,\nBut nobody wants to know him, they can see that he's just a fool\nAnd he never gives an answer.\n\n[Cm] [Fm] [Bb] [Cm]\nBut the fool on the hill  sees the sun going down\nAnd the eyes in his head  see the world spinning 'round.\n\n[C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]\nWell on the way head in a cloud, the man of a thousand voces\nTalking perfectly loud,\nBut nobody ever hears him, or the sound he appears to make\nAnd he never seems to notice\n\n[Dm] [G] [C] [Am] [Dm] [G]\nAnd nobody seems to like him, they can tell what he wants to do\nAnd he never shows his feelings.\n\n[C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]\nHe never listens to them, he knows that they're the fool\nThey don't like him.\n"
+  },
+  {
+    "id": "the-house-of-the-rising-sun",
+    "title": "The House of the Rising Sun",
+    "artist": "The Animals",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk rock",
+      "classic",
+      "60s",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/the-house-of-the-rising-sun.md",
+    "content": "---\ntitle: \"The House of the Rising Sun\"\nartist: \"The Animals\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"folk rock\", \"classic\", \"60s\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [C] [D] [F]/ [Am] [C] [E]/ [Am] [C] [D] [F]/ [Am] [E] [Am]\n\n## Verso 1\nThere is a house in New Orleans\nThey call the Rising Sun\nAnd it's been the ruin of many a poor boy\nAnd God, I know I'm one\n\nMy mother was a tailor\nShe sewed my new blue jeans\nMy father was a gamblin' man\nDown in New Orleans\n\nNow the only thing a gambler needs\nIs a suitcase and a trunk\nAnd the only time he'll be satisfied\nIs when he's on a trump\n\nOh, mother, tell your children\nNot to do what I have done\nSpend your lives in sin and misery\nIn the House of the Rising Sun\n\nWell, I got one foot on the platform\nThe other foot on the train\nI'm goin' back to New Orleans\nTo wear that ball and chain\n\nWell, there is a house in New Orleans\nThey call the Rising Sun\nAnd it's been the ruin of many a poor boy\nAnd God, I know I'm one.\n"
+  },
+  {
+    "id": "thinking-out-loud",
+    "title": "Thinking Out Loud",
+    "artist": "Ed Sheeran",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop",
+      "balada",
+      "2010s",
+      "inglés"
+    ],
+    "file": "canciones/thinking-out-loud.md",
+    "content": "---\ntitle: \"Thinking Out Loud\"\nartist: \"Ed Sheeran\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"2010s\", \"inglés\"]\n---\n\n## Intro\n[C] [F] [G]\n\n## Verso 1\nWhen your legs don't work like they used to, before\nAnd I can't sweep you off of your feet\nWill your mouth still remember the taste of my love?\nWill your eyes still smile from your cheeks?\n\nAnd darling I, will, be loving you 'til we're 70\nAnd baby, my, heart could still fall as, hard at 23, and I'm thinking 'bout how\n\n[Dm] [G] [C], [Dm] [G]/ [Dm] [G] [Am]/ [Dm] [G] [C]\nPeople fall in love in mysterious ways, maybe just the touch of a hand\nWell, me, I fall in love with you every single day\nAnd I just wanna tell you I am, so honey now\n\n[F] [G] [C] (3) [F] [G]\nTake me into your loving arms, kiss me under the light of a thousand stars\nPlace your head on my beating heart, I'm thinking out loud\n[Am] [G]  [F]     [C]    [Dm] [G] [C]\nThat maybe we found love right where we are\n\n[C] [F] [G]\nWhen my hair's all but gone and my memory fades\nAnd the crowds don't remember my name\nWhen my hands, don't play the strings the same way\nI know you will still love me the same\n\n-'Cause honey your soul could never grow old, it's evergreen\nAnd baby your, smile's, forever in my mind and memory. I'm thinking 'bout how\n\n[Dm] [G] [C], [Dm] [G]/ [Dm] [G] [Am]/ [Dm] [G] [C]\nPeople fall in love in mysterious ways, maybe it's all part of a plan,\nWell, I'll just keep on making the same mistakes\nHoping that you'll understand, but baby now\n\n[F] [G] [C] (3) [F] [G]\nTake me into your loving arms, kiss me under the light of a thousand stars\nPlace your head on my beating heart, I'm thinking out loud\n[Am] [G]  [F]     [C]    [Dm] [G] [C]\nThat maybe we found love right where we are (bis)\nBaby, we found love right where we are, and we found love right where we are.\n"
+  },
+  {
+    "id": "those-were-the-days",
+    "title": "Those Were the Days",
+    "artist": "Mary Hopkin",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "folk",
+      "pop",
+      "60s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/those-were-the-days.md",
+    "content": "---\ntitle: \"Those Were the Days\"\nartist: \"Mary Hopkin\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"folk\", \"pop\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Em] [Am]  [Em] [B7]\n\n## Verso 1\nOnce upon a time there  was a tavern\nWhere we used to raise a glass or two\nRemember how we laughed a way the hours\nAnd dreamt of all the great things we should do.\n\n[Em] [B7]-[Em] [Am] [D] -7 [G] [Am] [Em] [B7] [Em]\nThose were the days my friend\nWe thought they’d never end,\nWe’d sing & dance for ever and a day\nWe’d live the life we’d choose\nWe’d fight and never lose\nFor we were young and sure to have our way.\n"
+  },
+  {
     "id": "toda-una-vida",
     "title": "Toda una vida",
     "artist": "Antonio Machín",
@@ -2924,6 +3524,22 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/todos-los-besos.md",
     "content": "---\ntitle: \"Todos los besos\"\nartist: \"Los Rebujitos\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop flamenco\", \"balada\", \"español\"]\n---\n\n## Verso 1\nTú, mi otra parte que esperaba\nLo que siento aquí en mi alma,\nLo siento en mi sentir\n- Tú, que endulzas las palabras\nY cuando te callas\nEl silencio sabe a ti\n\n[C] [Am] [F] [G]\n[F] [Am] [G] [F] [G]\nHoy creo, que he sido un poco tonto\nQue hoy no te he llamado\nPero es que se me ha pasado\nPor buscar en el cajón\n\n[C] [Am] [F] [G]\nTodos los besos posibles\nLas llaves para abrir tu corazón.\nIrresistible\nMil flores pa entregarte\nA mi manera\nY un sol pa que te ayude\nA despertar sin mí\n\n-Y un barquito de vela\nY un viento de levante\nPa llevarte a todas partes\nEl cielo, un pentagrama\nY componerte\nCon notas de colores\nUna canción pa ti\n\nEres el motor de mi corazón\nUna mujer hecha canción, eso eres\n-Miro, siempre a mi alrededor\nPara ver si veo yo,\nAlgo más bello, bello\n\n[C] [Am] [F] [G]\n"
+  },
+  {
+    "id": "torn",
+    "title": "Torn",
+    "artist": "Natalie Imbruglia",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "pop rock",
+      "90s",
+      "classic",
+      "inglés"
+    ],
+    "file": "canciones/torn.md",
+    "content": "---\ntitle: \"Torn\"\nartist: \"Natalie Imbruglia\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"90s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[G] [Bm] [C] (2)/ [Em] [D] [Bm]\n\n## Verso 1\nI thought I saw a man brought to life\nHe was warm, he came around like he was dignified\nHe showed me what it was to cry\nWell, you couldn't be that man I adored\nYou don't seem to know, or seem to care what your heart is for\nBut I don't know him anymore\nThere's nothing where he used to lie, the conversation has run dry\nThat's what's going on,\n\n[D] [G] [D] [Em] [C] [G]/ [D] [Em] [C] [G] [D] [Em] ([D]) [C]\nNothing's fine, I'm torn, I'm all out of faith, this is how I feel\nI'm cold and I'm shamed, lying naked on the floor\nIllusion never changed, into something real\nI'm wide awake, and I can see the perfect sky is torn\nYou're a little late, I'm already torn\n\n[G] [Bm] [C] (2)/ [Em] [D] [Bm]\nSo, I guess the fortune teller's right\nShould've seen, just what was there, and not some holy light\nBut you crawled beneath my veins and now\nI don't care, I had no luck, I don't miss it all that much\nThere's just so many things,\n\n[D] [G] [D] [Em] [C] [G]/ [D] [Em] [C] [G] [D] [Em] ([D]) [C]\nThat I can't touch, I'm torn, I'm all out of faith, this is how I feel\nI'm cold and I'm shamed, lying naked on the floor\nIllusion never changed, into something real\n[Em] [D] [C]/ [Em] [G] [D]\nI'm wide awake, and I can see the perfect sky is torn.\n\nYou're a little late, I'm already torn,                 Torn (Ooh, ooh-ooh, ooh)\n\n[Em] [D] [Bm]\nThere's nothing where he used to lie\nMy inspiration has run dry, and that's what's going on. Nothing's right,\n\n[D] [G] [D] [Em] [C] [G]/ [D] [Em] [C] [G] [D] [Em] ([D]) [C]\nI'm torn, I'm all out of faith, this is how I feel\nI'm cold and I'm shamed, lying broken on the floor\nIllusion never changed, into something real\nI'm wide awake, and I can see the perfect sky is torn\nYou're a little late, I'm already torn, torn, woah.  Oh, yeah, oh, yeah (3)\n"
   },
   {
     "id": "tu-calorro",
@@ -3143,6 +3759,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Una rosa es una rosa\"\nartist: \"Mecano\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"rumba\", \"español\", \"90s\"]\n---\n\n## Intro\n[G] [D] [Em] [Bm] [C] [B7] [C] ([D7]/[B7]) (2)\n\nEs por culpa de una hembra, que me estoy volviendo loco\nNo puedo vivir sin ella, pero con ella tampoco.\nY si de este mal de amores, yo me fuera pa’ la tumba\nA mí no me mandéis flores, y como dice esta rumba.\n\n[Em] [D] [C] [B7]\nQuise cortar la flor más tierna del rosal pensando que de amor no me podría pinchar\nY mientras me pinchaba me enseñó una cosa, que una rosa es una rosa es una rosa (2)\n-Y cuando abrí la mano y la dejé caer rompieron a sangrar las llagas en mi piel,\nY con sus pétalos me la curó mimosa, q ue una rosa es una rosa es una rosa\n\n[G] [D] [Em] [Bm] [C] [B7] [C] ([D7]/[B7]) (2)\n-Pero cuanto más me cura, al ratito más me escuece\nPorque amar es el empiece de la palabra amargura.\nUna mentira y un credo en cada espina del tallo,\nInjertándose en los dedos, una rosa es un rosario.\n\nMe cuesta tanto olvidarte\n"
   },
   {
+    "id": "valerie",
+    "title": "Valerie",
+    "artist": "Amy Winehouse",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "soul",
+      "pop",
+      "2000s",
+      "inglés"
+    ],
+    "file": "canciones/valerie.md",
+    "content": "---\ntitle: \"Valerie\"\nartist: \"Amy Winehouse\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"soul\", \"pop\", \"2000s\", \"inglés\"]\n---\n\n## Intro\n[D] [Em] (2)\n\n## Verso 1\nWell sometimes I go out by myself\nAnd I look across the water\nAnd I think of all the things, what you're doing\nAnd in my head I paint a picture\n\n[G] [F#m] (3) [A] [D]/ [D] [Em] (2)\nCause since I've come on home,\nWell my body's been a mess\nAnd I've missed your ginger hair\nAnd the way you like to dress\nWon't you come on over\nStop making a fool out of me\nWhy don't you come on over Valerie?\nValerie? Valerie? Valerie?\n\n[D] [Em] (4)\nDid you have to go to jail,\nPut your house up on for sale,\ndid you get a good lawyer?\nI hope you didn't catch a tan,\nI hope you'll find the right man who'll fix it for ya\nAnd are you shoppin' anywhere,\nChanged the color of your hair, are you busy?\nAnd did you have to pay the fine\nYou were dodging all the time, are you still dizzy?\n\n[G] [F#m] (3) [A] [D]/ [D] [Em] (2)\nCause since I've come on home,\nWell my body's been a mess\nAnd I've missed your ginger hair\nAnd the way you like to dress\nWon't you come on over\nStop making a fool out of me\nWhy don't you come on over, Valerie?(4)\n\n[D] [Em] (2)\nWell sometimes I go out by myself\nAnd I look across the water\nAnd I think of all the things, what you're doing\nAnd in my head I paint a picture\n\n[G] [F#m] (3) [A] [D]/ [D] [Em] (2)\nCause since I've come on home,\nWell my body's been a mess\nAnd I've missed your ginger hair\nAnd the way you like to dress\nWon't you come on over\nStop making a fool out of me\nWhy don't you come on over, Valerie?(4)\n\n[D] [Em] (2)/ [A] [Em] [D]\nOh Valerie? Valerie? Valerie?\nWhy don't you come on over Valerie?\n"
+  },
+  {
     "id": "verde-que-te-quiero-verde",
     "title": "Verde que te quiero verde",
     "artist": "Manzanita",
@@ -3221,6 +3853,22 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Wish You Were Here\"\nartist: \"Pink Floyd\"\nkey: \"G\"\ncapo: 0\ntempo: 62\ntags: [\"rock\", \"70s\", \"classic\", \"balada\", \"acústico\"]\n---\n\n## Intro\n[Em7] [G] [Em7] [G]\n[Em7] [A7sus4] [Em7] [A7sus4] [G]\n\n## Verso 1\n[C] So, so you think you can [D] tell\nHeaven from [Am] hell, blue skies from [G] pain?\nCan you tell a green [D] field from a cold steel [C] rail?\nA smile from a [Am] veil? Do you think you can [G] tell?\n\n## Verso 2\nDid they get you to [C] trade your heroes for [D] ghosts?\nHot ashes for [Am] trees? Hot air for a [G] cool breeze?\nCold comfort for [D] change? Did you ex[C]change\nA walk-on part in the [Am] war for a lead role in a [G] cage?\n\n## Solo\n[Em7] [G] [Em7] [G]\n[Em7] [A7sus4] [Em7] [A7sus4] [G]\n\n## Coro\n[C] How I wish, how I wish you were [D] here\nWe're just [Am] two lost souls swimming in a fish bowl [G]\nYear after year [D]\nRunning over the same old [C] ground, what have we found?\nThe same old [Am] fears, wish you were [G] here\n\n## Outro\n[Em7] [G] [Em7] [G]\n[Em7] [A7sus4] [Em7] [A7sus4] [G]\n"
   },
   {
+    "id": "wonderful-world",
+    "title": "Wonderful World",
+    "artist": "Sam Cooke",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "soul",
+      "classic",
+      "60s",
+      "inglés"
+    ],
+    "file": "canciones/wonderful-world.md",
+    "content": "---\ntitle: \"Wonderful World\"\nartist: \"Sam Cooke\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"soul\", \"classic\", \"60s\", \"inglés\"]\n---\n\n## Intro\n[C] [Am] [F] [G] (4)/ [C] [F] (2) [Dm] [G] [C]\n\n## Verso 1\nDon’t know much about history\nDon’t know much biology\nDon’t know much about the science book\nDon’t know much about the French I took\nBut I do know that I love you\nAnd I know that if you love me too\nWhat a wonderful world this could be!\n\nDon’t know much about geometry\nDon’t know much trigonometry\nDon’t know much about algebra\nDon’t know what a slide rule is for\nBut I know that what I want is you\nAnd if this one could be with you\nWhat a wonderful world this could be!\n\n[F] [C] (2) [Am] [C] [F] [G]\nAnd I don’t blame to be an A-student, but I try to be\nMaybe if I were an a-student, baby\n> I could win your love for me. Da Capo.\n"
+  },
+  {
     "id": "wonderwall",
     "title": "Wonderwall",
     "artist": "Oasis",
@@ -3282,6 +3930,24 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/yellow.md",
     "content": "---\ntitle: \"Yellow\"\nartist: \"Coldplay\"\nkey: \"G\"\ncapo: 2\ntempo: 88\ntags: [\"pop\", \"rock\", \"2000s\", \"balada\"]\n---\n\n## Intro\n[G] [D] [C] [G]\n\n## Verso 1\n[G] Look at the stars\nLook how they shine for [D]you\nAnd everything you [C]do\nYeah, they were all yellow. [G]\n\n[G] I came along\nI wrote a song for [D]you\nAnd all the things you [C]do\nAnd it was called, \"Yellow\". [G]\n\n[G] So then I took my [D]turn\nOh, what a thing to have [C]done\nAnd it was all yellow. [G]\n\n## Coro\n[C] Your skin, oh yeah, your [Em]skin and [D]bones\n(Ooh) [C]turn into [Em]something [D]beautiful\n(Ah) [C]and you know, [Em]you know I [D]love you so, [C]\nYou know I love you so.\n\n## Verso 2\n[G] I swam across\nI jumped across for [D]you\nOh, what a thing to [C]do\n'Cause you were all yellow. [G]\n\n[G] I drew a line\nI drew a line for [D]you\nOh, what a thing to [C]do\nAnd it was all yellow. [G]\n\n## Coro\n[C] And your skin, oh, yeah, your [Em]skin and [D]bones\n(Ooh) [C]turn into [Em]somethin' [D]beautiful\n(Ah) [C]and you know, [Em]for you, I'd [D]bleed myself dry, [C]\nFor you, I'd bleed myself dry.\n\n## Puente\n[G] It's true\nLook how they shine for [D]you\nLook how they shine for [C]you\nLook how they shine for-\n[G] Look how they shine for [D]you\nLook how they shine for [C]you\nLook how they shine.\n\n## Outro\n[G] Look at the stars\nLook how they shine for [Em]you\nAnd all the things that you [C]do... [G]\n"
+  },
+  {
+    "id": "yesterday",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "rock",
+      "balada",
+      "60s",
+      "classic",
+      "himno",
+      "inglés"
+    ],
+    "file": "canciones/yesterday.md",
+    "content": "---\ntitle: \"Yesterday\"\nartist: \"The Beatles\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"60s\", \"classic\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[C] [E7] [Am] [F]-[G]-[C] [Am] [D] [C] (2)\n\n## Verso 1\nYesterday, all my troubles seemed so far away,\nNow it looks as though there’re here to stay,\nOh I believe in yesterday.\nSuddenly, I’m not half the man I used to be,\nThere’s a shadow hanging over me\nOh yesterday came suddenly\n\n[E7] [Am]  [G] [C](2)\nWhy she had to go, i don’t know,\nShe wouldn’t say,\nI said somethng wrong,\nNow I long for yesterday\n\n[C] [E7] [Am] [F]-[G]-[C] [Am] [D] [C]\nYesterday, love was such an easy game to play,\nNow I need a place to hide away, oh I believe in yesterday\n"
   },
   {
     "id": "yo-contigo-tu-conmigo",
