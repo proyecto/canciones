@@ -84,10 +84,32 @@ def sync_all():
         flags=re.DOTALL
     )
 
+    # 4. Sync parser logic from js/parser.js to js/app.js
+    with open("js/parser.js", "r", encoding="utf-8") as f:
+        parser_js = f.read()
+
+    parser_code = re.sub(r'import\s+.*?;\s*', '', parser_js)
+    parser_code = re.sub(r'\bexport\s+(function|const|let|var)\b', r'\1', parser_code).strip()
+    indented_parser = "\n".join("  " + line if line.strip() else "" for line in parser_code.split("\n"))
+
+    parser_section = (
+        "  // ==========================================\n"
+        "  // 3. PARSER DE MARKDOWN Y ACORDES\n"
+        "  // ==========================================\n"
+        + indented_parser + "\n\n"
+    )
+
+    app_js_updated = re.sub(
+        r'  // ==========================================\n  // 3\. PARSER DE MARKDOWN Y ACORDES\n  // ==========================================.*?(?=  // ==========================================\n  // 4\. CLIENTE API GITHUB)',
+        lambda _: parser_section,
+        app_js_updated,
+        flags=re.DOTALL
+    )
+
     with open("js/app.js", "w", encoding="utf-8") as f:
         f.write(app_js_updated)
 
-    print(f"Successfully synchronized {len(manifest)} songs into manifest.json, songs-data.js, and app.js.")
+    print(f"Successfully synchronized {len(manifest)} songs and parser into manifest.json, songs-data.js, and app.js.")
 
 if __name__ == "__main__":
     sync_all()

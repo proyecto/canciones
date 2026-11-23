@@ -1467,7 +1467,7 @@
       "inglés"
     ],
     "file": "canciones/hotel-california.md",
-    "content": "---\ntitle: \"Hotel California\"\nartist: \"The Eagles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"classic\", \"70s\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7] [G] [D]/ [F] [C] [Dm] [E7] (2)\n\n## Verso 1\nOn a dark desert highway, cool wind in my hair\nWarm smell of colitas, rising up through the air\nUp ahead in the distance, I saw a shimmering light\nMy head grew heavy and my sight grew dim. I had to stop for the night\nThere she stood in the doorway, I heard the mission bell\nAnd I was thinking to myself: \"This could be Heaven or this could be Hell\"\nThen she lit up a candle, and she showed me the way\nThere were voices down the corridor I thought I heard them say\n\n[F] [C] [E7] [Am] /[F] [C] [Dm] [E]\nWelcome to the Hotel California, such a lovely place, such a lovely face\nPlenty of room at the Hotel California. Any time of year, you can find it here\n\n[Am] [E7] [G] [D]/ [F] [C] [Dm] [E7] (2)\nHer mind is Tiffany-twisted, she got the Mercedes bends\nShe got a lot of pretty, pretty boys she calls friends\nHow they dance in the courtyard, sweet summer sweat\nSome dance to remember, some dance to forget\nSo I called up the Captain, \"Please bring me my wine.\"\nHe said, \"We haven't had that spirit here since 1969.\"\nAnd still those voices are calling from far away\nWake you up in the middle of the night\nJust to hear them say\n\n[F] [C] [E7] [Am] /[F] [C] [Dm] [E]\nWelcome to the Hotel California, such a lovely place, such a lovely face\nThey livin' it up at the Hotel California. What a nice surprise, bring your alibis\n\n[Am] [E7] [G] [D]/ [F] [C] [Dm] [E7] (2)\nMirrors on the ceiling, the pink champagne on ice\nAnd she said: \"We are all just prisoners here, of our own device\"\nAnd in the master's chambers, they gathered for the feast\nThey stab it with their steely knives, but they just can't kill the beast\nLast thing I remember, I was, running for the door\nI had to find the passage back, to the place I was before\n\"Relax,\" said the night man: we’re programmed to receive\nYou can check-out any time you like, but you can never leave!\"\n"
+    "content": "---\ntitle: \"Hotel California\"\nartist: \"The Eagles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"classic\", \"70s\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7] [G] [D] / [F] [C] [Dm] [E7] (2)\n\n## Verso 1\nOn a dark desert highway, cool wind in my hair\nWarm smell of colitas, rising up through the air\nUp ahead in the distance, I saw a shimmering light\nMy head grew heavy and my sight grew dim. I had to stop for the night\nThere she stood in the doorway, I heard the mission bell\nAnd I was thinking to myself: \"This could be Heaven or this could be Hell\"\nThen she lit up a candle, and she showed me the way\nThere were voices down the corridor I thought I heard them say\n\n[F] [C] [E7] [Am] / [F] [C] [Dm] [E]\nWelcome to the Hotel California, such a lovely place, such a lovely face\nPlenty of room at the Hotel California. Any time of year, you can find it here\n\n[Am] [E7] [G] [D] / [F] [C] [Dm] [E7] (2)\nHer mind is Tiffany-twisted, she got the Mercedes bends\nShe got a lot of pretty, pretty boys she calls friends\nHow they dance in the courtyard, sweet summer sweat\nSome dance to remember, some dance to forget\nSo I called up the Captain, \"Please bring me my wine.\"\nHe said, \"We haven't had that spirit here since 1969.\"\nAnd still those voices are calling from far away\nWake you up in the middle of the night\nJust to hear them say\n\n[F] [C] [E7] [Am] / [F] [C] [Dm] [E]\nWelcome to the Hotel California, such a lovely place, such a lovely face\nThey livin' it up at the Hotel California. What a nice surprise, bring your alibis\n\n[Am] [E7] [G] [D] / [F] [C] [Dm] [E7] (2)\nMirrors on the ceiling, the pink champagne on ice\nAnd she said: \"We are all just prisoners here, of our own device\"\nAnd in the master's chambers, they gathered for the feast\nThey stab it with their steely knives, but they just can't kill the beast\nLast thing I remember, I was, running for the door\nI had to find the passage back, to the place I was before\n\"Relax,\" said the night man: we’re programmed to receive\nYou can check-out any time you like, but you can never leave!\"\n"
   },
   {
     "id": "hoy-gloria-estefan",
@@ -4080,6 +4080,14 @@
   // ==========================================
   // 3. PARSER DE MARKDOWN Y ACORDES
   // ==========================================
+  /**
+   * Markdown Song and Chord Parser
+   * Parses Frontmatter YAML and chord-over-lyric structures
+   */
+
+  /**
+   * Escapes HTML characters to prevent XSS and formatting breaks
+   */
   function escapeHtml(str) {
     if (!str) return '';
     return str
@@ -4090,8 +4098,13 @@
       .replace(/'/g, '&#039;');
   }
 
+  /**
+   * Parses frontmatter YAML and returns { meta, body }
+   */
   function parseSongMarkdown(markdown) {
-    if (!markdown) return { meta: {}, body: '' };
+    if (!markdown) {
+      return { meta: {}, body: '' };
+    }
 
     const trimmed = markdown.trim();
     const frontmatterRegex = /^---\r?\n([\s\S]*?)\r?\n---\r?\n?([\s\S]*)$/;
@@ -4106,11 +4119,14 @@
       tags: []
     };
 
-    if (!match) return { meta, body: trimmed };
+    if (!match) {
+      return { meta, body: trimmed };
+    }
 
     const rawYaml = match[1];
     const body = match[2].trim();
 
+    // Parse simple YAML lines
     const lines = rawYaml.split(/\r?\n/);
     for (const line of lines) {
       const colonIdx = line.indexOf(':');
@@ -4119,6 +4135,7 @@
       const key = line.slice(0, colonIdx).trim().toLowerCase();
       let val = line.slice(colonIdx + 1).trim();
 
+      // Strip surrounding quotes
       if ((val.startsWith('"') && val.endsWith('"')) || (val.startsWith("'") && val.endsWith("'"))) {
         val = val.slice(1, -1);
       }
@@ -4144,12 +4161,15 @@
     return { meta, body };
   }
 
+  /**
+   * Serializes meta and body into a valid Markdown song file
+   */
   function serializeSongMarkdown(meta, body) {
     const tagsStr = Array.isArray(meta.tags) && meta.tags.length > 0
       ? `[${meta.tags.map(t => `"${t.trim()}"`).join(', ')}]`
       : '[]';
 
-    return [
+    const frontmatter = [
       '---',
       `title: "${(meta.title || '').replace(/"/g, '\\"')}"`,
       `artist: "${(meta.artist || '').replace(/"/g, '\\"')}"`,
@@ -4161,10 +4181,20 @@
       '',
       (body || '').trim()
     ].filter(line => line !== null).join('\n');
+
+    return frontmatter;
   }
 
+  /**
+   * Parses lines with [Chord] markers into HTML with chords positioned above syllables
+   */
   function renderSongHtml(bodyText, options = {}) {
-    const { transposeDelta = 0, notation = 'anglo', preferFlats = false } = options;
+    const {
+      transposeDelta = 0,
+      notation = 'anglo',
+      preferFlats = false
+    } = options;
+
     if (!bodyText) return '';
 
     const lines = bodyText.split(/\r?\n/);
@@ -4173,48 +4203,61 @@
     for (let rawLine of lines) {
       const trimmed = rawLine.trim();
 
+      // Empty line -> vertical space
       if (trimmed === '') {
         outputLines.push('<div class="song-empty-line"></div>');
         continue;
       }
 
+      // Section headings (e.g. ## Intro, ## Coro, [Estribillo])
       if (trimmed.startsWith('#')) {
         const headingText = trimmed.replace(/^#+\s*/, '');
         outputLines.push(`<h3 class="song-section-heading">${escapeHtml(headingText)}</h3>`);
         continue;
       }
 
+      // Section in brackets like [Intro] or [Coro] with no other text
       const sectionMatch = trimmed.match(/^\[(Intro|Verso|Coro|Estribillo|Puente|Solo|Outro|Final|Pre-coro|Bridge|Chorus|Verse)[^\]]*\]$/i);
       if (sectionMatch) {
         outputLines.push(`<h3 class="song-section-heading">${escapeHtml(trimmed.slice(1, -1))}</h3>`);
         continue;
       }
 
+      // Comments like // Capo 2 or > Nota
       if (trimmed.startsWith('//') || trimmed.startsWith('>')) {
         const commentText = trimmed.replace(/^(\/\/|>)\s*/, '');
         outputLines.push(`<div class="song-comment">${escapeHtml(commentText)}</div>`);
         continue;
       }
 
-      const lineHtml = parseLineWithChords(rawLine, transposeDelta, notation, preferFlats);
-      outputLines.push(`<div class="song-line">${lineHtml}</div>`);
+      // Line with chords and/or lyrics
+      const { html: lineHtml, isChordsOnly } = parseLineWithChords(rawLine, transposeDelta, notation, preferFlats);
+      const lineClass = isChordsOnly ? 'song-line chords-only' : 'song-line';
+      outputLines.push(`<div class="${lineClass}">${lineHtml}</div>`);
     }
 
     return outputLines.join('\n');
   }
 
+  /**
+   * Parses a single line: extracts chords between [ ... ] and lyrics
+   */
   function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
+    // Normalize &nbsp; entities to unicode non-breaking space \u00A0
+    const normalizedLine = line.replace(/&nbsp;/g, '\u00A0');
+
+    // Regex to match [Chord]
     const chordRegex = /\[([^\]]+)\]/g;
     let match;
     let lastIndex = 0;
     const segments = [];
 
-    while ((match = chordRegex.exec(line)) !== null) {
+    while ((match = chordRegex.exec(normalizedLine)) !== null) {
       const matchStart = match.index;
       const rawChord = match[1];
 
       if (matchStart > lastIndex) {
-        const lyricBefore = line.substring(lastIndex, matchStart);
+        const lyricBefore = normalizedLine.substring(lastIndex, matchStart);
         if (segments.length === 0 || segments[segments.length - 1].lyric !== null) {
           segments.push({ chord: null, lyric: lyricBefore });
         } else {
@@ -4227,8 +4270,8 @@
       lastIndex = chordRegex.lastIndex;
     }
 
-    if (lastIndex < line.length) {
-      const trailingLyric = line.substring(lastIndex);
+    if (lastIndex < normalizedLine.length) {
+      const trailingLyric = normalizedLine.substring(lastIndex);
       if (segments.length > 0 && segments[segments.length - 1].lyric === null) {
         segments[segments.length - 1].lyric = trailingLyric;
       } else {
@@ -4236,23 +4279,59 @@
       }
     }
 
+    // If no chords were found at all in the line:
     if (segments.length === 0) {
-      return `<span class="chord-unit"><span class="chord empty">&nbsp;</span><span class="lyric">${escapeHtml(line)}</span></span>`;
+      const safeLine = escapeHtml(normalizedLine).replace(/ /g, '&nbsp;').replace(/\u00A0/g, '&nbsp;');
+      return {
+        html: `<span class="chord-unit"><span class="chord empty">&nbsp;</span><span class="lyric">${safeLine}</span></span>`,
+        isChordsOnly: false
+      };
     }
 
-    return segments.map(seg => {
+    // Check if line contains only chords and separators/annotations (intros, solos, progressions)
+    const isChordsOnly = segments.length > 0 && segments.every(seg => 
+      !seg.lyric || seg.lyric.trim() === '' || /^[\s/|\\()0-9xX.:_\-]*(?:bis|x\d+|\d+x)?[\s/|\\()0-9xX.:_\-]*$/i.test(seg.lyric)
+    );
+
+    if (isChordsOnly) {
+      // Render purely as horizontal flow of chords and musical separators
+      const tokenRegex = /\[([^\]]+)\]|([^\[\]]+)/g;
+      let tokMatch;
+      const itemsHtml = [];
+      while ((tokMatch = tokenRegex.exec(normalizedLine)) !== null) {
+        if (tokMatch[1]) {
+          const transposed = transposeChord(tokMatch[1].trim(), transposeDelta, notation, preferFlats);
+          itemsHtml.push(`<span class="chord">${escapeHtml(transposed)}</span>`);
+        } else if (tokMatch[2]) {
+          const sep = tokMatch[2].trim();
+          if (sep) {
+            itemsHtml.push(`<span class="chord-separator">${escapeHtml(sep)}</span>`);
+          }
+        }
+      }
+      return { html: itemsHtml.join(''), isChordsOnly: true };
+    }
+
+    // Regular line with chords over lyrics
+    const lineHtml = segments.map(seg => {
+      const isChordOnly = seg.chord && (!seg.lyric || seg.lyric.trim() === '');
       const chordHtml = seg.chord
         ? `<span class="chord">${escapeHtml(seg.chord)}</span>`
         : `<span class="chord empty">&nbsp;</span>`;
 
       let lyricText = seg.lyric !== null ? seg.lyric : '';
-      if (!lyricText && seg.chord) {
-        lyricText = '\u00A0'.repeat(Math.max(seg.chord.length + 1, 3));
+      if (isChordOnly) {
+        const explicitSpaces = lyricText.length;
+        const count = Math.max(explicitSpaces, (seg.chord ? seg.chord.length + 3 : 5), 5);
+        lyricText = '\u00A0'.repeat(count);
       }
 
-      const safeLyric = escapeHtml(lyricText).replace(/ /g, '&nbsp;');
-      return `<span class="chord-unit">${chordHtml}<span class="lyric">${safeLyric}</span></span>`;
+      const safeLyric = escapeHtml(lyricText).replace(/ /g, '&nbsp;').replace(/\u00A0/g, '&nbsp;');
+      const unitClass = isChordOnly ? 'chord-unit chord-only' : 'chord-unit';
+      return `<span class="${unitClass}">${chordHtml}<span class="lyric">${safeLyric}</span></span>`;
     }).join('');
+
+    return { html: lineHtml, isChordsOnly: false };
   }
 
   // ==========================================

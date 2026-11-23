@@ -163,7 +163,7 @@ export function renderSongHtml(bodyText, options = {}) {
  * Parses a single line: extracts chords between [ ... ] and lyrics
  */
 function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
-  // Normalize &nbsp; entities to unicode non-breaking space \u00A0 for processing
+  // Normalize &nbsp; entities to unicode non-breaking space \u00A0
   const normalizedLine = line.replace(/&nbsp;/g, '\u00A0');
 
   // Regex to match [Chord]
@@ -176,10 +176,8 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
     const matchStart = match.index;
     const rawChord = match[1];
 
-    // If there is lyrics before this chord
     if (matchStart > lastIndex) {
       const lyricBefore = normalizedLine.substring(lastIndex, matchStart);
-      // If we don't have an active chord segment to attach this lyric to, create a blank chord segment
       if (segments.length === 0 || segments[segments.length - 1].lyric !== null) {
         segments.push({ chord: null, lyric: lyricBefore });
       } else {
@@ -187,14 +185,11 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
       }
     }
 
-    // Transpose the chord
     const transposed = transposeChord(rawChord, transposeDelta, notation, preferFlats);
     segments.push({ chord: transposed, lyric: null });
-
     lastIndex = chordRegex.lastIndex;
   }
 
-  // Any remaining lyric at end of line
   if (lastIndex < normalizedLine.length) {
     const trailingLyric = normalizedLine.substring(lastIndex);
     if (segments.length > 0 && segments[segments.length - 1].lyric === null) {
@@ -213,32 +208,48 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
     };
   }
 
-  // Check if line contains only chords and whitespace/separators (no actual lyrics words)
+  // Check if line contains only chords and separators/annotations (intros, solos, progressions)
   const isChordsOnly = segments.length > 0 && segments.every(seg => 
-    !seg.lyric || seg.lyric.trim() === '' || /^[\s/|\\-_()0-9xX]+$/.test(seg.lyric)
+    !seg.lyric || seg.lyric.trim() === '' || /^[\s/|\\()0-9xX.:_\-]*(?:bis|x\d+|\d+x)?[\s/|\\()0-9xX.:_\-]*$/i.test(seg.lyric)
   );
 
-  // Render segments into HTML
+  if (isChordsOnly) {
+    // Render purely as horizontal flow of chords and musical separators
+    const tokenRegex = /\[([^\]]+)\]|([^\[\]]+)/g;
+    let tokMatch;
+    const itemsHtml = [];
+    while ((tokMatch = tokenRegex.exec(normalizedLine)) !== null) {
+      if (tokMatch[1]) {
+        const transposed = transposeChord(tokMatch[1].trim(), transposeDelta, notation, preferFlats);
+        itemsHtml.push(`<span class="chord">${escapeHtml(transposed)}</span>`);
+      } else if (tokMatch[2]) {
+        const sep = tokMatch[2].trim();
+        if (sep) {
+          itemsHtml.push(`<span class="chord-separator">${escapeHtml(sep)}</span>`);
+        }
+      }
+    }
+    return { html: itemsHtml.join(''), isChordsOnly: true };
+  }
+
+  // Regular line with chords over lyrics
   const lineHtml = segments.map(seg => {
     const isChordOnly = seg.chord && (!seg.lyric || seg.lyric.trim() === '');
     const chordHtml = seg.chord
       ? `<span class="chord">${escapeHtml(seg.chord)}</span>`
       : `<span class="chord empty">&nbsp;</span>`;
 
-    // If chord has no text underneath (like intro chords or consecutive notes), provide generous spacing
     let lyricText = seg.lyric !== null ? seg.lyric : '';
     if (isChordOnly) {
-      // If the user specified explicit spaces (&nbsp; or whitespace), preserve or ensure generous width
       const explicitSpaces = lyricText.length;
       const count = Math.max(explicitSpaces, (seg.chord ? seg.chord.length + 3 : 5), 5);
       lyricText = '\u00A0'.repeat(count);
     }
 
-    // Preserve whitespace in lyrics (convert regular spaces and \u00A0 to &nbsp;)
     const safeLyric = escapeHtml(lyricText).replace(/ /g, '&nbsp;').replace(/\u00A0/g, '&nbsp;');
     const unitClass = isChordOnly ? 'chord-unit chord-only' : 'chord-unit';
     return `<span class="${unitClass}">${chordHtml}<span class="lyric">${safeLyric}</span></span>`;
   }).join('');
 
-  return { html: lineHtml, isChordsOnly };
+  return { html: lineHtml, isChordsOnly: false };
 }
