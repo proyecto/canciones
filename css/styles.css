@@ -507,12 +507,29 @@ button {
   margin-bottom: 0.4rem;
 }
 
+/* Lines composed exclusively of chords / chord progressions (intros, solos, etc.) */
+.song-line.chords-only {
+  gap: 1.5rem;
+  margin-top: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+
 .chord-unit {
   display: inline-flex;
   flex-direction: column;
   vertical-align: bottom;
   position: relative;
   white-space: pre;
+}
+
+/* Consecutive or isolated chords without lyrics underneath */
+.chord-unit.chord-only {
+  margin-right: 1.25rem;
+}
+
+/* Avoid duplicate margin in chords-only lines */
+.song-line.chords-only .chord-unit.chord-only {
+  margin-right: 0.25rem;
 }
 
 .chord {

@@ -151,8 +151,9 @@ export function renderSongHtml(bodyText, options = {}) {
     }
 
     // Line with chords and/or lyrics
-    const lineHtml = parseLineWithChords(rawLine, transposeDelta, notation, preferFlats);
-    outputLines.push(`<div class="song-line">${lineHtml}</div>`);
+    const { html: lineHtml, isChordsOnly } = parseLineWithChords(rawLine, transposeDelta, notation, preferFlats);
+    const lineClass = isChordsOnly ? 'song-line chords-only' : 'song-line';
+    outputLines.push(`<div class="${lineClass}">${lineHtml}</div>`);
   }
 
   return outputLines.join('\n');
@@ -202,24 +203,36 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
 
   // If no chords were found at all in the line:
   if (segments.length === 0) {
-    return `<span class="chord-unit"><span class="chord empty">&nbsp;</span><span class="lyric">${escapeHtml(line)}</span></span>`;
+    return {
+      html: `<span class="chord-unit"><span class="chord empty">&nbsp;</span><span class="lyric">${escapeHtml(line)}</span></span>`,
+      isChordsOnly: false
+    };
   }
 
+  // Check if line contains only chords and whitespace/separators (no actual lyrics words)
+  const isChordsOnly = segments.length > 0 && segments.every(seg => 
+    !seg.lyric || seg.lyric.trim() === '' || /^[\s/|\\-_()0-9xX]+$/.test(seg.lyric)
+  );
+
   // Render segments into HTML
-  return segments.map(seg => {
+  const lineHtml = segments.map(seg => {
+    const isChordOnly = seg.chord && (!seg.lyric || seg.lyric.trim() === '');
     const chordHtml = seg.chord
       ? `<span class="chord">${escapeHtml(seg.chord)}</span>`
       : `<span class="chord empty">&nbsp;</span>`;
 
-    // If chord has no text underneath (like intro chords), provide minimum spacing
+    // If chord has no text underneath (like intro chords or consecutive notes), provide generous spacing
     let lyricText = seg.lyric !== null ? seg.lyric : '';
-    if (!lyricText && seg.chord) {
-      // Add minimum width spacing for solo chords
-      lyricText = '\u00A0'.repeat(Math.max(seg.chord.length + 1, 3));
+    if (isChordOnly) {
+      // Add minimum width non-breaking space for solo chords
+      lyricText = '\u00A0'.repeat(Math.max(seg.chord.length + 3, 5));
     }
 
     // Preserve whitespace in lyrics
     const safeLyric = escapeHtml(lyricText).replace(/ /g, '&nbsp;');
-    return `<span class="chord-unit">${chordHtml}<span class="lyric">${safeLyric}</span></span>`;
+    const unitClass = isChordOnly ? 'chord-unit chord-only' : 'chord-unit';
+    return `<span class="${unitClass}">${chordHtml}<span class="lyric">${safeLyric}</span></span>`;
   }).join('');
+
+  return { html: lineHtml, isChordsOnly };
 }
