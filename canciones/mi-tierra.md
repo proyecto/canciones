@@ -8,47 +8,41 @@ tags: ["son cubano", "pop latino", "90s"]
 ---
 
 ## Intro
-[Dm] [A] [Gm]/ [Dm] [A] [Dm]
-
-De mi tierra bella, de mi tierra santa,
-Oigo ese grito de los tambores
-Y los timbales al cumbanchar,
-Ese pregón que canta un hermano
-Que de su tierra vive lejano,
-Y que el recuerdo le hace llorar.
-
-[Gm]/ [Dm] [A] [Dm]
-Una canción que vive entonando,
-De su dolor, de su propio llanto
-Y se le escucha penar:
-
-[Dm] [A] [Gm] [A] [Dm] (2)
-La tierra te duele, la tierra te da
-En medio del alma cuando tú no estás.
-La tierra te empuja de raíz y cal,
-La tierra suspira si no te ve más
-
 [Dm] [A] [Gm] [Dm] [A] [Dm]
-La tierra donde naciste no la puedes olvidar
-Porque tiene tus raíces y lo que dejas atrás
 
-[Dm] [A] [Gm] [A] [Dm]
-La tierra te duele, la tierra te da
-En medio del alma cuando tú no estás.
+[Dm] De mi tierra bella, de mi tierra [A] santa,
+Oigo ese grito de los tam[Gm]bores
+Y los timbales al cumban[Dm]char,
+Ese pregón que canta un her[A]mano
+Que de su tierra vive le[Gm]jano,
+Y que el recuerdo le hace llo[Dm]rar.
 
-[Dm] [A] [Gm]/ [Dm] [A] [Dm]
-Siguen los pregones, la melancolía
-Y cada noche junto a la luna
-Sigue el guajiro entonando el son
--Y cada calle que va a mi pueblo
-Tiene un quejido, tiene un lamento,
-Tiene nostalgia, como su voz.
-- Esa canción que sigue entonando
-Porque la sangre sigue llegando
-Con más fuerza al corazón.
+[Gm] Una canción que vive ento[Dm]nando,
+De su do[A]lor, de su propio [Dm] llanto
+Y se le es[Gm]cucha pe[A]nar:
 
-[Dm] [A] [Gm] [A] [Dm] (2)
-La tierra te duele, la tierra te da
-En medio del alma cuando tú no estás.
-La tierra te empuja de raíz y cal,
-La tierra suspira si no te ve más
+[Dm] La tierra te duele, [A] la tierra te da
+En [Gm] medio del alma cuando [A] tú no es[Dm]tás.
+[Dm] La tierra te empuja de [A] raíz y cal,
+La [Gm] tierra suspira si [A] no te ve [Dm] más
+
+La [Dm] tierra donde na[A]ciste no la [Gm] puedes olvidar
+Porque [Dm] tiene tus raíces y lo [A] que dejas a[Dm]trás
+
+[Dm] La tierra te duele, [A] la tierra te da
+En [Gm] medio del alma cuando [A] tú no es[Dm]tás.
+
+[Dm] Siguen los pregones, la melanco[A]lía
+Y cada noche junto a la [Gm] luna
+Sigue el guajiro entonando el [Dm] son
+Y cada calle que va a mi [A] pueblo
+Tiene un quejido, tiene un la[Gm]mento,
+Tiene nostalgia, como su [Dm] voz.
+Esa can[Gm]ción que sigue entonando
+Porque la [Dm] sangre sigue llegando
+Con más [A] fuerza al cora[Dm]zón.
+
+[Dm] La tierra te duele, [A] la tierra te da
+En [Gm] medio del alma cuando [A] tú no es[Dm]tás.
+[Dm] La tierra te empuja de [A] raíz y cal,
+La [Gm] tierra suspira si [A] no te ve [Dm] más

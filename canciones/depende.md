@@ -8,52 +8,32 @@ tags: ["pop rock", "rock latino", "90s"]
 ---
 
 ## Verso 1
-Jarabe De Palo)
+[C] Que el blanco sea blanco y que el [Am] negro sea negro,
+[C] Que uno y uno sean dos porque exactos son los [Am] números, de[C]pende.
+Que aquí estamos de pres[Am]tao, que hoy el [C] cielo está nublao,
+Que uno nace y luego [Am] muere, y este cuento se ha aca[C]bao..... depende.
 
-(
+[F] Depende, de qué de[C]pende,
+De se[Am]gún como se mire todo de[E]pende.
+[F] Depende, de que de[C]pende,
+Que se[G]gún como se mire todo de[C]pende. [Am] [G] [F] [C]
 
-[C] [Am] [C]
-Que el blanco sea blanco
-Y que el negro sea negro,
-Que uno y uno sean dos
-Porque exactos son los números, depende.
--Que aquí estamos de prestao,
-Que hoy el cielo está nublao,
-Que uno nace y luego muere,
-Y este cuento se ha acabao..... depende.
+[C] Que bonito es el amor, más que [Am] nunca en primavera,
+[C] Que mañana sale el sol porque es[Am]tamos en agosto, [C] depende.
+Que con el paso del [Am] tiempo el [C] vino se hace bueno,
+Que todo lo que sube [Am] baja de abajo a arriba y de arriba a[C]bajo, depende.
 
-[F] [C] [Am] [E] /[F] [C] [G] [C]-[Am]-[G]-[F]-[C]
--Depende, de qué depende,
-De según como se mire todo depende.
--Depende, de que depende,
-Que según como se mire todo depende
+[F] Depende, de qué de[C]pende,
+De se[Am]gún como se mire todo de[E]pende.
+[F] Depende, de que de[C]pende,
+Que se[G]gún como se mire todo de[C]pende. [Am] [G] [F] [C]
 
-Que bonito es el amor,
-Más que nunca en primavera,
-Que mañana sale el sol
-Porque estamos en agosto, depende.
--Que con el paso del tiempo
-El vino se hace bueno,
-Que todo lo que sube baja
-De abajo a arriba y de arriba abajo, depende.
+[C] Que no has conocido a nadie que te [Am] bese como yo,
+[C] Que no hay otro hombre en tu vida que de [Am] ti se beneficie..... [C] depende.
+Que sí quiere decir [Am] sí cada [C] vez que abres la boca,
+Que te hace muy fe[Am]liz que hoy sea el día de tu [C] boda, depende.
 
-[F] [C] [Am] [E] /[F] [C] [G] [C] [Am] [G] [F] [C]
--Depende, de qué depende,
-De según como se mire todo depende.
--Depende, de que depende,
-Que según como se mire todo depende
-
-Que no has conocido a nadie
-Que te bese como yo,
-Que no hay otro hombre en tu vida
-Que de ti se beneficie..... depende.
--Que sí quiere decir sí
-Cada vez que abres la boca,
-Que te hace muy feliz
-Que hoy sea el día de tu boda, depende.
-
-[F] [C] [Am] [E] /[F] [C] [G] [C] [Am] [G] [F] [C]
--Depende, de qué depende,
-De según como se mire todo depende.
--Depende, de que depende,
-Que según como se mire todo depende
+[F] Depende, de qué de[C]pende,
+De se[Am]gún como se mire todo de[E]pende.
+[F] Depende, de que de[C]pende,
+Que se[G]gún como se mire todo de[C]pende. [Am] [G] [F] [C]

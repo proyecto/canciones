@@ -8,13 +8,12 @@ tags: ["folklore", "latino", "popular"]
 ---
 
 ## Intro
-[Am] [G]_ [Am]/ [G] [C] [G] [Am]
+[Am] [G] [Am] [G] [C] [G] [Am]
 
-Que frío que hace, que lluvia que hay,
-Ven a calentarme tú (bis)
--Serás mi cariño, serás mi amorcito,
-Serás el refugio de mi corazón.
+[Am] Que frío que hace, que [G] lluvia que hay,
+Ven a calen[Am]tarme tú (bis)
+-[G] Serás mi cariño, se[C]rás mi amorcito,
+Se[G]rás el refugio de mi [Am] corazón.
 
-Quema y moja por igual,
-
-Tu recuerdo me hace bien o me hace mal
+[G] Quema y [C] moja por igual,
+Tu re[G]cuerdo me hace bien o me hace [Am] mal

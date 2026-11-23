@@ -7,45 +7,45 @@ tempo: 100
 tags: ["rock", "español", "80s"]
 ---
 
+## Intro
+[Em] [Bm] [Am] [C]
+
 ## Verso 1
-(La Frontera ‘89)
+[Em] Escucha bien, mi [Bm] viejo amigo,
+[Am] No sé si recor[C]darás
+[Em] Aquellos tiempos, a[Bm]hora perdidos,
+[Am] Por las calles de [C] esta ciudad.
+[Em] Leímos juntos [Bm] libros prohibidos,
+[Am] Creímos que nada nos ha[C]ría cambiar,
+[Am] Vivimos siempre espe[C]rando una señal.
 
-[Em] [Bm] [Am] [C]
--Escucha bien, mi viejo amigo,
-No sé si recordarás
-Aquellos tiempos, ahora perdidos,
-Por las calles de esta ciudad
--Leímos juntos libros prohibidos,
-Creímos que nada nos haría cambiar
-Vivimos siempre esperando una señal
+## Coro
+[Em] En el límite del bien ([G] el límite del bien)
+[Em] En el límite del mal ([G] el límite del mal)
+[Am] Te esperaré en el [D] límite del [C] bien y del [Em] mal.
 
-[Em] [G](2) [Am] [D] [C]
-En el límite del bien ( el límite del bien)
-En el límite del mal (el límite del mal)
-Te esperaré en el límite del bien y del mal (2)
+## Verso 2
+[Em] Es duro estar [Bm] tan abatido
+[Am] Cuando sientes el do[C]lor,
+[Em] Es como clavar un cu[Bm]chillo
+[Am] En lo más hondo del [C] corazón.
 
-[Em] [Bm] [Am] [C]
--Es duro estar tan abatido
-Cuando sientes el dolor,
-Es como clavar un cuchillo
-En lo más hondo del corazón
+## Verso 3
+[Em] Escucha bien mi [Bm] viejo amigo,
+[Am] Nunca olvidé nuestra amis[C]tad.
+[Em] La vida es [Bm] sólo un juego
+[Am] Al que hay que apostar, si [C] quieres ganar.
 
-[Em] [Bm] [Am] [C]
--Escucha bien mi viejo amigo,
-Nunca olvidé nuestra amistad
-La vida es sólo un juego
-Al que hay que apostar, si quieres ganar.
+## Coro
+[Em] En el límite del bien ([G] el límite del bien)
+[Em] En el límite del mal ([G] el límite del mal)
+[Am] Te esperaré en el [D] límite del [C] bien y del [Em] mal.
 
-[Em] [G](2) [Am] [D] [C]
-En el límite del bien ( el límite del bien)
-En el límite del mal (el límite del mal)
-Te esperaré en el límite del bien y del mal (2)
-
-[Em] [Bm] [Am] [C]
--No es difícil encontrar
-El paraíso en la oscuridad
-La fortuna viene en un barco,
-Sin rumbo y sin capitán
--Escucha bien mi viejo amigo
-Si algún día nos volvemos a ver
-Sólo espero que todo sea como ayer
+## Verso 4
+[Em] No es difícil encon[Bm]trar
+[Am] El paraíso en la oscuri[C]dad.
+[Em] La fortuna viene en un [Bm] barco,
+[Am] Sin rumbo y sin capi[C]tán.
+[Em] Escucha bien mi [Bm] viejo amigo,
+[Am] Si algún día nos volvemos a [C] ver,
+[Am] Sólo espero que todo [C] sea como a[Em]yer.

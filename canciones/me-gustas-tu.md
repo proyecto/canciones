@@ -12,49 +12,48 @@ tags: ["reggae pop", "mestizaje", "latino"]
 
 (¿Qué horas son, mi corazón?)
 (Te lo dije muy clarito)
-(Permanece a la escucha (2))
+(Permanece a la escucha)
 (12 de la noche en La Habana, Cuba)
 (11 de la noche en San Salvador, El Salv.)
 (11 de la noche en Managua, Nicaragua)
-Me gustan los aviones, me gustas tú
-Me gusta viajar, me gustas tú
-Me gusta la mañana, me gustas tú
-Me gusta el viento, me gustas tú
-Me gusta soñar, me gustas tú
-Me gusta la mar, me gustas tú
 
-¿Qué voy a hacer? Je ne sais pas
-¿Qué voy a hacer? Je ne sais plus
-¿Qué voy a hacer? Je suis perdu
-¿Qué horas son, mi corazón?
+[Am] Me gustan los aviones, [G] me gustas tú
+[Dm] Me gusta viajar, [Am] me gustas tú
+[Am] Me gusta la mañana, [G] me gustas tú
+[Dm] Me gusta el viento, [Am] me gustas tú
+[Am] Me gusta soñar, [G] me gustas tú
+[Dm] Me gusta la mar, [Am] me gustas tú
 
-Me gusta la moto, me gustas tú
-Me gusta correr, me gustas tú
-Me gusta la lluvia, me gustas tú
-Me gusta volver, me gustas tú
-Me gusta marihuana, me gustas tú
-Me gusta colombiana, me gustas tú
-Me gusta la montaña, me gustas tú
-Me gusta la noche (me gustas tú)
+[Am] ¿Qué voy a hacer? Je ne sais pas
+[G] ¿Qué voy a hacer? Je ne sais plus
+[Dm] ¿Qué voy a hacer? Je suis perdu
+[Am] ¿Qué horas son, mi corazón?
 
-¿Qué voy a hacer? Je ne sais pas…
+[Am] Me gusta la moto, [G] me gustas tú
+[Dm] Me gusta correr, [Am] me gustas tú
+[Am] Me gusta la lluvia, [G] me gustas tú
+[Dm] Me gusta volver, [Am] me gustas tú
+[Am] Me gusta marihuana, [G] me gustas tú
+[Dm] Me gusta colombiana, [Am] me gustas tú
+[Am] Me gusta la montaña, [G] me gustas tú
+[Dm] Me gusta la noche [Am] (me gustas tú)
+
+[Am] ¿Qué voy a hacer? Je ne sais pas… [G] [Dm] [Am]
 
 (Doce, un minuto)
-Me gusta la cena, me gustas tú
-Me gusta la vecina, me gustas tú
+[Am] Me gusta la cena, [G] me gustas tú
+[Dm] Me gusta la vecina, [Am] me gustas tú
+[Am] Me gusta su cocina, [G] me gustas tú
+[Dm] Me gusta camelar, [Am] me gustas tú
+[Am] Me gusta la guitarra, [G] me gustas tú
+[Dm] Me gusta el reggae, [Am] me gustas tú
 
-Me gusta su cocina, me gustas tú
+[Am] ¿Qué voy a hacer? Je ne sais pas… [G] [Dm] [Am]
 
-Me gusta camelar, me gustas tú
-Me gusta la guitarra, me gustas tú
-Me gusta el reggae, me gustas tú
-
-¿Qué voy a hacer? Je ne sais pas…
-
-Me gusta la canela, me gustas tú
-Me gusta el fuego, me gustas tú
-Me gusta menear, me gustas tú
-Me gusta la Coruña, me gustas tú
-Me gusta Malasaña, me gustas tú
-Me gusta la castaña, me gustas tú
-Me gusta Guatemala (me gustas tú)
+[Am] Me gusta la canela, [G] me gustas tú
+[Dm] Me gusta el fuego, [Am] me gustas tú
+[Am] Me gusta menear, [G] me gustas tú
+[Dm] Me gusta la Coruña, [Am] me gustas tú
+[Am] Me gusta Malasaña, [G] me gustas tú
+[Dm] Me gusta la castaña, [Am] me gustas tú
+[Am] Me gusta Guatemala [G] (me gustas [Dm] tú) [Am]

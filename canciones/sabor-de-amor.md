@@ -9,70 +9,33 @@ tags: ["pop rock", "80s", "español"]
 
 ## Verso 1
 > OR: LA
-[G] [D]
-Sabor de amor, todo me sabe a ti
 
-[C]
-Comerte sería un placer,
+[G] Sabor de amor, [D] todo me sabe a ti,
+[C] Comerte sería un placer, porque nada me gusta más que [D] tú.
+[G] Boca de piñón, [D] bésame con frenesí,
+Be[C]sarte es como comer palo[D]mitas de ma[G]íz.
 
-Porque nada me gusta más que tú
+[G] Corazón de melón, [D] Venus salida del mar,
+Del [C] negro de un mejillón son tus ojos en su punto de [D] sal.
+[G] Sabor de amor, [Em] tu olor me da hambre,
+[C] Si no estás mi amor, [Am] muero de [D] sed.
 
-[D] [G]
-Boca de piñón, bésame con frenesí
+[G] Labios de [C] fresa, [Em] sabor de [C] amor,
+[G] Pulpa de la [C] fruta de la pa[G]sión. [D] (3)
 
-[G] [D]
-[C] [D] [G]
-Besarte es como comer palomitas de maíz
+[C] Todo me sabe a ti, [G] comerte sería un placer,
+[D] Es el sabor de tu amor, [C] porque nada me gusta más que [D] tú. [G]
 
-[G] [D]
-Corazón de melón, Venus salida del mar
+[G] Boca de piñón, [Bm] bésame con frenesí,
+Be[Em]sarte es como comer [C] naranjas en a[D]gosto y uvas en a[G]bril.
 
-Del negro de un mejillón
+[Em] Sabor de amor, es[C]puma de mar,
+[G] Piel de melocotón, orgía de palabras,
+[Am] Sabor de amor. (BIS)
 
-[C]
-Son tus ojos en su punto de sal
-
-[D] [G]
-Sabor de amor, tu olor me da hambre,
-
-[Em] [C]
-[Am] [D]
-Si no estás mi amor, muero de sed
-
-[G] [C] [Em] [C]
-Labios de fresa sabor de amor
-
-[G] [C] [G] [D]
-Pulpa de la fruta de la pasión (3)
-
-[C] [G]
-Todo me sabe a ti, comerte sería un placer
-
-[D] [C]
-Es el sabor de tu amor
-
-[D] [G]
-Porque nada me gusta más que tú
-
-[G] [Bm]
-Boca de piñón, bésame con frenesí
-
-[Em]
-[C] [D] [G]
-Besarte es como comer
-
-Naranjas en agosto y uvas en abril
-
-[Em] [C] [G]
-Sabor de amor, espuma de mar
-
-Piel de melocotón, orgía de palabras
-
-[Am]
-Sabor de amor (BIS)
-Labios de fresa sabor de amor
-Pulpa de la fruta de la pasión (4)
-Es el sabor de tu amor
+[G] Labios de [C] fresa, [Em] sabor de [C] amor,
+[G] Pulpa de la [C] fruta de la pa[G]sión. [D] (4)
+Es el sabor de tu amor.
 
 [D]
 [Dm] [Am] [G] [F] [E] [Am]

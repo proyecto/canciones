@@ -10,13 +10,12 @@ tags: ["flamenco", "rumba", "español"]
 ## Intro
 [A] [B] [G] [C] [A] [B] [A]
 
-Tú me camelas (2) me lo han dicho tus acais, que me lo han dicho, primo, tus acais
-Tú me camelas (2) tú me camelarás
+[A] Tú me camelas [B] [A] me lo han dicho tus acais, que [G] me lo han dicho, [C] primo, tus acais
+[A] Tú me camelas [B] tú me came[A]larás
 
-[A] [B] [A] (2) [Dm] [G7] [C] [B] [A]
-Si te vas, y me dejas triste, si te vas, ¿ay que soledad!
-Si no estás, el cielo no se poblará de estrellas, si no estás, ¿por quién despertar?
-Lleva mi niña un traje, con sus volantes (2) el pelo negro al aire, negro azabache (2)
-Bésame, como las olas besan a la orilla, bésame, ¡ay! Como besa el hambre al pan
-Con la mirada distante, con la sonrisa pintá, mi niña se echa palante,
-Sopa de estrellas y luz de coral, mi niña se hace gigante y juega a la luna con la ciudad
+[A] Si te vas, [B] y me dejas [A] triste, si te vas, [B] ¡ay qué soledad!
+[Dm] Si no estás, el cielo no se po[G7]blará de estrellas, si no [C] estás, ¿por [B] quién desper[A]tar?
+[A] Lleva mi niña un traje, con sus volantes [B] (2) el pelo negro al [A] aire, negro azabache (2)
+[Dm] Bésame, como las olas [G7] besan a la orilla, [C] bésame, ¡ay! [B] Como besa el hambre al [A] pan
+[A] Con la mirada distante, con la sonrisa pintá, [B] mi niña se echa pa[A]lante,
+[Dm] Sopa de estrellas y [G7] luz de coral, [C] mi niña se hace gigante y [B] juega a la luna con la ciu[A]dad

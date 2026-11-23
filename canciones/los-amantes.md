@@ -10,36 +10,36 @@ tags: ["pop", "80s", "español"]
 ## Intro
 [C]-[C4]/5-[C] (2) [G] [Am] -[F]- [G] (3)
 
-- Yo soy uno de esos amantes, tan elegantes
+[C] Yo soy uno de esos amantes, tan elegantes
 Como los de antes,
 Que siempre llevan guantes.
-- Entre semana voy deportivo,
-Pero el domingo me pongo muy fino,
-Con mi chaqué de lino.
-- Y voy buscando por los balcones
-Bellas Julietas para mis canciones
-Y hacerles los honores.
+[G] Entre semana voy deportivo,
+Pero el [Am] domingo me pongo muy fino,
+Con mi [F] chaqué de lino.
+[G] Y voy buscando por los balcones
+Bellas [Am] Julietas para mis canciones
+Y [F] hacerles los honores.
 
 [F] [G]/ [F] [Am] / [F] [G]/[F]_[C]-[F]-[G]
-Y siempre estoy rompiéndome la voz
-Cantando coplas bajo tu ventana,
-Amor, sal ya, que este trovador
-Se está asando de calor.
+[F] Y siempre estoy rompiéndome la voz
+[G] Cantando coplas bajo tu ventana,
+[F] Amor, sal ya, que este trovador
+[C] Se está asando de calor.
 
 [C]-[C4]/5-[C] (2) [G] [Am] -[F]- [G] (3)
-Soy educado caballero, bello, cortés
-Y amable compañero, un codiciado soltero.
--Y como no tengo complejos,
-Me miro siempre en todos los espejos
-Antes de echar los tejos.
-- Si alguna vez cometo errores,
-pa que no llores pido mil perdones,
-Con un millón de flores.
+[C] Soy educado caballero, bello, cortés
+Y [G] amable compañero, un codiciado soltero.
+[Am] Y como no tengo complejos,
+Me [F] miro siempre en todos los espejos
+Antes de [G] echar los tejos.
+[C] Si alguna vez cometo errores,
+pa que no [Am] llores pido mil perdones,
+Con un [F] millón de flores.
 
 [F] [G]/ [F] [Am] / [F] [G]/ [F] [C]-[F]-[G]
-Y siempre estoy rompiéndome la voz
-Cantando coplas bajo tu ventana,
-Amor, sal ya, que este trovador
-Se está asando de calor.
+[F] Y siempre estoy rompiéndome la voz
+[G] Cantando coplas bajo tu ventana,
+[F] Amor, sal ya, que este trovador
+[C] Se está asando de calor.
 
 [C] [C4]/5 [C]

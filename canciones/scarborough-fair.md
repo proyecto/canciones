@@ -8,45 +8,40 @@ tags: ["folk", "classic", "60s", "balada", "inglés"]
 ---
 
 ## Intro
-[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm]-[Am]-[G]/[Am] [G] [Am]
+[Am] [G] [Am] [C] [Am] [C] [D] [Am] [C] [Bm] [Am] [G] [Am] [G] [Am]
 
 ## Verso 1
-Are you going to Scarborough Fair?
-Parsley, sage, rosemary, and thyme
-Remember me to one who lives there
-She once was a true love of mine
+[Am] Are you going to [G] Scarborough [Am] Fair?
+[C] Parsley, [Am] sage, rose[C]mary, and [D] thyme, [Am]
+Remember [C] me to one who [Bm] lives [Am] there, [G]
+[Am] She once was a [G] true love of [Am] mine.
 
-[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]
-Tell_her to make me a cambric shirt
+[Am] Tell her to make me a [G] cambric [Am] shirt
 (On the side of a hill in the deep forest green)
-Parsley, sage, rosemary, and thyme
+[C] Parsley, [Am] sage, rose[C]mary, and [D] thyme, [Am]
 (Tracing a sparrow on snow-crested ground)
-Without no seams, nor needlework
+Without no [C] seams, nor [Bm] needle[Am]work, [G]
 (Blankets and bedclothes the child of the mountain)
-Then, she'll be a true love of mine
+[Am] Then she'll be a [G] true love of [Am] mine.
 (Sleeps unaware of the clarion call)
 
-[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]
-Tell her to find me an acre of land
+[Am] Tell her to find me an [G] acre of [Am] land
 (On the side of a hill, a sprinkling of leaves)
-Parsley, sage, rosemary, and thyme
+[C] Parsley, [Am] sage, rose[C]mary, and [D] thyme, [Am]
 (Washes the ground with so many tears)
-Between the salt water and the sea strand
+Between the [C] salt water and the [Bm] sea [Am] strand, [G]
 (A soldier cleans and polishes a gun)
-Then she'll be a true love of mine
-(mine)
+[Am] Then she'll be a [G] true love of [Am] mine.
 
-[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]
-Tell her to reap it in a sickle of leather
+[Am] Tell her to reap it in a [G] sickle of [Am] leather
 (War bellows, blazing in scarlet battalions)
-Parsley, sage, rosemary, and thyme
+[C] Parsley, [Am] sage, rose[C]mary, and [D] thyme, [Am]
 (Generals order their soldiers to kill)
-And to gather it all in a bunch of heather
+And to [C] gather it all in a [Bm] bunch of [Am] heather, [G]
 (And to fight for a cause they've long ago forgotten)
-Then she'll be a true love of mine
+[Am] Then she'll be a [G] true love of [Am] mine.
 
-[Am] [G] [Am]/ [C] [Am] [C] [D] [Am]/_ [C] [Bm] [Am]-[G]/[Am] [G] [Am]
-Are you going to Scarborough Fair?
-Parsley, sage, rosemary, and thyme
-Remember me to one who lives there
-She once was a true love of mine
+[Am] Are you going to [G] Scarborough [Am] Fair?
+[C] Parsley, [Am] sage, rose[C]mary, and [D] thyme, [Am]
+Remember [C] me to one who [Bm] lives [Am] there, [G]
+[Am] She once was a [G] true love of [Am] mine.

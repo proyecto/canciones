@@ -8,57 +8,52 @@ tags: ["pop latino", "alegre", "verano"]
 ---
 
 ## Intro
-[#2]
+[Am] [C] [G] [F]
 
-[Am] [C] [G] [F] [Am] [C] [G] [F] (2) [F] [Am] [G] (2) [E]
 > silbido
-Sueño cuando era pequeño
-Sin preocupación en el corazón
--Sigo viendo aquel momento
-Se desvaneció, desapareció
-Ya no te creo, ya no te deseo, eh oh
-Solo te dejo, solo te deseo, eh oh
+[Am] Sueño cuando [C] era pequeño,
+[G] Sin preocupación [F] en el corazón.
+-[Am] Sigo viendo a[C]quel momento,
+[G] Se desvaneció, [F] desapareció.
+[F] Ya no te creo, [Am] ya no te deseo, [G] eh oh
+[F] Solo te dejo, [Am] solo te deseo, [G] eh oh [E]
 
-[F] [C] [G] [Dm] (4) [Am]
--Mira, Sofia
-Sin tu mirada, sigo, sin tu mirada, sigo
--Dime Sofia, cómo te mira
-Dime cómo te mira, dime
--Sé que no, sé que no, sé que solo,
-Sé que ya no soy oy oy oy. Mira, Sofia
-Sin tu mirada, sigo, sin tu mirada, Sofia
+-[F] Mira, So[C]fia,
+[G] Sin tu mirada, [Dm] sigo, sin tu mirada, [F] sigo.
+-[F] Dime So[C]fia, ¿cómo te mira?
+[G] Dime cómo te [Dm] mira, dime.
+-[F] Sé que no, [C] sé que no, sé que solo,
+[G] Sé que ya no [Dm] soy, oy oy oy.
+[F] Mira, So[C]fia,
+[G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.
 
-[Am] [C] [G] [F] (2)
-[Am] [C] [G] [F] [F] [Am] [G]/ [F] [Am] [G] [E]
-Dices que éramos felices
-Todo ya pasó, todo ya pasó.
-Sé que te corté las alas
-Él te hizo volar, él te hizo soñar
-Ya no te creo, ya no te deseo, eh oh
-Solo te dejo, solo te deseo, eh oh
+[Am] Dices que éra[C]mos felices,
+[G] Todo ya pasó, [F] todo ya pasó.
+[Am] Sé que te cor[C]té las alas,
+[G] Él te hizo volar, [F] él te hizo soñar.
+[F] Ya no te creo, [Am] ya no te deseo, [G] eh oh
+[F] Solo te dejo, [Am] solo te deseo, [G] eh oh [E]
 
-[F] [C] [G] [Dm] (4) [Am]
-Mira, Sofia
-Sin tu mirada, sigo, sin tu mirada, sigo
-Dime Sofia, cómo te mira
-Dime cómo te mira, dime
-Sé que no, sé que no, sé que solo,
-Sé que ya no soy oy oy oy. Mira, Sofia
-Sin tu mirada, sigo, sin tu mirada, Sofia
+[F] Mira, So[C]fia,
+[G] Sin tu mirada, [Dm] sigo, sin tu mirada, [F] sigo.
+[F] Dime So[C]fia, ¿cómo te mira?
+[G] Dime cómo te [Dm] mira, dime.
+[F] Sé que no, [C] sé que no, sé que solo,
+[G] Sé que ya no [Dm] soy, oy oy oy.
+[F] Mira, So[C]fia,
+[G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.
 
-[Am] [C] [G] [F] (3) [Am]
-Y, ¿por qué no me dices la verdad?
-Sigo sin tu mirada, Sofia
-Y, ¿por qué no me dices la verdad?
+[Am] Y, ¿por qué no me [C] dices la ver[G]dad? [F]
+[Am] Sigo sin tu mi[C]rada, So[G]fia. [F]
+[Am] Y, ¿por qué no me [C] dices la ver[G]dad? [F] [Am]
 
-[F] [C] [G] [Dm] (4) [Am]
-Mira, Sofia
+[F] Mira, So[C]fia
 
 > (1º a capela)
 Sin tu mirada, sigo, sin tu mirada, sigo
-Dime Sofia, cómo te mira
+[G] Dime Sofia, [Dm] cómo te mira
 Dime cómo te mira, dime
-
--Sé que no, sé que no, sé que solo,
-Sé que ya no soy oy oy oy. Mira, Sofia
-Sin tu mirada, sigo, sin tu mirada, Sofia
+-[F] Sé que no, [C] sé que no, sé que solo,
+[G] Sé que ya no [Dm] soy oy oy oy.
+[F] Mira, So[C]fia,
+[G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.

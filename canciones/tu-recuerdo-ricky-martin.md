@@ -10,97 +10,45 @@ tags: ["pop latino", "balada", "acústico"]
 ## Intro
 [Dm] [C] [Gm] [Am] (4) [Dm]
 
-Tu recuerdo sigue aquí, (
+[Dm] Tu recuerdo [C] sigue aquí, (como un agua[Gm]cero, [Am] ay, pero a fuego lento)
+[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]
+[Dm] Quema y [C] moja por igual, (y ya no [Gm] sé lo que pen[Am]sar
+[Gm] Si tu recuerdo me hace bien o me hace [Am] mal) [Dm]
 
-como un aguacero
+[Dm] Un beso gris, [C] un beso blanco
+[Gm] Todo depende del lu[Am]gar
+[Dm] Que yo me fui, [C] eso está claro
+[Gm] Pero tu recuerdo no se [Am] va
+[Dm] Siento tus labios en las [C] noches de verano
+[Gm] Ahí están, cuidándome en mi sole[Am]dad
+Pero a [Gm] veces me quieren ma[Am]tar [Dm]
 
-ay, pero a fuego lento
+[Dm] Tu recuerdo [C] sigue aquí, (como un agua[Gm]cero, [Am] ay, pero a fuego lento)
+[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]
+[Dm] Quema y [C] moja por igual, (y ya no [Gm] sé lo que pen[Am]sar)
+[Gm] Si tu recuerdo me hace bien o me hace [Am] mal [Dm]
 
-)
-Rompe fuerte sobre mí, (
+[Dm] A veces gris, [C] a veces blanco
+[Gm] Todo depende del lu[Am]gar
+[Dm] Que tú te fuiste, [C] eso es pasado
+[Gm] Sé que te tengo que olvi[Am]dar
+Pero [Dm] yo le puse una ve[C]lita a to' mis santos
+[Gm] Ahí está, pa' que pienses mucho en [Am] mí
+No dejes de pensar en [Dm] mí
 
-)
-Quema y moja por igual, (
+[Dm] Tu recuerdo [C] sigue aquí, (como un agua[Gm]cero) [Am]
+[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]
+[Dm] Quema y [C] moja por igual, (ay, pero a fuego [Gm] lento y ya no sé lo que pen[Am]sar)
+[Gm] Si tu recuerdo me hace bien o me hace [Am] mal [Dm]
 
-y ya no sé lo que pensar
+[Gm] Piensa en mí
+Piensa, [Am] piensa
+¿Tú dónde es[Dm]tás?
 
-Si tu recuerdo me hace bien o me hace mal
+[Dm] Tu recuerdo [C] sigue aquí, [Gm] [Am]
+[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]
+[Dm] Quema y [C] moja por igual, (y ya no [Gm] sé lo que pen[Am]sar)
+[Gm] Si tu recuerdo me hace bien o me hace [Am] mal [Dm]
 
-)
-
-Un beso gris, un beso blanco
-Todo depende del lugar
-Que yo me fui, eso está claro
-Pero tu recuerdo no se va
-Siento tus labios en las noches de verano
-Ahí están, cuidándome en mi soledad
-Pero a veces me quieren matar
-
-[Dm] [C] [Gm] [Am] (4) [Dm]
-Tu recuerdo sigue aquí, (
-
-como un aguacero
-
-ay, pero a fuego lento
-
-)
-Rompe fuerte sobre mí, (
-
-)
-Quema y moja por igual, (
-
-y ya no sé lo que pensar
-
-)
-
-Si tu recuerdo me hace bien o me hace mal
-
-[Dm] [C] [Gm] [Am] (4) [Dm]
-A veces gris, a veces blanco
-Todo depende del lugar
-Que tú te fuiste, eso es pasado
-Sé que te tengo que olvidar
-
-Pero_yo le puse una velita a to' mis santos
-Ahí está, pa' que pienses mucho en mí
-No dejes de pensar en mí
-
-[Dm] [C] [Gm] [Am] (4) [Dm]
-Tu recuerdo sigue aquí, (
-
-como un aguacero
-
-)
-Rompe fuerte sobre mí, (
-
-)
-Quema y moja por igual, (
-
-ay, pero a fuego lento
-
-y ya no sé lo que pensar
-
-)
-
-Si tu recuerdo me hace bien o me hace mal
-
-Piensa en mí
-
-Piensa, piensa
-
-¿Tú dónde estás?
-
-[Dm] [C] [Gm] [Am] (4) [Dm]
-Tu recuerdo sigue aquí,
-
-Rompe fuerte sobre mí,
-
-Quema y moja por igual,
-
-(y ya no sé lo que pensar)
-Si tu recuerdo me hace bien o me hace mal
-
-[Dm] [C] [Gm] [Am]
-Tu recuerdo sigue aquí,
-
-Rompe fuerte sobre mí,
+[Dm] Tu recuerdo [C] sigue aquí, [Gm] [Am]
+[Dm] Rompe [C] fuerte sobre [Gm] mí [Am] [Dm]

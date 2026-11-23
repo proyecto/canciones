@@ -12,44 +12,38 @@ tags: ["rumba catalana", "español", "clásico"]
 
 Nanonaino naino nonai (3) Chévere (3)
 
-[Am] [E] [Am] [A7] [E] [Am] [E] [Am]
-A mi papa el chocolate
-Le pagaron su salario
-Y sin pensarlo dos veces
-Salió para malgastarlo
-Una semana de juerga
-Y perdió el conocimiento
-Como no volvía a su casa
-Todos le daban por muerto
+## Verso 1
+[Am] A mi papa el chocolate le pa[E]garon su salario
+Y sin pensarlo dos veces salió [Am] para malgastarlo.
+Una semana de juerga y per[E]dió el conocimiento,
+Como no volvía a su casa todos [Am] le daban por muerto.
 
-[E] [Am] (2)
-Y no estaba muerto no, no (3)
-Estaba tomando caña, lerelerele
-Y no estaba muerto no, no (3)
-Chévere, chévere, cheveré
+## Coro
+Y [E] no estaba muerto no, no (3)
+Estaba tomando [Am] caña, lerelerele.
+Y [E] no estaba muerto no, no (3)
+Chévere, chévere, [Am] cheveré.
 
-Pero al cabo de unos días
-De haber desaparecido
-Encontraron uno muerto,
-Un muerto muy parecido
-Le montaron un velorio,
-Y le rezaron la novena
-Le perdonaron sus deudas
-Y lo enterraron con pena
+## Verso 2
+Pero al [Am] cabo de unos días de ha[E]ber desaparecido
+Encontraron uno muerto, un [Am] muerto muy parecido.
+Le montaron un velorio, y le [E] rezaron la novena,
+Le perdonaron sus deudas y lo en[Am]terraron con pena.
 
-[E] [Am] (2)
-Y no estaba muerto no, no (3)
-Estaba tomando caña, lerelerele
-Y no estaba muerto no, no (3)
-Chévere, chévere, cheveré
+## Coro
+Y [E] no estaba muerto no, no (3)
+Estaba tomando [Am] caña, lerelerele.
+Y [E] no estaba muerto no, no (3)
+Chévere, chévere, [Am] cheveré.
 
-Pero un día se apareció,
-Lleno de vida y contento
-Diciéndole a todo el mundo
-Eh! Se equivocaron de muerto
-El lío que se formó,
-Eso sí que es puro cuento
-Su mujer ya no lo quiere,
-No quiere dormir con muertos
+## Verso 3
+Pero un [Am] día se apareció, lleno de [E] vida y contento
+Diciéndole a todo el mundo: ¡Eh! Se equi[Am]vocaron de muerto.
+El lío que se formó, eso [E] sí que es puro cuento,
+Su mujer ya no lo quiere, no quiere [Am] dormir con muertos.
 
-[E] [Am] (2)
+## Coro
+Y [E] no estaba muerto no, no (3)
+Estaba tomando [Am] caña, lerelerele.
+Y [E] no estaba muerto no, no (3)
+Chévere, chévere, [Am] cheveré.

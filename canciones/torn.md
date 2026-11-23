@@ -8,48 +8,44 @@ tags: ["pop rock", "90s", "classic", "inglés"]
 ---
 
 ## Intro
-[G] [Bm] [C] (2)/ [Em] [D] [Bm]
+[G] [Bm] [C] / [Em] [D] [Bm]
 
 ## Verso 1
-I thought I saw a man brought to life
-He was warm, he came around like he was dignified
+[G] I thought I saw a man brought to life
+[Bm] He was warm, he came around like he was [C] dignified
 He showed me what it was to cry
-Well, you couldn't be that man I adored
-You don't seem to know, or seem to care what your heart is for
+[G] Well, you couldn't be that man I adored
+[Bm] You don't seem to know, or seem to care what your [C] heart is for
 But I don't know him anymore
-There's nothing where he used to lie, the conversation has run dry
-That's what's going on,
+[Em] There's nothing where he used to lie, [D] the conversation has run dry
+[Bm] That's what's going on,
 
-[D] [G] [D] [Em] [C] [G]/ [D] [Em] [C] [G] [D] [Em] ([D]) [C]
-Nothing's fine, I'm torn, I'm all out of faith, this is how I feel
-I'm cold and I'm shamed, lying naked on the floor
-Illusion never changed, into something real
-I'm wide awake, and I can see the perfect sky is torn
-You're a little late, I'm already torn
+[D] Nothing's fine, I'm [G] torn,
+I'm all out of [D] faith, this is how I [Em] feel
+I'm cold and I'm [C] shamed, lying naked on the [G] floor
+Illusion never [D] changed, into something [Em] real
+I'm wide a[C]wake, and I can see the perfect sky is [G] torn
+You're a little [D] late, I'm already [Em] torn [D] [C]
 
-[G] [Bm] [C] (2)/ [Em] [D] [Bm]
-So, I guess the fortune teller's right
-Should've seen, just what was there, and not some holy light
+[G] So, I guess the fortune teller's right
+[Bm] Should've seen, just what was there, and not some [C] holy light
 But you crawled beneath my veins and now
-I don't care, I had no luck, I don't miss it all that much
-There's just so many things,
+[Em] I don't care, I had no luck, [D] I don't miss it all that much
+[Bm] There's just so many things,
 
-[D] [G] [D] [Em] [C] [G]/ [D] [Em] [C] [G] [D] [Em] ([D]) [C]
-That I can't touch, I'm torn, I'm all out of faith, this is how I feel
-I'm cold and I'm shamed, lying naked on the floor
-Illusion never changed, into something real
-[Em] [D] [C]/ [Em] [G] [D]
-I'm wide awake, and I can see the perfect sky is torn.
+[D] That I can't touch, I'm [G] torn,
+I'm all out of [D] faith, this is how I [Em] feel
+I'm cold and I'm [C] shamed, lying naked on the [G] floor
+Illusion never [D] changed, into something [Em] real
+[Em] I'm wide a[D]wake, and [C] I can see the perfect sky is [Em] torn. [G] [D]
+You're a little late, I'm already torn, Torn (Ooh, ooh-ooh, ooh)
 
-You're a little late, I'm already torn,                 Torn (Ooh, ooh-ooh, ooh)
+[Em] There's nothing where he used to [D] lie
+My inspiration has [Bm] run dry, and that's what's going on. [D] Nothing's right,
 
-[Em] [D] [Bm]
-There's nothing where he used to lie
-My inspiration has run dry, and that's what's going on. Nothing's right,
-
-[D] [G] [D] [Em] [C] [G]/ [D] [Em] [C] [G] [D] [Em] ([D]) [C]
-I'm torn, I'm all out of faith, this is how I feel
-I'm cold and I'm shamed, lying broken on the floor
-Illusion never changed, into something real
-I'm wide awake, and I can see the perfect sky is torn
-You're a little late, I'm already torn, torn, woah.  Oh, yeah, oh, yeah (3)
+I'm [G] torn,
+I'm all out of [D] faith, this is how I [Em] feel
+I'm cold and I'm [C] shamed, lying broken on the [G] floor
+Illusion never [D] changed, into something [Em] real
+I'm wide a[C]wake, and I can see the perfect sky is [G] torn
+You're a little [D] late, I'm already [Em] torn, [D] torn, [C] woah. Oh, yeah, oh, yeah (3)

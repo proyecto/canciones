@@ -8,130 +8,47 @@ tags: ["regional mexicano", "balada", "latino"]
 ---
 
 ## Verso 1
-Y el triple de los besos que te di.
+[G] [D7] [G]
 
-[Intro:] [G] [D7] [G]
-(
-
-Christian Nodal)
-
-[C] [D7]
-Y aunque te den, 21 rosas al día
-
-Si por cosas del destino
-
-[B7] [Em] [E7]
-[G] [D]/[BmajoFA#] [Em]
-Un día, tú y yo nos despedimos
-
-Y mil veces digan que mueren por ti
-
-Ay_yo no sé qué comería,
-
-[Am]
-[Am]
+[G] Si por cosas del destino
+Un [B7] día, tú y yo nos despe[Em]dimos [E7]
+Ay, [Am] yo no sé qué comería,
 O de qué me reiría,
+Porque el [C] mundo sin ti
+No me lo imagi[D7]no.
 
-[C]
-Ay, si te dan todo eso
-
-Me quito el sombrero
-
-[D7]
-[Am] [C]
-Porque el mundo sin ti_
-
-[Am] [D7]
-Pero nadie va a quererte la mitad
-
-[D7]
-No me lo imagino.
-
-[G] [D7]
-De lo que yo a ti te quiero.
-
-[G]
--Si por cosas de la vida,
-
-[G] [B7] [Em] [E7] [Am] [C] [Am] [D7] [Am]
-[B7]
-Llega el hombre
-
-No te preocupes por mí,
-
-[Em] [E7]
-Que por fin te merecías,
-
-[B7]
-Yo me las arreglaría
-
+[G] Si por cosas de la vida,
+Llega el [B7] hombre que por fin te mere[Em]cías, [E7]
 Y si él es tu alma gemela
+Yo me [Am] quito, aunque me duela
+Y hasta dos o [C] tres consejos le da[D7]ría.
 
-[Am]
-[Em] [Em]/[D#]
-Pa cambiarme de cabeza
+No te preocu[B7]pes por mí,
+Yo me las arregla[Em]ría [Em/D#]
+Pa cam[Em/D]biarme de ca[Em/C#]beza
+Pa [Am] otra que no sea la mía
+Y no [C] pensar en ti, ya no pensar en [D7] ti.
 
-[C]
-Yo me quito, aunque me duela
+Y aunque te [C] den el doble de ca[D7]ricias
+Y el triple de los [G] besos que te [Em] di,
+Y aunque te [C] den 21 [D7] rosas al día
+Y mil veces [B7] digan que mueren por [Em] ti, [E7]
+Ay, si te [Am] dan todo eso me quito el sombrero, [D7]
+Pero [Am] nadie va a quererte la mi[D7]tad
+De lo que yo a ti te [G] quiero. [D7]
 
-Pa otra que no sea la mía
+No te preocu[B7]pes por mí,
+Yo me las arregla[Em]ría [Em/D#]
+Pa cam[Em/D]biarme de ca[Em/C#]beza
+Pa [Am] otra que no sea la mía
+Y no [C] pensar en ti, ya no pensar en [D7] ti.
 
-[Em]/[D] [Em]/[C#]
-[Am] [C] [D7]
-Y hasta dos o tres consejos le daría.
-
-Y no pensar en ti, ya no pensar en ti.
-
-[Am] [D7] [D7]/[F#]
-[C] [D7]
-Y aunque te den, el doble de caricias
-
-[Am]
-Y el triple de los besos que te di.
-
-[G] [D]/[BmajoFA#] [Em]
-No te preocupes por mí,
-
-[C] [D7]
-Y aunque te den, 21 rosas al día
-
-[B7]
-Yo me las arreglaría
-
-[Em] [Em]/[D#]
-Pa cambiarme de cabeza
-
-[G] [D]/[BmajoFA#] [Em]
-[Em]/[D] [Em]/[C#]
-Pa otra que no sea la mía
-
-Y mil veces digan que mueren por ti
-
-Y no pensar en ti, ya no pensar en ti.
-
-[Am] [D7] [D7]/[F#]
-Ay, si te dan todo eso
-
-[Am]
-[D7]
-Me quito el sombrero
-
-[Am] [D7]
-Pero nadie va a quererte la mitad
-
-[C.] [D7]
-Y aunque te den, el doble de caricias
-
-[G] [Bm] [F#m] [Am]
-[G] [D]/[BmajoFA#] [Em]
-De lo que yo a ti te quieroooo
-
-[G] [Bm] [F#m] [Am]
-De lo que yo a ti te quieroooo
-
-[D]-[Cm]-[G]
-De lo que yo a ti
-
-<
-
-te quieroooo
+Y aunque te [C] den el doble de ca[D7]ricias
+Y el triple de los [G] besos que te [Em] di,
+Y aunque te [C] den 21 [D7] rosas al día
+Y mil veces [B7] digan que mueren por [Em] ti, [E7]
+Ay, si te [Am] dan todo eso me quito el sombrero, [D7]
+Pero [Am] nadie va a quererte la mi[D7]tad
+De lo que yo a ti te [G] quiero, [Bm] [F#m] [Am]
+De lo que yo a ti te [G] quiero, [Bm] [F#m] [Am]
+[D] De lo que [Cm] yo a ti te [G] quiero.

@@ -9,24 +9,21 @@ tags: ["balada", "pop", "70s", "clásico"]
 
 ## Verso 1
 Y entonces fue, cuando te besé,
-De tu mirar, yo me enamoré
-
-[Am] [G] [F] [E] (2)
+De tu mirar, yo me enamoré,
 Con un sorbito de champán…
 
-[Am] [Dm] [G7] [C] [Am] [Dm] [E]
-Yo soy rebelde
-Porque el mundo me ha hecho así,
-Porque nadie me ha tratado con amor,
-Porque nadie me ha querido nunca oír.
-Yo soy rebelde porque siempre y sin razón
-Me negaron todo aquello que pedí,
-Y me dieron solamente incomprensión
+[Am] [G] [F] [E] (2)
 
-[Am] [F] [G] -7 [C](2)
-Yo quisiera ser como el niño aquel
-Como el hombre aquel que es feliz.
-Y quisiera dar lo que hay en mí,
-Todo a cambio de una amistad.
+[Am] Yo soy re[Dm]belde porque el [G7] mundo me ha hecho a[C]sí,
+Porque [Am] nadie me ha tra[Dm]tado con a[E]mor,
+Porque nadie me ha querido nunca oír.
+[Am] Yo soy re[Dm]belde porque [G7] siempre y sin ra[C]zón
+Me ne[Am]garon todo a[Dm]quello que pe[E]dí,
+Y me dieron solamente incomprensión.
+
+[Am] Yo quisiera [F] ser como el [G7] niño a[C]quel,
+[Am] Como el hombre [F] aquel que es fe[G7]liz. [C]
+[Am] Y quisiera [F] dar lo que [G7] hay en [C] mí,
+[Dm] Todo a cambio [Am] de una amis[E]tad. [Am]
 
 [Dm] [Am] [E] [Am] (2)

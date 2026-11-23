@@ -11,25 +11,23 @@ tags: ["rock", "psychedelic", "60s", "classic", "inglés"]
 [C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]
 
 ## Verso 1
-Day after day alone on a hill , the man with the foolish grin
-Is keeping perfectly still,
-But nobody wants to know him, they can see that he's just a fool
-And he never gives an answer.
+[C] Day after day alone on a hill, the man with the [F] foolish grin
+Is keeping [Dm] perfectly [G] still,
+But [C] nobody wants to know him, they can see [Am] that he's just a fool
+And he [Dm] never gives an [G] answer.
 
-[Cm] [Fm] [Bb] [Cm]
-But the fool on the hill  sees the sun going down
-And the eyes in his head  see the world spinning 'round.
-
-[C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]
-Well on the way head in a cloud, the man of a thousand voces
-Talking perfectly loud,
-But nobody ever hears him, or the sound he appears to make
-And he never seems to notice
-
-[Dm] [G] [C] [Am] [Dm] [G]
-And nobody seems to like him, they can tell what he wants to do
-And he never shows his feelings.
+[Cm] But the fool on the hill sees the [Fm] sun going [Bb] down
+And the [Cm] eyes in his head see the world spinning 'round.
 
 [C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]
-He never listens to them, he knows that they're the fool
-They don't like him.
+[C] Well on the way head in a cloud, the man of a [F] thousand voces
+Talking [Dm] perfectly [G] loud,
+But [C] nobody ever hears him, or the sound [Am] he appears to make
+And he [Dm] never seems to [G] notice
+
+[Dm] And nobody seems to [G] like him, they can tell [C] what he wants to [Am] do
+And he [Dm] never shows his [G] feelings.
+
+[C] [F] (2) [Dm] [G] [C] [Am] [Dm] [G]
+[C] He never listens to them, he [Am] knows that they're the fool
+They [Dm] don't like [G] him.

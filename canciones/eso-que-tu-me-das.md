@@ -8,52 +8,39 @@ tags: ["pop rock", "español", "acústico"]
 ---
 
 ## Intro
-[Intro:] [C] [F7] [C] [G] [C] [G] [F] [C]/ [Dm] [F] [Dm] [G7]
+[C] [F7] [C] [G]
 
-Eso que tú me das
-Es mucho más de lo que pido
-Todo lo que me das
-Es lo que ahora necesito
--Eso que tú me das
-No creo lo tenga merecido
-Todo lo que me das
-Te estaré siempre agradecido
+## Verso 1
+[C] Eso que tú me das es mucho [G] más de lo que pido
+[F] Todo lo que me das es lo que a[C]hora necesito
+[C] Eso que tú me das no creo lo [G] tenga merecido
+[F] Todo lo que me das te estaré [C] siempre agradecido
 
-[A7] [Dm] [B7] [Em] [C]
-Así que gracias por estar
-Por tu amistad y tu compañía
-Eres lo, lo mejor,
-Que me ha dado la vida
+## Coro
+A[A7]sí que gracias por es[Dm]tar,
+Por tu amis[B7]tad y tu compa[Em]ñía,
+Eres [Dm] lo, lo [G7] mejor que me ha [C] dado la vida
 
-[C] [G] [F] [C]/ [Dm] [F] [Dm] [G7]
-Por todo lo que recibí
-Estar aquí vale la pena
-Gracias a ti seguí
-Remando contra la marea
--Con todo lo que recibí
-Ahora sé que no estoy solo
-Ahora te tengo a ti
-Amigo mío, mi tesoro
+## Verso 2
+[C] Por todo lo que recibí estar a[G]quí vale la pena
+[F] Gracias a ti seguí remando [C] contra la marea
+[C] Con todo lo que recibí ahora [G] sé que no estoy solo
+[F] Ahora te tengo a ti, amigo [C] mío, mi tesoro
 
-[A7] [Dm] [B7] [Em] [C]
-Así que gracias por estar
-Por tu amistad y tu compañía
-Eres lo, lo mejor,
-Que me ha dado la vida
+## Coro
+A[A7]sí que gracias por es[Dm]tar,
+Por tu amis[B7]tad y tu compa[Em]ñía,
+Eres [Dm] lo, lo [G7] mejor que me ha [C] dado la vida
 
-[D] A [G] [D]/[Em] [G] [Em] [A7]
--Todo te lo voy a dar
-Por tu calidad, por tu alegría
-Me ayudaste a remontar
-A superarme día a día
--Todo te lo voy a dar
-Fuiste mi mejor medicina
-Todo te lo daré
-Sea lo que sea, lo que pidas
--Y eso que tú me das
-Es mucho más, es mucho más
-De lo que nunca te he pedido
--Todo lo que me das
-Es mucho más, es mucho más
-De lo que nunca he merecido
--Eso que tú me das
+## Verso 3
+[D] Todo te lo voy a dar por tu cali[A]dad, por tu alegría
+[G] Me ayudaste a remontar, a supe[D]rarme día a día
+[D] Todo te lo voy a dar, fuiste mi [A] mejor medicina
+[G] Todo te lo daré, sea lo que [D] sea, lo que pidas
+
+## Outro
+Y [D] eso que tú me das es mucho más, es mucho [A] más
+De lo que nunca te he pe[G]dido [D]
+[D] Todo lo que me das es mucho más, es mucho [A] más
+De lo que nunca he mere[G]cido
+Eso que tú me [D] das

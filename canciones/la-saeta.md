@@ -8,53 +8,44 @@ tags: ["saeta", "canción de autor", "clásico"]
 ---
 
 ## Intro
-[G]-[Em]-[C]-[D]
+[G] [Em] [C] [D]
 
-Golpe a golpe (verso a verso)
+Golpe a golpe, verso a verso
 
-[G] [Em] [C]-[D]-[G](2) [C] [D] [G]
-Murió el poeta lejos del hogar
-Le cubre el polvo de un país vecino
-Al alejarse le vieron llorar
+[G] Murió el po[Em]eta lejos del ho[C]gar [D] [G]
+Le cubre el [Em] polvo de un país ve[C]cino [D] [G]
+Al ale[C]jarse le [D] vieron llo[G]rar
 (Caminante, no hay camino)
 (Se hace camino al andar)
 
-[G]-[Em]-[C]-[D]
+[G] [Em] [C] [D]
 Golpe a golpe (verso a verso)
 
-[G] [Em] [C] [D] [G](2) [C] [D] [G]
-Cuando el jilguero no puede cantar
-Cuando el poeta es un peregrino
-Cuando de nada nos sirve rezar
+[G] Cuando el jil[Em]guero no puede can[C]tar [D] [G]
+Cuando el po[Em]eta es un pere[C]grino [D] [G]
+Cuando de [C] nada nos [D] sirve re[G]zar
 (Caminante no hay camino)
 (Se hace camino al andar)
 
-[G]-[Em]-[C]-[D] (3[)-][G]
+[G] [Em] [C] [D] [G]
 Golpe a golpe, verso a verso (3)
-
-Serrat/ Machado 1969)
-
-(
 
 Dijo una voz popular: ¿Quién me presta una
 escalera para subir al madero,
 Para quitarle los clavos a Jesús el Nazareno?
 
-[A7] [Dm] [Am]/[A#]/[C] [F] -[A7](2)
-Oh, la saeta, el cantar al Cristo de los Gitanos
-siempre con sangre en las manos,
-siempre por desenclavar.
--Cantar del pueblo andaluz
-que todas las primaveras
-anda pidiendo escaleras para subir a la cruz.
+¡[A7] Oh, la sa[Dm]eta, el cantar al [Am] Cristo [Bb] de los gi[C]tanos [F]
+Siempre con [A7] sangre en las manos,
+Siempre por desencla[Dm]var!
+Cantar del [A7] pueblo anda[Dm]luz
+Que to[Am]das [Bb] las prima[C]veras [F]
+Anda pi[A7]diendo escaleras para subir a la [Dm] cruz.
 
-[A7] [Dm] [Am]/[A#]/[Gm] [A7]
--Cantar de la tierra mía que echa flores
-al Jesús de la agonía
-Y es la fe de mis mayores
+¡Can[A7]tar de la tierra [Dm] mía que echa [Am] flores [Bb]
+Al Je[Gm]sús de la agonía
+Y es la fe de mis ma[A7]yores!
 
-[A7] [Dm] [Am]/[A#]/[C] [F] -[A7] (3) [Dm]
--¿Oh, no eres tú mi cantar
-No puedo cantar, ni quiero
-a este Jesús del madero,
-sino al que anduvo en la mar!
+¡[A7] Oh, no eres [Dm] tú mi cantar!
+¡No [Am] puedo can[Bb]tar, ni [C] quiero [F]
+A este Je[A7]sús del madero,
+Sino al que anduvo en la [Dm] mar!

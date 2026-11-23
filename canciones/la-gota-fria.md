@@ -8,27 +8,28 @@ tags: ["vallenato", "colombiano", "pop"]
 ---
 
 ## Intro
-[Am] [E] [Am] (3[)/] [C] [G] [C] (2) [Am] [E] [Am] (2)
+[Am] [E] [Am]
+[C] [G] [C]
+[Am] [E] [Am]
 
-Acordate Moralito de aquel día que estuviste en Urumita y no quisiste hacer parranda,
-Te fuiste de mañanita, sería de la misma rabia (2)
--En mis notas soy extenso, a mí nadie me corrige (2)
-Para tocar con Lorenzo, mañana sábado día la Virgen (2)
+Acor[C]date Moralito de aquel día
+Que estuviste en Urumita y no qui[G]siste hacer parran[C]da,
+Te fuiste de mañanita, se[G]ría de la misma [C] rabia (2)
+En mis [C] notas soy extenso, a [G] mí nadie me co[C]rrige (2)
+Para to[C]car con Lorenzo, mañana [G] sábado día la [C] Virgen (2)
 
-[Am] [E] [Am] (4)
-Me lleva él o me lo llevo yo, pa que se acabe la vaina (2)
-Ay Morales a mí no me lleva porque no me da la gana
-Moralito a mí no me lleva, porque no me da la gana
+[Am] Me lleva él o me lo llevo [E] yo, pa que se acabe la [Am] vaina (2)
+Ay Mo[Am]rales a mí no me lleva [E] porque no me da la [Am] gana
+Mora[Am]lito a mí no me lleva, [E] porque no me da la [Am] gana
 
-Qué cultura, qué cultura va a tener un indio chumeca como Lorenzo Morales
-Que cultura va a tener (si nació en los Cardonales) (2)
--Morales miente a mi mama solamente pa ofender (2)
-Para que también se ofenda, ahora le miento la de él (2)
+Qué cul[C]tura, qué cultura va a tener
+Un indio chumeca como Lo[G]renzo Mora[C]les
+Qué cultura va a tener (si na[G]ció en los Cardo[C]nales) (2)
+Mo[C]rales miente a mi mama sola[G]mente pa ofen[C]der (2)
+Para [C] que también se ofenda, ahora [G] le miento la de [C] él (2)
 
-Me lleva él o me lo llevo yo, pa que se acabe la vaina
+[Am] Me lleva él o me lo llevo [E] yo, pa que se acabe la [Am] vaina
 
-Moralito, Moralito se creía, que él a mí, que él a mí me iba a ganar
-Y cuando me oyó tocar, le cayó la gota fría (2)
-Y al cabo en la compartida, el tiro le salió mal (2)
-
-Bésame mucho
+Mora[C]lito, Moralito se creía, que él a [G] mí, que él a mí me iba a ga[C]nar
+Y cuando me oyó tocar, le ca[G]yó la gota [C] fría (2)
+Y al [C] cabo en la compartida, el [G] tiro le salió [C] mal (2)

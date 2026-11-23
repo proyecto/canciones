@@ -8,26 +8,23 @@ tags: ["folk", "balada", "70s", "classic", "inglés"]
 ---
 
 ## Intro
-[F] [C] (5)  [G7] [C] -7  [F]- [D7]-[G]
+[F] [C] [G7] [C7] [F] [D7] [G]
 
 ## Verso 1
-When you’re weary, feeling small, when tears are in your eyes, I will dry them all
-I’m on your side, ooh when times get rough and friends just can’t be found
+When you’re [C] weary, [F] feeling [C] small, when [F] tears are [C] in your eyes, [G7] I will [C] dry them [C7] all
+[F] I’m on [D7] your [G] side, [C7] ooh when times get rough and [F] friends just [D7] can’t be [G] found
 
-[C]-7-[F] [C] [A7] [F] [E7] ([Am] /[C]) (BIS)
-Like a bridge over troubled water, I will lay me down(2)
+Like a [C7] bridge over [F] troubled [C] water, [A7] [F] I will [E7] lay me [Am] down [C]
+Like a [C7] bridge over [F] troubled [C] water, [A7] [F] I will [E7] lay me [Am] down [C]
 
-[F] [C] (5) [G7] [C] -7 [F] [D7]-[G]
-When you’re down and out, when you’re on the street,
-When evening falls so hard, I will comfort you,
-I’ll take your part, ooh when darkness comes, and pain is all around
+When you’re [C] down and [F] out, when you’re [C] on the street,
+When [F] evening falls so [C] hard, [G7] I will [C] comfort [C7] you,
+[F] I’ll take [D7] your [G] part, [C7] ooh when darkness comes, and [F] pain is [D7] all a[G]round
 
-[C]-7 [F] [C] [A7] [F] [E7] ([Am] /[C]) (BIS)
-Like a bridge over troubled water, I will lay me down(2)
+Like a [C7] bridge over [F] troubled [C] water, [A7] [F] I will [E7] lay me [Am] down [C]
+Like a [C7] bridge over [F] troubled [C] water, [A7] [F] I will [E7] lay me [Am] down [C]
 
-[F] [C] (5)  [G7] [C] -7  [F]- [D7]-[G]
-Sail on silver girl, sail on by, your time has come to shine, all your dreams are on the way.
-See how they shine, ooh if you need a friend, I’m sailing right behind
+Sail on [C] silver [F] girl, sail [C] on by, your [F] time has come to [C] shine, all your [G7] dreams are [C] on the [C7] way.
+[F] See how [D7] they [G] shine, [C7] ooh if you need a friend, [F] I’m sailing [D7] right be[G]hind
 
-[C]-7 [F] [C] [A7] [F] [E7] ([Am] /[C]) (BIS)
-Like a bridge over troubled water, I will ease your mind
+Like a [C7] bridge over [F] troubled [C] water, [A7] [F] I will [E7] ease your [Am] mind [C]

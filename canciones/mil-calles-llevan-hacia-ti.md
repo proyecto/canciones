@@ -8,30 +8,25 @@ tags: ["pop rock", "español", "80s"]
 ---
 
 ## Intro
-[C] [F] [G] [C]/ [Am] [Dm] [G] [C] ([F]-[G]-[C]) (bis)
+[C] [F] [G] [C] [Am] [Dm] [G] [C]
 
-Mil calles llevan hacia ti y no sé cuál he de seguir
-No tengo tiempo que perder y ya se va el último tren
--Quizás mostrándote una flor o hacer que pierdas el timón
-Poner tu nombre en la pared o amarte cada atardecer
+[C] Mil calles llevan hacia [F] ti y no [G] sé cuál he de se[C]guir
+[Am] No tengo tiempo que per[Dm]der y ya se [G] va el último [C] tren
+[C] Quizás mostrándote una [F] flor o ha[G]cer que pierdas el ti[C]món
+[Am] Poner tu nombre en la pa[Dm]red o a[G]marte cada atarde[C]cer
 
-> or. LA
-[G] [C] (2) [E7] [F] [G] [C]
-Puedo perderme en el alcohol y dibujar un corazón
-Fingir que existe alguien más que ahora ocupa tu lugar
+[G] Puedo perderme en el alco[C]hol [G] y dibujar un cora[C]zón
+[E7] Fingir que existe alguien [F] más que a[G]hora ocupa tu lu[C]gar
 
-[C] [F] [G] [C]/ [Am] [Dm] [G] [C] ([F]-[G]-[C]) (bis)
-Si quieres hoy, puedes venir, hay una fiesta para ti
-A tu ventana treparé, si no la cierras esta vez
--Ese perfume de mujer, me llevará hasta dónde estés
-En una obscura habitación o en la guarida del león
+[C] Si quieres hoy, puedes ve[F]nir, hay una [G] fiesta para [C] ti
+[Am] A tu ventana trepa[Dm]ré, si no la [G] cierras esta [C] vez
+[C] Ese perfume de mu[F]jer, me lleva[G]rá hasta dónde es[C]tés
+[Am] En una obscura habita[Dm]ción o en la gua[G]rida del le[C]ón
 
-[G] [C] (2) [E7] [F] [G] [C]
-Puedo perderme en el alcohol y dibujar un corazón
-Fingir que existe alguien más que ahora ocupa tu lugar
+[G] Puedo perderme en el alco[C]hol [G] y dibujar un cora[C]zón
+[E7] Fingir que existe alguien [F] más que a[G]hora ocupa tu lu[C]gar
 
-[C] [F] [G] [C]/ [Am] [Dm] [G] [C] ([F]-[G]-[C])
-Mil calles llevan hacia ti, y sé, que tengo que elegir
-Mil calles lleva hacia ti y qué camino he de seguir. (BIS)
+[C] Mil calles llevan hacia [F] ti, y [G] sé, que tengo que ele[C]gir
+[Am] Mil calles lleva hacia [Dm] ti y qué ca[G]mino he de se[C]guir. (BIS)
 
-[G] [C] [D] [G]/ [Em] [Am] [D] [G] ([C]-[D]-[G]) (bis) [D] [G](2) [B7] [C] [D] [G]
+[G] [C] [D] [G] [Em] [Am] [D] [G] [C] [D] [G]

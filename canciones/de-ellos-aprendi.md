@@ -8,111 +8,87 @@ tags: ["pop", "acústico", "español"]
 ---
 
 ## Intro
-[G] [C] [Em] [D]/ [C] [G] [D] [Em] [C] [D] [G]
+[G] [C] [Em] [D] [C] [G] [D] [Em] [C] [D] [G]
 
-[G] [C] [Em] [D]/ [C] [G] [D] [Em] [C] [D]
-Hoy voy a hablarte de mis héroes
-Que me vieron crecer
-Desde el león que se hizo rey
-Hasta la princesa que rompió la ley
-Si me preguntas a mí, de ellos aprendí
-Que hay personas
-Por las que vale la pena derretirse
-Todo es posible, incluso lo imposible
-Las virtudes a veces están bajo la superficie
-La belleza está en el interior
-Recuérdame, aunque te diga adiós
-Debo dejar de ser algo que no soy
+[G] Hoy voy a hablarte [C] de mis héroes
+[Em] Que me vieron cre[D]cer
+[C] Desde el león [G] que se hizo rey
+[D] Hasta la prin[Em]cesa que rompió la ley
+[C] Si me preguntas a [D] mí, de ellos apren[G]dí
+[G] Que hay personas
+[C] Por las que vale la [Em] pena derre[D]tirse
+[C] Todo es posible, [G] incluso lo imposible
+[D] Las virtudes a [Em] veces están bajo la super[C]ficie
+[D] La belleza está [G] en el interior
+[G] Recuérdame, [C] aunque te diga adiós
+[Em] Debo dejar de [D] ser algo que no soy
 
-Supercalifragilisticoespialidoso
-Creo
-_que_
-sí que estás completamente loco
-Pero te cuento un secreto, entre nosotros
-(Las mejores personas lo están)
-Si al hablar no has de agradar, mmh
-Te será mejor callar
-Hasta el infinito y más allá
+[C] Supercalifragilis[G]ticoespialidoso
+[D] Creo que sí que estás [Em] completamente loco
+[C] Pero te cuento un se[D]creto, entre nosotros
+[G] (Las mejores personas lo están)
+[G] Si al hablar no has de agra[C]dar, mmh
+[Em] Te será mejor ca[D]llar
+[C] Hasta el infi[D]nito y más a[G]llá
 
-> A.C
-.
+[G] La vida no es per[C]fecta para ser maravi[Em]llosa
+[C] Soy una her[D]mosa mari[G]posa
+[G] Tu identidad es tu pose[C]sión más va[Em]liosa
+Protégela [D] a toda costaaaa, ah
+[C] Recuerda siempre [G] quién eres [D] y ya es[Em]tá [C] [D] [G]
 
-[G] [C] [Em]/[C] [D] [G]
-La vida no es perfecta para ser maravillosa
-Soy una hermosa mariposa
-Tu identidad es tu posesión más valiosa
-Protégela
-
-[G] [C] [Em] [D]/ [C] [G] [D] [Em] [C] [D] [G]
-a toda costaaaa, ah
-Recuerda siempre quién eres y ya está
-
-Llorar me tranquiliza los problemas de la vida
-Elimina de tu vida, si elimina tu sonrisa
-Hay una lágrima por cada risa
-Eres más valiente de lo que crees, mmh
-¿Por qué tenemos que crecer?
-La segunda estrella a la derecha,
+[G] Llorar me tranqui[C]liza los problemas de la [Em] vida [D]
+[C] Elimina de tu [G] vida, si eli[D]mina tu son[Em]risa
+[C] Hay una lágrima [D] por cada [G] risa
+[G] Eres más valiente [C] de lo que crees, [Em] mmh [D]
+[C] ¿Por qué te[G]nemos que cre[D]cer? [Em]
+[C] La segunda es[D]trella a la de[G]recha,
 Todo recto hasta el amanecer
 
-[C] [G] [D] [Em] [C]/ [G] [D] [G]
-Boo! Sigue nadando, sigue nadando
-Quiero ser como tú
-Hakuna matata, vive y deja vivibidi-babidi-bu
--Hay un amigo en mí, tan blandito
-Que me quiero morir, de ellos aprendí.
+[C] Boo! Sigue na[G]dando, sigue na[D]dando
+Quiero ser [Em] como tú
+[C] Hakuna matata, [G] vive y deja vivi[D]bidi-babidi-[G]bu
+[C] Hay un a[G]migo en mí, [D] tan blan[Em]dito
+Que me quiero mo[C]rir, de [D] ellos apren[G]dí.
 
-[G] [C] [Em] [D] [G]/ [C] [Em] [C] [D] [G]
-Aférrate a aquello que te hace diferente
-Si esperas el momento oportuno, era ese
-"Ohana" significa familia,
-Familia estar juntos siempre
-Que tu alma libre esté
-Y que nunca es tarde para ser joven
+[G] Aférrate a aquello que te [C] hace diferente
+[Em] Si esperas el momento opor[D]tuno, era [G] ese
+[C] "Ohana" significa familia,
+[Em] Familia estar juntos siempre
+[C] Que tu alma libre esté
+Y que [D] nunca es tarde para ser [G] joven
 
-[C] [G] [D] [Em]/ [C] [D]
-Tira de la palanca
-Deshonra sobre tu vaca
-Que hay que explorar lo inexplorado
-Que nadie se mueva
-Tengo un dragón y no tengo miedo a utilizarlo
-De verdad, de la buena
+[C] Tira de la pa[G]lanca
+[D] Deshonra sobre tu [Em] vaca
+[C] Que hay que explorar lo inexplo[D]rado
+[C] Que nadie se [G] mueva
+Tengo un dra[D]gón y no tengo [Em] miedo a utilizarlo
+[C] De verdad, [D] de la buena
 
-Boo! Sigue nadando, sigue nadando
-Quiero ser como tú
-Hakuna matata, vive y deja vivibidi-babidi-bu
--Hay un amigo en mí, tan blandito
-Que me quiero morir, de ellos aprendí.
+[C] Boo! Sigue na[G]dando, sigue na[D]dando
+Quiero ser [Em] como tú
+[C] Hakuna matata, [G] vive y deja vivi[D]bidi-babidi-[G]bu
+[C] Hay un a[G]migo en mí, [D] tan blan[Em]dito
+Que me quiero mo[C]rir, de [D] ellos apren[G]dí.
 
-[C] [G] [D] [Em] [C]/ [G] [D] [G]
--Escucha a tu corazón y lo entenderás (uh-uhm)
+[C] Escucha a tu cora[G]zón y lo entende[D]rás (uh-[Em]uhm)
+[C] Hakuna matata, [G] vive y deja vivi[D]bidi-babidi-[G]bu
+[C] Hay un a[G]migo en mí, [D] tan blan[Em]dito
+Que me quiero mo[C]rir, de [D] ellos apren[G]dí.
 
-Hakuna matata, vive y deja vivibidi-babidi-bu
--Hay un amigo en mí, tan blandito
-Que me quiero morir, de ellos aprendí.
+[G] Cada día de [C] lluvia tiene su arco[Em]íris [D]
+[C] El camino co[G]rrecto no [D] es el más [Em] fácil
+[C] Espejito, espe[D]jito, eterna[G]mente agradecido
+[G] No te centres en lo que [C] dejas atrás
+[Em] Busca lo más vi[D]tal
 
-[G] [C] [Em] [D]/ [C] [G] [D] [Em] /[C] [D] [G]
-[G] [C] [Em] [D]/ [C] [G] [D] [Em]/ [C] [D] [G] -[D]-[G]
-Cada
-día
-de lluvia tiene su arcoíris
-_
-_
-El camino correcto no es el más fácil
-Espejito, espejito, eternamente agradecido
--No te centres en lo que dejas atrás
-Busca lo más vital
+[C] Ahora que ya sabes quiénes [G] son, me creerás
+[D] Si te digo que los ani[Em]males saben hablar
+[C] Que algún día sabré volar
+[D] Que la magia es de ver[G]dad
+[G] De ellos apren[C]dí
+Que por mucho que [Em] vuele lejos de a[D]quí
+[C] Seguirán [D] siempre junto a [G] mí, uhm-uh
 
-Ahora que ya sabes quiénes son, me creerás
-Si te digo que los animales saben hablar
-Que algún día sabré volar
-Que la magia es de verdad
--De ellos aprendí
-Que_por_
-mucho
-_que vuele lejos de aquí
-Seguirán siempre junto a mí, uhm-uh
-
-[C] [G] [D] [Em] [C]/ [G] [D] [G]
-Boo! Sigue nadando, sigue nadando
-Quiero ser como tú
+[C] Boo! Sigue na[G]dando, sigue na[D]dando
+Quiero ser [Em] como tú

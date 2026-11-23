@@ -8,36 +8,27 @@ tags: ["flamenco", "popular", "andaluz"]
 ---
 
 ## Verso 1
-> -
-Que algún día, malagueña, serás mi mujer
+[Am] Que algún día, mala[G]gueña, serás mi mu[F]jer [E]
 
-[Am]
-[E] [Am]
-[G] [F]-[E] (2)
-A la sombra de una copla yo te enamoré
-Y mi amor te entregué
-Malagueña te quiero y siempre te querré
+[Am] A la sombra de una [G] copla yo te ena[F]moré
+Y mi amor te entre[E]gué
+Mala[Am]gueña te quiero [G] y siempre te que[F]rré [E]
 
-Caleta y El Limonar, viva Málaga que tiene,
-Caleta y El Limonar, y un parque lleno de flores,
-A la orillita del mar, donde nacen los amores.
-Antiguamente eran dulces (2)
-Todas las aguas del mar.
-Se bañó una malagueña y se volvieron
+[Am] Viva Málaga que tiene, [G] Caleta y El Limonar,
+[F] Caleta y El Limonar, [E] y un parque lleno de flores,
+[Am] A la orillita del mar, [G] donde nacen los a[F]mores. [E]
 
-salás
+[Am] Antiguamente eran [G] dulces (2)
+[F] Todas las aguas del [E] mar.
+[Am] Se bañó una mala[G]gueña y se vol[F]vieron sa[E]lás,
+Y se vol[F]vieron sa[E]lás.
 
-,
-Y se volvieron
+[Am] Cuando salí de Mar[G]bella (2)
+[F] Hasta el caballo llo[E]raba.
+[Am] Los ojos de mi mo[G]rena, al sol sus [F] rayos qui[E]taban,
+[Am] Al sol sus rayos qui[G]taban. [F] [E]
 
-.
-Cuando salí de Marbella (2)
-Hasta el caballo lloraba.
-Los ojos de mi morena, al sol sus rayos quitaban,
-Al sol sus rayos quitaban.
-Yo en mi vida negaré, (2)
-Que te quise con locura,
-Mira qué cariño fue, que aún siento la calentura,
-Que tuve por tu querer.
-
-salás
+[Am] Yo en mi vida nega[G]ré, (2)
+[F] Que te quise con lo[E]cura,
+[Am] Mira qué cariño [G] fue, que aún siento [F] la calen[E]tura,
+[Am] Que tuve por tu que[G]rer. [F] [E]

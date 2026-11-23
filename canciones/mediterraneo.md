@@ -10,72 +10,35 @@ tags: ["canción de autor", "clásico", "español"]
 ## Verso 1
 6x4
 
-[Am7] [E7sus4] [Am7] [F] [E7]
-Quizá porque mi niñez sigue jugando en tu playa
+Qui[Am7]zá porque mi [E7sus4] niñez [Am7] sigue ju[F]gando en tu [E7] playa
+Y escon[Am7]dido tras las [G] cañas [C] duerme mi primer a[Am7]mor,
+[G] Llevo tu [F] luz y tu o[G]lor por donde [C] quiera que vaya,
+[E7] Y amonto[Am7]nado en tu arena [F] guardo amor, juegos y [E7] penas.
 
-[Am7] - [G] [C] [Am7]
-Y escondido tras las cañas duerme mi primer amor,
+Yo, [Am7] que en la piel tengo el [E7sus4] sabor [Am7] amargo del [F] llanto e[E7]terno
+Que han ver[Am7]tido en ti cien [G] pueblos, [C] de Algeciras a Estam[Am7]bul,
+[G] Para que [F] pintes de a[G]zul sus largas [C] noches de invierno.
+[E7] A fuerza [Am7] de desventuras, [F] tu alma es profunda y os[Am7]cura.
 
-[G] [F] [G] [C]
-Llevo tu luz y tu olor por donde quiera que vaya.
+A tus [Dm] atardeceres [C] rojos, se acostum[E7]braron mis [Am] ojos como el recodo al camino.
+[Dm] Soy cantor, soy embus[C]tero, me gusta el [E7] juego y el [Am] vino, tengo alma de marinero.
+¡Qué le voy a ha[Dm]cer si [C] yo! [E7]
+¡Nací en el medite[Am]rráneo!
+[Dm] ¡Nací [C] en el [E7] medite[Am]rráneo!
 
-[E7] [Am7] [F] [E7]
-Y amontonado en tu arena guardo amor, juegos y penas, yo
+Y te a[Am7]cercas y te [E7sus4] vas, [Am7] después de be[F]sar mi al[E7]dea,
+Ju[Am7]gando con la ma[G]rea, [C] te vas pensando en vol[Am7]ver.
+[G] Eres co[F]mo una mu[G]jer, perfuma[C]dita de brea,
+[E7] Que se añora [Am7] y que se tiene, [F] que se conoce y se [E7] teme ¡ay!
 
-[Am7] [E7sus4] [Am7] [F] [E7]
--Que en la piel tengo el sabor amargo del llanto eterno,
+Si un [Am7] día para mi [E7sus4] mal [Am7] viene a bus[F]carme la [E7] Parca,
+Empu[Am7]jad al mar mi [G] barca, [C] con un levante oto[Am7]ñal
+[G] Y dejad [F] que el tempo[G]ral desguace sus [C] alas blancas,
+[E7] Y a mí enter[Am7]radme sin duelo, [F] entre la playa y el [Am7] cielo.
 
-[Am7] [G] [C] [Am7]
-Que han vertido en ti cien pueblos, de Algeciras a Estambul,
-
-Para que pintes de azul sus largas noches de invierno,
-
-[G] [F] [G] [C]
-[E7] [Am7] [F] [Am7]
-A fuerza de desventuras, tu alma es profunda y oscura
-
-[Dm] [C] [E7] [Am]
-A tus atardeceres rojos, se acostumbraron mis ojos como el recodo al camino.
-
-[Dm] [C] [E7] [Am]
-Soy cantor, soy embustero, me gusta el juego y el vino, tengo alma de marinero.
-
-[Dm] [C] [E7] [Am]
-¡Nací en el mediterráneo! (2)
-
-¡Qué le voy a hacer si yo!
-
-[Am7]-[E7sus4]-[Am7] [F] [E7]
-Y te acercas y te vas, después de besar mi aldea,
-
-[Am7] [G] [C] [Am7]
-Jugando con la marea, te vas pensando en volver
-
-Eres como una mujer, perfumadita de brea,
-
-[G] [F] [G] [C]
-Que se añora y que se tiene, que se conoce y se teme ¡ay!
-
-[E7] [Am7] [F] [E7]
-[Am7]-[E7sus4]-[Am7] [F] [E7]
-- Si un día para mi mal viene a buscarme la Parca,
-
-Empujad al mar mi barca, con un levante otoñal
-
-[Am7] [G] [C] [Am7]
-[G] [F] [G] [C]
-Y dejad que el temporal desguace sus alas blancas,
-
-Y a mí enterradme sin duelo, entre la playa y el cielo
-
-[E7] [Am7] [F] [Am7]
-[Dm] [C] [E7] [Am]
-En la ladera de un monte. más alto que el horizonte, quiero tener buena vista.
-
-[Dm] [C] [E7] [Am]
-Mi cuerpo será camino, le daré verde a los pinos y amarillo a la genista,
-
-[Dm] [C] [E7] [Am]
-¡Cerca del mar porque yo!
-
-Nací en el mediterráneo (3)
+En la [Dm] ladera de un [C] monte, más alto [E7] que el hori[Am]zonte, quiero tener buena vista.
+[Dm] Mi cuerpo será ca[C]mino, le daré [E7] verde a los [Am] pinos y amarillo a la genista,
+¡Cerca del [Dm] mar porque [C] yo! [E7]
+Nací en el medite[Am]rráneo,
+[Dm] Nací [C] en el [E7] medite[Am]rráneo,
+[Dm] Nací [C] en el [E7] medite[Am]rráneo.

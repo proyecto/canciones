@@ -8,40 +8,22 @@ tags: ["copla", "pasodoble", "andaluz"]
 ---
 
 ## Intro
-[#2] [Am] [E] [Am] [G] [C]
+[Am] [E] [Am] [G] [C]
 
-- Dormido entre rosas y encajes de hilo, soñando en los lirios que vienen del sur
+[Am] Dormido entre rosas y encajes de hilo, so[G]ñando en los lirios que vienen del [C] sur
+[E] Buscando en la noche los claveles [Am] fríos, del a[E]mor prohibido, vive el anda[Am]luz
+Som[Am]brero en los ojos, pañuelo esmeralda, [G] fuego en las pestañas menudo va[C]lor,
+[E] Quedó en el olvido tal vez las ra[Am]zones, aquel [E] pasodoble que en Madrid can[Am]tó
 
-[E] [Am] [E] [Am]
-Buscando en la noche los claveles fríos, del amor prohibido, vive el andaluz
+[G] Cuentan que en las noches de luna de [C] mayo, entre los mal[E]vados de la oscuri[Am]dad
+Se pinta los [G] ojos se muerde los [C] labios y aba[E]nico en mano, se [E7] pone a can[Am]tar:
 
-- Sombrero en los ojos, pañuelo esmeralda, fuego en las pestañas menudo valor,
+¡Ay [E] rosas! Málaga [Am] bella, biz[F]nagas de mi pa[E]sión, donde yo apren[E7]dí a querer, donde cono[Am]cí el amor.
+-¡Ay [Am] rosas! Málaga [E7] bella, biz[Am]nagas del cora[Dm]zón ¿De qué me [E7] sirve volver?(2) Si el a[Am]mor se [E]marchi[Am]tó
 
-[E] [Am] [G] [C]
-[E] [Am] [E] [Am]
-Quedó en el olvido tal vez las razones, aquel pasodoble que en Madrid cantó
+[Am] Preguntan las rosas por qué fue al exilio, pre[G]guntan los lirios por qué no vol[C]vió
+[E] Tan solo la luna y el amargo [Am] vino, saben [E] los motivos de su cora[Am]zón
+[G] Cuentan que por rojo, por republi[C]cano, que an[E]daba enredado con un mili[Am]tar
+Cuatro seño[G]ritos de pistola en [C] mano, sin [E] voz lo dejaron en la madru[Am]gá
 
-[G] [C] [E] [Am]
-Cuentan que en las noches de luna de mayo, entre los malvados de la oscuridad
-
-Se pinta los ojos se muerde los labios y abanico en mano, se pone a cantar:
-
-[E] [Am] [F] [E] [E7] [Am]
-¡Ay rosas! Málaga bella, biznagas de mi pasión, donde yo aprendí a querer, donde conocí el amor.
-
-[Am] [E7] [Am] [Dm] [E7]
-[Am] [E7] [Am] [Dm] [Am]-[E] [Am]
--¡Ay rosas! Málaga bella, biznagas del corazón ¿De qué me sirve volver?(2) Si el amor se marchitó
-
-[E] [Am] [G] [C]
-- Preguntan las rosas por qué fue al exilio, preguntan los lirios por qué no volvió
-
-[E] [Am] [E] [Am]
-Tan solo la luna y el amargo vino, saben los motivos de su corazón
-
-[G] [C] [E] [Am]
-- Cuentan que por rojo, por republicano, que andaba enredado con un militar
-
-Cuatro señoritos de pistola en mano, sin voz lo dejaron en la madrugá
-
-[E] [Am] [F] [E] [Am]
+¡Ay [E] rosas! Málaga [Am] bella, biz[F]nagas de mi pa[E]sión... [Am]

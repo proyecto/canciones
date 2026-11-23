@@ -8,22 +8,20 @@ tags: ["folklore", "latino", "bailable"]
 ---
 
 ## Verso 1
-Manuelito)
+[Am] Baila, baila negra, ay [E7] mueve la cintura
+Que a mí me da locura de [Am] verte así bailar
+[Am] Baila, baila negra, ay [E7] mueve la cintura
+Que a mí me da locura de [Am] verte así bailar
+[Am] Con tu movimiento me [E7] voy a morir
+Con tu movimiento me [Am] vas a matar
+[Am] Con tu movimiento me [E7] voy a morir
+Con tu movimiento me [Am] vas a matar
 
-[Am] [E7] [Am]
-(
-
-Baila, baila negra, ay mueve la cintura
-Que a mí me da locura de verte así bailar (2)
-Con tu movimiento me voy a morir
-Con tu movimiento me vas a matar (2) (BIS)
-
-Con tu movimiento me voy a morir
-Con tu movimiento me vas a matar Con tu movimiento me voy a morir
-Con tu movimiento me vas a matar Con tu movimiento me voy a morir
-Con tu movimiento me vas a matar
+[Am] Con tu movimiento me [E7] voy a morir
+Con tu movimiento me [Am] vas a matar
+[Am] Con tu movimiento me [E7] voy a morir
+Con tu movimiento me [Am] vas a matar
 
 Baila, ya, tierra ya.
 
-[Am] [D] [G]
-En otro mundo… pero a tu lado
+[Am] En otro mundo… [D] pero a tu [G] lado

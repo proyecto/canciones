@@ -8,48 +8,40 @@ tags: ["rock", "español", "80s"]
 ---
 
 ## Intro
-[D] [A] [Bm] [G] (2 )
-
-> *arpegio
--
-*Siempre quise ir a L.A.
-Dejar un día esta ciudad
-Cruzar el mar en tu compañía
--Pero ya hace tiempo que me has dejado
-Y probablemente me habrás olvidado
-No sé que aventuras correré sin ti.
-
-[Bm] [G] (2) [D]/ [A] [Bm] [G]
--Y ahora estoy aquí sentado
-En un viejo Cadillac segunda mano
-Junto
-_al Merbeyé, a mis pies mi ciudad
--Y hace un momento que me ha dejado
-Aquí en la ladera del Tibidabo la última rubia
-Que vino a probar el asiento de atrás
-
 [D] [A] [Bm] [G]
-Quizás el Martini me ha hecho recordar
-Nena ¿por qué no volviste a llamar?
-Creí que podía olvidarte sin más,
-Y aún a ratos ya ves
 
-[Bm] [G] (2) [D] [A] [Bm] [G]
-Y al irse la rubia me he sentido extraño
-Me he quedado solo fumando un cigarro
-Quizás he pensado, nostalgia de ti
-Y desde esta curva donde estoy parado
-Me he sorprendido mirando a tu barrio
-Me han atrapado luces de ciudad
+[D] Siempre quise [A] ir a L.A.
+[Bm] Dejar un día [G] esta ciudad
+[D] Cruzar el mar [A] en tu compa[Bm]ñía [G]
+[D] Pero ya hace [A] tiempo que me has dejado
+[Bm] Y probablemente [G] me habrás olvidado
+[D] No sé que aven[A]turas correré [Bm] sin ti. [G]
 
-[D] [A] [Bm] [G]
-El amanecer me sorprenderá
-Dormido, borracho, en el Cadillac
-Junto a las palmeras, cruce solitario
-Y dice la gente que ahora eres formal
-Y yo aquí borracho en el Cadillac
-Bajo las palmeras, cruce y solitario
-Y no estás tú, nena
+[Bm] Y ahora estoy aquí sen[G]tado
+[Bm] En un viejo Cadillac se[G]gunda mano
+Junto al Merbe[D]yé, [A] a mis pies mi ciu[Bm]dad [G]
+[Bm] Y hace un momento que me ha de[G]jado
+[Bm] Aquí en la ladera del Ti[G]bidabo la última rubia
+Que vino a pro[D]bar el a[A]siento de a[Bm]trás [G]
 
-(2)
-No estás tú, no estás tú (no estás tú)
+[D] Quizás el Mar[A]tini me ha hecho recordar
+[Bm] Nena ¿por [G] qué no volviste a llamar?
+[D] Creí que po[A]día olvidarte sin más,
+[Bm] Y aún a [G] ratos ya ves
+
+[Bm] Y al irse la rubia me he sen[G]tido extraño
+[Bm] Me he quedado solo fu[G]mando un cigarro
+Quizás he pen[D]sado, nos[A]talgia de [Bm] ti [G]
+[Bm] Y desde esta curva donde es[G]toy parado
+[Bm] Me he sorprendido mi[G]rando a tu barrio
+Me han atra[D]pado [A] luces de ciu[Bm]dad [G]
+
+[D] El amane[A]cer me sorprenderá
+[Bm] Dormido, bo[G]rracho, en el Cadillac
+[D] Junto a las pal[A]meras, cruce soli[Bm]tario [G]
+[D] Y dice la [A] gente que ahora eres formal
+[Bm] Y yo aquí bo[G]rracho en el [D] Cadillac
+Bajo las pal[A]meras, cruce y soli[Bm]tario [G]
+Y no estás [D] tú, [A] nena [Bm] [G]
+
+No estás [D] tú, [A] no estás [Bm] tú, no estás [G] tú.

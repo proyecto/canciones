@@ -8,55 +8,50 @@ tags: ["bolero", "clásico", "mexicano"]
 ---
 
 ## Intro
-[Gm] [Dm] [A7] [Dm] (2) [Dm] [Gm] [Dm] [A7] [Dm]
+[Gm] [Dm] [A7] [Dm] (x2)
 
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
+## Verso 1
+[Gm] Qué importa saber quién [Dm] soy,
+Ni de [A7] dónde vengo ni por dónde [Dm] voy,
+[D7] Lo que yo quiero son tus [Gm] lindos ojos,
+Mo[C7]rena, tan llenos de a[F]mor.
+[A#] El sol brilla en lo infi[A7]nito,
+Y el [A#] mundo tan peque[A7]ñito,
+[Gm] Qué importa saber quién [Dm] soy,
+Ni de [A#] dónde [A] vengo ni por dónde [Dm] voy.
 
-[D7] [Gm] [C7] [F]
-Lo que yo quiero son tus lindos ojos, morena, tan llenos de amor
+## Puente
+[Gm] Tú me desprecias por [A7] ser vaga[Dm]bundo,
+Y mi des[A7]tino es vivir a[Dm]sí.
+Si [C] vagabundo es el [A#] propio [A7] mundo,
+Que va girando en un cielo azul.
 
-[A#] [A7] [A#] [A7]
-El sol brilla en lo infinito, y el mundo tan pequeñito
+## Verso 2
+[Gm] Qué importa saber quién [Dm] soy,
+Ni de [A7] dónde vengo ni por dónde [Dm] voy,
+[D7] Lo que yo quiero son tus [Gm] lindos ojos,
+Mo[C7]rena, tan llenos de a[F]mor.
+[A#] El sol brilla en lo infi[A7]nito,
+Y el [A#] mundo tan peque[A7]ñito,
+[Gm] Qué importa saber quién [Dm] soy,
+Ni de [A#] dónde [A] vengo ni por dónde [Dm] voy.
 
-[Gm] [Dm] [A#] [A] [Dm]
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
+[Gm] Solo quiero que me [Dm] des tu amor,
+Que me [A7] da la vida, que me da ca[Dm]lor.
 
-[Gm] [Dm] [A7] [Dm] (2) [Dm] [Gm] [Dm] [A7] [Dm]
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
+## Solo
+[Gm] [Dm] [A7] [Dm] (x2)
 
-[D7] [Gm] [C7] [F]
-Lo que yo quiero son tus lindos ojos, morena, tan llenos de amor
+## Puente
+[Gm] Tú me desprecias por [A7] ser vaga[Dm]bundo,
+Y mi des[A7]tino es vivir a[Dm]sí.
+Si [C] vagabundo es el [A#] propio [A7] mundo,
+Que va girando en un cielo azul.
 
-[A#] [A7] [A#] [A7]
-El sol brilla en lo infinito, y el mundo tan pequeñito
-
-[Gm] [Dm] [A#] [A] [Dm]
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
-
-[Gm] [A7] [Dm] [A7]-[Dm]
-Tú me desprecias por ser vagabundo, y mi destino es vivir así.
-
-[C] [A#] [A7]
-Si vagabundo es el propio mundo, que va girando en un cielo azul.
-
-[Gm] [Dm] [A7] [Dm]
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
-
-Solo quiero que me des tu amor, que me da la vida, que me da calor
-
-[Gm] [Dm] [A7] [Dm]
-[Gm] [Dm] [A7] [Dm] (2) [Gm] [A7] [Dm] [A7]-[Dm]
-[Instr:]
-Tú me desprecias por ser vagabundo, y mi destino es vivir así.
-
-Si vagabundo es el propio mundo, que va girando en un cielo azul.
-
-[C] [A#] [A7]
-[Gm] [Dm] [A7] [Dm]
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
-
-Solo quiero que me des tu amor, que me da la vida, que me da calor
-
-[Gm] [Dm] [A7] [Dm]
-[Gm] [Dm] [A7] [Dm]
-Qué importa saber quién soy, ni de dónde vengo ni por dónde voy
+## Outro
+[Gm] Qué importa saber quién [Dm] soy,
+Ni de [A7] dónde vengo ni por dónde [Dm] voy,
+[Gm] Solo quiero que me [Dm] des tu amor,
+Que me [A7] da la vida, que me da ca[Dm]lor.
+[Gm] Qué importa saber quién [Dm] soy,
+Ni de [A7] dónde vengo ni por dónde [Dm] voy.

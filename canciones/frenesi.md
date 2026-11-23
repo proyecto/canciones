@@ -7,67 +7,51 @@ tempo: 100
 tags: ["bolero", "chachachá", "clásico"]
 ---
 
+## Intro
+[G] [Em] [Am] [Dmaj7] (x2)
+
 ## Verso 1
-(A. Domínguez Borrás ‘39)
+[G] Bésame [Em] tú a [Am] mí,
+[Dmaj7] Bésame i[G]gual que mi [Em] boca te be[Am]só, [Dmaj7]
+[G] Dame el frene[Em]sí [Am]
+[D] Que mi lo[G]cura te [C#m] dio. [F#]
 
-[INTRO:]
-[G]-[Em]-[Am]-[Dmaj7] ([x2])
-Ritmo Bolero
-[G] [Em—Lam]
-Bésame tú a mí
+## Verso 2
+[B] ¿Quién si no [G#m] fui [C#m] yo
+[F#] Pudo ense[B]ñarte el ca[G#m]mino [C#m] del a[F#]mor?
+[B] Muerta mi alti[G#m]vez, [C#m]
+Cuando mi or[F#]gullo ro[B]dó a tus pies. [Dmaj7]
 
-[Dmaj7] [G] [Em]-[Am]-[Dmaj7]
-Bésame igual que mi boca te besó
+## Coro
+[Am] Quiero que [Dmaj7] vivas solo para [Am] mí, [Dmaj7]
+Y que tú [Am] vayas por [Dmaj7] donde yo voy,
+[Am] Para que mi [Dmaj7] alma sea nomás de [G] ti,
+[Bm] [A#m] [Am] Bésame con frene[Dmaj7]sí. [G]
 
-[G] [Em—Lam] [IMPORTANTE] [CAMBIO] [DE] [TONO]
-Dame el frenesí
+## Verso 3
+[Am] Dame la [Dmaj7] luz que tiene tu mi[Am]rar [Dmaj7]
+Y la ansie[Am]dad que entre tus [Dmaj7] labios vi,
+[Am] Esa lo[Dmaj7]cura de vivir y a[G]mar,
+[Bm] [A#m] [Am] Que es más que a[Dmaj7]mor, frene[G]sí.
 
-[D] [G] [C#m—Fa#M]
-Que mi locura te dio
+## Puente
+[Bmaj7] Hay en el beso que te [C] di: alma, pie[Bmaj7]dad, corazón.
+[C] Dime qué sabes tú sen[Bmaj7]tir, [C] lo mismo que [Amaj7] siento [Dmaj7] yo.
 
-[B] [G#m—Do#m]
-Quién si no fui yo
+## Coro
+[Am] Quiero que [Dmaj7] vivas solo para [Am] mí, [Dmaj7]
+Y que tú [Am] vayas por [Dmaj7] donde yo voy,
+[Am] Para que mi [Dmaj7] alma sea nomás de [G] ti,
+[Bm] [A#m] [Am] Bésame con frene[Dmaj7]sí. [G]
 
-[F#] [B] [G#m—Do#m—Fa#M]
-Pudo enseñarte el camino del amor
+## Puente
+[Bmaj7] Hay en el beso que te [C] di: alma, pie[Bmaj7]dad, corazón.
+[C] Dime qué sabes tú sen[Bmaj7]tir, [C] lo mismo que [Amaj7] siento [Dmaj7] yo.
 
-Muerta mi altivez
-
-[B] [G#m—Do#m]
-Cuando mi orgullo rodó a tus pies
-
-[F#] [B] [D7M]
-(Ritmo chachachá) [Am] [D7M]
-(piano) Quiero que vivas solo para mí
-
-[Am] [D7M] [Am] [D7M]
-Y que tú vayas por donde yo voy
-
-[Am] [D7M] [G] [Bm—La#m—Lam]
-Para que mi alma sea nomás de ti
-
-[D7M] [G]
-Bésame con frenesí
-(piano) Dame la luz que tiene tu mirar,
-Y la ansiedad que entre tus labios vi,
-Esa locura de vivir y amar, que es más que amor, frenesí
-
-[Bmaj7] [C] [Bmaj7]
-Hay en el beso que te di, alma, piedad, corazón
-
-[C] [Bmaj7] [C] [Amaj7] [Dmaj7]
-Dime qué sabes tú sentir, lo mismo que siento yo
-
-[Am] [D7M] (4) [G] [Bm]-[A#m]-[Am] [D7M] [G] (BIS) [Bmaj7] [C] [Bmaj7]
-Hay en el beso que te di, alma, piedad, corazón
-
-[C] [Bmaj7] [C] [Amaj7] [Dmaj7]
-Dime qué sabes tú sentir, lo mismo que siento yo
-Quiero que vivas solo para mí, y que tú vayas por donde yo voy Para que mi alma sea nomás de ti, Bésame con frenesí , Bésame con frenesí
-
-[C#m]
-[F#]
-[B]
-Bésame con frenesí
-
-[G#m]
+## Outro
+[Am] Quiero que [Dmaj7] vivas solo para [Am] mí,
+Y que tú [Dmaj7] vayas por donde yo voy,
+[Am] Para que mi [Dmaj7] alma sea nomás de [G] ti,
+Bésame con frene[Dmaj7]sí,
+Bésame con frene[G]sí.
+[C#m] [F#] Bésame con frene[B]sí. [G#m]

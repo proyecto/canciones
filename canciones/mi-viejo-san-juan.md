@@ -8,39 +8,25 @@ tags: ["bolero", "puerto rico", "clásico"]
 ---
 
 ## Intro
-[E]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E] (bis) [E] [B7]
+[E] [A] [B7] [E] [C#m] [F#m] [B7] [E] [B7]
 
-En mi viejo San Juan cuantos sueños forjé en mis años de infancia,
+En mi [E] viejo San Juan cuántos sueños for[B7]jé en mis años de infancia,
+Mi primera ilusión y mis cuitas de a[E]mor son recuerdos del alma.
+Una [E7] tarde partí hacia extraña na[A]ción pues lo quiso el des[Am]tino,
+Pero mi cora[E]zón se que[C#m]dó junto al [F#m] mar, en mi [B7] viejo San [E] Juan.
 
-Mi primera ilusión y mis cuitas de amor son recuerdos del alma.
+A[B7]diós, (adiós, a[E]diós)
+Boriquen que[B7]rido, (la tierra del a[E]mor)
+A[B7]diós, (adiós, a[E]diós)
+Mi diosa del [B7] mar. (la reina del pal[E]mar)
 
-[E]
-[E] [E7] [A] [Am]
-Una tarde partí hacia extraña nación pues lo quiso el destino,
+Me [E7] voy, (yo ya me [A] voy)
+Pero un [Am] día volveré, a bus[E]car mi que[C#m]rer,
+A so[F#m]ñar otra [B7] vez en mi viejo San [E] Juan.
 
-[E] [C#m] [F#m] [B7] [E]
-Pero mi corazón se quedó junto al mar, en mi viejo San Juan.
+[E] [A] [B7] [E] [C#m] [F#m] [B7] [E] [B7]
 
-[B7] [E](2)
-Adiós, (adiós, adiós)
-Boriquen querido, (la tierra del amor)
-Adiós, (adiós, adiós)
-Mi diosa del mar. (la reina del palmar)
-
-[E7] [A] [Am] [E] [C#m] -[F#m] -[B7]-[E]
-Me voy, (yo ya me voy)
-Pero un día volveré, a buscar mi querer,
-A soñar otra vez en mi viejo San Juan.
-
-[E]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E] (bis) [E] [B7]
-Pero el tiempo pasó y el destino burló mi terrible nostalgia,
-
-[E]
-Y no pude volver al San Juan que yo amé, pedacito de patria.
-
-[E] [E7] [A] [Am]
-Mi cabello blanqueó, ya mi vida se va, ya la muerte me llama,
-
-Y no quiero morir alejado de ti, Puerto Rico del alma.
-
-[E] [C#m] [F#m] [B7] [E]
+Pero el [E] tiempo pasó y el destino bur[B7]ló mi terrible nostalgia,
+Y no pude vol[B7]ver al San Juan que yo a[E]mé, pedacito de [E] patria.
+Mi ca[E7]bello blanqueó, ya mi vida se [A] va, ya la muerte me [Am] llama,
+Y no quiero mo[E]rir ale[C#m]jado de [F#m] ti, Puerto [B7] Rico del [E] alma.

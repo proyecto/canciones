@@ -10,62 +10,40 @@ tags: ["rock", "español", "2000s"]
 ## Intro
 [Em7] [D] [Em7] [D] [Em7]
 
-Ahora sí, parece que ya empiezo a entender las cosas importantes aquí
+[Em7] Ahora sí, parece que ya empiezo a entender
+Las cosas importantes a[D]quí
+[Em7] Son las que están detrás de la [D] piel,
+Y [Em7] todo lo demás em[D]pieza donde a[Am7]caban mis [Em7] pies.
+Des[D]pués de mucho [Am7] tiempo apren[Em7]dí,
+Que hay [D] cosas que me[Am7]jor no apren[Em7]der.
 
-[D]
-[Em7] [D]
-Son las que están detrás de la piel,
+El co[Am]legio poco me ense[G]ñó, [D]
+Si es por [C] esos libros, [G] nunca apren[D]do:
 
-[Em7] [D] [Am7] [Em7]
-Y todo lo demás empieza donde acaban mis pies.
+A co[Em]ger el cielo [D] con las [C] manos,
+A re[Em]ír y a llo[D]rar lo que te [C] canto,
+A co[Em]ser mi [D] alma [C] rota,
+A per[Em]der el [D] miedo a que[C]dar como un idiota
+Y a empe[Em]zar la [C] casa por el te[G]jado, [D]
+A po[Em]der dor[C]mir cuando tú no es[G]tás a mi [D] lado,
+Menos [Em] mal que [C] fui un poco gra[G]nuja, [D]
+Todo lo que [Em] sé me lo ense[C]ñó una [G] bruja [D]
 
-[D] [Am7] [Em7] [D] [Am7] [Em7]
-Después de mucho tiempo aprendí, que hay cosas que mejor no aprender.
+[Em7] Ruinas, ¿no [D] ves que por [Am7] dentro estoy en [Em7] ruinas?
+Mi ci[D]garro va que[Am7]mando el [Em7] tiempo,
+Tiempo que se con[D]virtió en ce[Am7]nizas [Em7]
+Raro, ¡no digo diferente digo raro!
+[D] Ya no sé si el [Am7] mundo está al re[Em7]vés
+O [D] soy yo el que es[Am7]tá cabeza a[Em7]bajo [D]
 
-[Am] [G] [D] [C] [G] [D]
-El colegio poco me enseñó, si es por esos libros, nunca aprendo:
+El co[Am]legio poco me ense[G]ñó, [D]
+Si es por [C] el maestro, [G] nunca apren[D]do:
 
-[Em] [D] [C] [Em] [D] [C]
--A coger el cielo con las manos, a reír y a llorar lo que te canto,
-
-[Em] [D] [C] [Em] [D] [C]
-A coser mi alma rota, a perder el miedo, a quedar como un idiota
-
-[Em] [C] [G] [D]
--Y a empezar la casa por el tejado
-
-[Em] [C] [G] [D]
-A poder dormir cuando tú no estás a mi lado,
-
-[Em] [C] [G] [D] [Em] [C] [G] [D]
-Menos mal que fui un poco granuja, todo lo que sé me lo enseñó una bruja
-
-[Em7] [D] [Am7] [Em7]
-Ruinas ¿no ves que por dentro estoy en ruinas?
-
-[D] [Am7] [Em7] [D] [Am7] [Em7]
-Mi cigarro va quemando el tiempo, tiempo que se convirtió en cenizas
-
--Raro, ¡no digo diferente digo raro
-
-[D] [Am7] [Em7]
-[D] [Am7] [Em7] [D] [Am7] [Em7] -[D]
-Ya, no sé si el mundo está al revés o soy yo el que está cabeza abajo.
-
-[Am] [G] [D] [C] [G] [D]
-El colegio poco me enseñó, si es por el maestro, nunca aprendo:
-
-[Em] [D] [C] [Em] [D] [C]
--A coger el cielo con las manos, a reír y a llorar lo que te canto,
-
-[Em] [D] [C] [Em] [D] [C]
-A coser mi alma rota, a perder el miedo, a quedar como un idiota
-
-[Em] [C] [G] [D]
--Y a empezar la casa por el tejado
-
-[Em] [C] [G] [D]
-A poder dormir cuando tú no estás a mi lado,
-
-[Em] [C] [G] [D] [Em] [C] [G] [D]
-Menos mal que fui un poco granuja, todo lo que sé me lo enseñó una bruja
+A co[Em]ger el cielo [D] con las [C] manos,
+A re[Em]ír y a llo[D]rar lo que te [C] canto,
+A co[Em]ser mi [D] alma [C] rota,
+A per[Em]der el [D] miedo a que[C]dar como un idiota
+Y a empe[Em]zar la [C] casa por el te[G]jado, [D]
+A po[Em]der dor[C]mir cuando tú no es[G]tás a mi [D] lado,
+Menos [Em] mal que [C] fui un poco gra[G]nuja, [D]
+Todo lo que [Em] sé me lo ense[C]ñó una [G] bruja [D]

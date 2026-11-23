@@ -8,22 +8,22 @@ tags: ["rumba", "español", "sevillana"]
 ---
 
 ## Verso 1
-Te estoy queriendo tanto que, no sé querer a nadie más
-Te estoy queriendo tanto que, no sé vivir si tú no estás
-las noches y los días son, para quererte más y más
-Te estoy queriendo tanto que, te estoy acostumbrando mal
+[Am] [Dm] [G7] [C] [F] [E7] [Am]
 
-[Am] [Dm] [G7] [C]/ [F] [E7] [Am]
-[Am] [Dm] [G7] [C]/ [F] [E7] [Am]
-Te estoy queriendo tanto que, no puedo ya vivir sin ti
-Te estoy queriendo tanto que, yo soy feliz si eres feliz
-¿Qué pasará ese día en que no sientas lo que sientes hoy
-Qué pasará ese día en que no pueda darte lo que hoy te doy
+[Am] Te estoy queriendo tanto que, no [Dm] sé querer a nadie más
+[G7] Te estoy queriendo tanto que, no [C] sé vivir si tú no estás
+[F] Las noches y los días son, para [E7] quererte más y más
+Te estoy queriendo tanto que, te estoy acostum[Am]brando mal.
 
-Y es que el amor no puede estar por siempre a nuestro lado
-Y es que el amor cambia su curso de año en año
-Y es que el amor viene y se va como las golondrinas
-Y hay que darle de beber, amor en cada esquina amor En cada esquina amor, en cada esquina.
-(bis)
+[Am] Te estoy queriendo tanto que, no [Dm] puedo ya vivir sin ti
+[G7] Te estoy queriendo tanto que, yo [C] soy feliz si eres feliz
+[F] ¿Qué pasará ese día en que no [E7] sientas lo que sientes hoy
+¿Qué pasará ese día en que no pueda darte lo que [Am] hoy te doy?
 
-[Am] [A7] [Dm]/ [G7] [C] / [F] [E7] [Am] (2) [E7] [Am]
+[Am] Y es que el a[A7]mor no puede es[Dm]tar por siempre a nuestro lado
+[G7] Y es que el amor cambia su [C] curso de año en año
+[F] Y es que el amor viene y se [E7] va como las golondrinas
+Y hay que darle de beber, amor en cada es[Am]quina,
+Amor en cada esquina, [E7] amor en cada es[Am]quina. (bis)
+
+[Am] [A7] [Dm] [G7] [C] [F] [E7] [Am]

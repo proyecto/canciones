@@ -8,55 +8,46 @@ tags: ["pop", "nochevieja", "clásico"]
 ---
 
 ## Intro
-[C] [G]/ [Am] [G] [F]/ [C] [Dm] -[G] (2)
+[C] [G] / [Am] [G] [F] / [C] [Dm] [G] (2)
 
--En la puerta del sol, como el año que fue
-Otra vez el champán y las uvas y el alquitrán,
-De alfombra están
--Los petardos que borran sonidos de ayer
-Y acaloran el ánimo para aceptar
-Que ya pasó uno más.
+- [C] En la puerta del [G] sol, como el año que fue
+[Am] Otra vez el cham[G]pán y las [F] uvas y el alquitrán,
+De al[C]fombra es[Dm]tán [G]
+- [C] Los petardos que [G] borran sonidos de ayer
+[Am] Y acaloran el [G] ánimo [F] para aceptar
+Que ya pa[C]só uno [Dm] más. [G]
 
-[E] [F] [G]/ [C] [F] [G] [C] (2)
-Y en el reloj de antaño como de año en año,
-Cinco minutos más de la cuenta atrás
-Hacemos el balance de lo bueno y malo,
-Cinco minutos antes de la cuenta atrás
+Y en el re[E]loj de an[F]taño como de [G] año en año,
+Cinco mi[C]nutos [F] más de la [G] cuenta a[C]trás
+Hacemos el ba[E]lance de lo [F] bueno y [G] malo,
+Cinco mi[C]nutos [F] antes de la [G] cuenta a[C]trás
 
-.
+- [C] Marineros, sol[G]dados, solteros, casados,
+A[Am]mantes, an[G]dantes [F]
+Y alguno que otro cura despis[C]tao [Dm] [G]
+- [C] Entre gritos y [G] pitos los españo[G]litos,
+E[Am]normes, ba[G]jitos, ha[F]cemos por una vez,
+Algo a la [C] vez. [Dm] [G]
 
-[C] [G]/ [Am] [G] [F]/ [C] [Dm] -[G] (2)
-- Marineros, soldados, solteros, casados,
-Amantes, andantes
-Y alguno que otro cura despistao
--Entre gritos y pitos los españolitos,
-Enormes, bajitos, hacemos por una vez,
-Algo a la vez.
+Y en el re[E]loj de an[F]taño como de [G] año en año,
+Cinco mi[C]nutos [F] más de la [G] cuenta a[C]trás
+Hacemos el ba[E]lance de lo [F] bueno y [G] malo,
+Cinco mi[C]nutos [F] antes de la [G] cuenta a[C]trás
 
-[E] [F] [G]/ [C] [F] [G] [C] (2)
-Y en el reloj de antaño como de año en año,
-Cinco minutos más de la cuenta atrás
-Hacemos el balance de lo bueno y malo,
-Cinco minutos antes de la cuenta atrás
+Y [E] aunque para las [F] uvas hay al[G]gunos nuevos
+A los [C] que ya no es[F]tán echare[G]mos de me[C]nos
+Y a [E] ver si espabi[F]lamos los que es[G]tamos vivos
+Y en el [C] año que [F] viene nos [G] reí[C]mos.
 
-.
+[C] Uno, dos, tres y [G] cuatro y empieza otra vez,
+Que en la [Am] 5ª es la [G] una y la [F] 6ª es la dos y así
+El [C] siete es [Dm] tres. [G]
+- [C] Y decimos a[G]diós y pedimos a Dios
+Que en el [Am] año que [G] viene a [F] ver si en vez
+De un mi[C]llón pueden [Dm] ser [G] dos
 
-[E] [F] [G]/ [C] [F] [G] [C] (2)
-Y aunque para las uvas hay algunos nuevos
-A los que ya no están echaremos de menos
-Y a ver si espabilamos los que estamos vivos
-Y en el año que viene nos reímos.
+[C] En la puerta del [G] sol, como el año que fue
+[Am] Otra vez el cham[G]pán y las [F] uvas y el alquitrán,
+De al[C]fombra es[Dm]tán… [G]
 
-[C] [G]/ [Am] [G] [F]/ [C] [Dm] -[G] (2)
-Uno, dos, tres y cuatro y empieza otra vez,
-Que en la 5ª es la una y la 6ª es la dos y así
-El siete es tres.
--Y decimos adiós y pedimos a Dios
-Que en el año que viene a ver si en vez
-De un millón pueden ser dos
-
-En la puerta del sol, como el año que fue
-Otra vez el champán y las uvas y el alquitrán,
-De alfombra están…
-
-[C] [G]/ [Am] [G] [F]/ [C] [Dm] -[G]
+[C] [G] / [Am] [G] [F] / [C] [Dm] [G]

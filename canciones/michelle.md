@@ -8,30 +8,32 @@ tags: ["rock", "balada", "60s", "classic", "inglés"]
 ---
 
 ## Intro
-[E] [Am7] [D] / [Dbdim] [B7](2)
+[E] [Am7] [D] [Dbdim] [B7]
 
 ## Verso 1
-Michelle, ma belle, these are words that go together well (ooh), my Michelle
-Michelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble
+[E] Michelle, [Am7] ma belle,
+[D] These are words that [Dbdim] go together [B7] well, my Mi[E]chelle.
+[E] Michelle, [Am7] ma belle,
+[D] Sont des mots qui [Dbdim] vont très bien en[B7]semble, très bien en[E]semble.
 
-[Em]_ [G] [C] /[B7]-[Em]-[Am] /[Em]-[G]+-[Em7]-[Em6]-[Am] [B7]
-I love you, I love you, I love you (Ooh, ooh) that's all I want to say
-(Ooh) until I find a way
-I will say the only words I know that you'll understand
+[Em] I love you, I love you, [G] I love [C] you, [B7] that's all I want to [Em] say [Am]
+Until I [Em] find a [G] way [Em7] [Em6]
+I will [Am] say the only words I know that [B7] you'll understand.
 
-Michelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble
+[E] Michelle, [Am7] ma belle,
+[D] Sont des mots qui [Dbdim] vont très bien en[B7]semble, très bien en[E]semble.
 
-[Em]_ [G] [C] /[B7]-[Em]-[Am] /[Em]-[G]+-[Em7]-[Em6]-[Am] [B7]
-I need to, I need to, I need to, I need to make you see (ooh)
-Oh, what you mean to me (ooh, ooh)
-Until I do, I'm hoping you will know what I mean, I love you (ooh, ooh)
+[Em] I need to, I need to, [G] I need [C] to, [B7] I need to make you [Em] see [Am]
+Oh, what you [Em] mean to [G] me [Em7] [Em6]
+Until I [Am] do, I'm hoping you will know what I [B7] mean, I love you.
 
-Michelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble
+[E] Michelle, [Am7] ma belle,
+[D] Sont des mots qui [Dbdim] vont très bien en[B7]semble, très bien en[E]semble.
 
-I want you, I want you, I want you (ooh, ooh) I think you know by now
-I'll get to you somehow
-Until I do, I'm telling you, so you'll understand
+[Em] I want you, I want you, [G] I want [C] you, [B7] I think you know by [Em] now [Am]
+I'll get to [Em] you some[G]how [Em7] [Em6]
+Until I [Am] do, I'm telling you, so you'll under[B7]stand.
 
-Michelle, ma belle, sont des mots qui vont très bien ensemble, très bien ensemble
-
-And I will say the only words I know that you'll understand, my Michelle (hmm)
+[E] Michelle, [Am7] ma belle,
+[D] Sont des mots qui [Dbdim] vont très bien en[B7]semble, très bien en[E]semble.
+And I will [Am] say the only words I know that [B7] you'll understand, my Mi[E]chelle.

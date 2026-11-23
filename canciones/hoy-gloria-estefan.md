@@ -8,76 +8,33 @@ tags: ["pop latino", "andino", "balada"]
 ---
 
 ## Intro
-[Am] [C] [G] [Am] ([x3]) [Am] [E] [Am] ([×4])
+[Am] [C] [G] [Am]
+[Am] [E] [Am]
 
-Intro:
+[Am] Tengo marcado en el [G] pecho todos los [F] días que el [G] tiempo no me de[C]jó estar a[E7]quí (estar aquí)
+[Am] Tengo una fe que ma[G]dura, que va con[F]migo y me cura desde que [E] te cono[Am]cí
+[Am] Tengo una huella per[G]dida entre tu [F] sombra y la [G] mía que no me [C] deja men[E7]tir: (no me deja mentir)
+[Am] Soy una moneda en la [G] fuente, tú, mi de[F]seo pendiente, mis ganas [E] de revi[Am]vir:
 
-[Am] [G]
-[F] [G] [C] -[E7]
-Tengo marcado en el pecho todos los días que el tiempo no me dejó estar aquí (estar aquí)
+[F] Tengo una mañana cons[G]tante y una acua[C]rela esperando verte pin[E]tado de a[Am]zul.
+[F] Tengo tu amor y tu [G] suerte, y un cami[C]nito empinado.
+Tengo el [E7] mar del otro lado, tú eres mi [Am] norte y mi sur.
 
-[E] [Am]
-[Am] [G] [F]
-Tengo una fe que madura, que va conmigo y me cura desde que te conocí
+[F] Hoy voy a [G] verte de [C] nuevo, voy a envol[E7]verme en tu [Am] ropa.
+[F] Susúrrame en tu si[G]lencio, [C] cuando me [E7] veas lle[Am]gar
+[F] Hoy voy a [G] verte de [C] nuevo, voy a ale[E7]grar tu tris[Am]teza.
+[F] Vamos a ha[G]cer una [C] fiesta, pa que este a[E7]mor crezca [Am] más
 
-[Am] [G] [F] [G] [C]-[E7]
-Tengo una huella perdida entre tu sombra y la mía que no me deja mentir: (no me deja mentir)
+[Am] Tengo una frase col[G]gada, entre mi [F] boca y mi al[G]mohada que me des[C]nuda ante [E7] ti.
+[Am] Tengo una playa y un [G] pueblo que me acom[F]pañan de noche cuando no es[E7]tás junto a [Am] mí.
 
-[Am] [G] [F] [E] [Am]
-Soy una moneda en la fuente, tú, mi deseo pendiente, mis ganas de revivir:
+[F] Tengo una mañana cons[G]tante y una acua[C]rela esperando verte pin[E]tado de a[Am]zul.
+[F] Tengo tu amor y tu [G] suerte, y un cami[C]nito empinado.
+Tengo el [E7] mar del otro lado, tú eres mi [Am] norte y mi sur.
 
-[F] [G] [C]
-Tengo una mañana constante y una acuarela esperando verte pintado de azul.
-
-[E] [Am]
-[F] [G]
-[C]
-Tengo tu amor y tu suerte, y un caminito empinado.
-
-[E7] [Am]
-Tengo el mar del otro lado, tú eres mi norte y mi sur.
-
-Hoy voy a verte de nuevo, voy a envolverme en tu ropa.
-
-[F] [G] [C]
-[E7] [Am]
-Susúrrame en tu silencio, cuando me veas llegar
-
-[F] [G] [C]
-Hoy voy a verte de nuevo, voy a alegrar tu tristeza.
-
-[Am] [E] [Am] ([×4])
-[E7] [Am]
-Vamos a hacer una fiesta, pa que este amor crezca más
-
-[F] [G] [C] -[E7]
-Tengo una frase colgada, entre mi boca y mi almohada que me desnuda ante ti.
-
-[Am] [G]
-[Am] [G] [F]
-[E7] [Am]
-Tengo una playa y un pueblo que me acompañan de noche cuando no estás junto a mí.
-
-Tengo una mañana constante y una acuarela esperando verte pintado de azul.
-
-[F] [G] [C]
-[E] [Am]
-[F] [G] [C]
-Tengo tu amor y tu suerte, y un caminito empinado.
-
-Tengo el mar del otro lado, tú eres mi norte y mi sur.
-
-[E7] [Am]
-Hoy voy a verte de nuevo, voy a envolverme en tu ropa.
-
-[F] [G] [C]
-Susúrrame en tu silencio, cuando me veas llegar
-
-[E7] [Am]
+[F] Hoy voy a [G] verte de [C] nuevo, voy a envol[E7]verme en tu [Am] ropa.
+[F] Susúrrame en tu si[G]lencio, [C] cuando me [E7] veas lle[Am]gar
 > (1ª vez A capela)
-[F] [G] [C]
-Hoy voy a verte de nuevo, voy a alegrar tu tristeza.
-
-Vamos a hacer una fiesta, pa que este amor crezca más. (BIS)
-
+[F] Hoy voy a [G] verte de [C] nuevo, voy a ale[E7]grar tu tris[Am]teza.
+[F] Vamos a ha[G]cer una [C] fiesta, pa que este a[E7]mor crezca [Am] más. (BIS)
 [E7] [Am]

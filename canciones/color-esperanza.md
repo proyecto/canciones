@@ -8,85 +8,42 @@ tags: ["pop latino", "himno", "esperanza"]
 ---
 
 ## Intro
-[E] [GM#7] [C#m]
+[E] Saber que se [G#m7] puede, querer que se [C#m] pueda
+[A] Quitarse los miedos, [B7] sacarlos afuera
+[E] Pintarse la [G#m7] cara, color espe[C#m7]ranza, tentar al fu[A]turo, con el cora[B7]zón
 
-Saber que se puede, querer que se pueda
+[E] Sé qué hay en tus [G#m7] ojos con solo mirar, [C#m7] que estás cansado de an[Bm]dar y de an[E7]dar
+Y cami[Amaj7]nar, [E] girando [F#m] siempre en un lu[B7]gar.
 
-[A] [B7]
-Quitarse los miedos, sacarlos afuera
+[E] Sé que las ven[G#m7]tanas se pueden abrir, [C#m7] cambiar el [Bm] aire de[E7]pende de [Amaj7] ti
+Te ayuda[E]rá, [F#m] vale la pena una [B7] vez más
 
-[E] [GM#7] [C#m7] [A] [B7]
-Pintarse la cara, color esperanza, tentar al futuro, con el corazón
+[E] Saber que se [G#m7] puede, querer que se [C#m7] pueda
+[A] Quitarse los miedos, [B7] sacarlos afuera
+[E] Pintarse la [G#m7] cara, color espe[C#m7]ranza, tentar al fu[A]turo, con el cora[B7]zón
 
-[E] [GM#7] [C#m7] [Bm] [E7] [Amaj7]
-Sé qué hay en tus ojos con solo mirar, que estás cansado de andar y de andar
+[E] Es mejor per[G#m7]derse que nunca embarcar, [C#m7] mejor tentarse a de[Bm]jar de inten[E7]tar
+Aunque ya [Amaj7] ves, [E] que no es tan [F#m] fácil empe[B7]zar
 
-[E]
-[Fm#] [B7]
-Y caminar, girando siempre en un lugar.
+[E] Sé que lo impo[G#m7]sible se puede lograr, [C#m7] que la tristeza al[Bm]gún día se i[E7]rá
+Y así se[Amaj7]rá, [E] la vida [F#m] cambia y cambia[B7]rá
 
-[E] [GM#7] [C#m7] [Bm] [E7] [Amaj7]
--Sé que las ventanas se pueden abrir, cambiar el aire depende de ti
+[A] Sentirás, [E] que el alma vuela, [F#m] por cantar una [B7] vez más
 
-[E]
-[Fm#] [B7]
-Te ayudará, vale la pena una vez más
+[E] Saber que se [G#m7] puede, querer que se [C#m7] pueda
+[A] Quitarse los miedos, [B7] sacarlos afuera
+[E] Pintarse la [G#m7] cara, color espe[C#m7]ranza, tentar al fu[A]turo, con el cora[B7]zón
 
-[E] [GM#7] [C#m7]
-Saber que se puede, querer que se pueda
+[F#m] Vale más, po[B7]der brillar, [D7] [A] que solo buscar [E] ver el sol
 
-[A] [B7]
-Quitarse los miedos, sacarlos afuera
+[G] Pintarse la [B7] cara, color espe[Em]ranza, [C] tentar al fu[D]turo, con el cora[G]zón
+Pintarse la [B7] cara, color espe[Em]ranza, [C] tentar al fu[A7]turo, con el cora[D]zón [D7]
 
-[E] [GM#7] [C#m7] [A] [B7]
-Pintarse la cara, color esperanza, tentar al futuro, con el corazón
+[G] Saber que se [B7] puede, querer que se [Em] pueda
+[C] Quitarse los miedos, [D] sacarlos afuera
+[G] Pintarse la [B7] cara, color espe[Em]ranza, tentar al fu[C]turo, con el cora[D]zón [D7]
 
-[E] [GM#7] [C#m7] [Bm] [E7] [Amaj7]
-Es mejor perderse que nunca embarcar, mejor tentarse a dejar de intentar
+[G] Saber [B7] que se pueee[Em]deeee, [C] querer [A7] que se pue[D]da
+[C] Saber que se pueeeee[E7]deeee, querer que se pueeee[Am]da
 
-Aunque ya ves, que no es tan fácil empezar
-
-[Fm#] [B7]
-[E]
-[E] [GM#7] [C#m7] [Bm] [E7] [Amaj7]
--Sé que lo imposible se puede lograr, que la tristeza algún día se irá
-
-[E]
-[Fm#] [B7]
-Y así será, la vida cambia y cambiará
-
-[A] [E]
-[Fm#] [B7]
-Sentirás, que el alma vuela, por cantar una vez más
-
-[E] [GM#7] [C#m7]
-Saber que se puede, querer que se pueda
-
-[A] [B7]
-Quitarse los miedos, sacarlos afuera
-
-[E] [GM#7] [C#m7] [A] [B7]
-Pintarse la cara, color esperanza, tentar al futuro, con el corazón
-
-[Fm#] [B7]-[D7]
-[A] [E]
-Vale más, poder brillar, que solo buscar ver el sol
-
-[G] [B7] [Em]_[C] [D] [G] [B7] [Em] [C] [A7] [D] [D7]
-Pintarse la cara, color esperanza, tentar al futuro, con el corazón
-
-[G] [B7] [Em]
-Saber que se puede, querer que se pueda
-
-[C] [D]
-Quitarse los miedos, sacarlos afuera
-
-[G] [B7] [Em] [C] [D] [D7]
-Pintarse la cara, color esperanza, tentar al futuro, con el corazón
-
-[G]-[B7]-[Em] [C]-[A7]-[D]
-[C] [E7] [Am]
-Saber que se pueeeeeedeeee, querer que se pueeeeeda
-
-[G] [B7] [Em] [C] [D] [D7]
-Pintarse la cara, color esperanza, tentar al futuro, con el corazón
+[G] Pintarse la [B7] cara, color espe[Em]ranza, tentar al fu[C]turo, con el cora[D]zón [D7]

@@ -12,49 +12,41 @@ tags: ["pop", "80s", "español"]
 
 Uh, uh, uh (2)
 
-[Em] [D]/ [C] [D](2) [Em] -[C]-[D] (2)
-- La cola de esta noche no tiene final,
-Dos horas confiando que no colgarán
-Dichoso cartelito de completo está el local
-- Logré cruzar la puerta diez duritos van,
-No me ponga delante, ni tampoco detrás,
-Eterno en la pantalla está el “visite nuestro bar”
+[Em] La cola de esta [D] noche no tiene final,
+[C] Dos horas con[D]fiando que no colgarán
+[Em] Dichoso cartelito de com[C]pleto está el lo[D]cal
+[Em] Logré cruzar la [D] puerta diez duritos van,
+[C] No me ponga de[D]lante, ni tampoco detrás,
+[Em] Eterno en la pantalla está el “vi[C]site nuestro [D] bar”
 
-[Em] [D]/ [C] [D](2) [Em] -[C]-[D] (2)
-- Las luces se apagaron, esto va a empezar,
-La chica de la antorcha ya ocupó su lugar,
-Preludio de que algo emocionante va a pasar.
-- Sobre la foto fija de una gran ciudad
-Los nombres y apellidos de los que serán,
-Actores, directores, productores y demás.
+[Em] Las luces se apa[D]garon, esto va a empezar,
+[C] La chica de la an[D]torcha ya ocupó su lugar,
+[Em] Preludio de que algo emo[C]cionante va a pa[D]sar.
+[Em] Sobre la foto [D] fija de una gran ciudad
+[C] Los nombres y ape[D]llidos de los que serán,
+[Em] Actores, directores, pro[C]ductores y de[D]más.
 
-[Em] [D] [C] [G] [Am] [C] (2)
--El ruido de las fábricas al despertar,
-Los olores y colores de la gran ciudad,
-Me hicieron sentir que yo estaba allí,
-Que estaba allí. El cuerpo de esa chica
-Que empezó a temblar
-Cuando el protagonista la intentó besar
-Me hicieron sentir que yo estaba allí,
-Que era feliz.
+[Em] El ruido de las [D] fábricas al despertar,
+[C] Los olores y co[G]lores de la gran ciudad,
+[Am] Me hicieron sentir que yo [C] estaba allí, que estaba allí.
+[Em] El cuerpo de esa [D] chica que empezó a temblar
+[C] Cuando el prota[G]gonista la intentó besar
+[Am] Me hicieron sentir que yo [C] estaba allí, [C] que era feliz.
 
-[Em] [D]/ [C] [D](2) [Em] -[C]-[D] (4)
--Las primeras escenas de aproximación
-Consiguen que te metas en la situación
-Y poco a poco se va desarrollando la acción
-- Parece que se ha producido un apagón,
-Silbidos a cabina, tensa situación,
-La chica ya estaba desnuda cuando se cortó.
--Recuperado el ritmo ya llegó el final,
-Barullo de murmullos que preguntan
-Que ¿qué tal? y un desfile de zombis
-Que abandonan el local
-- Durante una hora y media pude ser feliz
-Comiendo chocolate y palomitas de maíz,
-Sintiendo que era yo el que besaba
-A aquella actriz
+[Em] Las primeras es[D]cenas de aproximación
+[C] Consiguen que te [D] metas en la situación
+[Em] Y poco a poco se va des[C]arrollando la ac[D]ción
+[Em] Parece que se ha pro[D]ducido un apagón,
+[C] Silbidos a ca[D]bina, tensa situación,
+[Em] La chica ya estaba des[C]nuda cuando se cor[D]tó.
+[Em] Recuperado el [D] ritmo ya llegó el final,
+[C] Barullo de mur[D]mullos que preguntan que ¿qué tal?
+[Em] Y un desfile de zombis [C] que abandonan el lo[D]cal
+[Em] Durante una hora y [D] media pude ser feliz
+[C] Comiendo choco[D]late y palomitas de maíz,
+[Em] Sintiendo que era yo el que be[C]saba a aquella ac[D]triz
 
-El ruido de las fábricas al despertar…
+[Em] El ruido de las [D] fábricas al despertar… [C] [G] [Am] [C]
 
 [Am] [F] [G] [Em] [Am]
 Oh, oh, oh... Quiero estar junto a ti

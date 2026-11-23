@@ -10,18 +10,17 @@ tags: ["rock andaluz", "español", "70s"]
 ## Verso 1
 (Medina Azahara ‘79)
 
-Pensaba una noche a solas
-En quien llegaría al cielo
-Paseaba por la mezquita,
-Estuve un tiempo en silencio
+[Em] Pensaba una noche a [D] solas
+En quien llegaría al [Em] cielo
+Paseaba por la mez[D]quita,
+Estuve un tiempo en si[Em]lencio
 
-[Em] [D] [Em]
-Con el cuerpo destrozado
-Lleno de ira y desprecio
-Por tantas humillaciones
-Que hace pasar por el tiempo
+[Em] Con el cuerpo destro[D]zado
+Lleno de ira y des[Em]precio
+Por tantas humilla[D]ciones
+Que hace pasar por el [Em] tiempo
 
-Nos unimos en silencio
-Con una esperanza nueva
-De ver surgir en el cielo
-Unida nuestra bandera
+[Em] Nos unimos en si[D]lencio
+Con una esperanza [Em] nueva
+De ver surgir en el [D] cielo
+Unida nuestra ban[Em]dera

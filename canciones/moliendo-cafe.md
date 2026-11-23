@@ -8,18 +8,17 @@ tags: ["ritmo orquídea", "venezolano", "clásico"]
 ---
 
 ## Intro
-[Dm] [G7] [C] (2) [F] [E7]
+[Dm] [G7] [C] [F] [E7]
 
-Una pena de amor y una tristeza,
-Lleva el zambo Manuel, en su amargura
-Pasa incansable la noche moliendo café.
+Una [Dm] pena de amor [G7] y una tris[C]teza,
+Lleva el [F] zambo Manuel, en su amar[E7]gura
+Pasa incan[Am]sable la noche mo[E7]liendo ca[Am]fé.
 
 Alma, corazón y vida
 
-[Am] [Dm] [Am] [E7] [Am]
-Recuerdo aquella vez que yo te conocí
+[Am] Recuerdo aquella [Dm] vez que yo te cono[Am]cí
 Recuerdo aquella tarde
-Pero no me acuerdo ni cómo te vi
--Pero si te diré que yo me enamoré
+Pero [E7] no me acuerdo ni cómo te [Am] vi
+Pero si te di[Dm]ré que yo me enamo[Am]ré
 De esos tus lindos ojos
-Y tus labios rojos que no olvidaré (bis)
+Y tus [E7] labios rojos que no olvida[Am]ré (bis)

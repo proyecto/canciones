@@ -8,30 +8,31 @@ tags: ["pop", "balada", "español", "80s"]
 ---
 
 ## Intro
-[C] [G] [F] [Em] [F] [G] [C] (2) [C7]
+[C] [G] [F] [Em] [F] [G] [C] [C7]
 
-Entre el cielo y el suelo hay algo con tendencia a quedarse calvo de tanto recordar.
-Y ese algo, que soy yo mismo, es un cuadro de bifrontismo que solo da una faz.
+Entre el [C] cielo y el [G] suelo hay algo con ten[F]dencia a que[Em]darse calvo
+De [F] tanto re[G]cor[C]dar. [C7]
+Y ese [C] algo, que [G] soy yo mismo, es un [F] cuadro de bi[Em]frontismo
+Que [F] solo [G] da una [C] faz.
 
-[F] [E7] [Am] [G] (3) [F] [Em]
-Signal
+La cara [F] vista es un a[E7]nuncio de Sig[Am]nal, [G]
+La cara o[F]culta es la re[E7]sulta de mi i[Am]dea genial de e[G]charte,
+Me cuesta [F] tanto olvi[Em]darte, [Am]
+Me cuesta [F] tanto olvi[G]darte, me cuesta [C] tanto.
 
-, la cara oculta es la resulta
-De mi idea genial de echarte, me cuesta tanto olvidarte. Me cuesta tanto
+Olvi[C]dar quince [G] mil encantos [F] es mucha sen[Em]satez.
+Y no [F] sé si se[G]ré sensato, [C] lo que sé es que me [C7] cuesta un rato
+Hacer [F] cosas [G] sin que[C]rer.
 
-La cara vista es un anuncio de
+Y aunque fui [F] yo quien deci[E7]dió que ya no [Am] más [G]
+Y no me [F] canse de ju[E7]rarte que no ha[Am]brá segunda [G] parte,
+Me cuesta [F] tanto olvi[Em]darte, [Am]
+Me cuesta [F] tanto olvi[G]darte, me cuesta [C] tanto.
 
-[C] [G] [F] [Em] [F] [G] [C] (2) [C7]
-Olvidarte, me cuesta tanto, olvidar quince mil encantos es mucha sensatez.
-Y no sé si seré sensato, lo que sé es que me cuesta un rato hacer cosas sin querer.
+Olvi[C]dar quince [G] mil encantos [F] es mucha sen[Em]satez.
+Y no [F] sé si se[G]ré sensato, [C] lo que sé es que me [C7] cuesta un rato
+Hacer [F] cosas [G] sin que[C]rer.
 
-[F] [E7] [Am] [G] (3) [F] [Em] [Am]
-Y aunque fui yo quien decidió que ya no más
-Y no me canse de jurarte que no habrá segunda parte, me cuesta tanto olvidarte
-Me cuesta tanto olvidarte
-
-Olvidarte, me cuesta tanto, olvidar quince mil encantos es mucha sensatez.
-Y no sé si seré sensato, lo que sé es que me cuesta un rato hacer cosas sin querer.
-
-[C] [G] [F] [Em] [F] [G] [C] (2) [C7]
-Y aunque fui yo quien decidió que ya no más… olvidarte. Me cuesta tanto
+Y aunque fui [F] yo quien deci[E7]dió que ya no [Am] más… [G]
+Me cuesta [F] tanto olvi[Em]darte, [Am]
+Me cuesta [F] tanto. [C]

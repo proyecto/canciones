@@ -8,49 +8,42 @@ tags: ["pop", "balada", "español"]
 ---
 
 ## Intro
-[D] [F#m] [G]/ [A] [D] (2)
+[D] [F#m] [G] [A] [D] (2)
 
-No quiero estar sin ti,
-Si tú no estás aquí me sobra el aire
-No quiero estar así,
-Si tú no estás la gente se hace nadie
+[D] No quiero estar sin [F#m] ti,
+Si [G] tú no estás a[A]quí me sobra el [D] aire
+[D] No quiero estar a[F#m]sí,
+Si [G] tú no estás la [A] gente se hace [D] nadie
 
-Si tú no estás aquí, no sé,
-Qué diablos hago amándote.
-Si tú no estás aquí, sabrás
-Que Dios no va a entender por qué te vas.
+Si [G] tú no estás a[A]quí, no sé,
+Qué [F#m] diablos hago a[Bm]mándote.
+Si [G] tú no estás a[A]quí, sabrás
+Que [F#m] Dios no va a enten[Bm]der por qué te [A] vas.
 
-[D] [F#m] [G]/ [A] [D] (2)
-[D] [F#m] [G]/ [A] [D] (2)
-No quiero estar sin ti,
-Si tú no estás aquí me falta el sueño
-No quiero andar así
-Latiendo un corazón de amor sin dueño
+[D] No quiero estar sin [F#m] ti,
+Si [G] tú no estás a[A]quí me falta el [D] sueño
+[D] No quiero andar a[F#m]sí
+La[G]tiendo un cora[A]zón de amor sin [D] dueño
 
-[D] [F#m] [G]/ [A] [D] (2)
-Si tú no estás aquí, no sé,
-Qué diablos hago amándote.
-Si tú no estás aquí, sabrás
-Que Dios no va a entender por qué te vas.
+Si [G] tú no estás a[A]quí, no sé,
+Qué [F#m] diablos hago a[Bm]mándote.
+Si [G] tú no estás a[A]quí, sabrás
+Que [F#m] Dios no va a enten[Bm]der por qué te [A] vas.
 
-Derramaré mis sueños si algún día no te tengo
-Lo más grande se hará lo más pequeño
+[G] Derramaré mis sueños si algún [A] día no te tengo
+Lo más [F#m] grande se hará lo más pe[Bm]queño
+[G] Pasearé en un cielo sin es[A]trellas esta vez
+Tra[F#m]tando de entender quien [Bm] hizo
+Un in[G]fierno el para[A]íso.
+No te [G] vayas nunca [A] porque
 
-[D] [F#m] [G]/ [A] [D]
-[D] [G]/ [A] [F#m] [Bm]-[G] [A]
-Pasearé en un cielo sin estrellas esta vez
-Tratando de entender quien hizo
-Un infierno el paraíso.
-No te vayas nunca porque
+[D] No quiero estar sin [F#m] ti.
+Si [G] tú no estás a[A]quí me quema el [D] aire
 
-[D] [F#m] [G]/ [A] [D]
-No quiero estar sin ti.
-Si tú no estás aquí me quema el aire
+Si [G] tú no estás a[A]quí, no sé,
+Qué [F#m] diablos hago a[Bm]mándote.
+Si [G] tú no estás a[A]quí, sabrás
+Que [F#m] Dios no va a enten[Bm]der por qué te [A] vas.
+Si [G] tú no estás a[A]quí…
 
-Si tú no estás aquí, no sé,
-Qué diablos hago amándote.
-Si tú no estás aquí, sabrás
-Que Dios no va a entender por qué te vas.
-Si tú no estás aquí…
-
-[D] [F#m] [G]/ [A] [D] (3)
+[D] [F#m] [G] [A] [D] (3)

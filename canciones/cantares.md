@@ -8,43 +8,39 @@ tags: ["canción de autor", "machado", "clásico"]
 ---
 
 ## Intro
-[G] [Em] [C]-[D]-[G] (3) [C]-[D]
+[G] [Em] [C] [D] [G]
 
-Todo pasa y todo queda
-Pero lo nuestro es pasar
--Pasar haciendo caminos
-Caminos sobre la mar
--Nunca perseguí la gloria
-Ni dejar en la memoria
-De los hombres, mi canción
+[G] Todo pasa y [Em] todo queda
+[C] Pero lo [D] nuestro es pa[G]sar
+[G] Pasar ha[Em]ciendo caminos
+[C] Caminos [D] sobre la [G] mar
+[G] Nunca perse[Em]guí la gloria
+[C] Ni dejar [D] en la me[G]moria
+De los [C] hombres, [D] mi can[G]ción
 
-[G] [Em] [C]-[D]-[G]/[C]-[D]-[G]
-Yo amo los mundos sutiles
-Ingrávidos y gentiles
-Como pompas de jabón
+[G] Yo amo los [Em] mundos sutiles
+In[C]grávidos [D] y gen[G]tiles
+Como [C] pompas [D] de ja[G]bón
 
-[G] [Em] [C]-[D]-[G] (2[)_] [Em] -[C]-[D]
-Me gusta verlos pintarse,
-De sol y grana, volar
--Bajo el cielo azul, temblar
-Súbitamente y quebrarse
-Nunca perseguí la gloria
+[G] Me gusta verlos pin[Em]tarse,
+De [C] sol y [D] grana, vo[G]lar
+[G] Bajo el cielo [Em] azul, temblar
+[C] Súbitamente y [D] quebrarse
+[C] Nunca perse[D]guí la [G] gloria
 
-[G] [Em] [C] [D]
-Caminante, son tus huellas
-El camino y nada más.
-Caminante, no hay camino
-Se hace camino al andar
-Al andar se hace camino, y al volver
-La vista atrás se ve la senda
-Que nunca se ha de volver a pisar
-Caminante, no hay camino
-Sino estelas en la mar
+[G] Caminante, son tus [Em] huellas
+El [C] camino y [D] nada más.
+[G] Caminante, no hay ca[Em]mino
+Se [C] hace camino al an[D]dar
+Al an[G]dar se hace ca[Em]mino, y al volver
+La [C] vista atrás se [D] ve la senda
+Que [G] nunca se ha de vol[Em]ver a pisar
+[C] Caminante, no hay ca[D]mino
+Sino [C] estelas [D] en la [G] mar
 
-[G] [Em] [C]-[D]-[G](2) [C]-[D]-[G]
-Hace algún tiempo, en ese lugar
-Donde hoy los bosques
-Se visten de espinos,
--Se oyó la voz de un poeta gritar:
-¡Caminante, no hay camino,
-Se hace camino al andar!
+[G] Hace algún tiempo, en [Em] ese lugar
+Donde [C] hoy los [D] bosques
+Se [G] visten de espinos,
+[G] Se oyó la voz de un po[Em]eta gritar:
+[C] ¡Caminante, no hay ca[D]mino,
+Se [C] hace camino al [D] an[G]dar!

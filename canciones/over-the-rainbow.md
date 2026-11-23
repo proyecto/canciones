@@ -8,56 +8,42 @@ tags: ["hawaiian", "balada", "classic", "inglés"]
 ---
 
 ## Verso 1
-Intro: [C] [G] [Am] [F](2) [F] /  [C] [Em] [F] [C]/ [C] [E7] [Am] [F]
+[C] [G] [Am] [F] [C] [Em] [F] [C] [C] [E7] [Am] [F]
 Ooh
 
-[C]             [Em]                       [F]        [C]
-Somewhere over the rainbow, way up high,
-[F]          [C]                                   [G]               [Am]     [F]
-And the dreams that you dream of, once in a lullaby…
-[C]             [Em]                        [F]          [C]
-Oh,   somewhere  over the rainbow, bluebirds fly
-[F]          [C]                                        [G]                              [Am]     [F].
-And the dreams that you dreamed of, dreams really do come true…
+[C] Somewhere [Em] over the rainbow, [F] way up [C] high,
+[F] And the [C] dreams that you dream of, [G] once in a lulla[Am]by… [F]
+[C] Oh, somewhere [Em] over the rainbow, [F] bluebirds [C] fly
+[F] And the [C] dreams that you dreamed of, [G] dreams really do come [Am] true… [F]
 
-[C]                                             [G]                                                       [Am]     [F]
-Someday I’ll wish upon a star, wake up where the clouds are far behind, me…
-[C]                                                           [G]                                                          [Am]         [F]
-Where trouble melts like lemon drops, high above the chimney tops, that’s where, you’ll find me…
+[C] Someday I’ll wish upon a star, [G] wake up where the clouds are far behind, [Am] me… [F]
+[C] Where trouble melts like lemon drops, [G] high above the chimney tops, that’s where, [Am] you’ll find [F] me…
 
-[C]            [Em]                      [F]           [C]
-Oh, somewhere over the rainbow, bluebirds fly
-[F]          [C]                                    [G]                       [Am]   [F]
-And the dream that you dare to, oh why, oh why can’t I…
+[C] Oh, somewhere [Em] over the rainbow, [F] bluebirds [C] fly
+[F] And the [C] dream that you dare to, oh [G] why, oh why can’t [Am] I… [F]
 
-[C]         [Em]        [F]           [C]  [F]                    [C]            [E7]      [Am]
-Well I see, trees of green and, red roses too, I'll watch them bloom for, me and you
-[F]                   [G]                          [Am] -[F]
-And I, think to myself: What a wonderful world!
+[C] Well I see, [Em] trees of green and, [F] red roses [C] too,
+[F] I'll watch them [C] bloom for, [E7] me and [Am] you
+[F] And I, [G] think to myself: [Am] What a wonderful [F] world!
 
-[C]       [Em]             [F]              [C]                  [F]                [C] [E7]                   [Am]
-Well, I see skies of blue and I see, clouds of white, and the brightness of day highlight the dark
-[F]                             [G]                          [C]      [F]-[C]
-And I think to myself: What a wonderful world!
-[G]                                         [C]                         [G]                           [C]
-The colors of the rainbow, so pretty in the sky are also on the faces, of people passing by
-[F]                     [C]                 [F]                [C]  [F]                   [C]       [Dm]          [G]
-I see friends shaking hands saying, "How do you do?"   They're really saying, "I, I love you"
+[C] Well, I see [Em] skies of blue and I [F] see, clouds of [C] white,
+[F] And the brightness of [C] day [E7] highlight the [Am] dark
+[F] And I think to my[G]self: What a wonderful [C] world! [F] [C]
 
-[C]             [Em]    [F]                     [C]      [F]                        [C]     [E7]          [Am]
-I hear babies cry and I watch them grow. They'll learn much more   than we'll know
-[F]                      [G]                          [Am]           [F]
-And I think to myself: What a wonderful wooorld, wooorld
+[G] The colors of the rainbow, so [C] pretty in the sky
+[G] Are also on the faces, of [C] people passing by
+[F] I see friends shaking [C] hands saying, [F] "How do you [C] do?"
+[F] They're really [C] saying, [Dm] "I, [G] I love you"
 
-[C]                                             [G]                                                       [Am]     [F]
-Someday I’ll wish upon a star, wake up where the clouds are far behind, me…
-[C]                                                           [G]                                                          [Am]        [F]
-Where trouble melts like lemon drops, high above the chimney tops, that’s where, you’ll find me
+[C] I hear babies [Em] cry and [F] I watch them [C] grow.
+[F] They'll learn much [C] more [E7] than we'll [Am] know
+[F] And I think to my[G]self: What a wonderful [Am] wooorld, [F] wooorld
 
-[C]             [Em]                       [F]        [C]
-Somewhere over the rainbow, way up high,
-[F]          [C]                                    [G]                       [Am]   [F]
-And the dream that you dare to, oh why, oh why can’t I…
+[C] Someday I’ll wish upon a star, [G] wake up where the clouds are far behind, [Am] me… [F]
+[C] Where trouble melts like lemon drops, [G] high above the chimney tops, that’s where, [Am] you’ll find [F] me
 
-[C] [Em] [F] [C]/ [C] [E7] [Am] [F]
+[C] Somewhere [Em] over the rainbow, [F] way up [C] high,
+[F] And the [C] dream that you dare to, oh [G] why, oh why can’t [Am] I… [F]
+
+[C] [Em] [F] [C] [C] [E7] [Am] [F]
 Ooh

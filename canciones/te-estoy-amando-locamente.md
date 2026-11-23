@@ -8,20 +8,14 @@ tags: ["flamenco rock", "rumba", "70s"]
 ---
 
 ## Verso 1
-Te estoy amando locamenti
-
-(
-
-Las Grecas)
-
 [E] [F] [Dm] [E] (2)
-Te estoy amando locamenti
-Pero no sé como te lo voy a decir
-Quisiera que lo comprendieras
-Y sin darte cuenta te alejas de mí
 
-[F] [E] (2) [Am] [G] [F] [E] (2)
-Prefiero no pensar, prefiero no sufrir
--Lo que quiero es que me beses
-Recuerda que deseo tenerte muy cerca
-Pero sin darte cuenta te alejas de mí (2)
+[E] Te estoy amando loca[F]mente,
+Pero [Dm] no sé cómo te lo voy a de[E]cir.
+Quisiera que lo compren[F]dieras
+Y sin [Dm] darte cuenta te alejas de [E] mí.
+
+[Am] Prefiero no pensar, [G] prefiero no sufrir,
+[F] Lo que quiero es que me [E] beses.
+-[Am] Recuerda que deseo [G] tenerte muy cerca,
+[F] Pero sin darte cuenta te alejas de [E] mí. (2)

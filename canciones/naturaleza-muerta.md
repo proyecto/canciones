@@ -10,51 +10,45 @@ tags: ["pop", "balada", "90s"]
 ## Intro
 [C] [G] [Am] [G] [F] [Em] [Dm] [G]
 
-No ha salido el sol y Ana y Miguel
-Ya prenden llama
-Ella sobre él, hombre y mujer
+[C] No ha salido el [G] sol y Ana y Mi[Am]guel
+Ya [G] prenden [F] llama
+Ella [Em] sobre él, [Dm] hombre y mu[G]jer
 Deshacen la cama
 
-Y el mar que está loco por Ana
-Prefiere no mirar. Los celos no perdonan
-Al agua, ni a las algas, ni a la sal
+[G] Y el mar que está [F] loco por Ana
+[G] Prefiere no mi[F]rar. Los [G] celos no per[F]donan
+Al [G] agua, ni a las [F] algas, ni a la [E] sal
 
-[G] [F](4) [G] [E]
-[C] [G] [Am] [G] [F] [Em] [Dm] [G]
-Al amanecer, ya está Miguel
-Sobre su barca
-Dame un beso amor, y espera quieta
-Junto a la playa
+[C] Al amane[G]cer, ya está Mi[Am]guel
+Sobre [G] su [F] barca
+Dame un [Em] beso amor, y [Dm] espera [G] quieta
+Junto a la [C] playa
 
--Y el mar murmura en su lenguaje:
-Maldito pescador! Despídete de ella,
-No quiero compartir su corazón
+-[G] Y el mar mur[F]mura en su lenguaje:
+[G] ¡Maldito pesca[F]dor! Des[G]pídete de [F] ella,
+No [G] quiero compar[F]tir su cora[E]zón
 
-[G] [F](4) [G] [E]
-[Am] [G] [F] [E] [Am]/ [G] [F] [E]
-Y llorar, y llorar, y llorar por él
-Y esperar, y esperar, y esperar de pie
-En la orilla a que vuelva Miguel
+[Am] Y llorar, y [G] llorar, y [F] llorar por [E] él
+[Am] Y esperar, y es[G]perar, y es[F]perar de [E] pie
+En la [Am] orilla a que [G] vuelva Mi[F]guel [E]
 
-[C] [G] [Am] [G] [F] [Em] [Dm] [G]
-Dicen en la aldea
-Que esa roca blanca es Ana
-Cubierta de sal y de coral
-Espera en la playa
+[C] Dicen en la al[G]dea
+Que esa [Am] roca [G] blanca es Ana
+[F] Cubierta de [Em] sal y de co[Dm]ral
+Espera en la [G] playa
 
-[G] [F](4) [G] [E]
-No esperes más niña de piedra
-Miguel no va a volver
-El mar le tiene preso
-Por no querer cederle a una mujer
+[G] No esperes más [F] niña de piedra
+[G] Miguel no va a vol[F]ver
+El [G] mar le tiene [F] preso
+Por [G] no querer ce[F]derle a una mu[E]jer
 
-Y llorar, y llorar, y llorar por él…
+[Am] Y llorar, y [G] llorar, y [F] llorar por [E] él…
 
-Incluso hay gente que asegura
-Que cuando hay tempestad,
-Las olas las provoca
-Miguel luchando a muerte con el mar
+[G] Incluso hay [F] gente que asegura
+[G] Que cuando hay tempes[F]tad,
+Las [G] olas las pro[F]voca
+[G] Miguel luchando a [F] muerte con el [E] mar
 
-Y llorar, y llorar, y llorar por él…(2)
-Y llorar, y llorar y llorar por él (2)
-Y llorar, y llorar, y llorar sobre el mar.
+[Am] Y llorar, y [G] llorar, y [F] llorar por [E] él…(2)
+[Am] Y llorar, y [G] llorar y [F] llorar por [E] él (2)
+[Am] Y llorar, y [G] llorar, y [F] llorar sobre el [E] mar.

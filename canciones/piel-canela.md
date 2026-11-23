@@ -8,59 +8,32 @@ tags: ["bolero", "clásico", "latino"]
 ---
 
 ## Intro
-[Am]-[D7](2) [G] [E7] /[Am]-[D7](2) [G] [Am]-[D7](2)
+[Am] [D7] [G] [E7] [Am] [D7] [G] [Am] [D7]
 
-[Instr.:]
-[G]-[Bm]-[Em]/
-[Am]-[D7](2
-) [G] (bis)
-[Am] [D7] [G] [Am] [D7] [G]
-quede el infinito sin estrellas o que pierda el ancho mar su inmensidad
+[G] [Bm] [Em] [Am] [D7] [G]
 
-Que se
+[Am] Que se quede el in[D7]finito sin es[G]trellas o que [Am] pierda el ancho [D7] mar su inmen[G]sidad
+[B7] Pero el negro de tus [Em] ojos que no muera y el ca[C]nela de tu [A7] piel se quede i[D]gual
+[Am] Si perdiera el arco[D7]íris su be[G]lleza y las [Am] flores su per[D7]fume y su co[G]lor
+[B7] No sería tan in[Em]mensa mi tristeza, como a[C]quella de que[A7]darme sin tu a[D]mor
 
-[B7] [Em] [C] [A7] [D]
-Pero el negro de tus ojos que no muera y el canela de tu piel se quede igual
-Si perdiera el arcoíris su belleza y las flores su perfume y su color
-No sería tan inmensa mi tristeza, como aquella de quedarme sin tu amor
+[Am] Me importas [D7] tú, y [Am] tú y [D7] tú, y [G] solamente [Bm] tú, y [G] tú y tú
+[Am] Me importas [D7] tú, y [Am] tú y [D7] tú, y [G] nadie más que tú
 
-[Am] [D7] [Am] [D7] [G]-[Bm]-[G]
-Me importas tú, y tú y tú, y solamente tú, y tú y tú
+[E] Ojos [E7] negros, piel ca[Am]nela, [Cm] que me llevan a desesperar
+[Am] Me importas [D7] tú, y [Am] tú y [D7] tú, y [G] solamente tú
 
-[Am] [D7] [Am] [D7] [G]
-Me importas tú, y tú y tú, y nadie más que tú
+[G] [Bm] [Em] [Am] [D7] [G]
 
-Ojos negros, piel canela, que me llevan a desesperar
+[Am] Que se quede el in[D7]finito sin es[G]trellas o que [Am] pierda el ancho [D7] mar su inmen[G]sidad
+[B7] Pero el negro de tus [Em] ojos que no muera y el ca[Am]nela de tu [A7] piel se quede i[D]gual
+[Am] Si perdiera el arco[D7]íris su be[G]lleza y las [Am] flores su per[D7]fume y su co[G]lor
+[B7] No sería tan in[Em]mensa mi tristeza, como a[Am]quella de que[A7]darme sin tu a[D]mor
 
-[E] [E7] [Am] [Cm]
-[Am] [D7] [Am] [D7] [G]
-Me importas tú, y tú y tú, y solamente tú
+[Am] Me importas [D7] tú, y [Am] tú y [D7] tú, y [G] solamente [Bm] tú, y [G] tú y tú
+[Am] Me importas [D7] tú, y [Am] tú y [D7] tú, y [G] nadie más que tú
 
-[Am]-[D7](2)
-[G]-[Bm]-[Em]/
-[Am]-[D7](2
-) [G] (bis)
-[Am] [D7] [G] [Am] [D7] [G]
-Que se
+[E] Ojos [E7] negros, piel ca[Am]nela, [Cm] que me llevan a desesperar
+[Am] Me importas [D7] tú, y [Am] tú y [D7] tú, y [G] solamente [Bm] tú [A#m] [Am]
 
-quede el infinito sin estrellas o que pierda el ancho mar su inmensidad
-
-[B7] [Em] [Am] [A7] [D]
-Pero el negro de tus ojos que no muera y el canela de tu piel se quede igual
-Si perdiera el arcoíris su belleza y las flores su perfume y su color
-No sería tan inmensa mi tristeza, como aquella de quedarme sin tu amor
-
-[Am] [D7] [Am] [D7] [G]-[Bm]-[G]
-Me importas tú, y tú y tú, y solamente tú, y tú y tú
-
-Me importas tú, y tú y tú, y nadie más que tú
-
-[Am] [D7] [Am] [D7] [G]
-Ojos negros, piel canela, que me llevan a desesperar
-
-[E] [E7] [Am] [Cm]
-[Am] [D7] [Am] [D7] [G] [Bm]-[A#m]-[Am]
-Me importas tú, y tú y tú, y solamente tú
-
-[D7] [G] [Bm]-[A#m]-[Am] [D7] [G]
-Absolutamente tú, infinitamente tú…
+[D7] Absolutamente [G] tú, [Bm] [A#m] [Am] [D7] infinitamente [G] tú…

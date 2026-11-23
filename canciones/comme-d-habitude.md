@@ -10,42 +10,36 @@ tags: ["clásico", "balada", "internacional"]
 ## Verso 1
 (François/ Sinatra/ Siempre así)
 
-[G] [Bm] [Em] [E7]/ [Am] [Am7] [C] [G] // [G] [G7] [C] [Cm]/ [G] [D] [C] [G]
-Je me lève et je te bouscule, tu te réveilles pas, comme d'habitude
-Sur toi, je remonte le drap, j'ai peur que tu aies froid, comme d'habitude
-Ma main caresse tes cheveux, presque malgré moi, comme d'habitude
-Mais toi, tu me tournes le dos, comme d'habitude
+[G] Je me lève et je te [Bm] bouscule, tu te [Em] réveilles pas, comme [E7] d'habitude
+Sur [Am] toi, je remonte le [Am7] drap, j'ai peur que [C] tu aies froid, comme d'habi[G]tude
+Ma [G] main caresse tes che[G7]veux, presque mal[C]gré moi, comme d'habi[Cm]tude
+Mais [G] toi, tu me tournes le [D] dos, comme d'habi[C]tu[G]de
 
-[G] [Bm] [Em] [E7]/ [Am] [Am7] [C] [G] // [G] [G7] [C] [Cm]/ [G] [D] [C] [G]
-And now the end is near, and so I face the final curtain
-My friend, I'll say it clear, I'll state my case, of which I'm certain
-I've lived a life that's full I've travelled each and every highway
-And more, much more than this, I did it my way
+[G] And now the end is [Bm] near, and so I [Em] face the final [E7] curtain
+My [Am] friend, I'll say it [Am7] clear, I'll state my [C] case, of which I'm [G] certain
+I've [G] lived a life that's [G7] full I've travelled [C] each and every [Cm] highway
+And [G] more, much more than [D] this, I did it [C] my [G] way
 
-[G] [G7] [C] [Am]/ [C] [D] [B7] [Em]/ [C] [D] [C] [G]
-Yes, there were times, I'm sure you knew
-When I bit off, more_than_I could chew
-But through it all, when there was doubt
-I ate it up and spit it out
-I faced it all and_I stood tall, and did it my way
+[G] Yes, there were times, [G7] I'm sure you knew
+When I bit [C] off, more than I [Am] could chew
+But [C] through it all, [D] when there was doubt
+I ate it [B7] up and spit it [Em] out
+I faced it [C] all and I stood [D] tall, and did it [C] my [G] way
 
-[G] [G7] [C] [Am]/ [C] [D] [B7] [Em]/ [C] [D] [C] [G]
-Tal vez lloré, tal vez reí,
-tal vez gané o tal vez perdí,
-Y ahora sé que fui feliz,
-Que si lloré, también amé
-y todo fue, puedo decir, a mi manera.
+[G] Tal vez lloré, [G7] tal vez reí,
+tal vez ga[C]né o tal vez per[Am]dí,
+Y [C] ahora sé [D] que fui feliz,
+Que si llo[B7]ré, también a[Em]mé
+y todo [C] fue, puedo de[D]cir, a mi ma[C]ne[G]ra.
 
-[G] [Bm] [Em] [E7]/ [Am] [Am7] [C] [G] // [G] [G7] [C] [Cm]/ [G] [D] [C] [G]
-Quizá yo desprecié aquello que no comprendía.
-Quizá también dudé cuando mejor me divertía.
-Y hoy sé que firme fui
-Y que afronté ser como era...
-Y así yo me sentí a mi manera.
+[G] Quizá yo despre[Bm]cié aquello que [Em] no comprendí[E7]a.
+[Am] Quizá también du[Am7]dé cuando me[C]jor me divertí[G]a.
+[G] Y hoy sé que [G7] firme fui
+Y que afron[C]té ser como [Cm] era...
+Y a[G]sí yo me sen[D]tí a mi ma[C]ne[G]ra.
 
-[G] [G7] [C] [Am]/ [C] [D] [B7] [Em]/ [C] [D] [C] [G]
-Porque sabrán, que un hombre así
-conocerán, por su vivir
-no hay porque hablar ni que decir,
-ni hay que llorar, que hay que fingir
-puedo llegar hasta el final, a mi manera.
+[G] Porque sabrán, [G7] que un hombre así
+conoce[C]rán, por su vi[Am]vir
+no [C] hay porque ha[D]blar ni que decir,
+ni hay que llo[B7]rar, que hay que fin[Em]gir
+puedo lle[C]gar hasta el fi[D]nal, a mi ma[C]ne[G]ra.

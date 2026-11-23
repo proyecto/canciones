@@ -10,49 +10,48 @@ tags: ["joropo", "folklore", "venezolano"]
 ## Verso 1
 Jazmines en el pelo y rosas en la cara…
 
-[Am] [E] [Am]
-Cuando el amor llega así de esta manera
-
-[E]
-Uno no se da ni cuenta.
+[Am] Cuando el amor llega así de esta manera
+Uno no se da ni [E] cuenta.
 El carutal reverdece,
+[Dm] El guamachito flo[E]rece
+Y las sogas se re[Am]vientan.
+[Am] Cuando el amor llega así de esta manera
+Uno no se da ni [E] cuenta.
+El carutal reverdece,
+[Dm] El guamachito flo[E]rece
+Y las sogas se re[Am]vientan.
 
-[Dm] [E]
-El guamachito florece
+[Dm] Caballo, le dan sa[Am]bana
+Porque está [E] viejo y can[Am]sao
+[Dm] Pero no se dan de [Am] cuenta
+Que a un cora[E]zón ama[Am]rrao
+[Dm] Cuando le sueltan las [Am] riendas
+Es ca[E]ballo desbo[Am]cao.
+[Dm] Y si una potra ala[Am]zana
+Caballo [E] viejo se en[Am]cuentra
+[Dm] El pecho se le des[Am]grana,
+No le hace [E] caso a fal[Am]seta
+[Dm] Y no le obedece a [Am] freno,
+Ni lo [E] paran falsas [Am] riendas.
 
-y las sogas se revientan (bis)
-
-[Am]
-[Dm] [Am] [E] [Am] (2)
-Caballo, le dan sabana
-Porque está viejo y cansao
-Pero no se dan de cuenta
-Que a un corazón amarrao
-Cuando le sueltan las riendas
-Es caballo desbocao.
--Y si una potra alazana
-Caballo viejo se encuentra
-El pecho se le desgrana,
-No le hace caso a falseta
-Y no le obedece a freno,
-Ni lo paran falsas riendas.
-
-[Am] [E] (2) [E] [Dm]-[E] [Am] _
-Cuando el amor llega así de esta manera
-Uno no tiene la culpa
+[Am] Cuando el amor llega así de esta manera
+Uno no tiene la [E] culpa
 Quererse no tiene horario,
-Ni fecha en el calendario
-Cuando las ganas se juntan (bis)
+[Dm] Ni fecha en el calen[E]dario
+Cuando las ganas se [Am] juntan.
+[Am] Cuando el amor llega así de esta manera
+Uno no tiene la [E] culpa
+Quererse no tiene horario,
+[Dm] Ni fecha en el calen[E]dario
+Cuando las ganas se [Am] juntan.
 
-Caballo le dan sabana y tiene el tiempo contao.
-Y se va por la mañana con su pasito apurao.
-A verse con su potranca
-Que lo tiene embarbascao.
--El potro da tiempo al tiempo
-Porque le sobra la edad,
-Caballo viejo no puede
-Perder la flor que le dan
-Porque después de esta vida
-No hay otra oportunidad
-
-[Dm] [Am] [E] [Am] (2)
+[Dm] Caballo le dan sa[Am]bana y tiene el [E] tiempo con[Am]tao.
+[Dm] Y se va por la ma[Am]ñana con su pa[E]sito apu[Am]rao.
+[Dm] A verse con su po[Am]tranca
+Que lo [E] tiene embarbas[Am]cao.
+[Dm] El potro da tiempo al [Am] tiempo
+Porque le [E] sobra la [Am] edad,
+[Dm] Caballo viejo no [Am] puede
+Perder la [E] flor que le [Am] dan
+[Dm] Porque después de esta [Am] vida
+No hay [E] otra oportuni[Am]dad.

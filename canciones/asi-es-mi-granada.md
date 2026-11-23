@@ -8,99 +8,31 @@ tags: ["copla", "andaluz", "popular"]
 ---
 
 ## Intro
-[Am] [E] [Am]
+[Am] [E] [Am] [E] [Am] [G] [F] [E]
 
-[INTRO:] [Am] [G] [F] [E] ([x] 4) [Am] [E] [Am] [E]
-de la vega de Motril.
+[Am] Al pie de Sierra Ne[E]vada,
+[Am] se halla asentada Gra[G7]nada,
+[C] la de belleza sin [G7] fin. [C]
+[Am] Cármenes de verde y [E] agua
+[Am] al pie del viejo Albai[G7]cín
+[C] y el Sacromonte ca[G7]ñí [C]
+con sus cantares y [F] zambras
+son la ilusión y el vi[E]vir.
 
-Al pie de Sierra Nevada,
+[Am] La Virgen de las An[E]gustias,
+[Am] la que habita en La Ca[E]rrera,
+[A7] consuela a los granadinos
+[Dm] aliviándoles las penas.
+[Am] La Alhambra mora y sul[E]tana,
+[Am] la que admira el mundo entero.
+[A7] Ay mi Granada gitana,
+[Dm] eres tú lo que más quiero. [E] [Am]
 
-[INTRO] ([x] 4) [Am] [E] [Am] [E]
-[Am] [E] [Am] [G7]
-Cármenes de verde y agua
-
-al pie del viejo Albaicín
-
-[C] [G7] [C]
-[Am] [E] [Am] [G7]
-se halla asentada Granada,
-
-y el Sacromonte cañí
-
-la de belleza sin fin.
-
-[F] [E]
-con sus cantares y zambras
-
-[C] [G7] [C]
-[Am] [E] [Am]
-La Virgen de las Angustias,
-
-[F] [E]
-son la ilusión y el vivir.
-
-la que habita en La Carreta,
-
-[A7] [Dm]
-[Am] [E] [Am]
-La Alhambra mora y sultana,
-
-[Am]
-consuela a los granadinos
-
-[A7] [Dm]
-la que admira el mundo entero.
-
-[E] [Am]
-aliviándoles las penas.
-
-Ay mi Granada gitana,
-
-[Am]
-[INTRO] ([x] 2) [Am] [E] [Am]
-[E] [Am]
-Granada, Granada mía,
-
-eres tú lo que más quiero.
-
-la de hermosura repleta,
-
-[G] [G7] [C]
-[INTRO] ([x] 2) [Am] [E] [Am]
-Granada, Granada mía,
-
-[F] [E]
-[G] [G7] [C]
-luna y sol de Andalucía.
-
-la de hermosura repleta,
-
-[Am] [E] [Am]
-[F] [E]
-Granada, Granada mía,
-
-luna y sol de Andalucía.
-
-[A7] [Dm]
-que al llegar el mes de abril
-
-[Am] [E] [Am]
-Granada, Granada mía,
-
-[A7] [Dm]
-florecen en tus vergeles
-
-[Am]
-que al llegar el mes de abril
-
-[E]
-orgullosos los claveles
-
-[Am]
-florecen en tus vergeles
-
-[E]
-orgullosos los claveles
-
-[Am] [E] [Am]
-de la vega de Motril.
+[Am] Granada, Granada mía,
+[G] [G7] la de hermosura re[C]pleta,
+[F] luna y sol de Anda[E]lucía.
+[Am] Granada, Granada mía,
+[A7] que al llegar el mes de a[Dm]bril
+[Am] florecen en tus vergeles
+[E] orgullosos los claveles
+[Am] de la vega de Mo[E]tril. [Am]

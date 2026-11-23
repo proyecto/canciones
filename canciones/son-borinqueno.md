@@ -8,62 +8,29 @@ tags: ["puerto rico", "tuna", "popular"]
 ---
 
 ## Intro
-[G] [D] [Em] [Bm]/ [C] [G] [D7] [G] (2) [G] [D] [Em] [Bm]
+[G] [D] [Em] [Bm] [C] [G] [D7] [G] (2)
 
-Canta mi pueblo, canta mi gente, canta en enero, canta en diciembre.
+[G] Canta mi pueblo, [D] canta mi gente, [Em] canta en enero, [Bm] canta en diciembre.
+[C] Canta mi pueblo, [G] canta mi gente, [D7] canta en enero, [G] canta en diciembre.
 
-[C] [G] [D7] [G]
-[G] [G]-[F#]-[F]-[E] [Am]
-Suenan, tamboriles y bongós, suenan las maracas y el tambor.
+[G] [F#] [F] [E]
+[Am] Suenan, tamboriles y bongós, [D7] suenan las maracas y el tam[G]bor.
+[E7] Yaaa, va a empe[Am]zar la fiesta, [D7] suena un loco la trom[G]peta
+[E7] Y María la pande[Am]reta. Nos ponemo’ a bai[D7]lar cuando Nano toca [G] conga.
 
-[D7] [G] [E7] [Am]
-Yaaa, va a empezar la fiesta, suena un loco la trompeta
+[G] [D] [Em] [Bm] [C] [G] [D7] [G] (2)
 
-[D7] [G] [E7] [Am]
-bomba
+[G] [F#] [F] [E7]
+[Am] Oye, que la fiesta ya empezó, [D7] unos invitados y otros [G] no.
+[E7] Oye ya la algara[Am]bía, [D7] y la gente no se [G] cansa.
+[E7] Un tipo pidió una danza, [Am] una señora, un danzón,
+[D7] Y una nena pidió bomba y un mamito un guaguan[G]có.
 
-Música autóctona de Puerto Rico
+[G] Canta mi pueblo, [D] canta mi gente, [Em] canta en enero, [Bm] canta en diciembre… [C] [G] [D7] [G]
 
-Y María la pandereta. Nos ponemo’ a bailar
+[C] Si no hubiera nacido en la [F] tierra en que na[G]cí,
+[C] Estaría arrepentido de no [F] haber nacido a[G]quí. (bis) ¡Por eso!
+[E7] [Am] [D7] [G]
+Son… borinqueño.
 
-[D7] [G]
-Cuando Nano toca conga.
-
-[G] [D] [Em] [Bm]/ [C] [G] [D7] [G] (2)
-[G] [G]-[F#]-[F]-[E7] [Am]
-Oye, que la fiesta ya empezó, unos invitados y otros no.
-
-[D7] [G] [E7] [Am]
-Oye ya la algarabía, y la gente no se cansa
-
-[D7] [G] [E7] [Am]
-Un tipo pidió una danza, una señora, un danzón
-
-y un
-
-guaguancó
-
-.
-
-Hombre que viste a la última moda.
-
-mamito
-
-un
-
-[D7] [G]
-Tipo de rumba afrocubana.
-
-Canta mi pueblo, canta mi gente, canta en enero, canta en diciembre…
-
-[C]-[F]-[G] (2) [C] [F] [G] [C] [F] [G]
-Si no hubiera nacido en la tierra en que nací,
-
-Estaría arrepentido de no haber nacido aquí. (bis) ¡Por eso!
-
-[E7]
-[Am] [D7] [G]
-[G] [D] [Em] [Bm]/ [C] [G] [D7] [G] (2)
-,
-
-son…borinqueño
+[G] [D] [Em] [Bm] [C] [G] [D7] [G] (2)

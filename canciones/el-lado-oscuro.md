@@ -10,21 +10,23 @@ tags: ["rock latino", "pop rock", "90s"]
 ## Intro
 [Am] [A7]
 
-Puede que hayas nacido
-En la cara buena del mundo
-Yo nací en la cara mala
-Llevo la marca del lado oscuro
+## Verso 1
+[Am] Puede que hayas nacido
+En la [A7] cara buena del mundo
+[Am] Yo nací en la cara mala
+Llevo la [A7] marca del lado oscuro
 
-[Dm] [Am] [A7] [Dm] [E] [Am]
-Y no me sonrojo si te digo que te quiero
-Y que me dejes o te deje,
-Eso ya no me da miedo habías sido,
-Sin dudarlo la más bella
+## Verso 2
+[Dm] Y no me sonrojo si te digo que te quiero
+Y que me [Am] dejes o te deje,
+Eso [A7] ya no me da miedo, habías sido,
+Sin du[Dm]darlo la más bella
 De entre todas las estrellas
-Que yo vi en el firmamento
+Que yo [E] vi en el firma[Am]mento
 
-Cómo ganarse el cielo
-Cuando uno ama con toda el alma
-Y es que el cariño que te tengo
-No se paga con dinero
-Como decirte que por ti muero.
+## Verso 3
+[Am] Cómo ganarse el cielo
+Cuando uno [A7] ama con toda el alma
+[Dm] Y es que el cariño que te tengo
+No se [Am] paga con dinero
+[E] Cómo decirte que por ti [Am] muero

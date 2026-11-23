@@ -11,52 +11,26 @@ tags: ["pop rock", "español", "balada"]
 > (AC)
 (Instr)
 [G] [D] [Em]
-He muerto y he resucitado.
 
-[C] [D] [G]
-Con mis cenizas, un árbol he plantado,
+[G] He muerto y [D] he resuci[Em]tado.
+[C] Con mis ce[D]nizas, un árbol he plan[G]tado,
+Su fruto ha [Em] dado
+[C] Y desde [D] hoy, algo ha empe[G]zado. [D]
 
-Su fruto ha dado
+[G] He roto [D] todos mis po[Em]emas,
+[C] Los de tris[D]tezas y de [G] penas,
+Lo he pen[Em]sado
+[C] Y hoy sin du[D]dar, vuelvo a tu [G] lado. [G7]
 
-[Em]
-[C] [D] [G] [D]
-Y desde hoy, algo ha empezado.
+[C] Ayúdame [D] y te habré ayu[G]dado,
+[Em] Que hoy he so[C]ñado en otra vida,
+[Am] En otro [D] mundo… pero a tu [G] lado
 
-[G] [D] [Em]
-He roto todos mis poemas,
+[G] Ya no per[D]sigo sueños [Em] rotos,
+[C] Los he co[D]sido con el hilo de tus [G] ojos,
+Y te he can[Em]tado
+[C] Al son de a[D]cordes, aún no inven[G]tados. [G7]
 
-[C] [D] [G]
-Los de tristezas y de penas,
-
-[Em]
-Lo he pensado
-
-[C] [D] [G] [G7]
-Y hoy sin dudar, vuelvo a tu lado.
-
-[C] [D] [G]
-Ayúdame y te habré ayudado,
-
-[Em] [C]
-Que hoy he soñado en otra vida,
-
-[Am] [D] [G]
-En otro mundo… pero a tu lado
-
-Ya no persigo sueños rotos,
-
-[G] [D] [Em]
-[C] [D] [G]
-Los he cosido con el hilo de tus ojos,
-
-[Em]
-Y te he cantado
-
-[C] [D] [G] [G7]
-Al son de acordes, aún no inventados.
-
-[C] [D] [G]
-Ayúdame y te habré ayudado,
-
-[Em] [C]
-Que hoy he soñado en otra vida,
+[C] Ayúdame [D] y te habré ayu[G]dado,
+[Em] Que hoy he so[C]ñado en otra vida,
+[Am] En otro [D] mundo… pero a tu [G] lado

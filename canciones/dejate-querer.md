@@ -11,20 +11,22 @@ tags: ["rumba", "flamenco", "español"]
 No estaba muerto,
 Estaba de parranda
 
-[Am] [E] [Am]
-Si llego tarde a casa de andar luchando
-Por esos mundos de Dios;
+[Am] Si llego tarde a casa de andar luchando
+Por esos mundos de [E] Dios;
 Llego necesitado
-De tus caricias y tus palabras de amor
+De tus caricias y tus palabras de [Am] amor
 
-[Am]-7 [Dm] [Am] [E] (2) [Am]
-No me niegues un beso
-Solo por eso mala mujer
-Déjate querer, mujer, déjate querer,
-Déjate querer, mujer cruel
+[Am7] No me niegues un [Dm] beso
+Solo por eso [Am] mala mujer
+Déjate [E] querer, mujer, déjate que[Am]rer,
+Déjate [E] querer, mujer [Am] cruel
 
-(2)
-Todo te lo he entregado
-Te he regalado, todita mi juventud;
+[Am] Todo te lo he entregado
+Te he regalado, todita mi juven[E]tud;
 Y tú me das a cambio
-Con tu desprecio penas amargas de cruz.
+Con tu desprecio penas amargas de [Am] cruz.
+
+[Am7] No me niegues un [Dm] beso
+Solo por eso [Am] mala mujer
+Déjate [E] querer, mujer, déjate que[Am]rer,
+Déjate [E] querer, mujer [Am] cruel

@@ -10,48 +10,44 @@ tags: ["merengue lento", "balada", "latino"]
 ## Intro
 [Am] [F] [Am]
 
-El reloj de cuerda suspendido
-El teléfono desconectado
+[Am] El reloj de cuerda suspendido
+[F] El teléfono desconectado
 En una mesa dos copas de vino
-Y a la noche se le fue la mano.
--Una luz rosada imaginamos
-Comenzamos por probar el vino
+Y a la [Am] noche se le fue la mano.
+Una luz rosada imaginamos
+[F] Comenzamos por probar el vino
 Con mirarnos todo lo dijimos
-Y a la noche se le fue la mano.
+Y a la [Am] noche se le fue la mano.
 
-[C] [G] [F] [E7]/ [Am] [E7](2)
-Si supiera contar todo lo que sentí
-No quedó un lugar que no anduviera en ti
--Besos ternura, que derroche de amor,
-Cuanta locura (2)
+[C] Si supiera con[G]tar todo lo que sen[F]tí [E7]
+[Am] No quedó un lu[E7]gar que no anduviera en ti
+[Am] Besos ter[E7]nura, que derroche de amor,
+Cuanta lo[Am]cura (2)
 
-[C] [G] [F] [E7]/ [Am] [E7] [Am]
-Que no acabe esta noche ni esta luna de abril
-Para entrar en el cielo no es preciso morir
--Besos ternura, que derroche de amor,
-Cuanta locura (2)
+[C] Que no acabe esta [G] noche ni esta luna de a[F]bril [E7]
+[Am] Para entrar en el [E7] cielo no es preciso mo[Am]rir
+[Am] Besos ter[E7]nura, que derroche de amor,
+Cuanta lo[Am]cura (2)
 
-Parecíamos dos irracionales
-Que se iban a morir mañana.
+[Am] Parecíamos dos irracionales
+[F] Que se iban a morir mañana.
 Derrochamos, no importaba nada,
-Las reservas de los manantiales
+Las re[Am]servas de los manantiales
 Parecíamos dos irracionales
-Que se iban a morir mañana.
+[F] Que se iban a morir ma[Am]ñana.
 
-[C] [G] [F] [E7]/ [Am] [E7](2)
-Si supiera contar todo lo que sentí
-No quedó un lugar que no anduviera en ti
--Besos ternura, que derroche de amor,
-Cuanta locura (2)
+[C] Si supiera con[G]tar todo lo que sen[F]tí [E7]
+[Am] No quedó un lu[E7]gar que no anduviera en ti
+[Am] Besos ter[E7]nura, que derroche de amor,
+Cuanta lo[Am]cura (2)
 
-Que no acabe esta noche ni esta luna de abril
-Para entrar en el cielo no es preciso morir
+[C] Que no acabe esta [G] noche ni esta luna de a[F]bril [E7]
+[Am] Para entrar en el [E7] cielo no es preciso mo[Am]rir
 
-[C] [G] [F] [E7]/ [Am] [E7] [Am]
-Besos, ternura,
-Y la noche es testigo de esta inmensa locura
-Besos, ternura,
-Nuestra ruta de amor se convierte en ternura
+[Am] Besos, ter[E7]nura,
+Y la noche es testigo de esta inmensa lo[Am]cura
+Besos, ter[E7]nura,
+Nuestra ruta de amor se convierte en ter[Am]nura
 
--Besos ternura, que derroche de amor,
-Cuanta locura (2) Besos
+[Am] Besos ter[E7]nura, que derroche de amor,
+Cuanta lo[Am]cura (2) Besos

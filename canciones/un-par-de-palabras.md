@@ -8,37 +8,35 @@ tags: ["pop rock", "80s", "español"]
 ---
 
 ## Intro
-[Em] [C] [G]-[D]/ [Em] [C] [G]
+[Em] [C] [G] [D] / [Em] [C] [G]
 
-Sé que no quieres ni escucharme,
-Se que ya todo terminó,
-Yo no quiero hablarte,
-Quiero escribirte una canción
+[Em] Sé que no [C] quieres ni escu[G]charme, [D]
+[Em] Sé que ya [C] todo termi[G]nó, [D]
+[Am] Yo no quiero hablarte,
+[C] Quiero escribirte una can[D]ción
 
-[Am] _[C] [D]
-- Y entonces tendrás que escucharme,
-Y por la radio oirás mi voz,
-Intentaré tocarte tu pequeño corazón.
+- [Em] Y entonces ten[C]drás que escu[G]charme, [D]
+[Em] Y por la [C] radio oirás mi [G] voz, [D]
+[Am] Intentaré tocarte [C] tu pequeño cora[D]zón.
 
-[C] [D] [G] [Em]/ [C] [D] [G]
-Y una lágrima tuya mojará este papel
-Solo un par de palabras te diré
+[C] Y una lágrima [D] tuya [G] mojará este pa[Em]pel
+[C] Solo un par de pa[D]labras te di[G]ré
 
-Y me odiarás cuando me veas,
-Y ni siquiera me mirarás,
-Probablemente te reirás,
-Siempre te ha gustado interpretar
-- pero la película terminó,
-Y ya sólo se oye mi canción,
-Frase tras frase,
-Va perforando tu corazón
+[Em] Y me odiarás [C] cuando me [G] veas, [D]
+[Em] Y ni si[C]quiera me mira[G]rás, [D]
+[Am] Probablemente te reirás,
+[C] Siempre te ha gustado interpre[D]tar
+- [Em] pero la pe[C]lícula termi[G]nó, [D]
+[Em] Y ya sólo se [C] oye mi can[G]ción, [D]
+[Am] Frase tras frase,
+[C] Va perforando tu cora[D]zón
 
-Y sabrás que te quiero,
-y que siempre te querré
-Solo un par de palabras te diré
+[C] Y sabrás que te [D] quiero,
+[G] y que siempre te que[Em]rré
+[C] Solo un par de pa[D]labras te di[G]ré
 
-Solo un par de palabras (3) te diré
+[C] Solo un par de pa[D]labras, [G] solo un par de pa[Em]labras,
+[C] solo un par de palabras [D] te di[G]ré
 
-[C]-[D]-[G]
-[C] [Am] [F] [G] -[C]
-Te quiero...
+[C] [D] [G]
+[C] Te [D] quie[G]ro...

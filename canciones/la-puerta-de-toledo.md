@@ -8,46 +8,44 @@ tags: ["flamenco", "canción", "español"]
 ---
 
 ## Intro
-[E] &nbsp;&nbsp;&nbsp; [Am] &nbsp;&nbsp;&nbsp; [Em] &nbsp;&nbsp;&nbsp; [Am] &nbsp;&nbsp;&nbsp; [Am7] &nbsp;&nbsp;&nbsp; [Dm] &nbsp;&nbsp;&nbsp; [Em7] &nbsp;&nbsp;&nbsp; [Dm] &nbsp;&nbsp;&nbsp; [Em7] &nbsp;&nbsp;&nbsp; [Am]
+[E] [Am] [Em] [Am] [Am7] [Dm] [Em7] [Dm] [Em7] [Am]
 
 ## Verso 1
-A la puerta de Toledo, mare, le tengo celos.
-Le tengo celos.
-A la puerta de Toledo, mare, le tengo celos (2)
-Le tengo celos.
-Porque se cita con otro la mujer que yo más quiero (2)
+A la [Am] puerta de Toledo, mare, le tengo [Dm] celos.
+Le tengo [Am] celos.
+A la [Am] puerta de Toledo, mare, le tengo [Dm] celos (2)
+Le tengo [Am] celos.
+Porque se [Dm] cita con otro la mujer que [Em7] yo más [Am] quiero (2)
 
 ## Estribillo
-[Am] &nbsp;&nbsp;&nbsp; [Dm] &nbsp;&nbsp;&nbsp; [G7] &nbsp;&nbsp;&nbsp; [C] &nbsp;&nbsp;&nbsp; [E7] &nbsp;&nbsp;&nbsp; [Am]
+En el [Am] mismo sitio, a la [Dm] misma hora,
+A la [G7] misma hora estaba dur[C]miendo
+Con [E7] otra per[Am]sona
 
-En el mismo sitio, a la misma hora,
-A la misma hora estaba durmiendo
-Con otra persona
+Me de[Am]cía que iba misa, mare, y me en[Dm]gañaba.
+Y me en[Am]gañaba.
+Me de[Am]cía que iba misa, mare, y me en[Dm]gañaba (2)
+Y me en[Am]gañaba.
+Si no lle[Dm]vaba rosario ni libro ¿cómo [Em7] re[Am]zaba? (2)
 
-Me decía que iba misa, mare, y me engañaba.
-Y me engañaba.
-Me decía que iba misa, mare, y me engañaba (2)
-Y me engañaba.
-Si no llevaba rosario ni libro ¿cómo rezaba? (2)
+En el [Am] mismo sitio, a la [Dm] misma hora,
+A la [G7] misma hora estaba re[C]zando con [E7] otra per[Am]sona
 
-En el mismo sitio, a la misma hora,
-A la misma hora estaba rezando con otra persona
+La [Am] noche de la tormenta, mare, ¡cómo llo[Dm]vía!,
+¡Cómo llo[Am]vía!,
+La [Am] noche de la tormenta, mare, ¡cómo llo[Dm]vía!, (2)
+¡Cómo llo[Am]vía!
+¿Con que pa[Dm]raguas, mare, se tapa[Em7]rí[Am]a? (2)
 
-La noche de la tormenta, mare, ¡cómo llovía!,
-¡Cómo llovía!,
-La noche de la tormenta, mare, ¡cómo llovía!, (2)
-¡Cómo llovía!
-¿Con que paraguas, mare, se taparía? (2)
+En el [Am] mismo sitio, a la [Dm] misma hora,
+A la [G7] misma hora se estaba se[C]cando
+Con [E7] otra per[Am]sona
 
-En el mismo sitio, a la misma hora,
-A la misma hora se estaba secando
-Con otra persona
+En este [Am] mundo se pagan, mare, todas las [Dm] cosas.
+Todas las [Am] cosas.
+En este [Am] mundo se pagan, mare, todas las [Dm] cosas (2)
+Todas las [Am] cosas.
+También se [Dm] secan las flores, mare, que son her[Em7]mo[Am]sas (2)
 
-En este mundo se pagan, mare, todas las cosas.
-Todas las cosas.
-En este mundo se pagan, mare, todas las cosas (2)
-Todas las cosas.
-También se secan las flores, mare, que son hermosas (2)
-
-En el mismo sitio, a la misma hora, a la misma hora,
-dicen que había muerto, pobre, enferma y sola.
+En el [Am] mismo sitio, a la [Dm] misma hora, a la [G7] misma hora, [C]
+dicen que [E7] había muerto, pobre, enferma y [Am] sola.

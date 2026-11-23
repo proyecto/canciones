@@ -10,39 +10,39 @@ tags: ["copla", "clásico", "español"]
 ## Intro
 [Am] [E7] [Am]/ [Am] [Dm] [E7] [Am]/ [E7] [Am]
 
-Na’ te debo, na’ te pido,
-Me voy de tu vera, olvídame ya
-Que he pagao con oro tus carnes morenas,
-No maldigas paya, que estamos en paz
-- No te quiero, no me quieras,
-Si to’ me lo diste, yo na’ te pedí
-No me eches en cara que to’ lo perdiste,
-También a tu vera yo to’ lo perdí
+[Am] Na' te debo, na' te pido,
+[E7] Me voy de tu vera, [Am] olvídame ya
+Que he pagao con [Dm] oro tus carnes morenas,
+[E7] No maldigas paya, que estamos [Am] en paz
+- [Am] No te quiero, no me quieras,
+[E7] Si to' me lo diste, yo [Am] na' te pedí
+No me eches en [Dm] cara que to' lo perdiste,
+[E7] También a tu vera yo [Am] to' lo perdí
 
 [Am] [E7] [Am]/ [Dm] [Am] [E7] [Am]
-Bien paga, si tú eres la bien pagá
-Porque tus besos compré,
-Y a mí te supiste dar
-Por un puñado de parné,
-Bien pagá, bien pagá,
-Bien pagá fuiste mujer
+[Am] Bien paga, si tú eres la bien pagá
+[E7] Porque tus besos compré,
+[Am] Y a mí te supiste dar
+[Dm] Por un puñado de parné,
+[Am] Bien pagá, bien pagá,
+[E7] Bien pagá fuiste [Am] mujer
 
-No te engaño, quiero a otra,
-No creas por eso que te traicioné.
-No cayó en mis brazos,
-Me dio solo un beso,
-El único beso que yo no pagué.
--Na te pío, na me llevo,
-Entre estas paredes dejo sepultá
-Penas y alegrías que te he dao y me diste
-Y esas joyas que ahora pa’ otro lucirás.
+[Am] No te engaño, quiero a otra,
+[E7] No creas por eso que te [Am] traicioné.
+No cayó en mis [Dm] brazos,
+Me dio solo un [Am] beso,
+[E7] El único beso que yo no [Am] pagué.
+-[Am] Na te pío, na me llevo,
+[E7] Entre estas paredes dejo [Am] sepultá
+[Dm] Penas y alegrías que te he dao y me diste
+[E7] Y esas joyas que ahora pa' otro [Am] lucirás.
 
-Bien paga, si tú eres la bien pagá
-Porque tus besos compré,
-Y a mí te supiste dar
-Por un puñado de parné,
-Bien pagá, bien pagá,
-Bien pagá fuiste mujer.
+[Am] Bien paga, si tú eres la bien pagá
+[E7] Porque tus besos compré,
+[Am] Y a mí te supiste dar
+[Dm] Por un puñado de parné,
+[Am] Bien pagá, bien pagá,
+[E7] Bien pagá fuiste [Am] mujer.
 
 ,
 Porque te quiero mi

@@ -10,39 +10,21 @@ tags: ["flamenco", "nuevo flamenco", "poético"]
 ## Intro
 [Am] [Dm]
 
-Érase una vez, una mariposa blanca
+[Am] Érase una vez, una mari[Dm]posa blanca
+[Am] que era la reina de todas las mari[E7]posas del [Am] alba
 
-[Am] [E7] [Am]
-que era la reina de todas las mariposas del alba
+[Dm] Se posaba en los jardines, sobre las [Am] flores más bellas
+y le susurraba historias al cla[E7]vel y la vio[Am]leta
 
-[Dm] [Am]
-Se posaba en los jardines, sobre las flores más bellas
+[Am] Feliz la mari[G]posilla, presumi[F]dilla y coqueta
+parecía una flor de almendro, mecida por [E7] brisa [Am] fresca.
 
-y le susurraba historias al clavel y la violeta
+[A7] Mas llegó un coleccio[Dm]nista, mañana de [Am] primavera
+y sobre un jazmín en [E] flor, apri[E7]sionó a nuestra [Am] reina,
 
-[E7] [Am]
-[Am] [G] [F]
-Feliz la mariposilla, presumidilla y coqueta
+[Dm] la clavó con alfi[E7]leres, entre cartu[F]linas [E] negras
+y la llevó a su mu[E7]seo de breves be[Am]llezas [E7] muer[Am]tas.
 
-parecía una flor de almendro, mecida por brisa fresca.
+Las mariposas del [E7] alba lloraban por la flo[Am]resta.
 
-[E7] [Am]
-[A7] [Dm] [Am]
-Mas llegó un coleccionista, mañana de primavera
-
-[E] [E7] [Am]
-y sobre un jazmín en flor, aprisionó a nuestra reina,
-
-[Dm] [E7] [F] [E]
-la clavó con alfileres, entre cartulinas negras
-
-[E7] [Am]
-y la llevó a su museo de breves bellezas muertas.
-
-Las mariposas del alba lloraban por la floresta.
-
-[E7] [Am]
-[Am] [G] [F]
-Sobre un clavel se posó una mariposa blanca
-
-[E]
+[Am] Sobre un cla[G]vel se po[F]só una mariposa [E] blanca

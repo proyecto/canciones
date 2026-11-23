@@ -8,56 +8,52 @@ tags: ["canción de autor", "acústico", "español"]
 ---
 
 ## Intro
-[Am] [F] [E] (2) [C] [G]/ [F] / [E]
+[Am] [F] [E] (2) [C] [G] [F] [E]
 
-Esta sala de espera sin esperanza,
-Estas pilas de un timbre q se secó,
-Este helado de fresa de la venganza,
-Esta empresa de mudanzas
-Con los muebles del amor
--Esta campana mora en el campanario,
-Esta mitad partida por la mitad,
-Estos besos de judas, este calvario,
-Este look de presidiario,
-Esta cura de humildad.
-Este cambio de acera de tus caderas
-Estas ganas de nada menos de ti
-Este arrabal sin grillos en primavera,
-Ni espaldas con cremalleras,
-Ni anillos de presumir
--Esta casita de muñecas de alterne
-Este racimo de pétalos de sal
-Este huracán sin ojos que lo gobiernen
-Este jueves, este viernes
-Y el miércoles que vendrá
+[Am] Esta sala de espera sin espe[F]ranza, [E]
+[Am] Estas pilas de un timbre q se se[F]có, [E]
+[Am] Este helado de fresa de la ven[F]ganza, [E]
+Esta empresa de mu[F]danzas
+Con los muebles del a[E]mor
+-[Am] Esta campana mora en el campa[F]nario, [E]
+[Am] Esta mitad partida por la mi[F]tad, [E]
+[Am] Estos besos de judas, este cal[F]vario, [E]
+Este look de presi[F]diario,
+Esta cura de humil[E]dad.
+[Am] Este cambio de acera de tus ca[F]deras
+[Am] Estas ganas de nada menos de [F] ti [E]
+[Am] Este arrabal sin grillos en prima[F]vera, [E]
+Ni espaldas con crema[F]lleras,
+Ni anillos de presu[E]mir
+-[Am] Esta casita de muñecas de al[F]terne [E]
+[Am] Este racimo de pétalos de [F] sal [E]
+[Am] Este huracán sin ojos que lo go[F]biernen [E]
+Este jueves, este [F] viernes
+Y el miércoles que ven[E]drá
 
-[C] [G] [F] [E] (2) [Dm] [E]
-No abuses de mi inspiración,
-No acuses a mi corazón tan maltrecho
-Y ajado que está cerrado por derribo.
--Por las arrugas de mi voz se filtra la desolación
-De saber que estos son
-Los últimos versos que te escribo,
-Para decir "con Dios" a los dos
-Nos sobran los motivos.
+[C] No abuses de mi inspi[G]ración,
+No acuses a mi cora[F]zón tan maltrecho
+Y a[E]jado que está cerrado por derribo.
+-[C] Por las arrugas de mi [G] voz se filtra la desola[F]ción
+De saber que estos [E] son
+Los [Dm] últimos versos que te es[E]cribo,
+Para de[F]cir "con Dios" a los [E] dos
+Nos sobran los mo[Am]tivos.
 
--Este nido de pájaro disecado
-Este perro andaluz sin domesticar
-Este trono de príncipe destronado
-Esta espina de pescado, esta ruina de Don Juan.
--Esta lágrima de hombre de las cavernas
-Esta horma de zapato de barba azul,
-Que poco rato dura la vida eterna
-Por el túnel de tus piernas entre Córdoba y Maipú.
--Esta guitarra cínica y dolorida,
+-[Am] Este nido de pájaro dise[F]cado [E]
+[Am] Este perro andaluz sin domesti[F]car [E]
+[Am] Este trono de príncipe destro[F]nado [E]
+Esta espina de pes[F]cado, esta ruina de Don [E] Juan.
+-[Am] Esta lágrima de hombre de las ca[F]vernas [E]
+[Am] Esta horma de zapato de barba a[F]zul, [E]
+[Am] Que poco rato dura la vida e[F]terna [E]
+Por el túnel de tus [F] piernas entre Córdoba y Mai[E]pú.
+-[Am] Esta guitarra cínica y dolori[F]da, [E]
 Con su terco
-
-Knock, knockin' on heaven's door
-
-,
-Estos labios que saben a despedida
-A vinagre en las heridas, a pañuelo de estación
--Este ladrón aparcado en tu toga
-La rueca de Penélope en Luna Park
-Estos celos que sueñan que te desnudan
-Esta caracola viuda sin la pianola del mar
+Knock, knockin' on heaven's door,
+[Am] Estos labios que saben a despi[F]dida [E]
+A vinagre en las he[F]ridas, a pañuelo de esta[E]ción
+-[Am] Este ladrón aparcado en tu [F] toga [E]
+[Am] La rueca de Penélope en Luna [F] Park [E]
+[Am] Estos celos que sueñan que te des[F]nudan [E]
+Esta caracola [F] viuda sin la pianola del [E] mar

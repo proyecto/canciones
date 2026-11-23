@@ -10,69 +10,46 @@ tags: ["rumba", "popurrí", "fiesta"]
 ## Intro
 [Am] [E] [Am] (2)
 
-Bamboleo
+[Am] Bamboleo, [E] porque mi vida yo la [Am] quiero vivir así
 
-porque mi vida yo la quiero vivir así
+[Am] Tiene mi Cuba un son y una can[Dm]tina, hecha de [G7] caña y ron y agua ma[C]rina,
+El canti[Dm]nero es un buen cu[E]bano, [E7] y una his[F]toria de amor lo volvió [E] malo
 
-[Am] [Dm] [G7] [C] [Dm] [E]-[E7] [F] [E]
-Tiene mi Cuba un son y una cantina, hecha de caña y ron y agua marina,
-El cantinero es un buen cubano, y una historia de amor lo volvió malo
+[Dm] Cantinero de [G7] Cuba, Cuba, [C] Cuba (2) solo bebe aguar[Am]diente [F] para olvi[E7]dar [Am]
 
-[Dm]-[G7] [C]-[Am]-[F] [E]-7 [Am] (2)
-Cantinero de Cuba, Cuba, Cuba (2) solo bebe aguardiente para olvidar
+[Am] Obí, obá, [G] cada día te quiero [F] más, obí (3) [E7] obá
 
-[Am] [G] [F] [E7] (2)
-obí (3) obá
+[Am] Se pasaba los días haciendo [E] surcos junto a la [Am] mula
+Ella estaba en el pueblo tras la ven[E]tana con su cos[Am]tura
+Él re[D]gaba la tierra con su su[G]dor, esperando la [F] noche con ilu[E7]sión
 
-Obí, obá, cada día te quiero más,
+[Am] Un día muy cansado, se va pal [E] pueblo pa’ verla a [Am] ella
+Miró tras la ventana, pero no es[E]taba tras de la [Am] reja
+¿Dónde es[D]tará mi novia? Se pregun[G]tó y el [F] eco de la noche le respon[E7]dió:
 
-[Am] [E] [Am] / [Am]-[D] [G] [F] [E7] (2)
-Se pasaba los días haciendo surcos junto a la mula
-Ella estaba en el pueblo tras la ventana con su costura
+[A] A tu novia la vieron la otra ma[E]ñana,
+Hablando de quereres tras la ven[A]tana.
+Un [Am] mozo con dinero la ha enamo[E7]rado,
+La separó de ti, se la ha lle[Am]vado.
 
-Él regaba la tierra con su sudor, esperando la noche con ilusión
+[A] Me va (5) me va la vida, me va la gente de aquí y de a[E]llá,
+Me van las cosas que son sencillas de comprender me va el amor de ver[A]dad
+-[A] Me va (5) me va la noche y el frío sol del amane[E]cer,
+Me va el paisaje, las golondrinas y el frío aquel me va el amor, de ver[A]dad.
 
-Un día muy cansado, se va pal pueblo pa’ verla a ella
-Miró tras la ventana, pero no estaba tras de la reja
+[A] Porque mi guitarra está completamente enamo[Bm]rada de [E] ti
+Sobre mi pecho la estoy sin[A]tiendo latir
 
-¿Dónde estará mi novia? Se preguntó y el eco de la noche le respondió:
+[A] Color moreno, el color de las caras de los ro[E]meros
+Color moreno, el que tienen las flamencas por los sen[A]deros
+Color moreno, el color de la gitana que yo más [E] quiero
+Color moreno, el color de la arena del camino ro[A]ciero
 
-[A] [E] [A] / [Am] [E7] [Am] (2)
-A tu novia la vieron la otra mañana,
-Hablando de quereres tras la ventana.
-Un mozo con dinero la ha enamorado,
-La separó de ti, se la ha llevado.
+-[Am] Hago el camino, los pinares y prados [Dm] verdes
+La luz de una can[E]dela, la noche y el re[Am]lente
+[Am] Hago el camino, los pinares y prados [Dm] verdes
+Voy contando los [E] días, que faltan para [Am] verte
 
-Me va (5) me va la vida, me va la gente de aquí y de allá,
-Me van las cosas que son sencillas de comprender me va el amor de verdad
--Me va (5) me va la noche y el frío sol del amanecer,
-Me va el paisaje, las golondrinas y el frío aquel me va el amor, de verdad.
+[A] Ay peregrina, ay pere[D]grina, corazón [A] mío, por decir tu [E] nombre (2), yo digo Ro[A]cío
 
-[A] [Bm] [E] [A] (4)
-Porque mi guitarra está completamente enamorada de ti
-Sobre mi pecho la estoy sintiendo latir
-
-[Am]_[Dm] [E] [Am] (2)
-[A] [E] [A] (2)
-Color moreno, el color de las caras de los romeros
-Color moreno, el que tienen las flamencas por los senderos
-Color moreno, el color de la gitana que yo más quiero
-Color moreno,
-
-el color de la arena del camino rociero
-
--Hago el camino, los pinares y prados verdes
-La luz de una candela, la noche y el relente
-Hago el camino, los pinares y prados verdes
-Voy contando los días, que faltan para verte
-
-[D]_[A] [E] [A] (2)
-[A] [D] [A] [E] [A]
-Ay peregrina, ay peregrina, corazón mío, por decir tu nombre (2), yo digo Rocío
-
-Bamboleo
-
--
-
-[Am] [E] [Am] (2)
-porque mi vida yo la quiero vivir así
+[Am] Bamboleo, [E] porque mi vida yo la [Am] quiero vivir así

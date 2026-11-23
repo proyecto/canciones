@@ -8,104 +8,83 @@ tags: ["pop", "indie pop", "español"]
 ---
 
 ## Verso 1
-(Zzoilo/
-
-Aitana
-
-)
 Mon amour, je t’aime…
-
-[C] [E] [Am] [F] [Zzoilo]/
-te juro que volé
-
-[Aitana]
-Es que me encantas tanto
-Si me miras mientras canto
-Se me pone cara tont@
-Niña, tú me tienes loc@
-Y es que me gustas, no sé cuánto
-Más que el olor a café cuando me levanto
-Contigo no hace falta dinero en el banco
-Contigo veo Paris desde todo lo alto
-De la Torre Eiffel, que se está muy bien
-Mon amour, je t'aime
-Parece un cliché pero no lo es
-Contigo aprendí lo que es vivir
-Pero ya lo ves, ah, ah, ah
-Somos increíbles, somos increíbles… (Y&Á)
-Son las seis de la mañana y me da igual
-Voy a salir a la calle, voy a ponerme a gritar
-Voy a gritar que te quiero,
-Que te quiero de verdad
-Con esa sonrisa puesta
-
 [C] [E] [Am] [F]
-Son las seis de la mañana y me da igual
-Voy a salir a la calle, voy a ponerme a gritar
-Voy a gritar que te quiero,
-Que te quiero de verdad
-Con esa sonrisa puesta
-De verdad que no me cuesta
-Pensar en ti cuando me acuesto
-Pero Aitana, no imagines el resto
+Te juro que volé
+
+Es que me [C] encantas tanto
+Si me [E] miras mientras canto
+Se me [Am] pone cara tont@
+Niña, [F] tú me tienes loc@
+Y es que me [C] gustas, no sé cuánto
+Más que el [E] olor a café cuando me levanto
+Con[Am]tigo no hace falta dinero en el banco
+Con[F]tigo veo Paris desde todo lo alto
+De la [C] Torre Eiffel, que se está muy bien
+Mon a[E]mour, je t'aime
+Parece un cli[Am]ché pero no lo es
+Contigo a[F]prendí lo que es vivir
+Pero ya lo [C] ves, ah, ah, ah
+Somos in[E]creíbles, somos in[Am]creíbles… [F]
+
+[C] Son las seis de la mañana y me da igual
+[E] Voy a salir a la calle, voy a ponerme a gritar
+[Am] Voy a gritar que te quiero,
+[F] Que te quiero de verdad
+Con esa [C] sonrisa puesta
+De verdad [E] que no me cuesta
+Pensar en [Am] ti cuando me acuesto
+Pero Ai[F]tana, no imagines el resto
 Que si no, no queda bonito esto.
 
-Voy a ir directo a ti
-Voy a mirarte a los ojos, no te voy a mentir
-Y como dos niños chicos, te pediré salir
-Esperando un "sí", esperando un
+[C] Voy a ir directo a ti
+[E] Voy a mirarte a los ojos, no te voy a mentir
+[Am] Y como dos niños chicos, te pediré salir
+[F] Esperando un "sí", esperando un kiss
 
-Y es que me encantas tanto
-Si me miras mientras canto
-Se me pone cara tonto
-Niña, tú me tienes loco
+Y es que me [C] encantas tanto
+Si me [E] miras mientras canto
+Se me [Am] pone cara tonto
+Niña, [F] tú me tienes loco
+Y es que me [C] gustas, no sé cuánto
+"Gogoko [E] zaitut" como dirían los vascos
+Si [Am] quieres te lo digo hasta en portugués,
+[F] “Eu gosto de você”
+Se me para[C]liza el cuerpo cuando vas a besarme
+Me a[E]cuerdo de ti cuando voy a maquillarme
+Can[Am]tando en los conciertos,
+Te ima[F]gino delante,
+Siendo el más ele[C]gante,
+Siendo el más impor[E]tante
 
-kiss
+[C] Voy a ir directo a ti
+[E] Voy a mirarte a los ojos, no te voy a mentir
+[Am] Y como dos niños chicos, te pediré salir
+[F] Esperando un "sí", esperando un kiss
 
-Y es que me gustas, no sé cuánto
-"Gogoko zaitut" como dirían los vascos
-
-Si quieres te lo digo hasta en portugués,
-“Eu gosto de você”
-Se me paraliza el cuerpo cuando vas a besarme
-Me-acuerdo de ti cuando voy a maquillarme
-Cantando en los conciertos,
-Te imagino delante,
-Siendo el más elegante,
-Siendo el más importante
-
-Voy a ir directo a ti
-Voy a mirarte a los ojos, no te voy a mentir
-Y como dos niños chicos, te pediré salir
-Esperando un "sí", esperando un kiss
-
-Y es que me encantas tanto
-Si me miras mientras canto
-Se me pone cara tont@
-Niña, tú me tienes loc@
-Y es que me gustas, no sé cuánto
-Más que el olor a café cuando me levanto
-Contigo no hace falta dinero en el banco
-Contigo veo París desde todo lo alto.
-Cuando salgo de grabar,
-Solo quiero ir a buscarte
-Me da igual Madrid o París,
-Solo contigo escaparme
+Y es que me [C] encantas tanto
+Si me [E] miras mientras canto
+Se me [Am] pone cara tont@
+Niña, [F] tú me tienes loc@
+Y es que me [C] gustas, no sé cuánto
+Más que el [E] olor a café cuando me levanto
+Con[Am]tigo no hace falta dinero en el banco
+Con[F]tigo veo París desde todo lo alto.
+Cuando [C] salgo de grabar,
+Solo [E] quiero ir a buscarte
+Me da i[Am]gual Madrid o París,
+Solo con[F]tigo escaparme
 Mon amour, s'il vous plaît, vámonos de aquí
 
-Grabando con Aitana,
-Ya pensando en buscarte
-Y yo en cruzar el charco,
-Pa poder ir a verte
-No importa el idioma, solo quiero cantarte
-Mon amour, amore mio, solo quiero comerte
+[C] Grabando con Aitana, ya pensando en buscarte
+[E] Y yo en cruzar el charco, pa poder ir a verte
+[Am] No importa el idioma, solo quiero cantarte
+[F] Mon amour, amore mio, solo quiero comerte
 
-[F] [G] [C] [E7]
-Cuando te veo, mamá, como un formula one
-Paso de cero a cien, contigo implosioné
-De ti me envenené, yo ya no sé qué hacer
-Me abrazaste y volé,
+[F] Cuando te veo, mamá, [G] como un formula one
+Paso de [C] cero a cien, contigo implosio[E7]né
+De ti me envene[F]né, yo ya no [G] sé qué hacer
+Me abra[C]zaste y volé, [E7]
 
 Pues nos vamos…
-
 Adiós

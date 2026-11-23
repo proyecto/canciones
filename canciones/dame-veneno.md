@@ -8,38 +8,18 @@ tags: ["rumba", "flamenco", "70s"]
 ---
 
 ## Verso 1
-(Los Chunguitos 1976
+(Los Chunguitos 1976)
 
-[E] [F]
-)
-
-Dame veneno que quiero morir,
-
-[G]
-Dame veneno
+[E] Dame veneno que [F] quiero morir,
+Dame ve[G]neno
 Que antes prefiero la muerte,
+Que vivir contigo, dame ve[F]neno,
+Ay para mo[E]rir (2)
 
-Que vivir contigo, dame veneno,
+[E] Ay que adelantas con te[F]ner,
+Los ojos como las [G] moras
+Si cuando sales a la [F] calle,
+Ay de cualquiera te ena[E]moras
 
-[F]
-[E]
-Ay para morir (2)
-
-Ay que adelantas con tener,
-
-[E] [F]
-Los ojos como las moras
-
-[G]
-Si cuando sales a la calle,
-
-[F]
-[E]
-Ay de cualquiera te enamoras
-
-[E] [F]
--Ay mira si eres presumía,
-
-Ay mira si eres presumía
-
-[G]
+[E] Ay mira si eres presu[F]mía,
+Ay mira si eres presu[G]mía [F] [E]

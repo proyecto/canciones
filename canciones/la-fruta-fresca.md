@@ -8,32 +8,35 @@ tags: ["vallenato", "pop", "colombiano"]
 ---
 
 ## Intro
-[Am] [Dm] [E] [Am] (3)
+[Am] [Dm] [E] [Am]
 
-Ese beso de tu boca que me sabe a fruta fresca
-Que se escapó de tus labios y se metió en mi cabeza
-Ese beso con que sueño, cuando, las penas me acechan
-Que me lleva al mismo cielo y a la tierra me regresa
-Y que reza, reza, que reza, y aunque ya no tenga cura
-El recuerdo de sus besos, me lleve hasta la locura
+[Am] Ese beso de tu [Dm] boca que me [E] sabe a fruta [Am] fresca
+Que se escapó de tus [Dm] labios y se me[E]tió en mi ca[Am]beza
+Ese beso con que [Dm] sueño, cuando, las [E] penas me a[Am]cechan
+Que me lleva al mismo [Dm] cielo y a la [E] tierra me re[Am]gresa
+Y que [Dm] reza, reza, que reza, y aun[E]que ya no tenga cura
+El re[Dm]cuerdo de sus besos, me [E] lleve hasta la lo[Am]cura
 
-Sí, sí, sí, que este amor es tan profundo
-Que tú eres mi consentida, y que lo sepa todo el mundo (BIS)
+[Am] Sí, sí, sí, que este a[Dm]mor es tan pro[E]fundo
+Que tú eres mi consen[Am]tida, y que lo [Dm] sepa todo el [E] mundo [Am] (BIS)
 
-Que tú eres mi consentida, la niñita de mis ojos
-La que me endulza la vida, la que calma mis enojos
-La que se pone más linda, cuando la llevo a una fiesta
-Esa que siempre en mi cama, con los ángeles se acuesta
+[Am] Que tú eres mi consen[Dm]tida, la ni[E]ñita de mis [Am] ojos
+La que me endulza la [Dm] vida, la que [E] calma mis e[Am]nojos
+La que se pone más [Dm] linda, cuando la [E] llevo a una [Am] fiesta
+Esa que siempre en mi [Dm] cama, con los [E] ángeles se a[Am]cuesta
 
-Sí, sí, sí, que este amor es tan profundo…
+[Am] Sí, sí, sí, que este a[Dm]mor es tan pro[E]fundo
+Que tú eres mi consen[Am]tida, y que lo [Dm] sepa todo el [E] mundo
 
-Y que digan en la radio, que yo te quiero de veras
-Que lo digan en los diarios y después de la novela
-Y en un letrero que diga que como tú no hay ninguna
-Que lo digan en la China, que digan en la luna
+[Am] Y que digan en la [Dm] radio, que yo te [E] quiero de [Am] veras
+Que lo digan en los [Dm] diarios y des[E]pués de la no[Am]vela
+Y en un letrero que [Dm] diga que como [E] tú no hay nin[Am]guna
+Que lo digan en la [Dm] China, que [E] digan en la [Am] luna
 
-Sí, sí, sí, que este amor es tan profundo…
+[Am] Sí, sí, sí, que este a[Dm]mor es tan pro[E]fundo
+Que tú eres mi consen[Am]tida, y que lo [Dm] sepa todo el [E] mundo
 
-Guararé (7) No me olvides que yo no te olvidaré
+[Am] Guararé (7) no me ol[Dm]vides que yo no [E] te olvida[Am]ré
 
-Sí, sí, sí, que este amor es tan profundo…
+[Am] Sí, sí, sí, que este a[Dm]mor es tan pro[E]fundo
+Que tú eres mi consen[Am]tida, y que lo [Dm] sepa todo el [E] mundo

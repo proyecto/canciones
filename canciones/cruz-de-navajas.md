@@ -8,57 +8,49 @@ tags: ["pop", "80s", "español"]
 ---
 
 ## Intro
-[Dm] [G7] [C] ([Am]/[Em]/[Am]) (3) [Dm] [G]
+[Dm] [G7] [C] [Am] [Dm] [G]
 
-A las cinco se cierra la barra del 33,
-Pero Mario no sale hasta las seis,
-Y si encima le toca hacer caja, despídete,
-Casi siempre se le hace de día,
+[Dm] A las cinco se cierra la [G7] barra del 33,
+[C] Pero Mario no sale [Am] hasta las seis,
+[Dm] Y si encima le toca hacer [G7] caja, despídete,
+[C] Casi siempre se le [Am] hace de día,
 
-[Am] [Em] [Dm]-[G7]-[C] (2) [Dm] [G]
-Mientras María ya se ha puesto en pie,
-Ha hecho la casa, ha hecho hasta el café
-Y le espera medio desnuda.
+[Am] Mientras María ya se ha [Em] puesto en pie,
+Ha hecho la [Dm] casa, ha hecho [G7] hasta el ca[C]fé
+[Am] Y le espera [Em] medio des[Dm]nuda [G]
 
-[Dm] [G7] [C] ([Am]/[Em]/[Am]) (3) [Dm] [G]
-Mario llega cansado y saluda,
-Sin mucho afán,
-Quiere cama, pero otra variedad,
-Y María se moja las ganas en el café,
-Magdalenas del sexo convexo.
+[Dm] Mario llega cansado y sa[G7]luda,
+[C] Sin mucho [Am] afán,
+[Dm] Quiere cama, pero [G7] otra variedad,
+[C] Y María se moja las [Am] ganas en el café,
+Magda[Dm]lenas del sexo con[G]vexo.
 
-[Am] [Em] [Dm]-[G7]-[C] (2) [Dm] [G]
-Luego el trabajo en un gran almacén,
-Cuando regresa no hay más que un somier,
-Taciturno que usar por turnos
+[Am] Luego el trabajo en un [Em] gran almacén,
+Cuando re[Dm]gresa no hay [G7] más que un so[C]mier,
+[Am] Taci[Em]turno que usar [Dm] por turnos [G]
 
-[C] [G7] [Am] [G7](3) -[C]
-Cruz de navajas por una mujer,
-Gritos mortales despuntan al alba,
-Sangres que tiñen de malva el amanecer.
+[C] Cruz de na[G7]vajas por [Am] una mu[G7]jer,
+[C] Gritos mor[G7]tales des[Am]puntan al [G7] alba,
+[C] Sangres que [G7] tiñen de [Am] malva el amane[G7]cer [C]
 
-[Dm] [G7] [C] ([Am]/[Em]/[Am]) (3) [Dm] [G]
-Pero hoy como ha habido redada en el 33,
-Mario vuelve a las cinco menos diez.
-Por su calle vacía a lo lejos sólo se ve
-A unos novios comiéndose a besos.
+[Dm] Pero hoy como ha habido re[G7]dada en el 33,
+[C] Mario vuelve a las [Am] cinco menos diez.
+[Dm] Por su calle vacía a lo [G7] lejos sólo se ve
+[C] A unos novios co[Am]miéndose a besos [Dm] [G]
 
-[Am] [Em] [Dm]-[G7]-[C] (2) [Dm] [G]
-El pobre Mario se quiere morir,
-Cuando se acerca para descubrir
-Que es María con compañía
+[Am] El pobre Mario se [Em] quiere morir,
+Cuando se a[Dm]cerca para [G7] descu[C]brir
+[Am] Que es Ma[Em]ría con com[Dm]pañía [G]
 
-[Dm] [G7]// [Am] [Em.] [F]-[G]-[C](2) [Dm] [G7]
-Sobre Mario, de bruces, tres cruces,
-Una en la frente, la que más dolió
-Otra en el pecho, la que lo mató,
-Y otra miente en el noticiero:
+[Dm] Sobre Mario, de bruces, [G7] tres cruces,
+[Am] Una en la frente, la [Em] que más dolió
+[F] Otra en el [G] pecho, la [C] que lo mató,
+[Am] Y otra miente [Em] en el noti[F]cie[G]ro: [C] [Dm] [G7]
 
-[C]-[G7]-[Am]-[G7](3) -[C]
-Dos drogadictos en plena ansiedad
-Roban y matan a Mario Postigo,
-Mientras su esposa es testigo
-Desde el portal, en vez de..
+[C] Dos drogadic[G7]tos en [Am] plena ansie[G7]dad
+[C] Roban y [G7] matan a [Am] Mario Pos[G7]tigo,
+[C] Mientras su es[G7]posa es tes[Am]tigo [G7]
+Desde el por[C]tal, en vez de..
 
-Y si el niño llora, menguará la luna
-Para hacerle una cuna (2)
+[C] Y si el niño llora, men[G7]guará la luna
+Para ha[Am]cerle una [G7] cuna [C] (2)

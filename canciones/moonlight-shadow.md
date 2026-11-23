@@ -8,52 +8,47 @@ tags: ["folk rock", "pop", "80s", "classic", "inglés"]
 ---
 
 ## Intro
-[Dm] [A#]/ [C]_[F] [C] (2)
+[Dm] [A#] [C] [F] [C]
 
 ## Verso 1
-The last, time_ever she saw him
-Carried away by a moonlight shadow
-He passed on worried and warning
-Carried away by a moonlight shadow.
+The [Dm] last time ever she [A#] saw him
+[C] Carried away by a [F] moonlight [C] shadow
+He [Dm] passed on worried and [A#] warning
+[C] Carried away by a [F] moonlight [C] shadow.
 
-[F]_[C] [Dm]-[A#] [C](2)
-Lost in a riddle that Saturday night, far away on the other side
-He was caught in the middle of a desperate fight
-And she couldn’t find how to push through.
+[F] Lost in a riddle that [C] Saturday night,
+[Dm] Far a[A#]way on the [C] other side
+He was [F] caught in the middle of a [C] desperate fight
+And [Dm] she couldn’t [A#] find how to [C] push through.
 
-[Dm] [A#]/ [C]_[F] [C] (2)
-The trees that whisper in the evening,
-Carried away by a moonlight shadow
-Sing_a_song, of sorrow and grieving
-Carried away by a moonlight shadow.
+The [Dm] trees that whisper in the [A#] evening,
+[C] Carried away by a [F] moonlight [C] shadow
+[Dm] Sing a song of sorrow and [A#] grieving
+[C] Carried away by a [F] moonlight [C] shadow.
 
-[F]_[C] [Dm]-[A#] [C] (2)
-All_she_saw_was_the silhouette of a gun far away on the other side
-He was shot six times by a man on the run, and she couldn’t find how to push through.
+[F] All she saw was the [C] silhouette of a gun
+[Dm] Far a[A#]way on the [C] other side
+He was [F] shot six times by a [C] man on the run,
+And [Dm] she couldn’t [A#] find how to [C] push through.
 
-[C]_ [F] [A#] [C] (2)
-I STAY, I PRAY SEE YOU-OU IN HEAVEN FAR AWAY
-I STAY, I PRAY SEE YOU-OU IN HEAVEN ONE DAY
+[C] I stay, [F] I pray [A#] see you in [C] heaven far away
+[C] I stay, [F] I pray [A#] see you in [C] heaven one day
 
-[Dm] [A#]/ [C]_[F] [C] (2)
-Four, a.m. in the morning
-Carried away by a moonlight shadow
-I watch your vision forming
-Carried away by a moonlight shadow.
+[Dm] Four a.m. in the [A#] morning
+[C] Carried away by a [F] moonlight [C] shadow
+I [Dm] watch your vision [A#] forming
+[C] Carried away by a [F] moonlight [C] shadow.
 
-[F]_[C] [Dm]-[A#] [C](2)
-The stars move slowly in a silvery light
-Far away on the other side
-Will you come to talk to me this night
-But she couldn’t find how to push through.
+[F] The stars move slowly in a [C] silvery light
+[Dm] Far a[A#]way on the [C] other side
+[F] Will you come to talk to [C] me this night
+But [Dm] she couldn’t [A#] find how to [C] push through.
 
-[C]_ [F] [A#] [C] (2)
-I STAY, I PRAY SEE YOU-OU IN HEAVEN FAR AWAY
-I STAY, I PRAY SEE YOU-OU IN HEAVEN ONE DAY
+[C] I stay, [F] I pray [A#] see you in [C] heaven far away
+[C] I stay, [F] I pray [A#] see you in [C] heaven one day
 
-[F]_[C] [Dm]-[A#] [C] (4) [F]...
-Caught in the middle of a hundred and five
-The night was heavy and the air was alive
-But she couldn’t find how to push through
-Far away on the other side
-But she couldn’t find how to push through
+[F] Caught in the middle of a [C] hundred and five
+The [Dm] night was [A#] heavy and the [C] air was alive
+But [Dm] she couldn’t [A#] find how to [C] push through
+[F] Far away on the [C] other side
+But [Dm] she couldn’t [A#] find how to [C] push through [F]

@@ -10,12 +10,12 @@ tags: ["rock andaluz", "flamenco rock", "clásico"]
 ## Intro
 [Em] [Am] [Em] [B7] [Em]
 
--Cada noche mi vida es para ti
-Como un juego cualquiera y nada más
-Porque a mí me atormenta en el alma tu frialdad
--Yo quisiera saber si tu alma es igual
-A la de cualquier mujer
-Porque a mí me atormenta en el alma, tu frialdad
--Y sueño con gran pasión que vives para mí
-Como yo vivo niña por ti
-Nananá naná eh (ad libitum)
+[Em] -Cada noche mi vida es [Am] para ti
+[Em] Como un juego cualquiera y nada más
+Porque a mí me atormenta en el [B7] alma tu frial[Em]dad
+[Em] -Yo quisiera saber si tu [Am] alma es igual
+[Em] A la de cualquier mujer
+Porque a mí me atormenta en el [B7] alma, tu frial[Em]dad
+[Em] -Y sueño con gran pa[Am]sión que vives para [Em] mí
+Como yo [B7] vivo niña por [Em] ti
+[Am] Nananá [Em] naná [B7] eh (ad li[Em]bitum)

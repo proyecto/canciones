@@ -10,32 +10,32 @@ tags: ["pop rock", "80s", "balada"]
 ## Intro
 [C] [Am] [Em]/ [F] [G] [C] [G](2)
 
-No, no, no me llores,
-No me vayas a hacer llorar a mi
-Dame, dame tu mano,
-Inténtalo mi niña, quiero verte reír
+[C] No, no, no me llores,
+No me vayas a [Am] hacer llorar a mi
+[Em] Dame, dame tu mano,
+Inténtalo mi [F] niña, quiero [G] verte reír
 
 [C] [Am] (2) [C] [F] [Fm] [G] [C]
-Abrázame fuerte, ven corriendo a mí
-Te quiero, te quiero, te quiero
-Y no hago otra cosa que pensar en ti
+[C] Abrázame fuerte, ven [Am] corriendo a mí
+[C] Te quiero, te quiero, te [F] quiero
+Y no hago [Fm] otra cosa que [G] pensar en [C] ti
 
 [C] [Am] [Em]/ [F] [G] [C] [G](2)
-Tú, que estás dormida,
-Y yo te abrazo y siento que respiras
-Sueño, con tu sonrisa,
-Te beso muy despacio en las mejillas
+[C] Tú, que estás dormida,
+Y yo te [Am] abrazo y siento que respiras
+[Em] Sueño, con tu sonrisa,
+Te [F] beso muy despacio [G] en las mejillas
 
 [C] [Am] (2) [Cm] [Fm] [Fm] [Cm]-[Fm] [Gm] [Cm] [Am]
-Necesito verte, donde quiera que estés
-Te quiero, te quiero, te quiero
-Y no hago otra cosa que pensar en ti
-Sólo vivo y respiro para ti
+[C] Necesito verte, donde [Am] quiera que estés
+Te [Cm] quiero, te quiero, te [Fm] quiero
+Y no hago [Gm] otra cosa que [Cm] pensar en [Am] ti
+Sólo [Fm] vivo y respiro para [Gm] ti
 
 [F] [G] [C] [Am]/ [F] [G] [C] [Cm] [G]
-Te quiero, te quiero,
-Te quiero, te quiero
+[F] Te quiero, te [G] quiero,
+[C] Te quiero, te [Am] quiero
 
-Abrázame fuerte, ven corriendo a mí
-Déjame que te diga otra vez
-Que te quiero, te quiero
+[C] Abrázame fuerte, ven [Am] corriendo a mí
+Déjame que te [F] diga otra vez
+Que te [G] quiero, te [C] quiero

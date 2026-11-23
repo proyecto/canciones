@@ -8,45 +8,37 @@ tags: ["rock", "80s", "classic", "himno", "inglés"]
 ---
 
 ## Verso 1
-What I’m looking for (U2)
-
-[D] [G] [D]
-I have climbed the highest mountains
+[D] I have climbed the highest mountains
 I have run through the fields.
-Only to be with you
-Only to be with you
-I have run, I have crawled
+Only to [G] be with you
+Only to [D] be with you
+[D] I have run, I have crawled
 I have scaled these city walls
-These city walls
-Only to be with you
+These city [G] walls
+Only to [D] be with you
 
-[A] [G] [D]
-BUT I STILL HAVEN’T FOUND
-WHAT I’M LOOKING FOR (2)
+But I [A] still haven't [G] found what I'm [D] looking for
+But I [A] still haven't [G] found what I'm [D] looking for
 
-[D] [G] [D]
-I have kissed honey lips
+[D] I have kissed honey lips
 Felt the healing in her fingertips
-It burned like fire, this burning desire
-I have spoken with the tongue of angels
+It burned like [G] fire, this burning [D] desire
+[D] I have spoken with the tongue of angels
 I have held the hand of the devil
-It was warm in the night,
-I was cold as a stone.
+It was warm in the [G] night,
+I was cold as a [D] stone.
 
-[A] [G] [D]
-BUT I STILL HAVEN’T FOUND
-WHAT I’M LOOKING FOR (2)
+But I [A] still haven't [G] found what I'm [D] looking for
+But I [A] still haven't [G] found what I'm [D] looking for
 
-[D] [G] [D]
-I believe in the kingdom come
+[D] I believe in the kingdom come
 Then all the colours will,
-Bleed into one (2)
+Bleed into [G] one (2) [D]
 But yes, I’m still running
-You broke the bonds,
+[D] You broke the bonds,
 You loosened the chains
-You carried the cross
-And my shame (2) You know I believe it
+You carried the [G] cross
+And my [D] shame (2) You know I believe it
 
-[A] [G] [D]
-BUT I STILL HAVEN’T FOUND
-WHAT I’M LOOKING FOR (2)
+But I [A] still haven't [G] found what I'm [D] looking for
+But I [A] still haven't [G] found what I'm [D] looking for

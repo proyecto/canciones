@@ -10,24 +10,23 @@ tags: ["rumba", "vallecas", "70s"]
 ## Intro
 [Am] [G] [F] [E]
 
-Vente Misiana Juana, vente misiana,
-Misiana Juana (bis), que yo te quiero
+[Am] Vente Misiana [G] Juana, vente mi[F]siana,
+Misiana [E] Juana (bis), que yo te quiero
 
--Porque tú te ves bonita, tú te pones orgullosa
-Ni más ni menos (2)
-Más bonitas son las rosas,
-Viene el tiempo y las marchita (2)
-La hermosura es poca cosa,
-Ni más ni menos (bis)
-Porque tú te ves bonita tú te pones orgullosa
+-[Am] Porque tú te ves bonita, [G] tú te pones orgullosa
+[F] Ni más ni [E] menos (2)
+[Am] Más bonitas son las [G] rosas,
+Viene el [F] tiempo y las mar[E]chita (2)
+[Am] La hermosura es poca [G] cosa,
+[F] Ni más ni [E] menos (bis)
+[Am] Porque tú te ves bonita, [G] tú te pones orgu[F]llosa [E]
 
 Porompompero
 
-[Am] [E] [Am] [Am] [G] [F] [E]
--El cateto de tu hermano,
-Que no me venga con leyes
-Que payo, yo soy gitano
-Y tengo sangre de reyes
--Que pa, que payo yo soy gitano,
-Que ten, que tengo sangre de reyes
-En la, en la palma de la mano
+-[Am] El cateto de tu hermano,
+[G] Que no me venga con leyes
+[F] Que payo, yo soy gitano
+[E] Y tengo sangre de reyes
+-[Am] Que pa, que payo yo soy gitano,
+[G] Que ten, que tengo sangre de reyes
+En [F] la, en la palma de la [E] mano

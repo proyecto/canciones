@@ -8,40 +8,40 @@ tags: ["canción de autor", "himno", "español"]
 ---
 
 ## Intro
-[G] [D] [C] [G]/ [E7] [Am]-[C]-[D] [A]
+[G] [D] [C] [G] [E7] [Am] [C] [D]
 
-España camisa blanca de mi esperanza
-La negra pena nos atenaza
-La pena deja, plomo en las alas.
-Quisiera poner el hombro y pongo palabras
-Que casi siembre acaban en nada
-Cuando se enfrentan, al ancho mar.
+## Verso 1
+[G] España camisa [D] blanca de mi esperanza,
+La [C] negra pena nos ate[G]naza,
+La [E7] pena deja plomo [Am] en las [C] a[D]las.
+[G] Quisiera poner el [D] hombro y pongo palabras
+Que [C] casi siempre acaban [G] en nada
+Cuando se en[E7]frentan al [Am] ancho [C] mar. [D]
 
-[A] [E] [D] [F#m] [A]/ [F#] [Bm]-[D]-[E]_ -[D7]
-España camisa blanca de mi esperanza
-A veces madre y siempre madrastra
-Navaja, barro, clavel, espada.
-La muerte siempre nos acompaña
-En nuestras cosas más cotidianas
-Y al fin nos hace a todos igual.
+## Verso 2
+[A] España camisa [E] blanca de mi esperanza,
+A [D] veces madre y siempre ma[A]drastra,
+Na[F#]vaja, barro, cla[Bm]vel, es[D]pa[E]da.
+La [A] muerte siempre [E] nos acompaña
+En [D] nuestras cosas más coti[A]dianas,
+Y al [F#] fin nos hace a [Bm] todos i[D]gual. [E]
 
-[G] [D] [C] [G]/ [E7] [Am]-[C]-[D] [G]
-España camisa blanca de mi esperanza
-De fuera o dentro, dulce o amarga,
-De olor a incienso, de cal y caña.
-¿quién puso el desasosiego
-En nuestras entrañas?
-Nos hizo libres, pero sin alas,
-Nos dejó el hambre y se llevó el pan?
+## Verso 3
+[G] España camisa [D] blanca de mi esperanza,
+De [C] fuera o dentro, dulce o a[G]marga,
+De o[E7]lor a incienso, de [Am] cal y [C] ca[D]ña.
+¿Quién [G] puso el desaso[D]siego en nuestras entrañas?
+Nos [C] hizo libres, pero sin [G] alas,
+¿Nos de[E7]jó el hambre y se lle[Am]vó el [C] pan? [D]
 
-En el comedor se sientan separados a comer,
-Si se miran bien, les corren
-Mil hormigas por los pies,
+## Puente
+[C] En el comedor se sientan sepa[G]rados a comer,
+Si se [Am] miran bien, les corren mil hor[D]migas por los pies.
 
-[G] [D] [C] [G]/[E7] [Am]-[C]-[D] [A]-[D] [A]
-España camisa blanca de mi esperanza
-Aquí me tienes, nadie me manda,
-Quererte tanto me cuesta nada.
-Nos haces siempre a tu imagen y semejanza,
-Lo bueno y malo que hay en tu estampa
-De peregrina a ningún lugar.
+## Verso 4
+[G] España camisa [D] blanca de mi esperanza,
+A[C]quí me tienes, nadie me [G] manda,
+Que[E7]rerte tanto me [Am] cuesta [C] na[D]da.
+Nos [G] haces siempre a tu [D] imagen y semejanza,
+Lo [C] bueno y malo que hay en tu es[G]tampa
+De pere[E7]grina a nin[Am]gún lu[C]gar. [D] [G]

@@ -11,38 +11,40 @@ tags: ["rock and roll", "classic", "60s", "inglés"]
 [C] [F] [G]
 
 ## Verso 1
-Para bailar la bamba (2) Se necesita una poca de gracia.
-Una poca de gracia pa mí y pa ti. Ay arriba y arriba.
-Ay arriba y arriba, por ti seré, por ti seré, por ti seré
-Yo no soy marinero. Yo no soy marinero
-Soy capitán Soy capitán. Soy capitán
-Bamba bamba (3)
+Para [C] bailar la [F] bamba, [G]
+Para [C] bailar la [F] bamba se nece[G]sita una poca de [C] gracia [F] [G]
+Una [C] poca de [F] gracia pa mí y pa [G] ti, ay arriba y a[C]rriba [F] [G]
+Ay a[C]rriba y a[F]rriba, por ti se[G]ré, por ti se[C]ré, por ti se[F]ré [G]
+Yo no [C] soy mari[F]nero, [G] yo no [C] soy mari[F]nero
+Soy capi[G]tán, soy capi[C]tán, [F] soy capi[G]tán
+[C] Bamba, [F] bamba [G]
+[C] Bamba, [F] bamba [G]
 
-Para subir al cielo (2) Se necesita una escalera grande.
-Una escalera grande y otra chiquita. Ay arriba y arriba.
-Ay arriba y arriba, por ti seré, por ti seré, por ti seré
-Bamba bamba (3)
+Para [C] subir al [F] cielo, [G]
+Para [C] subir al [F] cielo se nece[G]sita una escalera [C] grande [F] [G]
+Una es[C]calera [F] grande y otra chi[G]quita, ay arriba y a[C]rriba [F] [G]
+Ay a[C]rriba y a[F]rriba, por ti se[G]ré, por ti se[C]ré, por ti se[F]ré [G]
+[C] Bamba, [F] bamba [G]
+[C] Bamba, [F] bamba [G]
 
-Well, shake it up, baby, now    (Shake it up, baby)
-Twist and shout             (Twist and shout)
-Come on (4), baby, now         (Come on, baby)
-Come on and work it on out    (Work it on out)
-Well, work it on out, honey        (Work it on out)
-You know you look so good     (Look so good)
-You know you got me goin' now.    (Got me goin')
-Just like I knew you would        (Like I knew you would)
+Well, [C] shake it up, [F] baby, [G] now (Shake it up, baby)
+[C] Twist and [F] shout (Twist and [G] shout)
+Come on, [C] come on, [F] baby, [G] now (Come on, baby)
+Come on and [C] work it on [F] out (Work it on [G] out)
+Well, [C] work it on [F] out, honey (Work it on [G] out)
+You know you [C] look so [F] good (Look so [G] good)
+You know you [C] got me [F] goin' now (Got me [G] goin')
+Just like I [C] knew you [F] would (Like I knew you [G] would)
 
-Well, shake it up, baby, now    (Shake it up, baby)
-Twist and shout             (Twist and shout)
-Come on (4), baby, now         (Come on, baby)
-Come on and work it on out    (Work it on out)
-You know you twist, little girl.     (Twist, little girl)
-You know you twist so fine        (Twist so fine)
-Come on and twist a little closer now    (Twist a little closer)
-And let me know that you're mine     (Let me know you're mine)
+Well, [C] shake it up, [F] baby, [G] now (Shake it up, baby)
+[C] Twist and [F] shout (Twist and [G] shout)
+Come on, [C] come on, [F] baby, [G] now (Come on, baby)
+Come on and [C] work it on [F] out (Work it on [G] out)
+You know you [C] twist, little [F] girl (Twist, little [G] girl)
+You know you [C] twist so [F] fine (Twist so [G] fine)
+Come on and [C] twist a little [F] closer now (Twist a little [G] closer)
+And let me [C] know that you're [F] mine (Let me know you're [G] mine)
 
-Bam-ba-bamba (3) oh!
+[C] Bam-ba-[F]bamba [G] oh!
 
-https://www.youtube.com/watch?v=9zRIHqlycss
-https://www.youtube.com/watch?v=Jp6j5HJ-Cok
 [A] [D] [E]

@@ -8,95 +8,42 @@ tags: ["copla", "andaluz", "clásico"]
 ---
 
 ## Intro
-[Am]-[E]-[Am](2)[A7]_ [Dm] [E] [Am] /[G] [C](2)[E] [Am] (2)
+[Am] [E] [Am] [A7] [Dm] [E] [Am] [G] [C] [E] [Am]
 
-De Sevilla un patio,
+[Am] De Sevilla un patio, salpi[E]cao de flores,
+Una fuente en medio con un surti[Am]dor,
+[A7] Rosas y claveles de to[Dm]dos colores,
+Que no los so[E]ñara mejor ni un pin[Am]tor.
+-Junto a la cancela de [G] hierro forjao,
+Hay una mo[C]cita de tez bronceá,
+Y jun[E]tito a ella, moreno y plantao,
+Un mozo encen[Am]dío, que hablándole está.
 
-salpicao
+[Am] La luna, rosa de plata, el [E] patio bañao de luz,
+[F] Muy cerquita de su novia dijo el mo[E7]cito andaluz:
 
-de flores
-Una fuente en medio con un surtidor
-Rosas y claveles de todos colores
-Que no los soñara mejor ni un pintor
--Junto a la cancela de hierro
+[Am] Rocío, ¡ay mi Ro[E7]cío!, manojito de cla[Am]veles,
+Capullitos flore[E7]cíos,
+[Am] De pensar en tus que[A7]reres voy a perder el sen[Dm]tío,
+Porque te quiero mi [G7] vía, como nadie te ha que[C]río,
+¡Ay Ro[E7]cío, ay mi Ro[Am]cío!
 
-forjao
+[Am] [E] [Am] [A7] [Dm] [E] [Am] [G] [C] [E] [Am]
 
-Hay una mocita de tez
+[Am] Ahora es otro el patio salpi[E]cao de rosas,
+Patio de las monjas de la cari[Am]dad,
+[A7] Donde hasta la fuente llora [Dm] silenciosa
+La canción a[E]marga de su sole[Am]dad.
+-Regando las flores hay [G] una monjita,
+Que como ellas [C] tiene carita de flor,
+Y que [E] se parece a aquella mocita
+Que tras la can[Am]cela le hablaban de amor.
 
-bronceá
+[Am] La luna, rosa de plata, el [E] patio bañao de luz,
+[F] Mas ya no suena la copla de aquel mo[E7]cito andaluz.
 
-Y juntito a ella, moreno y
-
-plantao
-
-,
-Un mozo
-
-encendío
-
-, que hablándole está
-
-[Am] [E] [F] [E7]
-La luna, rosa de plata, el patio bañao de luz,
-Muy cerquita de su novia
-Dijo el mocito andaluz:
-
-[Am] [E7] [Am](2) -[A7] [Dm] [G7] [C] [E7] [Am]
-Rocío, ¡ay mi Rocío!, manojito de claveles
-Capullitos
-
-florecíos
-
-,
-De pensar en tus quereres
-Voy a perder el
-
-sentío
-
-,
-Porque te quiero mi
-
-,
-Como nadie te ha
-
-querío
-
-vía
-
-¡Ay Rocío, ay mi Rocío!
-
-[Am]-[E]-[Am](2)[A7]_ [Dm] [E] [Am] /[G] [C](2)[E] [Am] (2)
-Ahora es otro el patio
-
-salpicao
-
-de rosas
-Patio de las monjas de la caridad
-Donde hasta la fuente llora silenciosa
-La canción amarga de su soledad
--regando las flores hay una monjita
-Que como ellas tiene carita de flor
-Y que se parece a aquella mocita
-Que tras la cancela le hablaban de amor
-
-[Am] [E] [F] [E7]
-La luna, rosa de plata, el patio
-
-de luz
-Mas ya no suena la copla
-De aquel mocito andaluz
-
-bañao
-
-[Am] [E7] [Am] [E7]-[Am] -[A7] [Dm] [G7] [C] [E7] [Am]
-Rocío, ¡ay mi Rocío!, manojito de claveles
-Capullitos
-
-florecíos
-
-,
-De pensar en tus quereres
-Voy a perder el
-
-sentío
+[Am] Rocío, ¡ay mi Ro[E7]cío!, manojito de cla[Am]veles,
+Capullitos flore[E7]cíos,
+[Am] De pensar en tus que[A7]reres voy a perder el sen[Dm]tío,
+Porque te quiero mi [G7] vía, como nadie te ha que[C]río,
+¡Ay Ro[E7]cío, ay mi Ro[Am]cío!

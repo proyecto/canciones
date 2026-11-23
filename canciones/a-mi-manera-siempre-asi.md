@@ -10,31 +10,32 @@ tags: ["rumba", "español", "cover"]
 ## Intro
 [#2] [G] [Bm] [Dm] [E7]/ [Am] [Am7] [C] [G] // [G] [G7] [C] [Cm]/ [G] [D] [C] [G]
 
-El fin, muy cerca está. Lo afrontaré serenamente.
-Ya ves... yo he sido así... Te lo diré, sinceramente.
-Viví la intensidad y no encontré jamás fronteras
-Si bien, todo ello fue, a mi manera.
+## Verso 1
+[G] El fin, muy cerca está. [Bm] Lo afrontaré serenamente.
+[Em] Ya ves... yo he sido así... [E7] Te lo diré, sinceramente.
+[Am] Viví la intensidad [Am7] y no encontré jamás fronteras
+[C] Si bien, todo ello fue, [G] a mi manera.
 
-[G] [Bm] [Em] [E7]/ [Am] [Am7] [C] [G] // [G] [G7] [C] [Cm]/ [G] [D] [C] [G]
--Jamás viví un amor que para mi fuera importante.
-Tomé solo la flor y lo mejor de cada instante.
-Viajé y disfruté, no sé si más que otro cualquiera.
-Y así, logré seguir, a mi manera.
+## Verso 2
+[G] Jamás viví un amor [Bm] que para mi fuera importante.
+[Em] Tomé solo la flor [E7] y lo mejor de cada instante.
+[Am] Viajé y disfruté, [Am7] no sé si más que otro cualquiera.
+[C] Y así, logré seguir, [G] a mi manera.
 
-[G] [G7] [C] [Am]/ [C] [D] [B7] [Em]/ [C] [D] [C] [G]
-Tal vez lloré, tal vez reí, tal vez gané o tal vez perdí,
-Y ahora sé que fui feliz, que si lloré, también amé
-Y todo fue, puedo decir, a mi manera.
+## Puente
+[G] Tal vez lloré, [G7] tal vez reí, [C] tal vez gané o [Am] tal vez perdí,
+[C] Y ahora sé que fui feliz, [D] que si lloré, [B7] también amé
+[Em] Y todo fue, [C] puedo decir, [D] a mi [C] manera. [G]
 
-[G] [Bm] [Em] [E7]/ [Am] [Am7] [C] [G] // [G] [G7] [C] [Cm]/ [G] [D] [C] [G]
-Quizá yo desprecié aquello que no comprendía.
-Quizá también dudé cuando mejor me divertía.
-Y hoy sé que firme fui y que afronté ser como era.
-Y así yo me sentí a mi manera.
+## Verso 3
+[G] Quizá yo desprecié [Bm] aquello que no comprendía.
+[Em] Quizá también dudé [E7] cuando mejor me divertía.
+[Am] Y hoy sé que firme fui [Am7] y que afronté ser como era.
+[C] Y así yo me sentí [G] a mi manera.
 
-[G] [G7] [C] [Am]/ [C] [D] [B7] [Em]/ [C] [D] [C] [G]
-Porque sabrás, que un hombre al fin, conocerás, por su vivir
-no hay porque hablar ni que decir, ni hay que llorar, que hay que fingir
-puedo llegar hasta el final, a mi manera.
+## Puente 2
+[G] Porque sabrás, [G7] que un hombre al fin, [C] conocerás, [Am] por su vivir
+[C] no hay porque hablar [D] ni que decir, [B7] ni hay que llorar, que hay que fingir
+[Em] puedo llegar [C] hasta el final, [D] a mi [C] manera. [G]
 
 Te estoy queriendo tanto

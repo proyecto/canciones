@@ -8,30 +8,19 @@ tags: ["bolero", "clásico", "latino"]
 ---
 
 ## Intro
-[A7] [Dm] (2) [D7] [Gm] [Dm] [A7] [Dm] [Dm] [A7] [Dm] [A7] [Dm]
+[A7] [Dm] [D7] [Gm] [Dm] [A7] [Dm]
 
-Duermen en mi jardín, las blancas azucenas, los nardos y las rosas.
+[Dm] Duermen en mi jar[A7]dín, las blancas azu[Dm]cenas, los nardos y las [A7] rosas.
+[D7] Mi alma, tan triste y pesa[Gm]rosa, que a las [Dm] flores quiere ocul[A7]tar su amargo do[Dm]lor.
 
-[D7] [Gm] [Dm] [A7] [Dm]
-Mi alma, tan triste y pesarosa que a las flores quiere ocultar su amargo dolor.
-
-[C] [A#] [F] [A7] [Gm] [Dm]
-Yo no quiero que las flores sepan, los tormentos que me da la vida.
-
-[C] [A#] [F] [Dm] [Gm] [A7]
-Si supieran lo que estoy sufriendo, de pena morirían también.
+[C] Yo no quiero que las flores [A#] sepan, [F] los tormentos [A7] que me da la [Gm] vida. [Dm]
+[C] Si supieran lo que estoy su[A#]friendo, [F] de [Dm] pena mori[Gm]rían tam[A7]bién.
 
 > (A.C. 1º)
-[D] [Em] [A7] [D]
-Silencio que están durmiendo, los nardos y las azucenas,
+[D] Silencio que están dur[Em]miendo, los [A7] nardos y las azu[D]cenas,
+[F#7] No quiero que [G] sepan mis [D] penas, [B7] porque [Em] si me ven llo[A7]rando mori[D]rán (2)
 
-[F#7] [G] [D] [B7] [Em] [A7] [D]
-No quiero que sepan mis penas, porque si me ven llorando morirán (2)
-
-[F] [Gm] [C] [F]
-Silencio que están durmiendo, los nardos y las azucenas,
-
-[A7] [A#7] [F] [D7] [Gm] [C] [F] [A#m] [F] [Fdis]
-No quiero que sepan mis penas, porque si me ven llorando morirán, morira a án
+[F] Silencio que están dur[Gm]miendo, los [C] nardos y las azu[F]cenas,
+[A7] No quiero que [A#7] sepan mis [F] penas, [D7] porque [Gm] si me ven llo[C]rando mori[F]rán, [A#m] morira a [F] án [Fdis]
 
 Dormido entre rosas

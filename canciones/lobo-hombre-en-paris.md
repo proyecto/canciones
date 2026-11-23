@@ -10,35 +10,34 @@ tags: ["synthpop", "new wave", "80s", "español"]
 ## Verso 1
 En el límite del bien...
 
-[C] [Em] (4)
-(La Unión ‘84)
+[C] [Em]
+(La Unión '84)
 
-Cae la noche y amanece en París,
-En el día en que todo ocurrió
-Como un sueño de locos sin fin,
-La fortuna se ha reído de ti (BIS)
+[C] Cae la noche y ama[Em]nece en París,
+[C] En el día en que [Em] todo ocurrió
+[C] Como un sueño de [Em] locos sin fin,
+[C] La fortuna se ha re[Em]ído de ti (BIS)
 
-[Dm] [Em] [Dm]/ [G#] -[G]-[C]
-Sorprendido espiando, cual lobo está aullando
-Y es mordido, por el mago del Siam.
+[Dm] Sorprendido espiando, [Em] cual lobo está aullando
+Y es mor[Dm]dido, por el [G#] mago [G] del [C] Siam.
 
-[C] [Em] (4)
-La luna llena sobre París,
-Ha transformado en hombre a Denis
-Rueda por los bares del bulevar,
-Se ha alojado en un sucio hostal
+[C] [Em]
 
-[Dm] [Em] [Dm] [G#] -[G]-[C]
-Mientras está cenando, junto a él se ha sentado
-Una joven, con la que irá a contemplar
+[C] La luna llena so[Em]bre París,
+[C] Ha transformado en [Em] hombre a Denis
+[C] Rueda por los bares [Em] del bulevar,
+[C] Se ha alojado en un [Em] sucio hostal
 
-La luna llena sobre París
-¡Auu! Algunos francos cobra Denis
-¡Auu! Lobo-hombre en parís,
-¡Auu! Su nombre Denis
-La luna llena sobre París
-¡Auu! ha transformado en hombre a Denis
-¡Auu! Lobo-hombre en París,
-¡Auu! Su nombre Denis
+[Dm] Mientras está cenando, [Em] junto a él se ha sentado
+Una [Dm] joven, con la [G#] que irá [G] a con[C]templar
 
-[C] [Em] (4)
+[C] La luna llena so[Em]bre París
+¡Auu! [C] Algunos francos [Em] cobra Denis
+¡Auu! [C] Lobo-hombre en [Em] París,
+¡Auu! [C] Su nombre De[Em]nis
+[C] La luna llena so[Em]bre París
+¡Auu! [C] ha transformado en [Em] hombre a Denis
+¡Auu! [C] Lobo-hombre en [Em] París,
+¡Auu! [C] Su nombre De[Em]nis
+
+[C] [Em]

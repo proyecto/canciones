@@ -10,56 +10,41 @@ tags: ["pop", "balada", "80s"]
 ## Verso 1
 Yo soy uno de esos amantes
 
-[G] [Bm] [C] [D] (3) [G] [F#m7]/5- [B7]_
-- Nada tienen de especial
-Dos mujeres que se dan la mano,
-El matiz viene después,
-Cuando lo hacen por debajo del mantel.
+-[G] Nada tienen de espe[Bm]cial
+Dos mu[C]jeres que se dan la [D] mano,
+El ma[G]tiz viene des[Bm]pués,
+Cuando lo [C] hacen por de[D]bajo del man[G]tel. [F#m7-5] [B7]
 
-[Em] [G] [C][_(]2)
-Luego a solas, sin nada que perder,
-Tras las manos, va el resto de la piel.
+[Em] Luego a solas, sin [G] nada que per[C]der,
+[Em] Tras las manos, [G] va el resto de la [C] piel.
 
--
+[G] Un amor por ocul[Bm]tar,
+Aunque en [C] cueros no hay donde escon[D]derlo,
+Lo dis[G]frazan de amis[Bm]tad,
+Cuando [C] salen a pa[D]sear por la ciu[G]dad. [F#m7-5] [B7]
 
-Un amor por ocultar,
-Aunque en cueros no hay donde esconderlo,
-Lo disfrazan de amistad,
-Cuando salen a pasear por la ciudad
+[Em] Una opina que a[G]quello no está [C] bien,
+[Em] La otra opina que [G] qué se le va a ha[C]cer,
+[G] Y lo que opinen los de[F#m7-5]más está de [B7] más.
 
--
-Una opina que aquello no está bien,
-La otra opina que qué se le va a hacer,
+[Em] Quién detiene pa[D]lomas al vuelo,
+[C#m7-5] Volando a ras del [C] suelo [Cm] mujer contra mu[G]jer
 
-[G] [F#m7]/5- [B7]
-Y lo que opinen los demás está de más.
+-[G] No estoy yo por la la[Bm]bor
+De ti[C]rarles la primera [D] piedra,
+Si equi[G]voco la oca[Bm]sión,
+Y las [C] hallo labio a [D] labio en el sa[G]lón. [F#m7-5] [B7]
 
-[Em] [D] [C#m7]-5/ [C]/ [Cm] [G]
-Quién detiene palomas al vuelo,
-Volando a ras del suelo mujer contra mujer
+[Em] Ni siquiera me atreve[G]ría a to[C]ser,
+[Em] Si no gusto yo [G] sé lo que hay que ha[C]cer,
+[Em] Que con mis piedras [G] hacen ellas su pa[C]red. [F#m7-5] [B7]
 
-[G] [Bm] [C] [D] (3) [G] [F#m7]/5- [B7]_
--No estoy yo por la labor
-De tirarles la primera piedra,
-Si equivoco la ocasión,
-Y las hallo labio a labio en el salón
+[Em] Quién detiene pa[D]lomas al vuelo…
 
-[Em] [G] [C][_(]2)
-Ni siquiera me atrevería a toser,
-Si no gusto yo sé lo que hay que hacer,
+[Em] Una opina que a[G]quello no está [C] bien,
+[Em] La otra opina que [G] qué se le va a ha[C]cer,
+[G] Y lo que opinen los de[F#m7-5]más está de [B7] más.
 
-Que con mis piedras hacen ellas su pared
-
-[G] [F#m7]/5-[B7]
-Quién detiene palomas al vuelo…
-
-[Em] [G] [C][_(]2) [Em] [D] [C]
-Una opina que aquello no está bien,
-La otra opina que qué se le va a hacer,
-
-[G] [F#m7]/5- [B7]
-Y lo que opinen los demás está de más.
-
-Quién detiene palomas al vuelo…
-Oh oh oh
-Quién detiene palomas al vuelo
+[Em] Quién detiene pa[D]lomas al vuelo…
+[C#m7-5] Oh [C] oh [Cm] oh
+[Em] Quién detiene pa[D]lomas al [C] vuelo [Cm] [G]

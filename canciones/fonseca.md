@@ -7,22 +7,41 @@ tempo: 100
 tags: ["tuna", "popular", "español"]
 ---
 
+## Intro
+[Am] [E7] [Am]
+
 ## Verso 1
-Adiós (adiós, adiós), aulas de mi querer, donde con ilusión mi carrera estudie
-//:Adiós, mi universidad, cuyo reloj no volveré a escuchar ://
+[Am] Adiós, aulas de mi que[E7]rer,
+Donde con ilusión mi carrera estu[Am]dié.
+Adiós, mi universi[E7]dad,
+Cuyo reloj no volveré a escu[Am]char.
+Adiós, mi universi[E7]dad,
+Cuyo reloj no volveré a escu[Am]char.
 
-[Am] [E7] [Am] (2)
-Las calles están mojadas y parece que llovió,
-Son lagrimas de una niña por el amor que perdió.
+## Verso 2
+[Am] Las calles están mo[E7]jadas
+Y parece que llo[Am]vió,
+Son lágrimas de una [E7] niña
+Por el amor que per[Am]dió.
+Son lágrimas de una [E7] niña
+Por el amor que per[Am]dió.
 
-[Am] [E7] [Am] (3) [Dm] [Am] [E7] [Am]
-Triste y sola, sola se queda Fonseca, triste y llorosa queda la universidad.
-Y los libros, y los libros empeñados en el monte, en el monte de piedad.
+## Coro
+[Am] Triste y sola, sola se queda Fon[E7]seca,
+Triste y llorosa queda la universi[Am]dad,
+Y los libros, y los libros empe[Dm]ñados
+En el [Am] monte, en el [E7] monte de pie[Am]dad.
 
-[Am] [E7] [Am] (2)
-No te acuerdas cuando te decía a la pálida luz de la luna
-Yo no puedo querer más que a una y esa una mi vida eres tú.
+## Verso 3
+[Am] ¿No te acuerdas cuando te de[E7]cía
+A la pálida luz de la [Am] luna?
+Yo no puedo querer más que a [E7] una
+Y esa una, mi vida, eres [Am] tú.
+Yo no puedo querer más que a [E7] una
+Y esa una, mi vida, eres [Am] tú.
 
-[Am] [E7] [Am] (3) [Dm] [Am] [E7] [Am]
-Triste y sola, sola se queda Fonseca, triste y llorosa queda la universidad.
-Y los libros, y los libros empeñados en el monte, en el monte de piedad.
+## Coro
+[Am] Triste y sola, sola se queda Fon[E7]seca,
+Triste y llorosa queda la universi[Am]dad,
+Y los libros, y los libros empe[Dm]ñados
+En el [Am] monte, en el [E7] monte de pie[Am]dad.

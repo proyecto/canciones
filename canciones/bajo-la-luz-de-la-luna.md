@@ -8,38 +8,25 @@ tags: ["rockabilly", "balada", "español"]
 ---
 
 ## Intro
-[A] [C#m] [Bm] [E7](2)
+[A] [C#m] [Bm] [E7]
 
-Bajo la luz de la luna me diste tu amor,
-Ni tan solo una palabra, una mirada bastó.
+[A] Bajo la luz de la [C#m] luna [Bm] me diste tu a[E7]mor,
+[A] Ni tan solo una pa[C#m]labra, una mi[Bm]rada bas[E7]tó.
+[A] Y yo, [C#7] sé que nunca olvi[D]da[Dm]ré,
+Que [A] bajo la luz de la [E7] luna yo te a[A]mé. [C#m] [Bm] [E7]
 
-[A] [C#7] [D] -[m]/ [A] [E7] [A] ([C#m] [Bm] [E7])
-Y yo, sé que nunca olvidaré,
-Que bajo la luz de la luna yo te amé
+[A] Bajo la luz de la [C#m] luna [Bm] busqué el a[E7]mor,
+[A] Tu cuerpo entre mis [C#m] brazos se a[Bm]brió como una [E7] flor.
+[A] Y yo, [C#7] sé que nunca olvi[D]da[Dm]ré…
+Que [A] bajo la luz de la [E7] luna yo te a[A]mé.
 
-[A] [C#m] [Bm] [E7](2)
-Bajo la luz de la luna busqué el amor,
-Tu cuerpo entre mis brazos
-Se abrió como una flor.
+[E] Yo no pensaba, [E5] no pude imaginar,
+Que [E] todo lo que empieza, [E5] tiene un final
 
-[A] [C#7] [D] -[m]/ [A] [E7] [A] ([C#m] [Bm] [E7])
-Y yo, sé que nunca olvidaré…
+[D] Bajo la luz de la [Dm] luna me dijiste a[A]diós, [F#m]
+Con [Bm] lagrimas en la cara me rom[E]piste el corazón y [E5] yo...
 
-Que bajo la luz de la luna yo te amé
-
-[E5]
-Yo no pensaba, no pude imaginar,
-Que todo lo que empieza, tiene un final
-
-[D] [Dm] [A] [F#m] [Bm] [E] [E5]
-Bajo la luz de la luna me dijiste adiós,
-Con lagrimas en la cara me rompiste el corazón y yo...
-
-[Em]_[B7]_[Em]
-Ay corazón, corazón, corazón,
-
+[Em] Ay corazón, cora[B7]zón, cora[Em]zón,
 Trata de vender toda esa locura
-
-Ay corazón, corazón, corazón,
-
+[Em] Ay corazón, cora[B7]zón, cora[Em]zón,
 Tú sabes muy bien que no tengo dudas

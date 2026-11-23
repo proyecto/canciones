@@ -10,47 +10,48 @@ tags: ["zamba", "folklore", "argentino"]
 ## Intro
 [Dm]-[A7] [Dm] (2) [D7] / [Gm] [Dm] [A7] [Dm]
 
-Yo no le canto a la luna
-Porque alumbra y nada más
-/:Le canto porque ella sabe,
-De mi largo caminar:/
+[Dm] Yo no le canto a la luna
+[A7] Porque alumbra y nada más
+/:[Dm] Le canto porque ella sabe,
+[A7] De mi largo caminar:/
 
-Ay, lunita tucumana,
-Tamborcito calchaquí
+[Dm] Ay, lunita tucumana,
+[A7] Tamborcito calchaquí
 
 -
-/:Compañera de los gauchos,
-En las sendas de Tafí
+/:[Gm] Compañera de los gauchos,
+[Dm] En las sendas de [A7] Tafí
 
 [C7] [F] (2) [Gm] [Dm] [A7] [Dm]
 :/
 
-Perdido en las cerrazones,
-Quién sabe, vidita,
+[Dm] Perdido en las cerrazones,
+Quién sabe, [A7] vidita,
 Por dónde andaré
-Mas cuando salga la luna,
-Cantaré, cantaré
-A mi Tucumán querido,
-Cantaré, cantaré
+[Dm] Mas cuando salga la luna,
+Cantaré, [A7] cantaré
+[Dm] A mi Tucumán querido,
+Cantaré, [A7] cantaré
 
 (2) [Dm]- [A7] [Dm] (2) [D7] / [Gm] [Dm] [A7] [Dm]
-Con esperanza o con pena
-En los campos de Acheral
+[Dm] Con esperanza o con pena
+En los campos de [A7] Acheral
 
-/:Yo he visto a la luna buena,
-Besando el cañaveral:/
--En algo nos parecemos,
-Luna de la soledad
-/:Yo voy andando y cantando,
-Que es mi modo de alumbrar :/
+/:[Dm] Yo he visto a la luna buena,
+[A7] Besando el cañaveral:/
+[Gm] En algo nos parecemos,
+[Dm] Luna de la soledad
+/:[A7] Yo voy andando y cantando,
+[Dm] Que es mi modo de alumbrar :/
 
 [C7] [F] (2) [Gm] [Dm] [A7] [Dm] (2)
-Perdido en las cerrazones,
-Quién sabe, vidita, por dónde andaré
-Mas cuando salga la luna,
-Cantaré, cantaré
-A mi Tucumán querido,
-Cantaré, cantaré
+[Dm] Perdido en las cerrazones,
+Quién sabe, [A7] vidita, por dónde andaré
+[Dm] Mas cuando salga la luna,
+Cantaré, [A7] cantaré
+[Dm] A mi Tucumán querido,
+Cantaré, [A7] cantaré
+
 
 > https://es.wikipedia.org/wiki/Provincia_de_Tucumán
 > https://es.wikipedia.org/wiki/Calchaqu%C3%ADes

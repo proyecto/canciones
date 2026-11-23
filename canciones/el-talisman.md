@@ -8,41 +8,65 @@ tags: ["pop", "español", "90s"]
 ---
 
 ## Intro
-[Am] [Dm] [G7] [C][-(]2) [Am] [Dm] [G7] [E7]
+[Am] [Dm] [G7] [C] (x2) [Am] [Dm] [G7] [E7]
 
-El talismán de tu piel me ha dicho que soy la reina de tus caprichos
-Yo soy el as de los corazones que se pasean en tus tentaciones,
-El talismán de tu piel me cuenta que en tu montura caerán las riendas
+## Verso 1
+El [Am] talismán de tu [Dm] piel me ha dicho
+Que [G7] soy la reina de [C] tus caprichos,
+[Am] Yo soy el as de los [Dm] corazones
+Que se pa[G7]sean en tus ten[C]taciones,
+El [Am] talismán de tu [Dm] piel me cuenta
+Que en tu mon[G7]tura caerán las [E7] riendas.
 
-[Am] [Dm] [Am] [E]-7 [Am] (2)
-Cuando una noche de amor desesperados, caigamos juntos y enredados
-La alfombra y el alrededor acabarán desordenados
-Cuando una noche de amor que yo no dudo, la eternidad venga, seguro
-Tú y yo, el desnudo y el corazón seremos uno
+## Pre-Coro
+[Am] Cuando una noche de a[Dm]mor desesperados,
+Caigamos [Am] juntos y enre[E7]dados,
+La al[Am]fombra y el alrede[Dm]dor
+Acaba[Am]rán desorde[E7]nados. [Am]
+Cuando una noche de a[Dm]mor que yo no dudo,
+La eter[Am]nidad venga, se[E7]guro,
+[Am] Tú y yo, el des[Dm]nudo y el corazón
+Sere[Am]mos [E7] uno. [Am]
 
-[Am] [G] [F] [E7] (4) [Am]
-Yo soy la tierra de tus raíces, el talismán de tu piel lo dice
-Yo soy la tierra de tus raíces, lo dice el corazón y el fuego de tu piel
-Y yo soy la tierra de tus raíces, el talismán de tu piel lo dice
-Yo soy la tierra de tus raíces, a ver qué dices tú
+## Coro
+[Am] Yo soy la [G] tierra de tus ra[F]íces,
+El talis[E7]mán de tu piel lo [Am] dice,
+Yo soy la [G] tierra de tus ra[F]íces,
+Lo dice el cora[E7]zón y el fuego de tu [Am] piel.
+Y yo soy la [G] tierra de tus ra[F]íces,
+El talis[E7]mán de tu piel lo [Am] dice,
+Yo soy la [G] tierra de tus ra[F]íces,
+A ver qué [E7] dices [Am] tú.
 
-[Am] [Dm] [G] [C]- (2) [Am] [Dm] [G7] [E7]
-El talismán de tu piel me chiva que ando descalza de esquina a esquina
-Por cada calle que hay en tus sueños, que soy el mar de todos tus puertos
-El talismán de tu piel me cuenta que tu destino caerá a mi puerta.
+## Verso 2
+El [Am] talismán de tu [Dm] piel me chiva
+Que ando des[G]calza de esquina a [C] esquina
+Por [Am] cada calle que [Dm] hay en tus sueños,
+Que soy el [G] mar de todos tus [C] puertos.
+El [Am] talismán de tu [Dm] piel me cuenta
+Que tu des[G7]tino caerá a mi [E7] puerta.
 
-Cuando una noche de amor desesperados, caigamos juntos y enredados
-La alfombra y el alrededor acabarán desordenados
-Cuando una noche de amor que yo no dudo, la eternidad venga, seguro
-Tú y yo, el desnudo y el corazón seremos uno
+## Pre-Coro
+[Am] Cuando una noche de a[Dm]mor desesperados,
+Caigamos [Am] juntos y enre[E7]dados,
+La al[Am]fombra y el alrede[Dm]dor
+Acaba[Am]rán desorde[E7]nados. [Am]
+Cuando una noche de a[Dm]mor que yo no dudo,
+La eter[Am]nidad venga, se[E7]guro,
+[Am] Tú y yo, el des[Dm]nudo y el corazón
+Sere[Am]mos [E7] uno. [Am]
 
-[Am] [Dm] [Am] [E]-7 [Am]
-[Am] [G] [F] [E7]
-Yo soy la tierra de tus raíces, el talismán de tu piel lo dice
-Yo soy la tierra de tus raíces, lo dice el corazón y el fuego de tu piel
-Y yo soy la tierra de tus raíces, el talismán de tu piel lo dice
-Yo soy la tierra de tus raíces, a ver qué dices tú
+## Coro
+[Am] Yo soy la [G] tierra de tus ra[F]íces,
+El talis[E7]mán de tu piel lo [Am] dice,
+Yo soy la [G] tierra de tus ra[F]íces,
+Lo dice el cora[E7]zón y el fuego de tu [Am] piel.
+Y yo soy la [G] tierra de tus ra[F]íces,
+El talis[E7]mán de tu piel lo [Am] dice,
+Yo soy la [G] tierra de tus ra[F]íces,
+A ver qué [E7] dices [Am] tú.
 
-[Am] [Dm] [Am] [E]-7 [Am]
-Cuando una noche de amor desesperados, caigamos juntos y enredados
-Tú y yo, el desnudo y el corazón seremos uno…
+## Outro
+[Am] Cuando una noche de a[Dm]mor desesperados,
+Caigamos [Am] juntos y enre[E7]dados,
+[Am] Tú y yo, el des[Dm]nudo y el corazón sere[Am]mos [E7] uno… [Am]

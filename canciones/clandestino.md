@@ -8,44 +8,37 @@ tags: ["reggae", "canción protesta", "clásico"]
 ---
 
 ## Intro
-[F#m] [Bm] [C#] 7
+[F#m] [Bm] [C#7]
 
-Solo, voy con mi pena, sola, va mi condena
-Correr es mi destino, para burlar la ley
-Perdido en el corazón, de la grande Babilón
-Me dicen: El Clandestino por no llevar papel
+[Am] Solo, voy con mi pena, sola, va mi con[Dm]dena
+Correr es mi des[E7]tino, para burlar la [Am] ley
+Perdido en el corazón, de la grande Babi[Dm]lón
+Me dicen: El Clandes[E7]tino por no llevar pa[Am]pel
 
-[Am] [Dm] [E7] [Am] (2)
-Pa' una ciudad del norte, yo me fui a trabajar
-Mi vida la dejé entre Ceuta y Gibraltar
-Soy una raya en el mar, fantasma en la ciudad
-Mi vida va prohibida, dice la autoridad
+[Am] Pa' una ciudad del norte, yo me fui a traba[Dm]jar
+Mi vida la de[E7]jé entre Ceuta y Gibral[Am]tar
+Soy una raya en el mar, fantasma en la ciu[Dm]dad
+Mi vida va prohi[E7]bida, dice la autori[Am]dad
 
-[Am] [Dm] [E7] [Am] (2)
-Solo, voy con mi pena, sola, va mi condena
-Correr es mi destino, por no llevar papel
-Perdido en el corazón de la grande Babilón
-Me dicen el Clandestino, yo soy el quiebra ley
+[Am] Solo, voy con mi pena, sola, va mi con[Dm]dena
+Correr es mi des[E7]tino, por no llevar pa[Am]pel
+Perdido en el corazón de la grande Babi[Dm]lón
+Me dicen el Clandes[E7]tino, yo soy el quiebra [Am] ley
 
-Mano Negra, clandestina
-Peruano, clandestino
-Africano, clandestino
-Marihuana, ilegal
+[E7] Mano Negra, clandestina
+[Am] Peruano, clandestino
+[E7] Africano, clandestino
+[Am] Marihuana, ilegal
 
-[E7] [Am] (4)
-[Am] [Dm] [E7] [Am] (2)
-Solo, voy con mi pena, sola, va mi condena
-Correr es mi destino, para burlar la ley
-Perdido en el corazón, de la grande Babilón
-Me dicen: El Clandestino por no llevar papel
+[Am] Solo, voy con mi pena, sola, va mi con[Dm]dena
+Correr es mi des[E7]tino, para burlar la [Am] ley
+Perdido en el corazón, de la grande Babi[Dm]lón
+Me dicen: El Clandes[E7]tino por no llevar pa[Am]pel
 
-[E7] [Am] (4)
-Argelino, clandestino
-Nigeriano, clandestino
-Boliviano, clandestino
-Mano Negra, ilegal
-
-__________________________________
+[E7] Argelino, clandestino
+[Am] Nigeriano, clandestino
+[E7] Boliviano, clandestino
+[Am] Mano Negra, ilegal
 
 ¿Qué voy a hacer? Je ne sais pas… (4)
 

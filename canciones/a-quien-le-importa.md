@@ -10,37 +10,20 @@ tags: ["pop", "synthpop", "80s", "español"]
 ## Intro
 [Dm]
 
-Susurra a mis espaldas y a mí me importa un bledo
+[Am] Susurra a mis espaldas y a mí me importa un bledo
+[Dm] Que más me da, si soy distinta a ellos, [G] no soy de [C] nadie, no [B7] tengo [E7] dueño
+[Am] Yo sé que me critican, me consta que me odian
+[Dm] La envidia les corroe, mi vida les agobia
+¿Por qué será? Yo no tengo la culpa, [G] mi circun[C]stancia les [B7] in[E7]sulta.
 
-Que más me da, si soy distinta a ellos, no soy de nadie, no tengo dueño
+[Dm] Mi destino es el [G] que yo de[C]cido, el [F] que yo e[Dm]lijo para [G] mi [E7]
 
-[G] [C] [B7] [E7]
-Yo sé que me critican, me consta que me odian
+[Am] ¿A quién le importa [Dm] lo que yo haga?
+[G] ¿A quién le importa [C] lo que yo diga?
+[F] Yo soy así, y a[B7]sí seguiré, nunca cam[E7]biaré
 
-[Am]
-La envidia les corroe, mi vida les agobia
+[Am] Quizá la culpa es mía, por no seguir la norma
+[Dm] Ya es demasiado tarde, para cambiar ahora
+[Am] Me mantendré, [D] firme en mis convic[G]ciones, reforza[C]ré mis [B7] posi[E7]ciones
 
-[Dm]
-¿Por qué será? Yo no tengo la culpa, mi circunstancia les insulta.
-
-[G] [C] [B7] [E7]
-[Dm] [G] [C] [F] [Dm] [G.] [E7]
-Mi destino es el que yo decido, el que yo elijo para mi
-
-¿A quién le importa lo que yo haga?
-
-[Am] [Dm]
-[G] [C]
-¿A quién le importa lo que yo diga?
-
-Yo soy así, y así seguiré, nunca cambiaré
-
-[F] [B7] [E7]
-Quizá la culpa es mía, por no seguir la norma
-Ya es demasiado tarde, para cambiar ahora
-Me mantendré, firme en mis convicciones, reforzaré mis posiciones
-
-[Am]/ [D]/ [G] [C]-[B7]-[E7]
-Mi destino es el que yo decido, el que yo elijo para mí
-
-[Dm] [G] [C] [F] [Dm] [G.] [E7]
+[Dm] Mi destino es el [G] que yo de[C]cido, el [F] que yo e[Dm]lijo para [G] mí [E7]

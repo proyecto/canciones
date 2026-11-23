@@ -8,38 +8,35 @@ tags: ["pop rock", "español", "80s"]
 ---
 
 ## Intro
-[G] [Am] [D] [G] (2)
+[G] [Am] [D] [G]
 
-Dime tu nombre,
-Y te haré reina en un jardín de rosas
-Tus ojos miran hacia el lugar
-Donde se oculta el día
+[G] Dime tu nombre,
+Y te haré [Am] reina en un jardín de [D] rosas
+Tus ojos [G] miran hacia el lugar
+Donde se oculta el [D] día
 
-[G] [Am] [D] (2)
--Has podido ver donde morirán
-Los oscuros sueños
-Que cada día vienen y van,
-Soy el dueño del viento y el mar.
--Al pasar el tiempo despertarás
+[G] Has podido ver donde morirán
+Los oscuros [Am] sueños
+Que cada día vienen y [D] van,
+Soy el dueño del [G] viento y el mar.
+Al pasar el tiempo desperta[Am]rás
 Y descubrirás,
-Cientos de rosas a tu alrededor,
-Hoy la luna y mañana el sol
+Cientos de rosas a tu alrede[D]dor,
+Hoy la luna y ma[G]ñana el sol
 
-[Am]_ [Dm] [Am] [D] -7 -[G]
-Y tú, sin saber aún quién eres
-Desde el país donde mueren las flores
-Dime que aún creerás en mí.
+Y [Am] tú, sin saber aún quién [Dm] eres
+[Am] Desde el país donde mueren las [D7] flores
+[G] Dime que aún creerás en mí.
 
-[G] [Am] [D] [G] (2)
-Dime tu nombre,
-Y te haré reina en un jardín de rosas
-Tus ojos miran hacia el lugar
-Donde se oculta el día
-I beg your pardon,
-I never promised you a rose garden
-Along_with the sunshine
-There's gotta be a little rain sometime
-Dime tu nombre,
-Y te haré reina en un jardín de rosas
-Tus ojos miran hacia el lugar
-Donde se oculta el día
+[G] Dime tu nombre,
+Y te haré [Am] reina en un jardín de [D] rosas
+Tus ojos [G] miran hacia el lugar
+Donde se oculta el [D] día
+[G] I beg your pardon,
+I never [Am] promised you a rose [D] garden
+Along [G] with the sunshine
+There's gotta be a little [D] rain sometime
+[G] Dime tu nombre,
+Y te haré [Am] reina en un jardín de [D] rosas
+Tus ojos [G] miran hacia el lugar
+Donde se oculta el [G] día

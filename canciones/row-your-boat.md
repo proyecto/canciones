@@ -8,8 +8,7 @@ tags: ["popular", "infantil", "tradicional", "inglés"]
 ---
 
 ## Verso 1
--[A7]  [D]
-Row, row your boat
+[D] Row, row, row your boat
 Gently down the stream
-Merrily, Merrily, Merrily, Merrily
-Life is but a dream
+[A7] Merrily, Merrily, Merrily, Merrily
+[D] Life is but a dream

@@ -10,27 +10,20 @@ tags: ["rumba", "popurrí", "flamenco"]
 ## Intro
 [F]
 
-Ay que el traje de
+[F] Ay que el traje de los do[E]mingos, te lo pones to los días.
 
-los domingos,
+[C] Yo no quiero ser tu a[Em]mante
+Y yo [F] no puedo serlo [G] más
+[C] Yo no quiero ser tu a[Em]mante
+Y yo [F] quiero ser algo [G] más
 
-[E]
-Te lo pones to los días.
+[G] Enamorao de [Em] ella,
+[C] Loco perdío por [D] ella
+[G] Y veo que su es[Em]trella
+De mis [C] manos se me [D] va [G]
 
-[C] [Em] [F] [G]
-Yo no quiero ser tu amante
-Y yo no puedo serlo más
-Yo no quiero ser tu amante
-Y yo quiero ser algo más
-
-[G]_[Em] [C] [D] (2) -[G]
-Enamorao de ella,
-Loco perdío por ella
-Y veo que su estrella
-De mis manos se me va (bis)
-
-Vuela, pensamiento mío,
-Corre, pensamiento corre,
-Dile que mi luz se apaga,
-Siento que la necesito,
-Que venga, que me hace falta.
+[G] Vuela, pensamiento [Em] mío,
+[C] Corre, pensamiento [D] corre,
+[G] Dile que mi luz se a[Em]paga,
+Siento [C] que la nece[D]sito,
+Que [G] venga, que me hace falta.

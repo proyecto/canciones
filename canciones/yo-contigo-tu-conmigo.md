@@ -8,51 +8,40 @@ tags: ["pop", "latino", "soundtrack"]
 ---
 
 ## Intro
-[Am] [E] (2[)/] [F] [G] [Am] (bis) [F]
+[Am] [Em] (2) / [F] [G] [Am] (2) [F]
 
-¿Por qué, por qué, por qué?
-Te veo en el espejo aunque no estés
-Reconozco tu voz
-Sé que hay algo aquí entre los dos
--Siento, siento, siento
-Que te conozco de antes de hace tiempo
-Que el destino cumplió su misión
-Y aunque quieran quitarme la voz
+[Am] ¿Por qué, por qué, por qué? [Em]
+[Am] Te veo en el espejo aunque no es[Em]tés
+[F] Reconozco [G] tu voz, [Am] sé que hay algo aquí entre los dos
+- [Am] Siento, siento, siento [Em]
+[Am] Que te conozco de antes de hace [Em] tiempo
+[F] Que el destino cum[G]plió su mi[Am]sión
+[F] Y aunque quieran quitarme la voz
 
-[F] [C] [G]/ [Am] [Em] [F]/ [C] [G] (2)
-Yo pegaré un grito al cielo
-Soy más fuerte si estamos los dos
-Va a rendirse el mundo entero
--Yo contigo, tú conmigo
-Le daré la vuelta al cuento
-__
-Y aunque muera en el intento
-Vamos a escribir lo mejor
+[F] Yo pegaré un [C] grito al cielo [G]
+[Am] Soy más fuerte [Em] si estamos los [F] dos
+[F] Va a rendirse el [C] mundo entero [G]
+- Yo contigo, tú conmigo
+[F] Le daré la [C] vuelta al cuento [G]
+[Am] Y aunque muera [Em] en el in[F]tento
+[C] Vamos a escribir lo me[G]jor
 Yo contigo, tú conmigo
 
-[Am] [Em] [F] [C] (2)
-Gon gon goro gon gon
-Que va ser mi gon gon goro gon gon (bis)
+[Am] Gon gon [Em] goro gon gon [F] [C]
+[Am] Que va a ser mi [Em] gon gon goro gon gon [F] [C]
 
-[Am] [E] (2[)/] [F] [G] [Am] (bis) [F]
-¿
+[Am] ¿Por qué, por qué, por qué? [Em]
+[Am] Te escucho cuando hablo y aunque no es[Em]tés
+[F] Eres parte [G] de mí y no [Am] quiero verme sin ti
+- [Am] Siento, siento, siento [Em]
+[Am] Que te conozco de antes, de hace [Em] tiempo
+[F] Que el destino cum[G]plió su mi[Am]sión
+[F] Y aunque quieran quitarme la voz
 
-Por qué, por qué, por qué?
-Te escucho cuando hablo y aunque no estés
-Eres parte de mí y no quiero verme sin ti
-Siento, siento, siento
-Que te conozco de antes, de hace tiempo
-Que el destino cumplió su misión
-Y aunque quieran quitarme la voz
+[F] Yo pegaré un [C] grito al cielo… [G]
 
-[C] [G…]
-Yo pegaré un grito al cielo…
-
-[Am]-[Em]-[G]-[Am]
-Contra el viento,
-
-[F] [C] [G] [Am] (2[)/] [F] [G] [C]
-Nuestro momento, sé que ya llegó y lo presiento
-Contra el mundo, los mares,
-No habrá quien nos separe.
-Contra el viento, el viento oh
+[Am] Contra el viento, [Em]
+[F] Nuestro mo[C]mento, sé que ya [G] llegó y lo presi[Am]ento
+[F] Contra el mundo, [C] los mares,
+[G] No habrá quien nos se[Am]pare.
+[F] Contra el viento, el [C] viento oh [G]

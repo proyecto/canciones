@@ -8,37 +8,28 @@ tags: ["mestizaje", "bolero", "latino"]
 ---
 
 ## Verso 1
-Mentira lo que dice, mentira lo que da
-Mentira lo que hace, mentira lo que va
-La mentira
-Mentira, la mentira, mentira la verdad
-Mentira lo que cuece bajo la oscuridad
-Mentira, mentira, la mentira
-Mentira el amor, mentira el sabor
-Mentira la que manda, mentira comanda
-Mentira, mentira, la mentira
-Mentira la tristeza, cuando empieza
-Mentira, no se va, mentira,
-Mentira, la mentira
-Mentira no se borra, mentira no se olvida
-Mentira, la mentira
-Mentira cuando llega, mentira nunca se va
-Mentira la mentira, mentira la verdad
+[Em] Mentira lo que dice, [Bm] mentira lo que da
+[Em] Mentira lo que hace, [Bm] mentira lo que va, [Em] la mentira
+[Em] Mentira, la mentira, [Bm] mentira la verdad
+[Em] Mentira lo que cuece [Bm] bajo la oscuridad, [Em] mentira, mentira, la mentira
+[Em] Mentira el amor, [Bm] mentira el sabor
+[Em] Mentira la que manda, [Bm] mentira comanda, [Em] mentira, mentira, la mentira
+[Em] Mentira la tristeza, [Bm] cuando empieza
+[Em] Mentira, no se va, [Bm] mentira, [Em] mentira, la mentira
+[Em] Mentira no se borra, [Bm] mentira no se olvida, [Em] mentira, la mentira
+[Em] Mentira cuando llega, [Bm] mentira nunca se va
+[Em] Mentira la mentira, [Bm] mentira la ver[Em]dad
 
-[#2] [Em] [Bm] [Em]
-Todo es mentira en este mundo
-Todo es mentira, la verdad
+[Em] Todo es mentira en este [Bm] mundo
+[Em] Todo es mentira, la ver[Bm]dad
+[Em] "Todo es mentira", yo me [Bm] digo
+[Em] Todo es mentira, ¿por qué se[Bm]rá? [Em]
 
-"Todo es mentira", yo me digo
-Todo es mentira, ¿por qué será?
+[Em] La mentira, [Bm] mentira, la men[Em]tira
 
-> *
-> *
-(3)
-La mentira, mentira, la mentira
-No sé si el corazón peca, llorona
-En aras de un tierno amor
-
-[Em] [D] [C] [B7]
-Te quiero más que a mi vida, llorona
-¿Qué más quieres? ¿Quieres más? (2)
+[Em] No sé si el corazón [D] peca, llorona
+[C] En aras de un tierno a[B7]mor
+[Em] Te quiero más que a mi [D] vida, llorona
+¿Qué [C] más quieres? ¿Quieres [B7] más?
+[Em] Te quiero más que a mi [D] vida, llorona
+¿Qué [C] más quieres? ¿Quieres [B7] más? [Em]

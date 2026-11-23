@@ -8,59 +8,30 @@ tags: ["folklore", "chamamé", "argentino"]
 ---
 
 ## Intro
-[Gm] [Dm] [A7] [Dm] ([x] 2) [D]
+[Gm] [Dm] [A7] [Dm] (x2)
 
-Mirando correr el río, le dije casi en silencio,
+[D] Mirando correr el río, le dije casi en silencio,
+[A7] Vas a tener que andar mucho, para ganarle a mi [D] sueño.
+[F#] Y sobre la arena [Bm] fresca, la [A7] cabeza dibu[D7]jé,
+De una pa[Gm]sión impo[Dm]sible, que me es[A7]cribía de Santa [Dm] Fe.
 
-[A7] [D]
-Vas a tener que andar mucho, para ganarle a mi sueño.
+[A7] Mira qué cabeza loca, poner tus ojos en mí,
+[Dm] Yo que siempre ando de paso, no podré hacerte feliz.
+[D7] Olvídame te lo [Gm] ruego, yo soy como el Paraná,
+Que sin dete[Dm]ner su marcha, [A7] besa la playa y se [Dm] va [D7]
+[Gm] Que sin dete[Dm]ner su marcha, [A7] besa la playa y se [Dm] va.
 
-[F#] [Bm] [A7] [D7]
-Y sobre la arena fresca, la cabeza dibujé,
+[Gm] [Dm] [A7] [Dm] (x2)
 
-[Gm] [Dm] [A7] [Dm]
-De una pasión imposible, que me escribía de Santa Fe.
+[D] Fue una noche correntina, de aquellas que no se igualan,
+[A7] Estaba la costanera, conversando con el [D] agua.
+[F#] Enero estaba fun[Bm]diendo sobre el [A7] río su ca[D7]lor,
+Y junto al per[Gm]fil que[Dm]rido, puso mi [A7] vena de versea[Dm]dor.
 
-[A7]
-Mira qué cabeza loca, poner tus ojos en mí,
-
-[Dm]
-Yo que siempre ando de paso, no podré hacerte feliz.
-
-[D7] [Gm]
-Olvídame te lo ruego, yo soy como el Paraná,
-
-Que sin detener su marcha, besa la playa y se va
-
-[Dm] [A7] [Dm]/[D7]
-[Gm] [Dm] [A7] [Dm]
-Que sin detener su marcha, besa la playa y se va.
-
-[Gm] [Dm] [A7] [Dm] ([x] 2)
-[D]
-Fue una noche correntina, de aquellas que no se igualan,
-
-[A7] [D]
-Estaba la costanera, conversando con el agua.
-
-[F#] [Bm] [A7] [D7]
-Enero estaba fundiendo sobre el río su calor,
-
-[Gm] [Dm] [A7] [Dm]
-Y junto al perfil querido, puso mi vena de verseador.
-
-[A7]
-Mira qué cabeza loca, poner tus ojos en mí,
-
-[Dm]
-Yo que siempre ando de paso, no podré hacerte feliz.
-
-Olvídame te lo ruego, yo soy como el Paraná,
-
-[D7] [Gm]
-[Dm] [A7] [Dm]/[D7]
-Que sin detener su marcha, besa la playa y se va
-
-Que sin detener su marcha, besa la playa y se va. (BIS)
+[A7] Mira qué cabeza loca, poner tus ojos en mí,
+[Dm] Yo que siempre ando de paso, no podré hacerte feliz.
+[D7] Olvídame te lo [Gm] ruego, yo soy como el Paraná,
+Que sin dete[Dm]ner su marcha, [A7] besa la playa y se [Dm] va [D7]
+[Gm] Que sin dete[Dm]ner su marcha, [A7] besa la playa y se [Dm] va. (BIS)
 
 [Gm] [Dm] [A7] [Dm]

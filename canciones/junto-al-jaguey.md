@@ -8,85 +8,39 @@ tags: ["pasaje", "venezolano", "folklore"]
 ---
 
 ## Verso 1
-> *
-Versión Achamán
+> * En Venezuela: pozo o zanja llena de agua.
 
-[Dm] [Am] [E7] [A#] [A7] / [Dm] [Am] [E7] [Am]
-> *En Venezuela: pozo o zanja llena de agua.
-> Instr
-[Am] [E7] [Am] (4)
-Cantando con tu recuerdo, florece, mi corazón La brisa mañanera como yo te besa, Te besan las espigas como yo, mi amor
-
-> cantando-florece-mi corazón
-la brisa- de espigas
-te besa a
-> ti, mi amor
-[Am]
-[A7] [Dm] [G7] [C]
-/
+[Dm] [Am] [E7] [A#] [A7] [Dm] [Am] [E7] [Am]
 [Am] [E7] [Am]
-Cuando no vienen tus besos hacia los míos
 
-La palma entera se llena de soledad
+[Am] Cantando con tu re[E7]cuerdo, florece, mi cora[Am]zón
+La brisa mañanera como [E7] yo te besa,
+Te besan las espigas como [Am] yo, mi amor
 
-Por eso quisiera mi dulce amada Besarme contigo junto al palmar
+[A7] Cuando no vienen tus [Dm] besos hacia los [G7] míos [C]
+La [Am] palma entera se [E7] llena de sole[Am]dad
+[A7] Por eso quisiera mi [Dm] dulce amada, [G7] besarme contigo junto al pal[C]mar
+[Am] Besarme con[E7]tigo junto al pal[Am]mar
 
-> besarte junto al jagüey - besarte junto al jagüey
-besarte junto al jagüey -
-> besarte junto
-[Am] [E7] [Am] [A7]
-> al palmar
-/
-[Am] [A7] [Dm] [G7] [C]
-Cuando no vienen tus besos hacia los míos
+[A7] Cuando no vienen tus [Dm] besos hacia los [G7] míos [C]
+El [Am] agua toda se [E7] queda sin tu que[Am]rer
+[A7] Por eso quisiera mi [Dm] dulce amada, [G7] besarme contigo junto al jagü[C]ey
+[Am] Besarme con[E7]tigo junto al jagü[Am]ey
 
-El agua toda se queda sin tu querer
+[Dm] Tiene la ternura [Am] para mi canción, [E7] por eso más, te quiero [Am] yo
 
-> Uh
-(solo)
-Por eso quisiera mi dulce amada, Besarme contigo junto al jagüey
+[G7] Cantando con tu re[C]cuerdo, [G7] florece, mi cora[C]zón
+[G7] La brisa mañanera como [C] yo, te besa
+[G7] Te besan las espigas como [C] yo, mi amor
 
-> besarte junto al jagüey - besarte junto al jagüey
-besarte junto al jagüey – besarte___ junto al jagüey
-> (bis)
-1ª junto al jagüey
-[Dm] [Am] [E7] [Am]
-Tiene la ternura para mi canción, por eso más, te quiero yo
+[C] [G7] [C] [Am] [A7] [Dm] [G7] [C]
 
-[G7]- [C] [G7] [C] (2)
-Cantando con tu recuerdo, florece, mi corazón
-La brisa mañanera como yo, te besa
-Te besan las espigas como yo, mi amor
+[Am] Cuando no vienen tus [E7] besos hacia los [Am] míos [A7]
+La [Dm] palma entera se [G7] llena de sole[C]dad
+Por [Am] eso quisiera mi [E7] dulce amada, besarme con[Am]tigo junto al palmar
 
-> Instr
-[C] [G7] [C] (2) [Am] [A7] [Dm] [G7] [C]
-[Am] [E7] [Am] [A7]
-Cuando no vienen tus besos hacia los míos (solo)
+[Am] Cuando no vienen tus [A7] besos hacia los [Dm] míos [G7] [C]
+El [Am] agua toda se [E7] queda sin tu que[Am]rer [A7]
+Por [Dm] eso quisiera mi [G7] dulce amada, [C] besarme contigo junto al jagüey
 
-/
-> Uh
-(solo)
-La palma entera se llena de soledad (solo)
-
-Por eso quisiera mi dulce amada Besarme contigo junto al palmar
-
-> besarte junto al jagüey - besarte junto al jagüey
-besarte junto al jagüey -
-> besarte junto al palmar
-[Am] [A7] [Dm] [G7] [C]
-/
-[Am] [E7] [Am] [A7]
-Cuando no vienen tus besos hacia los míos
-
-> Uh
-(solo)
-El agua toda se queda sin tu querer
-
-Por eso quisiera mi dulce amada, Besarme contigo junto al jagüey
-
-> besarte junto al jagüey - besarte junto al jagüey
-besarte junto al jagüey - besarte __ junto al jagüey
-[Dm] [Am] [E7] [Am] (2) [G7] [C] [G7] [Am]
-Tiene la ternura para mi canción, por eso más, te quiero yo
-
-> junto al jagüey
+[Dm] Tiene la ternura [Am] para mi canción, [E7] por eso más, te quiero [Am] yo

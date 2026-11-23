@@ -8,46 +8,46 @@ tags: ["pop rock", "español", "2020s"]
 ---
 
 ## Intro
-[#4] [Am] [F] [C] [G]// [Dm] [A#] [F] [C]
+[Am] [F] [C] [G] [Dm] [A#] [F] [C]
 
-A veces voy, a veces vengo,
-En el camino me entretengo
-Contando las veces que te recuerdo
-Las noches a oscuras rompiendo el silencio
--No sé si vas a tomarme en serio
-Pero es que quiero perderme en tu pelo
-Y sentir tu aliento si me desvelo
+[Am] A veces voy, [F] a veces vengo,
+[C] En el camino [G] me entretengo
+[Am] Contando las veces [F] que te recuerdo
+[C] Las noches a oscuras [G] rompiendo el silencio
+[Am] No sé si vas a [F] tomarme en serio
+[C] Pero es que quiero per[G]derme en tu pelo
+[Am] Y sentir tu aliento [F] si me desvelo [C] [G]
 
-Sigue tu camino, vuela y no te detengas
-Sal del precipicio, corre y no te des la vuelta
-Que la vida es corta, todo lo que viene va
-Levantaremos al sol, nos perderemos los dos
-No habrá quien nos pare,
-ni nos separe el corazón
-Como luces de neón, iluminando el colchón
-Solo voy a extrañarte cuando se muera mi voz
+[Dm] Sigue tu camino, [A#] vuela y no te detengas
+[F] Sal del precipicio, [C] corre y no te des la vuelta
+[Dm] Que la vida es corta, [A#] todo lo que viene [C] va
+[Am] Levantaremos al [F] sol, nos perderemos los [C] dos
+No habrá quien nos [G] pare,
+ni nos se[Am]pare el corazón [F]
+Como luces de [C] neón, iluminando el col[G]chón
+Solo voy a extra[Am]ñarte cuando se [F] muera mi [C] voz
 
-Hoy voy a sentirme bien,
-Tengo tus fotos en la pared
-Y no me importa si perdí algún tren
-Yo solo quiero volver
+[Am] Hoy voy a sen[F]tirme bien,
+[C] Tengo tus fotos [G] en la pared
+[Am] Y no me importa si per[F]dí algún tren
+[C] Yo solo quiero vol[G]ver
 
-Sigue tu camino, vuela y no te detengas
-Sal del precipicio, corre y no te des la vuelta
-Que la vida es corta, todo lo que viene va
-Levantaremos al sol, nos perderemos los dos
-No habrá quien nos pare,
-ni nos separe el corazón
-Como luces de neón, iluminando el colchón
-Solo voy a extrañarte cuando se muera mi voz
+[Dm] Sigue tu camino, [A#] vuela y no te detengas
+[F] Sal del precipicio, [C] corre y no te des la vuelta
+[Dm] Que la vida es corta, [A#] todo lo que viene [C] va
+[Am] Levantaremos al [F] sol, nos perderemos los [C] dos
+No habrá quien nos [G] pare,
+ni nos se[Am]pare el corazón [F]
+Como luces de [C] neón, iluminando el col[G]chón
+Solo voy a extra[Am]ñarte cuando se [F] muera mi [C] voz
 oh…oh…
 
-Sigue tu camino, vuela y no te detengas
-Sal del precipicio, corre y no te des la vuelta
-Que la vida es corta, todo lo que viene va
+[Dm] Sigue tu camino, [A#] vuela y no te detengas
+[F] Sal del precipicio, [C] corre y no te des la vuelta
+[Dm] Que la vida es corta, [A#] todo lo que viene [C] va
 
-Levantaremos al sol, nos perderemos los dos
-No habrá quien nos pare,
-ni nos separe el corazón
-Como luces de neón, iluminando el colchón
-Solo voy a extrañarte cuando se muera mi voz
+[Am] Levantaremos al [F] sol, nos perderemos los [C] dos
+No habrá quien nos [G] pare,
+ni nos se[Am]pare el corazón [F]
+Como luces de [C] neón, iluminando el col[G]chón
+Solo voy a extra[Am]ñarte cuando se [F] muera mi [C] voz

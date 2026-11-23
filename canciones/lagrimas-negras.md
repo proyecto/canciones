@@ -8,23 +8,17 @@ tags: ["bolero", "son cubano", "clásico"]
 ---
 
 ## Verso 1
-(Matamoros ‘29)
+[Am] [Dm] [Am] [E7] [Am]
 
-[Intro:] [Am] [Dm] [Am] [E7] [Am] (2) [E7] [Am] [Am] [A7] [Dm]/ [G7] [C] [E7]/ [Am] [A7] [Dm] [Am] [Dm] [E7] [Am]
-Aunque tú, me has dejado en el abandono,
-Aunque ya has muerto todas mis ilusiones,
-En vez de maldecirte con justo encono
-En mis sueños te colmo, en mis sueños te colmo de bendiciones.
+[Am] Aunque tú, me has de[A7]jado en el aban[Dm]dono,
+[G7] Aunque ya has muerto todas mis ilu[C]siones, [E7]
+En [Am] vez de malde[A7]cirte con justo en[Dm]cono
+En mis [Am] sueños te colmo, en mis [Dm] sueños te [E7] colmo de bendi[Am]ciones.
 
-[Am] [A7] [Dm]/ [G7] [C] /[B7] [E]/ [Am] [F]-[E] [Am]
-Sufro la inmensa pena de tu extravío,
-Siento el dolor profundo de tu partida,
-Y lloro sin que tu sepas que el llanto mío,
-Tiene lágrimas negras, tiene lágrimas negras como mi vida. (BIS)
+[Am] Sufro la inmensa [A7] pena de tu extra[Dm]vío,
+[G7] Siento el dolor profundo de tu par[C]tida,
+Y [B7] lloro sin que tu [E] sepas que el llanto [Am] mío,
+Tiene lágrimas [F] negras, [E] tiene lágrimas negras como mi [Am] vida. (BIS)
 
-[Am] [E7] [Dm] [Am] [E7] [Am]
-Tú me quieres dejar, yo no quiero sufrir
-Contigo me voy mi santa, aunque me cueste morir (3)
-
-[Am] [E7] [Dm] [Am] [E7] [Am]
-Fonseca
+[Am] Tú me quieres de[E7]jar, yo no quiero su[Am]frir
+Con[Dm]tigo me voy mi [Am] santa, aunque me [E7] cueste mo[Am]rir (3)

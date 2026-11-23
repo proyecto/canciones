@@ -10,24 +10,19 @@ tags: ["huapango", "mexicano", "clásico"]
 ## Verso 1
 Cádiz, La Habana con más salero.
 
-[A]
-[Am] [A7] [Dm] [G7] [C] [F] [E]
-Qué bonitos ojos tienes, debajo de esas dos cejas,
-Debajo de esas dos cejas, qué bonitos ojos tienes.
--Ellos me quieren mirar, pero si tú no los dejas, pero si tú no los dejas, ni siquiera parpadear.
+Qué bo[Am]nitos [A7] ojos [Dm] tienes, de[G7]bajo de esas dos [C] cejas,
+De[F]bajo de esas dos cejas, qué bo[E]nitos ojos tienes.
+-Ellos me quieren mi[Am]rar, pero si [A7] tú no los [Dm] dejas, pero si [G7] tú no los [C] dejas, ni si[F]quiera parpa[E]dear.
 
-[E] [Am] [A7] [Dm] [G] [C] [F] [E] [Am]
-Malagueña salerosa, besar tus labios quisiera (2)
-Y decirte niña hermosa que eres linda y hechicera.
+Mala[Am]gueña sale[Dm]rosa, besar tus [G] labios qui[C]siera (2)
+Y de[F]cirte niña her[E]mosa que eres linda y hechi[Am]cera.
 
-Si por pobre me desprecias, yo te concedo razón,
-Yo te concedo razón si por pobre me desprecias
-Yo no te ofrezco riquezas, te ofrezco mi corazón,
-Te ofrezco mi corazón a cambio de mi pobreza
+Si por [Am] pobre me des[A7]precias, [Dm] yo te con[G7]cedo ra[C]zón,
+Yo te con[F]cedo razón si por [E] pobre me desprecias
+Yo no te ofrezco ri[Am]quezas, [A7] te ofrezco [G7] mi cora[C]zón,
+Te ofrezco [F] mi corazón a [E] cambio de mi pobreza.
 
-Malagueña salerosa, besar tus labios quisiera (2)
-Y decirte niña hermosa que eres linda y hechicera.
+Mala[Am]gueña sale[Dm]rosa, besar tus [G] labios qui[C]siera (2)
+Y de[F]cirte niña her[E]mosa que eres linda y hechi[Am]cera.
 
-[E] [Am] -7 [Dm] [G] [C] [F] [E] [Am]
-[Am] [Am7] [Dm] [G7] [C] [F] [E] [Am]
-Que eres linda y hechicera (2) como el candor de una rosa, y decirte niña hermosa
+[Am7] Que eres linda y hechi[Dm]cera (2) [G7] como el candor de una [C] rosa, [F] y decirte niña her[E]mosa [Am]

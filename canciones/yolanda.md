@@ -10,31 +10,31 @@ tags: ["nueva trova", "balada", "cubano"]
 ## Intro
 [C] [F] [G] [C]
 
-Esto no puede ser no más que una canción
-Quisiera fuera una declaración de amor
-Romántica, sin reparar en formas tales
-Que pongan freno a lo q siento ahora a raudales
+[C] Esto no puede ser no más que una can[F]ción
+[G] Quisiera fuera una declaración de [C] amor
+Romántica, sin reparar en formas [F] tales
+Que [G] pongan freno a lo que siento ahora a rau[C]dales
 
-Te amo, te amo, eternamente, te amo
+[C] Te amo, [F] te amo, [G] eternamente, [C] te amo
 
-Si me faltaras no voy a morirme
-Si he de morir quiero que sea contigo
-Mi soledad se siente acompañada,
-Por eso a veces sé qué necesito
+[C] Si me faltaras no voy a mo[F]rirme
+[G] Si he de morir quiero que sea con[C]tigo
+Mi soledad se siente acompa[F]ñada,
+Por [G] eso a veces sé qué nece[C]sito
 
-Tu mano, tu mano, eternamente, tu mano
+[C] Tu mano, [F] tu mano, [G] eternamente, [C] tu mano
 
-Cuando te vi, sabía que era cierto
-Este temor de haberte descubierto
-Tu me desnudas con siete razones
-Y abres el pecho siempre que me colmas
+[C] Cuando te vi, sabía que era [F] cierto
+[G] Este temor de haberte descu[C]bierto
+Tú me desnudas con siete ra[F]zones
+Y [G] abres el pecho siempre que me [C] colmas
 
-De amores de amores,
-Eternamente de amores
+[C] De amores, [F] de amores,
+[G] Eternamente [C] de amores
 
-Si alguna vez me siento derrumbado
-Renuncio a ver el sol cada mañana
-Rezando el credo que me has enseñado
-Miro a tu cara y digo en la ventana
+[C] Si alguna vez me siento derrum[F]bado
+[G] Renuncio a ver el sol cada ma[C]ñana
+Rezando el credo que me has ense[F]ñado
+[G] Miro a tu cara y digo en la ven[C]tana
 
-Yolanda, Yolanda, eternamente Yolanda
+[C] Yolanda, [F] Yolanda, [G] eternamente Yo[C]landa

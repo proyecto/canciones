@@ -8,15 +8,14 @@ tags: ["rumba", "español", "popular"]
 ---
 
 ## Intro
-[#2] [C]_[A7]-[Dm]/ [G7] [C] (2)
+[C] [A7] [Dm] [G7] [C] (2)
 
-Para volver a volver, no te marches ahora, de una vez quédate,
-A ti te falta el coraje, ese que a mí me sobra, para nunca volver.
--Para decir que te vas, y al doblar esa esquina, que solo sabes llorar,
-Para eso no digas nunca que no cabe la duda, de que un día te irás.
+[C] Para volver a vol[A7]ver, no te marches a[Dm]hora, de una [G7] vez quéda[C]te,
+A ti te falta el co[A7]raje, ese que a mí me [Dm] sobra, para [G7] nunca vol[C]ver.
+-[C] Para decir que te [A7] vas, y al doblar esa es[Dm]quina, que solo [G7] sabes llo[C]rar,
+Para eso no digas [A7] nunca que no cabe la [Dm] duda, de que un [G7] día te i[C]rás.
 
-[C]_[C] 7-[F] [Fm] [C][/_][A7]-[Dm] [G7]-[C] [A7]-[Dm]-[SO7]-[C]
-Para volver a volver, como has vuelto mil veces
-Para decir que te vas, y al final te arrepientes
-Deja tu orgullo correr, deja de hablar y te callas
-No digas más que te marchas, no digas más que te marchas, para volver a volver (2)
+[C] Para volver a vol[C7]ver, como has [F] vuelto mil [Fm] veces
+[C] Para decir que te [A7] vas, y al fi[Dm]nal te arre[G7]pientes
+[C] Deja tu orgullo co[C7]rrer, deja de [F] hablar y te [Fm] callas
+[C] No digas más que te [A7] marchas, no digas [Dm] más que te marchas, [G7] para volver a vol[C]ver (2)

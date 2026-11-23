@@ -9,53 +9,53 @@ tags: ["pop", "balada", "90s", "español"]
 
 ## Intro
 [Dm] [Am] [G] [F]
+[Dm] Oh, oh, [Am] oh, oh, [G] oh [F]
 
-Oh, oh, oh, oh, oh (4)
+## Verso 1
+[Dm] Es por ti que veo [Am] ríos donde solo hay as[G]falto, [F]
+[Dm] Es por ti que hay o[Am]céanos donde solo había [G] charcos. [F]
 
-Es por ti que veo ríos, donde solo hay asfalto
--Es por ti que hay océanos
-Donde solo había charcos
+## Pre-Coro
+[C] Es por ti que [Dm] soy un duende, [Am] cómplice del [F] viento
+Que se es[Am]capa de madru[G]gada para co[F]larse por tu ven[E]tana.
 
-[C] [Dm]/ [Am] [F]/ [Am] [G]/ [F] [E], [Am]
-Es por ti que soy un duende
-Cómplice del viento
-Que se escapa de madrugada
-Para colarse, por tu ventana
+## Verso 2
+[Dm] Es por ti que no hay ca[Am]denas si sigo el ritmo de [G] tus caderas, [F]
+[Dm] Es por ti que rozo la lo[Am]cura cuando navego [G] por tu cintura. [F]
 
-[Dm] [Am] [G] [F] (2)
-Es por ti que no hay cadenas
-Si sigo el ritmo de tus caderas
--Es por ti que rozo la locura
-Cuando navego por tu cintura
+## Pre-Coro
+[C] Es por ti que [Dm] soy un duende, [Am] cómplice del [F] viento
+Que se es[Am]capa de madru[G]gada, que se es[F]capa de madru[G]gada,
+Que se es[Am]capa de madru[G]gada para co[F]larse por tu ven[E]tana.
 
-[C] [Dm]/ [Am] [F]/ [Am]-[G]-[F] (3) [E] [Dm]
-Es por ti que soy un duende
-Cómplice del viento
--Que se escapa de madrugada (3)
-Para colarse por tu ventana
+## Coro
+Y de[A7]cirte:
+[Dm] Tus labios son de [C] seda,
+Tus [F] dientes del color de la [G] luna llena.
+[Dm] Tu risa, la [C] sangre que corre por mis [F] venas, [G]
+[Dm] Tus besos, la [C] tinta de mis versos
+Que [F] siempre te [G] cuentan. [C]
 
-Y decirte: tus labios son de seda
-Tus dientes del color de la luna llena
--Tu risa, la sangre que corre por mis venas
--Tus besos, la tinta de mis versos
-Que siempre te cuentan
-
-[A7]// [Dm] [C] [F] [G] (3) [C]
+## Interludio
 [Dm] [Am] [G] [F]
-Oh, oh, oh, oh, oh ohh
+[Dm] Oh, oh, [Am] oh, oh, [G] oh [F]
 
-[Dm] [Am] [G] [F] (2)
-Es por ti que veo ríos
-Donde solo hay asfalto
-Es por ti que hay océanos
-Donde solo había charcos
+## Verso 3
+[Dm] Es por ti que veo [Am] ríos donde solo hay as[G]falto, [F]
+[Dm] Es por ti que hay o[Am]céanos donde solo había [G] charcos. [F]
 
-[C] [Dm]/ [Am] [F]/ [Am]- [G]- [F] (3) [E] [Dm]
-Es por ti que soy un duende
-Cómplice del viento
-Que se escapa de madrugada (3)
-Para colarse por tu ventana
+## Pre-Coro
+[C] Es por ti que [Dm] soy un duende, [Am] cómplice del [F] viento
+Que se es[Am]capa de madru[G]gada, que se es[F]capa de madru[G]gada,
+Que se es[Am]capa de madru[G]gada para co[F]larse por tu ven[E]tana.
 
-Y decirte: tus labios son de seda…
+## Coro
+Y de[A7]cirte:
+[Dm] Tus labios son de [C] seda,
+Tus [F] dientes del color de la [G] luna llena.
+[Dm] Tu risa, la [C] sangre que corre por mis [F] venas, [G]
+[Dm] Tus besos, la [C] tinta de mis versos
+Que [F] siempre te [G] cuentan. [C]
 
-[A7]// [Dm] [C] [F] [G] (3) [C]
+## Outro
+[Dm] [Am] [G] [F] [Dm]

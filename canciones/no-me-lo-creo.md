@@ -8,46 +8,40 @@ tags: ["rumba", "flamenco", "español"]
 ---
 
 ## Intro
-[Am] [Dm] [G] [C]-[E7]-[Am] [F] [E7]
+[Am] [Dm] [G] [C] [E7] [Am] [F] [E7]
 
-Jamás imaginé que sucediera algo así
-Quien me lo iba a decir
-Con lo lejos que estabas tú de mí
+[Am] Jamás imaginé que suce[Dm]diera algo así
+[G] Quien me lo iba a de[C]cir [E7]
+Con lo [Am] lejos que estabas tú de [F] mí [E7]
 Tan solo en mis sueños fuiste mía, no.
 
-[Am] [Dm] [G] [C]-[E7]-[Am] [F] [E7]
-Estando junto a ti
-No me parece realidad
-Fuiste como una estrella
-Que yo nunca llegué a alcanzar.
-Te alejabas más y mas en la inmensidad
+[Am] Estando junto a ti
+No me [Dm] parece realidad
+[G] Fuiste como una es[C]trella [E7]
+Que yo [Am] nunca llegué a alcan[F]zar. [E7]
+Te ale[Am]jabas más y mas en la inmensidad
 
-[Am]-[A7]-[Dm] [G7] [C] [F]_ [E] [Am]
-Estoy tan enamorado
-Que aún no puedo creerlo
-Que estés a mi lado diciéndome te quiero
-Besando mi boca acariciando mi pelo.
+[Am] Estoy tan [A7] enamora[Dm]do
+Que aún no [G7] puedo creer[C]lo
+Que estés a mi [F] lado diciéndome te [E] quiero
+Besando mi boca acari[Am]ciando mi pelo.
 No me lo creo
 
-[Am] [Dm] [G] [C]-[E7]-[Am] [F] [E7]
-Me siento tan feliz
-Que no sé cómo expresar
-Lo que siento por ti,
-Eres algo tan especial
-Creo estar en un sueño
-Del que no quiero despertar
+[Am] Me siento tan feliz
+Que no [Dm] sé cómo expresar
+[G] Lo que siento por [C] ti, [E7]
+Eres [Am] algo tan espe[F]cial
+Creo [Am] estar en un [Dm] sueño
+Del que [F] no quiero desper[E7]tar
 
-[Am] [Dm] [G] [C]-[E7]-[Am] [F] [E7]
-Estando junto a ti
-No me parece realidad
-Fuiste como una estrella
-Que yo nunca llegué a alcanzar.
-Te alejabas más y mas en la inmensidad
+[Am] Estando junto a ti
+No me [Dm] parece realidad
+[G] Fuiste como una es[C]trella [E7]
+Que yo [Am] nunca llegué a alcan[F]zar. [E7]
+Te ale[Am]jabas más y mas en la inmensidad
 
-Estoy tan enamorado
-Que aún no puedo creerlo
-Que estés a mi lado diciéndome te quiero
-Besando mi boca acariciando mi pelo.
+[Am] Estoy tan [A7] enamora[Dm]do
+Que aún no [G7] puedo creer[C]lo
+Que estés a mi [F] lado diciéndome te [E] quiero
+Besando mi boca acari[Am]ciando mi pelo.
 No me lo creo
-
-[Am]-[A7]-[Dm] [G7] [C] [F]_ [E] [Am]

@@ -8,65 +8,37 @@ tags: ["canción protesta", "nueva canción", "chileno"]
 ---
 
 ## Intro
-[Intro:] [Em] [Am] [B7] [Em] (2) [D7] [G] [D7] / [Em] [C] [B7] (3) [Em] [D7]
+[Em] [Am] [B7] [Em]
+[D7] [G] [D7] [Em] [C] [B7] [Em] [D7]
 
-Para hacer esta muralla:
-Tráiganme todas las manos (2)
-Los negros sus manos negras,
-Los blancos sus blancas manos.
-Una muralla que vaya:
-Desde la playa hasta el monte (2)
-Desde el monte hasta la playa,
-Allá sobre el horizonte.
+Para hacer esta mu[Em]ralla:
+Tráiganme todas las [Am] manos (2)
+Los [B7] negros sus manos [Em] negras,
+Los [B7] blancos sus blancas [Em] manos.
 
-[G] [C] [D7]
--¡Tun, tun! -¿Quién es?
+Una muralla que [Em] vaya:
+Desde la playa hasta el [Am] monte (2)
+Desde [B7] el monte hasta la [Em] playa,
+[B7] Allá sobre el hori[Em]zonte.
 
--Una rosa y un clavel...
+[G] —¡Tun, tun! —¿Quién [C] es?
+—Una rosa y un cla[D7]vel...
+—¡Abre la mu[G]ralla!
 
--¡Abre la muralla!
--¡Tun, tun! -¿Quién es?
+—¡Tun, tun! —¿Quién [C] es?
+—El sable del coro[D7]nel...
+—¡Cierra la mu[G]ralla!
 
--El sable del coronel...
+—¡Tun, tun! —¿Quién [C] es?
+—La paloma y el lau[D7]rel...
+—¡Abre la mu[G]ralla!
 
--¡Cierra la muralla!
--¡Tun, tun! -¿Quién es?
+—¡Tun, tun! —¿Quién [C] es?
+—El gusano y el ciem[D7]piés...
+—¡Cierra la mu[G]ralla!
 
--La paloma y el laurel...
-
--¡Abre la muralla!
--¡Tun, tun! -¿Quién es?
-
--El gusano y el ciempiés..
-.
-
--¡Cierra la muralla!
--¡Tun, tun! -¿Quién es?
--
-
-abre la mura…;
-
-Al corazón del amigo:
-
-Al veneno y al puñal
-
-: cierra la mura…;
-
-Al mirto y la yerbabuena
-
-:
-
-A
-
-bre la mura…;
-
-:
-Cierra la mura…;
-
-Al diente de la serpiente
-
-Al corazón del amigo
-
-Al ruiseñor en la flor
-
-En el campo
+Al corazón del a[C]migo: ¡abre la mu[D7]ralla! [G]
+Al veneno y al pu[C]ñal: ¡cierra la mu[D7]ralla! [G]
+Al mirto y la yerba[C]buena: ¡abre la mu[D7]ralla! [G]
+Al diente de la ser[C]piente: ¡cierra la mu[D7]ralla! [G]
+Al ruiseñor en la [C] flor: ¡abre la mu[D7]ralla! [G]

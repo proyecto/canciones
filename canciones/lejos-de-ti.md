@@ -8,16 +8,10 @@ tags: ["folklore", "latino", "acústico"]
 ---
 
 ## Verso 1
-y el clavel se molestó,
+[G] Blanca mariposa y rojo el clavel
+[F] Rojo como los [E] labios de [E7] quien yo [Am] sé
 
-[G]
-Blanca mariposa y rojo el clavel
-
-[F] [E]-[E7] [Am] (2)
-Rojo como los labios de quien yo sé
-
-[Am] [C] [G] [Am] (2) / [G] [C] [G] [Am]( 2)
-Si la distancia es el olvido nunca te olvidaré (2)
-Hoy estoy lejos, te recuerdo, y siempre te amaré (2)
-Y con el tiempo borrar las huellas de tu amor no podré
-Ayer te quise hoy te recuerdo, nunca te olvidaré (2)
+[Am] Si la distancia es el [C] olvido, [G] nunca te olvida[Am]ré (2)
+[Am] Hoy estoy lejos, te re[C]cuerdo, y [G] siempre te ama[Am]ré (2)
+[G] Y con el tiempo bo[C]rrar las huellas de [G] tu amor no po[Am]dré
+[G] Ayer te quise, hoy [C] te recuerdo, [G] nunca te olvida[Am]ré (2)

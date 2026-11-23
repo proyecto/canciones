@@ -8,23 +8,21 @@ tags: ["pop", "rumba", "español", "90s"]
 ---
 
 ## Intro
-[G] [D] [Em] [Bm] [C] [B7] [C] ([D7]/[B7]) (2)
+[G] [D] [Em] [Bm] [C] [B7] [C] [D7] (2)
 
-Es por culpa de una hembra, que me estoy volviendo loco
-No puedo vivir sin ella, pero con ella tampoco.
-Y si de este mal de amores, yo me fuera pa’ la tumba
-A mí no me mandéis flores, y como dice esta rumba.
+[G] Es por culpa [D] de una hembra, [Em] que me estoy vol[Bm]viendo loco
+[C] No puedo vi[B7]vir sin ella, [C] pero con ella tam[D7]poco. [B7]
+[G] Y si de este [D] mal de amores, [Em] yo me fuera [Bm] pa’ la tumba
+[C] A mí no me man[B7]déis flores, [C] y como dice esta [D7] rumba. [B7]
 
-[Em] [D] [C] [B7]
-Quise cortar la flor más tierna del rosal pensando que de amor no me podría pinchar
-Y mientras me pinchaba me enseñó una cosa, que una rosa es una rosa es una rosa (2)
--Y cuando abrí la mano y la dejé caer rompieron a sangrar las llagas en mi piel,
-Y con sus pétalos me la curó mimosa, q ue una rosa es una rosa es una rosa
+[Em] Quise cortar la flor más tierna del rosal [D] pensando que de amor no me podría pinchar
+[C] Y mientras me pinchaba me enseñó una cosa, [B7] que una rosa es una rosa es una rosa (2)
+- [Em] Y cuando abrí la mano y la dejé caer [D] rompieron a sangrar las llagas en mi piel,
+[C] Y con sus pétalos me la curó mimosa, [B7] que una rosa es una rosa es una rosa
 
-[G] [D] [Em] [Bm] [C] [B7] [C] ([D7]/[B7]) (2)
--Pero cuanto más me cura, al ratito más me escuece
-Porque amar es el empiece de la palabra amargura.
-Una mentira y un credo en cada espina del tallo,
-Injertándose en los dedos, una rosa es un rosario.
+- [G] Pero cuanto [D] más me cura, [Em] al ratito [Bm] más me escuece
+[C] Porque amar es [B7] el empiece [C] de la palabra amar[D7]gura. [B7]
+[G] Una mentira [D] y un credo [Em] en cada espina [Bm] del tallo,
+[C] Injertándose [B7] en los dedos, [C] una rosa es un ro[D7]sario. [B7]
 
 Me cuesta tanto olvidarte

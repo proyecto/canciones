@@ -8,38 +8,35 @@ tags: ["rock", "psychedelic", "60s", "classic", "inglés"]
 ---
 
 ## Intro
-[G]_ [Dm7]/_ [E7] /[C] [E] /[Cmaj7] [G]
+[G] [Dm7] [E7] [C] [E] [Cmaj7] [G]
 
 ## Verso 1
-Let me take you down ‘cause I’m going to
-Strawberry fields, nothing is real
-And nothing to get hang about:
-Strawberry fields forever
+[G] Let me take you down 'cause I'm going [Dm7] to
+Strawberry [E7] fields, [C] nothing is [E] real
+And nothing to get hang a[Cmaj7]bout:
+Strawberry fields for[G]ever.
 
-[D] RE7m [D7]/ [Em] [C]/ [D]/ [G] [Em] /[C] [D] [C]  -[G]
-Living is easy with eyes closed, misunderstanding all you see
-It’s getting hard to be someone but it all works out,
-It doesn’t matter much to me
+[D] Living is easy with [Dmaj7] eyes closed, [D7]
+[Em] Misunder[C]standing all you [D] see.
+[G] It’s getting hard to be [Em] someone but it all works out,
+[C] It doesn’t [D] matter much to [C] me. [G]
 
-[G]_ [Dm7]/_ [E7] /[C] [E] /[Cmaj7] [G]
-Let me take you down ‘cause I’m going to
-Strawberry fields, nothing is real
-And nothing to get hang about:
-Strawberry fields forever
+[G] Let me take you down 'cause I'm going [Dm7] to
+Strawberry [E7] fields, [C] nothing is [E] real
+And nothing to get hang a[Cmaj7]bout:
+Strawberry fields for[G]ever.
 
-[D] RE7m [D7]/ [Em] [C]/ [D]/ [G] [Em] /[C] [D] [C]  -[G]
-No one I think is in my tree, I mean it must be high or low,
-That is you know you can’t tune_in but it’s all right,
-That is, I think it’s not too bad
+[D] No one I think is [Dmaj7] in my tree, [D7]
+[Em] I mean it [C] must be high or [D] low,
+[G] That is you know you can’t [Em] tune in but it’s all right,
+[C] That is, I [D] think it’s not too [C] bad. [G]
 
-[G]_ [Dm7]/_ [E7] /[C] [E] /[Cmaj7] [G]
-Let me take you down ‘cause I’m going to
-Strawberry fields, nothing is real
-And nothing to get hang about:
-Strawberry fields forever
+[G] Let me take you down 'cause I'm going [Dm7] to
+Strawberry [E7] fields, [C] nothing is [E] real
+And nothing to get hang a[Cmaj7]bout:
+Strawberry fields for[G]ever.
 
-[D] RE7m [D7]/ [Em] [C]/ [D]/ [G] [Em] /[C] [D] [C]  -[G]
-Always know, sometimes think it’s me,
-But you know and I know it’s a dream,
-I think I know of thee, ah yes but it’s all wrong,
-That is I think I disagree
+[D] Always know, [Dmaj7] sometimes think it’s me, [D7]
+[Em] But you know [C] and I know it’s a [D] dream,
+[G] I think I know of [Em] thee, ah yes but it’s all wrong,
+[C] That is I [D] think I disa[C]gree. [G]

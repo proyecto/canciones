@@ -8,45 +8,37 @@ tags: ["acoustic", "pop", "2000s", "inglés"]
 ---
 
 ## Intro
-[Am] [G] [F] (4) [G] [F]
+[Am] [G] [F]
 
 ## Verso 1
-Baby this a new age,
-You like my new craze
-Let's get together
-Maybe we can start a new phase.
-The smokes got the club all hazy,
-Spotlights don't do you justice baby
-Why don't you come over here,
-You got me saying:
-Ayo, I'm tired of using technology,
-Why don't you sit down, on top of me
-Ayo, I'm tired of using technology
-I need you right in front of me
+[Am] Baby this a new [G] age, you like my new [F] craze
+Let's get to[Am]gether, maybe [G] we can start a new [F] phase.
+The [Am] smokes got the [G] club all hazy,
+[F] Spotlights don't do you justice baby
+[Am] Why don't you come [G] over here,
+[F] You got me saying:
+[Am] Ayo, I'm tired of [G] using technology,
+[F] Why don't you sit down, on top of me
+[Am] Ayo, I'm tired of [G] using technology
+[F] I need you right in front of me
 
-[Am] [G] [F] (2) [G] [F]
-She work it girl, she work the pole
-She break it down, she take it low
-She’s fine as hell,
-She’s_about the dough
-She doing her thing out on the floor
-Her money money, she makin' makin’
-Look at the way she shakin'
-Make you wanna touch it,
-Make you wanna taste her
-Have you lustin' for her…
+[Am] She work it girl, [G] she work the pole
+[F] She break it down, she take it low
+[Am] She’s fine as hell, [G] she’s about the dough
+[F] She doing her thing out on the floor
+[Am] Her money money, she [G] makin' makin’
+[F] Look at the way she shakin'
+[Am] Make you wanna touch it, [G] make you wanna taste her
+[F] Have you lustin' for her…
 Go crazy, face it
 
-[Am] [G] [F] (4) [G] [F]
-Baby this a new age,
-You like my new craze
-Let's get together
-Maybe we can start a new phase
-The smokes got the club all hazy,
-Spotlights don't do you justice baby
-Why don't you come over here,
-You got me saying:
-Ayo, I'm tired of using technology,
-Why don't you sit down on top of me
-Ayo, I'm tired of using technology
-I need you right in front of me.
+[Am] Baby this a new [G] age, you like my new [F] craze
+Let's get to[Am]gether, maybe [G] we can start a new [F] phase
+The [Am] smokes got the [G] club all hazy,
+[F] Spotlights don't do you justice baby
+[Am] Why don't you come [G] over here,
+[F] You got me saying:
+[Am] Ayo, I'm tired of [G] using technology,
+[F] Why don't you sit down on top of me
+[Am] Ayo, I'm tired of [G] using technology
+[F] I need you right in front of me.

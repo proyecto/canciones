@@ -10,105 +10,90 @@ tags: ["rumba", "popurrí", "fiesta"]
 ## Intro
 [E]
 
-[F] [G] [F] [E]
-- Dame veneno que quiero morir, dame veneno,
-Que antes prefiero la muerte que vivir contigo
-Dame veneno, ¡ay para morir!
-- Libre, libre; quiero ser (3) libre (bis)
-- Me sabe a humo los cigarritos que yo me fumo (2)
--Hiciste la maleta, sin decirme adiós, ay qué dolor,
-Ella me abandonó, ay que dolor, y solo me dejó
-Ay qué dolor (4)
+-[F] Dame veneno que [G] quiero morir, dame ve[F]neno, [E]
+Que antes prefiero la [F] muerte que vi[G]vir con[F]tigo [E]
+Dame ve[F]neno, ¡ay [G] para mo[F]rir! [E]
+-[F] Libre, [G] libre; quiero [F] ser (3) [E] libre (bis)
+-[F] Me sabe a [G] humo los ciga[F]rritos que yo me [E] fumo (2)
+-[F] Hiciste la ma[G]leta, sin decirme a[F]diós, ay qué do[E]lor,
+Ella me abando[F]nó, ay que do[G]lor, y solo me de[E]jó
+Ay qué do[F]lor [G] [F] [E] (4)
 
-[Am]
-[G] [F] [E]
--Yo soy la tierra de tus raíces,
-El talismán de tu piel lo dice
-Yo soy la tierra de tus raíces,
-Lo dice el talismán y el fuego de tu piel
-Yo soy la tierra de tus raíces,
-El talismán de tu piel lo dice
-Yo soy la tierra de tus raíces, a ver que dices tú
+-[Am] Yo soy la tierra de tus raíces,
+El [G] talismán de tu [F] piel lo [E] dice
+[Am] Yo soy la tierra de tus raíces,
+Lo dice el talis[G]mán y el fuego [F] de tu [E] piel
+[Am] Yo soy la tierra de tus raíces,
+El [G] talismán de tu [F] piel lo [E] dice
+[Am] Yo soy la tierra de tus raíces, a ver que [G] dices [F] tú [E]
 
-[E] [F] [E] (2) [Am]- [G] [F] [E]
-Si me aconvenzo, si me aconvenzo
-Dame tu ausenci que sabe a beso, naina...
+[E] Si me acon[F]venzo, si me acon[E]venzo
+Dame tu ausen[Am]ci que [G] sabe a [F] beso, [E] naina...
 
-[Am] [G] [Am] (2) [Am] [G] [F] [E]
--Prisionero, prisionero estoy por tu culpita,
-Prisionero, prisionero, ay qué tiene tu carita
-Prisionero, prisionero por quererte tanto
-Como yo te quiero.
+-[Am] Prisionero, [G] prisionero estoy por tu cul[Am]pita,
+Prisionero, [G] prisionero, ay qué tiene tu ca[Am]rita
+Prisionero, prisionero por que[G]rerte tanto
+Como [F] yo te [E] quiero.
 
-[Am]-[E7]-[Am]
-Bamboleo, bambolea, pq mi vida yo la quiero…
-¿Qué es lo que tienen tus ojitos,
-Que me vuelven loco (2)?
-Cuando los miro muy poquito,
-Muy poquito a poco (2)
-Y no estaba muerto no, no (3)
-Estaba tomando caña, lerelerele
-Y no estaba muerto no, no (3) Chévere (3)
-No estaba muerto, estaba de parranda (bis)
--Una lágrima cayó en la arena,
-En la arena cayó una lágrima
-Una lágrima cayó en la arena,
-Yo la quisiera, quisiera encontrar
+[Am] Bamboleo, bambolea, [E7] pq mi vida yo la quiero… [Am]
+¿Qué es lo que tienen tus o[E7]jitos,
+Que me vuelven [Am] loco (2)?
+Cuando los miro muy po[E7]quito,
+Muy poquito a [Am] poco (2)
+Y no estaba [E7] muerto no, no (3)
+Estaba tomando [Am] caña, lerelerele
+Y no estaba [E7] muerto no, no (3) Chévere (3)
+No estaba [Am] muerto, estaba de parranda (bis)
+-[Am] Una lágrima cayó en la a[E7]rena,
+En la arena cayó una [Am] lágrima
+Una lágrima cayó en la a[E7]rena,
+Yo la quisiera, quisiera encon[Am]trar
 
-[Am] [G] [F] [E]
--Carmen, Carmen voy a tener que emborracharme
-Carmen (3) Porque si no nunca voy a hablarte.
-Carmen, Carmen voy a tener que emborracharme,
-Carmen (3) para decirte que eres tú mi amor.
--Pero mira como ronea delante el novio pa… (2)
--Sol, soltera, te vas a quedar soltera… (2)
--Obí obá cada día te quiero más obí, obá (2)
+-[Am] Carmen, Carmen voy a [G] tener que emborra[F]charme [E]
+Carmen (3) [Am] Porque si [G] no nunca voy a ha[F]blarte. [E]
+[Am] Carmen, Carmen voy a [G] tener que emborra[F]charme,
+Carmen (3) [Am] para de[G]cirte que eres [F] tú mi a[E]mor.
+-[Am] Pero mira como ro[G]nea delante el [F] novio pa… [E] (2)
+-[Am] Sol, soltera, [G] te vas a que[F]dar soltera… [E] (2)
+-[Am] Obí obá cada [G] día te quiero [F] más obí, [E] obá (2)
 
-Vente Misiana Juana… que yo te quiero (2)
-Porque tú te ves bonita, tú te pones orgullosa…
--Porompompó, poropo porompompero (2)
--Esta noche no me acuesto
-Que vengo de borrachera, que con el tran (2)
--Abuela, dile a mamá
-Que yo me voy con los muchachos
--Yo quisiera decirle que la quiero
-Y me da miedo lo que ella pensará
-Porque su amor para mí es como un sueño
-Quisiera verlo hecho realidad (2)
-__Quise cortar la flor más tierna del rosal
-Pensando que de amor no me podría pinchar
-Y mientras me pinchaba me enseñó una cosa,
-Que una rosa es una rosa es una rosa (2)
--Y cuando abrí la mano y la dejé caer
-Rompieron a sangrar las llagas en mi piel,
-Y con sus pétalos me la curó mimosa,
-Que una rosa es una rosa es una rosa
+[Am] Vente Misiana [G] Juana… que [F] yo te quiero [E] (2)
+[Am] Porque tú te ves bo[G]nita, tú te [F] pones orgullosa… [E]
+-[Am] Porompompó, po[G]ropo porom[F]pompero [E] (2)
+-[Am] Esta noche no me a[G]cuesto
+Que vengo de borra[F]chera, que con el [E] tran (2)
+-[Am] Abuela, [G] dile a mamá
+[F] Que yo me voy con los mu[E]chachos
+-[Am] Yo quisiera de[G]cirle que la quiero
+Y me [F] da miedo lo que [E] ella pensará
+Porque su a[Am]mor para mí es [G] como un sueño
+Quisiera [F] verlo hecho reali[E]dad (2)
+[Am] Quise cortar la flor más [G] tierna del rosal
+Pen[F]sando que de amor no me po[E]dría pinchar
+Y [Am] mientras me pinchaba me ense[G]ñó una cosa,
+Que una [F] rosa es una rosa es una [E] rosa (2)
+-[Am] Y cuando abrí la mano y la de[G]jé caer
+Rom[F]pieron a sangrar las llagas [E] en mi piel,
+Y [Am] con sus pétalos me la cu[G]ró mimosa,
+Que una [F] rosa es una rosa es una [E] rosa
 
--
-
-[Am] [G]
--Caramba, carambita, carambirulí
-Caramba, carambita, carambirulá
-Cariño de verano no me gusta a mí
-Cariño de verano no es ni fu ni fa (bis)
--Kechikitán, kikititantanta ke tumban ba
-Ke tumba ke tepe(3) tantantán,
-Ke tumba(2) keté (2) (bis)
--Esta sí, esta no, esta me gusta, me la como yo (2)
+-[Am] Caramba, carambita, carambiru[G]lí
+Caramba, carambita, carambiru[Am]lá
+Cariño de verano no me gusta a [G] mí
+Cariño de verano no es ni fu ni [Am] fa (bis)
+-[Am] Kechikitán, kikititantanta ke tumban [G] ba
+Ke tumba ke tepe(3) tantan[Am]tán,
+Ke tumba(2) ke[G]té (2) [Am] (bis)
+-[Am] Esta sí, esta no, esta me [G] gusta, me la como [Am] yo (2)
 
 > Pamparipan
-[G] [Am]
--Colegiala, colegiala, colegiala linda colegiala
-Colegiala no seas tan coqueta,
-Colegiala, ven, dime que sí (2)
-
--
+-[Am] Colegiala, colegiala, colegiala linda cole[G]giala
+Colegiala no seas tan co[Am]queta,
+Colegiala, ven, dime que [G] sí [Am] (2)
 
 Venga ___
-sal a bailar que tú lo haces fenomenal
-Tú cuerpo se mueve como una palmera,
-Suave, suave, su su suave.
+[Am] Sal a bailar que tú lo haces fenome[G]nal
+Tú cuerpo se mueve como una pal[Am]mera,
+Suave, suave, su su [G] suave. [Am]
 
--
-
-A chi li pu, (2) a chi li (8) A chi li pu (2)
+A chi li [Am] pu, (2) a chi li (8) A chi li [G] pu [Am] (2)

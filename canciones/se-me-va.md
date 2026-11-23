@@ -8,16 +8,16 @@ tags: ["balada", "rumba", "español"]
 ---
 
 ## Intro
-[D] [B7]-[Em] [A7] [D] (2)
+[D] [B7] [Em] [A7] [D] (2)
 
--Se me va, este amor que he ido amasando, con mis manos, se me va;
-Se me va, lo que tanto tiempo, yo he querido tanto, se me va.
--No hay razón, que yo pierda en un momento lo que tanto me costó,
-No hay razón, que se vaya de mis manos, y en un soplo tanto amor.
--Y se me va, como el agua que se escurre entre mis manos,
-Y se me va, y como el aire que no puedes sujetarlo,
-Como el tiempo que implacable va pasando, como el humo, tu cariño, se me va.
--Ay se me va, y no puedo ya luchar por retenerlo,
-Este amor, que en realidad se ha ido muriendo, y que por eso de mis manos se me va (bis)
+-Se me [D] va, este amor que he ido ama[B7]sando, con mis manos, se me [Em] va;
+Se me [A7] va, lo que tanto tiempo, yo he querido tanto, se me [D] va.
+-No hay razón, que yo pierda en un mo[B7]mento lo que tanto me cos[Em]tó,
+No hay ra[A7]zón, que se vaya de mis manos, y en un soplo tanto [D] amor.
+-Y se me [D] va, como el agua que se escurre entre mis [B7] manos,
+Y se me [Em] va, y como el aire que no puedes suje[A7]tarlo,
+Como el tiempo que implacable va pa[D]sando, como el humo, tu cariño, se me [B7] va.
+-Ay se me [Em] va, y no puedo ya luchar por rete[A7]nerlo,
+Este amor, que en realidad se ha ido mu[D]riendo, y que por eso de mis manos se me va (bis)
 
 Tú me camelas

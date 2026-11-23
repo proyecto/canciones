@@ -10,45 +10,45 @@ tags: ["pop", "latino", "positivo"]
 ## Intro
 [C] [Dm] [F] [C]
 
-Tengo una alegría
-Que me llena de energía cuando despierto
-Me tiene volando, sin el aeropuerto
-Tienes una vibra positiva
-Y mil razones pa estar contento
-Nacimos pa ser felices, no pa ser perfectos.
+[C] Tengo una alegría
+Que me llena de e[Dm]nergía cuando despierto
+[F] Me tiene volando, sin el aero[C]puerto
+[C] Tienes una vibra positiva
+Y mil ra[Dm]zones pa estar contento
+[F] Nacimos pa ser felices, no pa ser per[C]fectos.
 
-Dame, dame una sonrisa
-Que lo bello de la vida es gratis
-Sin tener visa (oye)
-Dame, dame otra sonrisa
-Que la vida es corta
-Báilala, que pasa de prisa
-Nadie me divierte como tú
-Nadie mira como lo haces tú y por eso
-Quiero perderme contigo, te digo
-Nadie besa como besas tú
-Nadie ríe como lo haces tú y por eso
-Quiero quedarme contigo, te digo
-Dame, dame una sonrisa
-Que la vida es corta baílala que pasa deprisa
+[C] Dame, dame una sonrisa
+Que lo [Dm] bello de la vida es gratis
+Sin te[F]ner visa (oye) [C]
+[C] Dame, dame otra sonrisa
+Que la [Dm] vida es corta
+Báilala, que [F] pasa de prisa [C]
 
-Tengo el poder pa quedarme donde lo merezco
-Y de no quedarme donde no florezco
-Me quedé contigo porque el universo
-Por tus ojitos me mira
-Yo no necesito una mansión
-Yo soy feliz donde lo sea mi corazón
-Aquí nadie necesita aprobación
-No importa cuanto tenga, ni de dónde son
-El alma no tiene color (no no no)
-Baila que la vida es un momento
-Si tienes mala vibra pues lo siento
-Si ya no tengo un buen día me lo invento
-Yo misma me lo invento (oye)
+[C] Nadie me divierte como tú
+[Dm] Nadie mira como lo haces tú y por eso
+[F] Quiero perderme contigo, te [C] digo
+[C] Nadie besa como besas tú
+[Dm] Nadie ríe como lo haces tú y por eso
+[F] Quiero quedarme contigo, te [C] digo
+[C] Dame, dame una sonrisa
+Que la [Dm] vida es corta baílala que [F] pasa deprisa [C]
 
-Nadie me divierte como tú…
-Dame, dame una sonrisa…
-Nadie me divierte como tú…
+[C] Tengo el poder pa quedarme donde lo merezco
+[Dm] Y de no quedarme donde no florezco
+[F] Me quedé contigo porque el universo
+[C] Por tus ojitos me mira
+[C] Yo no necesito una mansión
+[Dm] Yo soy feliz donde lo sea mi corazón
+[F] Aquí nadie necesita aprobación
+[C] No importa cuanto tenga, ni de dónde son
+[C] El alma no tiene color (no no no)
+[Dm] Baila que la vida es un momento
+[F] Si tienes mala vibra pues lo siento
+[C] Si ya no tengo un buen día me lo invento
+Yo [F] misma me lo invento (oye) [C]
 
-[C] [G…]
-Yo pegaré un grito al cielo…
+[C] Nadie me divierte [Dm] como tú… [F] [C]
+[C] Dame, dame una [Dm] sonrisa… [F] [C]
+[C] Nadie me divierte [Dm] como tú… [F] [C]
+
+[C] Yo pegaré un [G] grito al cielo…

@@ -8,78 +8,35 @@ tags: ["folklore", "argentino", "acústico"]
 ---
 
 ## Intro
-[Intro:] _ [D7] [G] [Em] [C] [D7] [G] [C] [G] [G] [Em]
+[D7] [G] [Em] [C] [D7] [G] [C] [G] [Em]
 
-Soy de la orilla brava, del agua turbia y la correntada
+[G] Soy de la orilla [Em] brava, del agua turbia y la correntada
+[C] Que baja hermosa por su bar[D7]rosa profundidad
+[Am7] Soy un paisano [F] serio, soy gente [G] del remanso Va[Em]lerio
+[C] Que es donde el cielo [D7] remonta vuelo en [G] el Paraná. [C]
 
-[C] [D7]
-Que baja hermosa por su barrosa profundidad
+-[G] Tengo el color del [Em] río, y su misma voz en mi canto sigo
+[C] Del agua [Am] mansa y su suave [D7] danza en el corazón
+[Am] Pero a veces os[F]cura, va turbu[G]lenta en la ciega hon[Em]dura
+[C] Y se hace brillo en [D7] este cuchillo de [G] pescador.
 
-[Am7] [F] [G] [Em]
-Soy un paisano serio, soy gente del remanso Valerio
+[Em] Cristo de las [C] redes, [D7] no nos aban[G]dones,
+[Em] Y en los espi[C]neles, [D] déjanos tus [G] dones
 
-[C] [D7] [G] [C]
-Que es donde el cielo remonta vuelo en el Paraná.
+[D7] No pienses que nos per[Am]diste, es que la pobreza nos pone tristes
+[C] La sangre [D7] tensa y uno no piensa más [G] que en morir. [G7]
 
--Tengo el color del río, y su misma voz en mi canto sigo
-
-[G] [Em]
-[C] [Am] [D7]
-Del agua mansa y su suave danza en el corazón
-
-[Am] [F] [G] [Em]
-Pero a veces oscura, va turbulenta en la ciega hondura
-
-Y se hace brillo en este cuchillo de pescador.
-
-[C] [D7] [G]
-[Em] [C]
-[D7] [G] [Em] [C]
-[D] [G]
-Cristo de las redes,
-
-no nos abandones
-
-, y en los espineles,
-
-déjanos tus dones
-
-[D7] [Am]
-No pienses que nos perdiste, es que la pobreza nos pone tristes
-
-[C] [D7] [G] [G] 7
-La sangre tensa y uno no piensa más que en morir.
-
-[C] [F] [G] [Em]
-/:Agua del río viejo, llévate pronto este canto lejos
-
+[C] /:Agua del río [F] viejo, llévate [G] pronto este canto [Em] lejos
 (2ª vez, pausa)
-
-[C] [D7] [G]
-Que está aclarando y vamos pescando para vivir.
-
+[C] Que está acla[D7]rando y vamos pescando para [G] vivir.
 (2ª vez del estribillo :/)
 
-Llevo mi sombra alerta, sobre la escama del agua abierta
+[G] Llevo mi sombra a[Em]lerta, sobre la escama del agua abierta
+[C] Y en el re[D7]poso vertiginoso del espinel.
+[Am7] Sueño que alzo la [F] proa, y subo a la [G] luna en la ca[Em]noa
+[C] Y allí des[D7]canso, hecha un re[G]manso, mi propia [C] piel.
 
-[G] [Em]
-[C] [D7]
-Y en el reposo vertiginoso del espinel.
-
-Sueño que alzo la proa, y subo_a_la_luna en la canoa
-
-[Am7] [F] [G] [Em]
-[C] [D7] [G] [C]
-Y allí descanso, hecha un remanso, mi propia piel.
-
-[G] [Em]
--Calma de mis dolores, ay, Cristo de los pescadores
-
-[C] [D7]
-Dile a mi amada, que está apenada esperándome,
-
-[Am7] [F] [G] [Em]
-Que ando pensando en ella, mientras voy vadeando las estrellas
-
-[C] [D7] [G]
-Que el río está bravo y estoy cansado para volver.
+-[G] Calma de mis do[Em]lores, ay, Cristo de los pescadores
+[C] Dile a mi a[D7]mada, que está apenada esperándome,
+[Am7] Que ando pensando en [F] ella, mientras voy va[G]deando las es[Em]trellas
+[C] Que el río está [D7] bravo y estoy cansado para [G] volver.

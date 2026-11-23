@@ -8,28 +8,24 @@ tags: ["flamenco", "malagueña", "copla"]
 ---
 
 ## Intro
-[E] [Am]
+[E] [Am] [G] [F] [E]
 
-[G] [F]-[E] (2)
-A la sombra de una copla yo te enamoré
-Y mi amor te entregué
-Malagueña te quiero y siempre te querré
+[Am] A la sombra de una [G] copla yo te ena[F]moré
+Y mi amor te entre[E]gué
+Mala[Am]gueña te quiero [G] y siempre te que[F]rré [E]
 
-[G7] [C] [A7] [Dm]/ [G] [C] [E] [Am] [G] [F] [E]
-Tus ojos verdes me hablan
-Y me dicen que me quieren
-Y a mí se me rompe el alma
-Porque cuando yo te veo, enciendo en deseo
-Y quiero morir, en tu boca de jazmín
+[G7] Tus ojos verdes me [C] hablan
+Y me [A7] dicen que me [Dm] quieren
+Y a [G] mí se me rompe el [C] alma
+Porque [E] cuando yo te [Am] veo, enciendo en de[G]seo
+Y quiero mo[F]rir, en tu boca de jaz[E]mín
 
-[G7] [C] [A7] [Dm]/ [G] [C] [E] [Am] [G] [F] [E]
-Nuestro amor es imposible,
-Son las cosas del destino
-Pero me basta y me sirve
-Poder mirarte a la cara, beber tu mirada
-Y verte feliz, con tu sonrisa de abril
-Que nuestros cuerpos se unan, en el mar de los
-amores.
-Y un solo beso nos funda,
-Y hasta se pare la hora, mi bella señora,
-Lo sabes muy bien,
+[G7] Nuestro amor es impo[C]sible,
+Son las [A7] cosas del des[Dm]tino
+Pero [G] me basta y me [C] sirve
+Poder [E] mirarte a la [Am] cara, beber tu mi[G]rada
+Y verte fe[F]liz, con tu sonrisa de a[E]bril
+[G7] Que nuestros cuerpos se [C] unan, en el mar de los a[Dm]mores
+Y un [G] solo beso nos [C] funda,
+Y hasta [E] se pare la [Am] hora, mi bella se[G]ñora,
+Lo sabes muy [F] bien [E]

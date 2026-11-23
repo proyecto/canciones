@@ -8,56 +8,27 @@ tags: ["flamenco", "nuevo flamenco", "poético"]
 ---
 
 ## Verso 1
-(
+Di… [Am] dime… si has men[Dm]tido alguna [E] vez [Am]
+Y [A7] dime si cuando lo hiciste
+Sen[Dm]tiste vergüenza de [E] ser embustero.
 
-Lole y Manuel)
-
-[#2] [Am] [Dm] [E] [Am] [Am]
-Di…dime… si has mentido alguna vez
-
-[A7]
-y dime si cuando lo hiciste
-
-[Dm] [E]
-sentiste vergüenza de ser embustero.
-
-[Dm] [E] [F#]
-Dime, dime, dime…
+[Dm] Dime, [E] dime, dime…
 Si has odiado alguna vez
+A [Am] quien hiciste creer un cariño de verdad,
+[Dm] Dime [E] .... [Am]
 
-[Am]
-a quien hiciste creer una cariño de verdad,
+Si [A7] sientes tu corazón, como en sí mismo
+El [Dm] dolor de tus her[E]manos.
 
-[Dm]-[E]-[Am]
-Dime ....
+[Dm] Dime, [E] dime, dime, si has cor[Am]tado alguna flor
+Sin [Dm] que tem[E]blaran tus [Am] manos.
 
-[A7]
-Si sientes tu corazón, como en sí mismo
+[Dm] Dime…. [E] si de ver[Am]dad crees en [A7] Dios
+Como [Dm] crees en el fuego [E] cuando te quema.
 
-[Dm] [E]
-el dolor de tus hermanos.
-
-Dime, dime, dime, si has cortado alguna flor
-
-[Dm] [E]
-[Am]
-sin que temblaran tus manos.
-
-[Dm] [E] [Am] [A7]
-Dime…. si de verdad crees en Dios
-
-[Dm] [E]
-como crees en el fuego cuando te quema.
-
-[E]
-Dime, dime, dime...Si es el cielo tu ilusión
-
-[Am] [Dm]- [E] [Am]
-o es la verdad en la Tierra, dime ...
+[Dm] Dime, [E] dime, dime... Si es el cielo tu ilusión
+O [Am] es la ver[Dm]dad en la [E] Tierra, [Am] dime ...
 
 A cada cosa, sí o no, y entonces sabré yo
-
-[A7]
-[Dm] [E]
-Si eres mi sueño. Dime, dime, dime, dime
-A cada cosa, sí o no, y entonces sabré yo
+Si [A7] eres mi sueño. [Dm] [E] Dime, dime, dime, dime
+A cada cosa, sí o no, y entonces sabré yo [Am]

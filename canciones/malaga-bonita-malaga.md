@@ -8,43 +8,36 @@ tags: ["copla", "rumba", "andaluz"]
 ---
 
 ## Intro
-- [F] [G] [F] [E] (2) //[Am] [G] [F] [E] (2)
+[F] [G] [F] [E] [Am] [G] [F] [E]
 
-Intro:
+[Am] Málaga, bonita [G] Málaga,
+[F] Málaga, que guapa [E] es.
+[Am] Eres tú, la más her[G]mosa,
+[F] Eres tú, reina ca[E]lé.
 
-Málaga, bonita Málaga,
-Málaga, que guapa es.
-Eres tú, la más hermosa,
-Eres tú, reina calé.
+[Am] Málaga, bonita [G] Málaga, (Málaga, bonita)
+[F] Málaga, que guapa [E] es. (Málaga, bonita)
+[Am] Eres tú la más her[G]mosa, (Málaga, bonita)
+[F] Eres tú reina ca[E]lé. (Málaga)
 
-[E] [F] [E] (2)
-Málaga, bonita Málaga, (Málaga, bonita)
-Málaga, que guapa es. (Málaga, bonita)
-Eres tú la más hermosa, (Málaga, bonita)
-Eres tú reina calé. (Málaga)
+[Am] Con el embrujo de tus ojos [G] y el orgullo de tu ser
+[F] Te paseas por las calles, [E] por las calles del Perchel.
+[Am] Viva Málaga que [G] tiene
+[F] Caleta y el Limo[E]nar
+[Am] Y un parque lleno de [G] flores
+[F] A la orillita del [E] mar.
+[Am] Antiguamente eran [G] dulces
+[F] Todas las aguas del [E] mar
+[Am] Se bañó una mala[G]gueña
+[F] Y se volvieron sa[E]lás.
+[Am] Ay, rosas Málaga [G] bella,
+[F] Biznagas, de mi pa[E]sión
+Cuando [Am] no estoy a tu [G] vera
+[F] Se me rompe el cora[E]zón
 
-Con el embrujo de tus ojos Y el orgullo de tu ser Te paseas por las calles, Por las calles del Perchel. (kechuruapapa)
-(kechuruapapa)
-(kechuruapapa)
-(kechuruapapa)
-Viva Málaga que tiene (kechuruapapa)
-Caleta y el Limonar (kechuruapapa)
-Y un parque lleno de flores (kechuruapapa)
-A la orillita del mar.
-Antiguamente eran dulces (kechuruapapa)
-Todas las aguas del mar (kechuruapapa)
-Se bañó una malagueña (kechuruapapa)
-Y se volvieron salás.
-Ay, rosas Málaga bella, (kechuruapapa)
-Biznagas, de mi pasión (kechuruapapa)
-Cuando no
-_estoy a tu vera (kechuruapapa)
-Se me rompe el corazón (kechuruapapa)
-
-[Am] [G] [F] [E]
-Málaga, bonita Málaga, (Málaga, bonita)
-Málaga, que guapa es. (Málaga, bonita)
-Eres tú la más hermosa, (Málaga, bonita)
-Eres tú reina calé …
-Eres tú reina calé…
-Eres tú, reina calée ¡Y olé!
+[Am] Málaga, bonita [G] Málaga, (Málaga, bonita)
+[F] Málaga, que guapa [E] es. (Málaga, bonita)
+[Am] Eres tú la más her[G]mosa, (Málaga, bonita)
+[F] Eres tú reina ca[E]lé …
+[Am] Eres tú reina ca[G]lé…
+[F] Eres tú, reina ca[E]lée ¡Y olé!

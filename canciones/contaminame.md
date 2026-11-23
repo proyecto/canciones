@@ -8,45 +8,39 @@ tags: ["canción de autor", "español", "90s"]
 ---
 
 ## Intro
-[Am] [G]/ [C] [F] [Dm]
+[Am] [G] [C] [F] [Dm]
 
-[Am] [G] [Am] (2)
-Cuéntame el cuento del árbol dátil de los desiertos, de las mezquitas de tus abuelos
-Dame los ritmos de las darbukas, de los secretos que hay en los libros que yo no leo
+[Am] Cuéntame el cuento del árbol dátil de [G] los desiertos, de las mezquitas de tus a[Am]buelos
+[Am] Dame los ritmos de las darbukas, de [G] los secretos que hay en los libros que yo no [Am] leo
 
-[C] [G] [F]-[G]-[C] (4)
-Contamíname, pero no con el humo que asfixia el aire,
-Ven, pero sí con tus ojos y con tus bailes.
-Ven, pero no con la rabia y los malos sueños.
-Ven, pero sí con los labios que anuncian besos.
+[C] Contamíname, [G] pero no con el humo que as[F]fixia el [G] aire, [C]
+[C] Ven, pero sí [G] con tus ojos y [F] con tus [G] bailes. [C]
+[C] Ven, pero no [G] con la rabia y los [F] malos [G] sueños. [C]
+[C] Ven, pero sí [G] con los labios que a[F]nuncian [G] besos. [C]
 
-[C] [G] [Dm] [G]/ [F]-[G] (2) [C]
-Contamíname, mézclate conmigo, que bajo mi rama tendrás abrigo (2)
+[C] Contamíname, [G] mézclate conmigo, [Dm] que bajo mi rama [G] tendrás abrigo
+[F] Conta[G]míname, [F] mézclate con[G]migo, que bajo mi rama tendrás a[C]brigo
 
-[Am] [G] [Am] (2)
-Cuéntame el cuento de las cadenas que te trajeron, de los tratados y los viajeros
-Dame los ritmos de los tambores y los voceros, del barrio antiguo y del barrio nuevo
+[Am] Cuéntame el cuento de las cadenas que [G] te trajeron, de los tratados y los via[Am]jeros
+[Am] Dame los ritmos de los tambores y [G] los voceros, del barrio antiguo y del barrio [Am] nuevo
 
-[C] [G] [F]-[G]-[C] (4)
-Contamíname, pero no con el humo que asfixia el aire,
-Ven, pero sí con tus ojos y con tus bailes.
-Ven, pero no con la rabia y los malos sueños.
-Ven, pero sí con los labios que anuncian besos.
+[C] Contamíname, [G] pero no con el humo que as[F]fixia el [G] aire, [C]
+[C] Ven, pero sí [G] con tus ojos y [F] con tus [G] bailes. [C]
+[C] Ven, pero no [G] con la rabia y los [F] malos [G] sueños. [C]
+[C] Ven, pero sí [G] con los labios que a[F]nuncian [G] besos. [C]
 
-Contamíname, mézclate conmigo, que bajo mi rama tendrás abrigo (2)
+[C] Contamíname, [G] mézclate conmigo, [Dm] que bajo mi rama [G] tendrás abrigo
+[F] Conta[G]míname, [F] mézclate con[G]migo, que bajo mi rama tendrás a[C]brigo
 
-[C] [G] [Dm] [G]/ [F]-[G] (2) [C]
-[Am] [G] [Am] (2)
-Cuéntame el cuento de los que nunca se descubrieron,
-Del río verde y de los boleros.
-Dame los ritmos de los buzukis, los ojos negros,
-La danza inquieta del hechicero
+[Am] Cuéntame el cuento de los que nunca se [G] descubrieron,
+Del río verde y de los bo[Am]leros.
+[Am] Dame los ritmos de los buzukis, los [G] ojos negros,
+La danza inquieta del hechi[Am]cero
 
-Contamíname, pero no con el humo que asfixia el aire,
-Ven, pero sí con tus ojos y con tus bailes.
-Ven, pero no con la rabia y los malos sueños.
-Ven, pero sí con los labios que anuncian besos.
+[C] Contamíname, [G] pero no con el humo que as[F]fixia el [G] aire, [C]
+[C] Ven, pero sí [G] con tus ojos y [F] con tus [G] bailes. [C]
+[C] Ven, pero no [G] con la rabia y los [F] malos [G] sueños. [C]
+[C] Ven, pero sí [G] con los labios que a[F]nuncian [G] besos. [C]
 
-[C] [G] [F]-[G]-[C] (4)
-[C] [G] [Dm] [G]/ [F]-[G] (2) [C]
-Contamíname, mézclate conmigo, que bajo mi rama tendrás abrigo (4)
+[C] Contamíname, [G] mézclate conmigo, [Dm] que bajo mi rama [G] tendrás abrigo
+[F] Conta[G]míname, [F] mézclate con[G]migo, que bajo mi rama tendrás a[C]brigo (4)

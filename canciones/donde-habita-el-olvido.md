@@ -8,54 +8,26 @@ tags: ["canción de autor", "acústico", "español"]
 ---
 
 ## Intro
-[Am7] [G] (2) [Am] [G] [Am] [G] [Am]
+[Am7] [G] [Am] [G] [Am] [G] [Am]
 
-Cuando se despertó, no recordaba nada de la noche anterior,
+[Am] Cuando se desper[G]tó, no recor[Am]daba nada de la [G] noche ante[Am]rior,
+"Dema[G]siadas cervezas", [Am] dijo, al ver mi ca[G]beza, al lado de la [Am] suya, en la almo[G]hada...
+Y la be[Dm7]sé otra vez, pero [F] ya no era ayer, sino ma[E]ñana,
+Y un inso[Am]lente sol, [Dm7] como un ladrón en[F]tró, por la ven[E]tana
 
-[G] [Am] [G] [Am] [G]
-"Demasiadas cervezas", dijo, al ver mi cabeza, al lado de la suya, en la almohada...
+[Am] El día que lle[G]gó, tenía o[Am]jeras malvas y [G] barro en el ta[Am]cón,
+Des[G]nudos, pero ex[Am]traños, nos vio, roto el en[G]gaño de la noche, la [Am] cruda luz del [G] alba.
+Era la [Dm7] hora de huir y se [F] fue, sin decir, “llámame un [E] día",
+Desde el bal[Am]cón la vi, per[Dm7]derse en el tra[F]jín de la Gran [E] Vía
 
-[G] [Dm7] [F] [E]
-Y la besé otra vez, pero ya no era ayer, sino mañana,
+[Am] Y la vida si[Dm]guió, como [F] siguen las cosas que no [G] tienen mucho sentido,
+[Am] Una vez me con[Dm]tó, un a[G]migo común, que la [Am] vio, donde habita el olvido. [Am7] [G]
 
-[Am] [Dm7] [F] [E]
-Y un insolente sol, como un ladrón entró, por la ventana
+[Am] La pupila archi[G]vó un se[Am]máforo rojo, una [G] mochila, un Peu[Am]geot,
+Y a[G]quellos ojos [Am] miopes, y la sangre al ga[G]lope por mis venas y una [Am] nube de a[G]rena,
+Dentro del [Dm7] corazón, y esta [F] racha de amor sin ape[E]tito.
+Los [Am] besos que per[Dm7]dí, por no [F] saber decir: "te nece[E]sito".
 
-[Am] [G] [Am] [G] [Am]
-El día que llegó, tenía ojeras malvas y barro en el tacón,
-
-[G] [Am] [G] [Am] [G]
-Desnudos, pero extraños, nos vio, roto el engaño de la noche, la cruda luz del alba.
-
-[G] [Dm7] [F] [E]
-Era la hora de huir y se fue, sin decir, “llámame un día",
-
-Desde el balcón la vi, perderse en el trajín de la Gran Vía
-
-[Am] [Dm7] [F] [E]
-Y la vida siguió, como siguen las cosas que no tienen mucho sentido,
-
-[Am] [Dm] [F] [G]
-[Am] [Dm] [G] [Am] [Am7]-[G] (2)
-Una vez me contó, un amigo común, que la vio, donde habita el olvido.
-
-La pupila archivó un semáforo rojo, una mochila, un Peugeot,
-
-[Am] [G] [Am] [G] [Am]
-[G] [Am] [G] [Am]
-Y aquellos ojos miopes, y la sangre al galope por mis venas y una nube de arena,
-
-[G] [Dm7] [F] [E]
-Dentro del corazón, y esta racha de amor sin apetito.
-
-[Am] [Dm7] [F] [E]
-Los besos que perdí, por no saber decir: "te necesito".
-
-[Am] [Dm] [F] [G]
-Y la vida siguió, como siguen las cosas que no tienen mucho sentido,
-
-[Am] [Dm] [G] [Am]
-Una vez me contó, un amigo común, que la vio, donde habita el olvido.
-
-[G] [Am7] [G] [Am]
-Donde habita el olvido, donde habita el olvido
+[Am] Y la vida si[Dm]guió, como [F] siguen las cosas que no [G] tienen mucho sentido,
+[Am] Una vez me con[Dm]tó, un a[G]migo común, que la [Am] vio, donde habita el olvido.
+[G] Donde habita el ol[Am7]vido, [G] donde habita el ol[Am]vido

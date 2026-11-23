@@ -10,11 +10,10 @@ tags: ["vals peruano", "bolero", "clásico"]
 ## Intro
 [Am] [G] [F] [E7]
 
-Oye esta canción que lleva, alma, corazón y vida
-Estas tres cositas nada más te doy
-Porque no tengo fortuna, estas tres cosas te ofrezco
-Alma, corazón y vida y nada más
+[Am] Oye esta canción que lleva, [G] alma, corazón y [F] vida [E7]
+Estas tres cositas [E7] nada más te [Am] doy
+[Am] Porque no tengo fortuna, [G] estas tres cosas te o[F]frezco [E7]
+Alma, corazón y [E7] vida y nada [Am] más
 
-[Dm] [Am] [E7] [Am] (2)
-Alma para conquistarte, corazón para quererte
-Y vida para vivir junto a ti
+[Dm] Alma para conquis[Am]tarte, [E7] corazón para que[Am]rerte
+[Dm] Y vida para vi[Am]vir [E7] junto a [Am] ti

@@ -8,47 +8,43 @@ tags: ["bachata", "pop latino", "2020s"]
 ---
 
 ## Intro
-[C] [D] [G] [Em] (2) [C] [D] [G]
+[C] [D] [G] [Em]
+[C] [D] [G]
 
-Te bloqueé de Insta
-Pero por otra cuenta veo tus historias (oh…)
-Tu número lo borré
-No sé pa qué si me lo sé de memoria
-Me hiciste dañ, y así te extraño
-Y aunque sé que un día te voy a olvidar
-Aún no lo hago
-Es complicado
-Todo lo que hicimos, me gusta recordar
+[C] Te bloqueé de Insta
+Pero por [D] otra cuenta veo tus historias (oh…)
+[G] Tu número lo borré
+No sé pa [Em] qué si me lo sé de memoria
+[C] Me hiciste daño, y así te [D] extraño
+Y aunque [G] sé que un día te voy a olvidar, [Em] aún no lo hago
+[C] Es complicado, [D] todo lo que hicimos, [G] me gusta recordar
 
-[C] [D] [Em] [Bm] (2)
-Ando manejando
-Por las calles que me besaste
-Oyendo las canciones
-Que un día me dedicaste
-Te diría que volvieras
-Pero eso no se pide
-Mejor le pido a Dios
-Que me cuide (porque…)
+[C] Ando manejando
+Por las [D] calles que me besaste
+[Em] Oyendo las canciones
+Que un [Bm] día me dedicaste
+[C] Te diría que volvieras
+Pero [D] eso no se pide
+[Em] Mejor le pido a Dios
+Que me [Bm] cuide (porque…)
 
-[C] [D] [G] [Em] (2) [C] [D] [G]
-Que me cuide de otra que se parezca a ti
-No quiero caer como hice por ti
-Ojalá te enamores
-Te hagan lo mismo que me hiciste a mí
-Tú me enseñaste a no amar a cualquiera
-Y también como no quiero que me quieran
-No, éramos tres en una relación de dos
-No te perdono, pídele perdón a Dios
-Dije que te olvidé y la verdad es que yo, yo
+[C] Que me cuide de otra que se pa[D]rezca a ti
+No quiero ca[G]er como hice por [Em] ti
+Ojalá te ena[C]mores
+Te hagan lo [D] mismo que me hiciste a [G] mí
+Tú me ense[C]ñaste a no amar a cual[D]quiera
+Y también como [G] no quiero que me [Em] quieran
+No, éramos [C] tres en una rela[D]ción de dos
+No te per[G]dono, pídele perdón a [Em] Dios
+Dije que te olvi[C]dé y la verdad es que [D] yo, yo [G]
 
-[C] [D] [Em] [Bm] (2)
-Ando manejando
-Por las calles que me besaste
-Oyendo las canciones
-Que un día me dedicaste
-Te diría que volvieras
-Pero eso no se pide
-Mejor le pido a Dios
-Que me cuide (porque…)
+[C] Ando manejando
+Por las [D] calles que me besaste
+[Em] Oyendo las canciones
+Que un [Bm] día me dedicaste
+[C] Te diría que volvieras
+Pero [D] eso no se pide
+[Em] Mejor le pido a Dios
+Que me [Bm] cuide (porque…)
 
-Hoy ya no vuelan mariposas
+[C] Hoy ya no vuelan [D] mariposas [G]

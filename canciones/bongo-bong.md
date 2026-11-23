@@ -8,110 +8,106 @@ tags: ["reggae", "mestizaje", "internacional"]
 ---
 
 ## Verso 1
-Bongo Bong/ Je ne t’aime plus
+[Am] Bangin' on my bongo
+[Dm] All that swing belongs to me
+I'm [Am] so happy there's nobody
+In my [Dm] place instead of me
+[Am] I'm a king without a crown
+[Dm] Hanging loose in a big town
+[Am] I'm the king of bongo baby
+I'm the [Dm] king of bongo, bong
 
-Bangin' on my bongo
-All that swing belongs to me
-I'm
+[Am] Mama was queen of the mambo
+[Dm] Papa was king of the Congo
+[Am] Deep down in a jungle
+I started [Dm] bangin' my first bongo
+[Am] Every monkey'd like to be
+In my [Dm] place instead of me
+Cause [Am] I'm the king of bongo, baby
+I'm the [Dm] king of bongo bong
 
-[Amx2] [Dm] [G]
-so happy there's nobody
-In my place instead of me
-I'm a king without a crown
-Hanging loose in a big town
-I'm the king of bongo baby
-I'm the king of bongo, bong
+[Am] I'm the king of the bongo,
+[Dm] King of the bongo bong
+[G] Hear me when I [Am] come, baby
+[Dm] King of the bongo bong
+[G] Hear me when I [Am] come
 
-Mama was queen of the mambo
-Papa was king of the Congo
-Deep down in a jungle
-I started bangin' my first bongo
--Every monkey'd like to be
-In my place instead of me
-Cause I'm the king of bongo, baby
-I'm the king of bongo bong
+[Am] Mama was queen of the mambo
+[Dm] Papa was king of the Congo
+[Am] Deep down in a jungle
+I started [Dm] bangin' my first bongo
+[Am] Every monkey'd like to be
+In my [Dm] place instead of me
+Cause [Am] I'm the king of bongo, baby
+I'm the [Dm] king of bongo bong
 
-I'm the king of the bongo,
-King of the bongo bong
-Hear me when I come, baby
-King of the bongo bong
-Hear me when I come
-Mama was queen of the mambo
-Papa was king of the Congo
-Deep down in a jungle
-I started bangin' my first bongo
-Every monkey'd like to be
-In my place instead of me
-Cause I'm the king of bongo, baby
-I'm the king of bongo bong
+[Am] I went to the big town
+[Dm] Where there is a lot of sound
+[Am] From the jungle to the city
+[Dm] Looking for a bigger crown
+[Am] So I play my boogie
+For the [Dm] people of big city
+[Am] But they don't go crazy
+When I'm [Dm] bangin' on my boogie
 
-I went to the big town
-Where there is a lot of sound
-From the jungle to the city
-Looking for a bigger crown
--So I play my boogie
-For the people of big city
-But they don't go crazy
-When I'm bangin' on my boogie
+[Am] I'm the, king of the bongo,
+[Dm] King of the bongo bong
+[G] Hear me when I [Am] come, baby
+[Dm] King of the bongo, king of the [G] bongo bong
 
-I'm the, king of the bongo,
-King of the bongo bong
-Hear me when I come, baby
-King of the bongo, king of the bongo bong
+[Am] Nobody'd like to be in my place
+In[Dm]stead of me
+Cause [Am] nobody go crazy
+When I'm [Dm] bangin' on my boogie
+[Am] I'm a king without a crown
+[Dm] Hanging loose in a big town
+But [Am] I'm the king of bongo baby
+I'm the [Dm] king of bongo bong
 
-Nobody'd like to be in my place
-Instead of me
-Cause nobody go crazy
-When I'm bangin' on my boogie
-I'm a king without a crown
-Hanging loose in a big town
-But I'm the king of bongo baby
-I'm the king of bongo bong
+[G] Hear me when I [Am] come, baby
+[G] Hear me when I [Am] come
 
-Hear me when I come, baby
-Hear me when I come
+[Am] Je ne t'aime plus, mon amour
+[Dm] Je ne t'aime plus, tous les jours
 
-Je ne t'aime plus, mon amour Je ne t'aime plus, tous les jours (5)
+[Am] Parfois j'aimerais mourir
+[Dm] Tellement j'ai voulu croire
+[Am] Parfois j'aimerais mourir
+[Dm] Pour ne plus rien avoir
+[Am] Parfois j'aimerais mourir
+[Dm] Pour plus jamás te voir
 
-> *
-Parfois j'aimerais mourir
-Tellement j'ai voulu croire
+[Am] I'm the king of the bongo,
+[Dm] King of the bongo bong
+[G] Hear me when I [Am] come, baby
+[Dm] King of the bongo, king of the [G] bongo bong
+[G] Hear me when I [Am] come
 
--Parfois j'aimerais mourir
-Pour ne plus rien avoir
--Parfois j'aimerais mourir
-Pour plus jamais te voir
+[Am] Je ne t'aime plus, mon amour
+[Dm] Je ne t'aime plus tous les jours
 
-I'm the king of the bongo,
-King of the bongo bong
-Hear me when I come, baby
-King of the bongo, king of the bongo bong
-Hear me when I come
+[Am] Parfois j'aimerais mourir
+[Dm] Tellement y'a plus d'espoir
 
-Je ne t'aime plus, mon amour
-Je ne t'aime plus tous les jours (4) 2*
+[Am] They say that I'm a clown
+[Dm] Making too much dirty sound
+[Am] They say there is no place
+[Dm] For little monkey in this town
 
-Parfois j'aimerais mourir
-Tellement y'a plus d'espoir
+[Am] Nobody'd like to be in my place in[Dm]stead of me
+Cause [Am] nobody go crazy when I'm [Dm] bangin' on
 
-They say that I'm a clown
-Making too much dirty sound
-They say there is no place
-For little monkey in this town
-Nobody'd like to be in my place instead of me
-Cause nobody go crazy when I'm bangin' on
+[Am] Parfois j'aimerais mourir
+[Dm] Pour plus jamais te revoir
+[Am] Parfois j'aimerais mourir
+[Dm] Pour ne plus rien savoir
 
-Parfois j'aimerais mourir
-Pour plus jamais te revoir
-Parfois j'aimerais mourir
-Pour ne plus rien savoir
-Je ne t'aime plus, mon amour
+[Am] Je ne t'aime plus, mon amour
+[Dm] Je ne t'aime plus, tous les jours
 
-I'm the, king of the bongo,
-King of the bongo bong
-Hear me when I come, baby
+[Am] I'm the, king of the bongo,
+[Dm] King of the bongo bong
+[G] Hear me when I [Am] come, baby
 
-Je ne t'aime plus, mon amour
-Je ne t'aime plus tous les jours (4)
-
-> (*3)
+[Am] Je ne t'aime plus, mon amour
+[Dm] Je ne t'aime plus tous les jours

@@ -8,24 +8,21 @@ tags: ["balada", "almodóvar", "español"]
 ---
 
 ## Intro
-[Am] [Dm] [G7] [C] [E]/ [Am] [Dm] [Am] [B7] [F7] [E]
+[Am] [Dm] [G7] [C] [E] / [Am] [Dm] [Am] [B7] [F7] [E]
 
-Lo nuestro se acabó y te arrepentirás
-De haberle puesto fin a un año de amor
-Si ahora tú te vas, pronto descubrirás
-Que los días son eternos y vacíos sin mí.
+[Am] Lo nuestro se acabó [Dm] y te arrepentirás
+[G7] De haberle puesto fin [C] a un año de [E] amor
+[Am] Si ahora tú te vas, [Dm] pronto descubrirás
+[Am] Que los días son e[B7]ternos y va[F7]cíos sin [E] mí.
 
-[Am] [Dm] [F7]-[E]
-Y de noche, y de noche por no sentirte solo
+[Am] Y de noche, [Dm] y de noche por no [F7] sentirte [E] solo
 
-[Am] [Dm] [E] [Am] (3)
--Recordarás nuestros días felices,
-Recordarás el sabor de mis besos
-Y entenderás en un solo momento
-Qué significa un año de amor (2)
+- [Am] Recordarás nuestros [Dm] días felices,
+[E] Recordarás el sa[Am]bor de mis besos
+Y entenderás en un [Dm] solo momento
+[E] Qué significa un [Am] año de amor (2)
 
-[Am] [Dm] [G7] [C] [E]/ [Am] [Dm] [Am] [B7] [F7] [E]
-Te has parado a pensar lo que sucederá
-Todo lo que perdemos y lo que sufrirás.
-Si ahora tú te vas, no recuperarás
-Los momentos felices que te hice vivir.
+[Am] Te has parado a pensar [Dm] lo que sucederá
+[G7] Todo lo que perdemos [C] y lo que sufri[E]rás.
+[Am] Si ahora tú te vas, [Dm] no recuperarás
+[Am] Los momentos fe[B7]lices que te [F7] hice vi[E]vir.

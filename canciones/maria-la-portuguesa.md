@@ -8,52 +8,34 @@ tags: ["copla", "fado", "español"]
 ---
 
 ## Verso 1
-> Instrumental:
-[Em]
-[B7] (2) [Em] [E7] [Am] [Em] [B7] [Em] [Em] [B7] [Em] (2[)/][E7]
-En las noches de luna y clavel, de Ayamonte hasta Villarreal,
-Sin rumbo por el río, entre suspiros, una canción viene y va.
+[Em] [B7] [Em] [E7] [Am] [Em] [B7] [Em]
 
-[Am] [D7]-[G]/ [B7] [Em] -[B7] [Em] (2)
-Que la canta María, al querer de un andaluz
-María es la alegría y es la agonía que tiene el Sur.
+En las [Em] noches de luna y clavel, de Aya[B7]monte hasta Villarreal,
+Sin rumbo por el río, entre suspiros, una can[Em]ción viene y va. [E7]
 
-[Em] [B7] [Em] (2[)/] [E7]
-Que conoció a ese hombre, en una noche de vino verde y calor,
-Y entre palma y fandango la fue enredando, le trastornó el corazón.
+Que la [Am] canta Ma[D7]ría, al que[G]rer de un andaluz,
+Ma[B7]ría es la alegría y es la agonía que tiene el [Em] Sur. [E7]
 
-[Am] [D7]-[G]/ [B7] [Em] -[E]
--Y en las playas de Isla, se perdieron los dos,
-Donde rompen las olas besó su boca, y se entregó.
+Que cono[Em]ció a ese hombre, en una [B7] noche de vino verde y calor,
+Y entre palma y fandango la fue enredando, le trastornó el cora[Em]zón. [E7]
 
-[C#7]-[C7]-[B7] [E]
-Aay... María la Portuguesa,
+Y en las [Am] playas de [D7] Isla, se per[G]dieron los dos,
+Donde [B7] rompen las olas besó su boca, y se entre[Em]gó. [E]
 
-Desde Ayamonte hasta Faro, se oye este fado por las tabernas
-
-[B7] [E] [B7] [E]
-[B7] [E]
+[C#7] [C7] [B7]
+¡Ay, Ma[E]ría la Portuguesa!
+Desde Ayamonte hasta Faro, se oye este fado por las ta[B7]bernas
 Donde bebe vinho amargo,
+¿por qué canta con tristeza? ¿Por qué esos ojos cerra[E]dos?
+Por un [B7] amor desgra[E]ciado, por eso [B7] canta, por eso [Em] pena.
 
-[Am] [D7] [G] [B7] [E]
-¿por qué canta con tristeza? ¿Por qué esos ojos cerrados?
+[Em] Fado porque me [D] faltan sus ojos, [C] fado porque me [B7] falta su boca,
+[Am] Fado porque se [Em] fue por el río, [B7] fado porque se fue con la [Em] sombra.
 
-[B7] [E.] [B7] [Em]
-Por un amor desgraciado, por eso canta, por eso pena.
+[Em] [D] [C] [B7] [Am] [Em] [B7] [Em] [E7]
 
-[Em] [D]
-[C] [B7]
-Fado porque me faltan sus ojos, fado porque me falta su boca,
+[Em] Dicen que fue el "te quiero" de un mari[B7]nero razón de su padecer,
+Y una noche en los barcos del contrabando al langos[Em]tino se fue. [E7]
 
-[Am] [Em] [B7] [Em]
-Fado porque se fue por el río, fado porque se fue con la sombra.
-
-> Instrumental:
-[Em]
-[D] [C] [B7]/ [Am] [Em] [B7] [Em] [Em] [B7] [Em] (2[)/][E7]
-Dicen que fue el "te quiero" de un marinero razón de su padecer,
-Y una noche en los barcos del contrabando al langostino se fue.
-
-[Am] [D7]-[G]/ [B7] [Em] -[E]
--Y en las sombras del río un disparo sonó,
-Y de aquel sufrimiento nació el lamento de esta canción.
+Y en las [Am] sombras del [D7] río un dis[G]paro sonó,
+Y de a[B7]quel sufrimiento nació el lamento de esta can[Em]ción. [E]

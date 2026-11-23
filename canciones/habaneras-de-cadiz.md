@@ -10,13 +10,13 @@ tags: ["habanera", "copla", "andaluz"]
 ## Intro
 [Am] [E] [Am] [E]
 
-Que tengo un amor en la Habana y el otro en Andalucía, no te he visto yo a ti tierra mía,
-
-[Am] [G7] [C] [F] [E]
-Más cerca que la mañana, que apareció en mi ventana de la Habana colonial
-
-[F] [E] [F] [E] [F] [E] [A]
-To Cádiz, la catedral, La Viña y el Mentidero, y verán que no exagero
-
-[E] [A] [E7]
-Si al cantar la habanera repito: La Habana es Cádiz con más negritos,
+## Coro
+[Am] Que tengo un amor en La [E] Habana y el [Am] otro en Andalu[E]cía,
+[Am] No te he visto yo a ti, [E] tierra mía,
+[Am] Más cerca que la ma[G7]ñana que apa[C]reció en mi ven[F]tana
+De La Ha[E]bana colonial.
+[F] Tó Cádiz, [E] la Catedral, [F] La Viña y [E] El Menti[F]dero, [E]
+Y ve[A]rán que no exagero
+Si al can[E]tar la habanera re[A]pito:
+La Ha[E7]bana es Cádiz con más negritos,
+Cádiz, La Ha[E]bana con más sa[A]lero.

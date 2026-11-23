@@ -8,41 +8,38 @@ tags: ["pop flamenco", "balada", "español"]
 ---
 
 ## Verso 1
-Tú, mi otra parte que esperaba
-Lo que siento aquí en mi alma,
-Lo siento en mi sentir
-- Tú, que endulzas las palabras
-Y cuando te callas
-El silencio sabe a ti
+[C] Tú, mi otra parte que [Am] esperaba
+Lo que siento aquí en mi [F] alma,
+Lo siento en mi sen[G]tir
+- [C] Tú, que endulzas las pa[Am]labras
+Y cuando te [F] callas
+El silencio sabe a [G] ti
 
-[C] [Am] [F] [G]
-[F] [Am] [G] [F] [G]
-Hoy creo, que he sido un poco tonto
-Que hoy no te he llamado
-Pero es que se me ha pasado
-Por buscar en el cajón
+[F] Hoy creo, que he sido un poco [Am] tonto
+Que hoy no te he lla[G]mado
+Pero es que se me ha pa[F]sado
+Por buscar en el ca[G]jón
 
-[C] [Am] [F] [G]
-Todos los besos posibles
-Las llaves para abrir tu corazón.
-Irresistible
-Mil flores pa entregarte
-A mi manera
-Y un sol pa que te ayude
+[C] Todos los besos po[Am]sibles
+Las llaves para abrir tu cora[F]zón.
+Irresis[G]tible
+[C] Mil flores pa entre[Am]garte
+A mi ma[F]nera
+Y un sol pa que te a[G]yude
 A despertar sin mí
 
--Y un barquito de vela
-Y un viento de levante
-Pa llevarte a todas partes
-El cielo, un pentagrama
-Y componerte
-Con notas de colores
+- [C] Y un barquito de [Am] vela
+Y un viento de le[F]vante
+Pa llevarte a todas [G] partes
+[C] El cielo, un penta[Am]grama
+Y compo[F]nerte
+Con notas de co[G]lores
 Una canción pa ti
 
-Eres el motor de mi corazón
-Una mujer hecha canción, eso eres
--Miro, siempre a mi alrededor
-Para ver si veo yo,
-Algo más bello, bello
+[C] Eres el motor de mi cora[Am]zón
+Una mujer hecha can[F]ción, eso [G] eres
+- [C] Miro, siempre a mi alrede[Am]dor
+Para ver si veo [F] yo,
+Algo más [G] bello, bello
 
 [C] [Am] [F] [G]

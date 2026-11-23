@@ -8,63 +8,58 @@ tags: ["reggae pop", "latino", "verano"]
 ---
 
 ## Intro
-[G] [D] A [Bm] (4)
+[G] [D] [A] [Bm]
 
-Cuatro abrazos y un café
-Apenas me desperté
--Y al mirarte recordé
-que ya todo lo encontré.
--Tu mano, en mi mano
-de todo escapamos
-Juntos, ver el sol caer.
+[G] Cuatro abrazos y un ca[D]fé
+A[A]penas me desper[Bm]té
+[G] Y al mirarte recor[D]dé
+Que [A] ya todo lo encon[Bm]tré.
+[G] Tu mano, en mi [D] mano
+De [A] todo esca[Bm]pamos
+[G] Juntos, ver el sol ca[D]er. [A] [Bm]
 
-Vamos pa la playa pa curarte el alma
-Cierra la pantalla, abre la Medalla
--Todo el mar Caribe viendo tu cintura
-Tú le coqueteas,
-Tú eres buscabullas y me gusta,
--Lento y contento cara al viento
--Lento y contento cara al viento
+[G] Vamos pa la playa pa cu[D]rarte el alma
+[A] Cierra la pantalla, abre [Bm] la Medalla
+[G] Todo el mar Caribe viendo [D] tu cintura
+[A] Tú le coqueteas,
+Tú [Bm] eres buscabullas y me gusta,
+[G] Lento y con[D]tento cara al [A] viento [Bm]
+[G] Lento y con[D]tento cara al [A] viento [Bm]
 
-Pa sentir la arena en los pies
-Pa que se nos pinte la piel
-Pa jugar como niños
-Darnos cariño como la primera vez
-Que te miré yo supe que estaría a tus pies
-Desde que se tocaron
-Tu mano y mi mano
-De todo escapamos
-Juntos ver el sol caer
-__
+[G] Pa sentir la arena en los [D] pies
+[A] Pa que se nos pinte la [Bm] piel
+[G] Pa jugar como [D] niños
+Darnos ca[A]riño como la primera [Bm] vez
+[G] Que te miré yo supe que esta[D]ría a tus pies
+Desde [A] que se tocaron
+Tu mano y mi [Bm] mano
+[G] De todo esca[D]pamos
+[A] Juntos ver el sol ca[Bm]er
 
-Vamos pa la playa pa curarte el alma
-Cierra la pantalla, abre la Medalla
-Todo el mar Caribe viendo tu cintura
-Tú le coqueteas,
-Tú eres buscabullas (2) y me gusta,
-Lento y contento cara al viento
-Lento y contento cara al viento
+[G] Vamos pa la playa pa cu[D]rarte el alma
+[A] Cierra la pantalla, abre [Bm] la Medalla
+[G] Todo el mar Caribe viendo [D] tu cintura
+[A] Tú le coqueteas,
+Tú [Bm] eres buscabullas y me gusta,
+[G] Lento y con[D]tento cara al [A] viento [Bm]
+[G] Lento y con[D]tento cara al [A] viento [Bm]
 
--Calma, mi vida con calma
-que nada hace falta
-si estamos juntitos
+[G] Calma, mi [D] vida con calma
+Que [A] nada hace falta
+Si es[Bm]tamos juntitos
 
--Calma, vida con calma
-que nada hace falta
-si estamos juntitos
+[G] Calma, [D] vida con calma
+Que [A] nada hace falta
+Si es[Bm]tamos juntitos
+Andando
 
-andando
+[G] Calma, mi [D] vida con calma
+Que [A] nada hace falta
+Si es[Bm]tamos juntitos
+Bailando, cantando
 
--Calma, mi vida con calma
-que nada hace falta
-si estamos juntitos
-
-bailando
-
-cantando
-
--Calma, vida con calma
-que nada hace falta
-si estamos juntitos
+[G] Calma, [D] vida con calma
+Que [A] nada hace falta
+Si es[Bm]tamos juntitos
 
 Yo no tengo pa' darte ni un peso…

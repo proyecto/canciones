@@ -10,37 +10,35 @@ tags: ["ska punk", "español", "90s"]
 ## Intro
 [Am] [F] [E]
 
--Hablo de España y me lleno de emoción
-Y es que te llevo muy dentro del corazón
-Castañuelas, toros y verbenas
-Mi España, la tierra del honor.
--Esta es la España del Felipe y del Aznar,
-La España democrática del gal,
-La España de la estafa inmobiliaria,
-La delincuencia en la alta sociedad.
--Politicuchos que se inflan a robar,
-Los asesinos hoy vuelven a torear
-España, el país de la patraña
-De trapicheos, pelotazos y demás.
+-[Am] Hablo de España y me [F] lleno de emo[E]ción
+[Am] Y es que te llevo muy [F] dentro del cora[E]zón
+[Am] Castañuelas, [F] toros y ver[E]benas
+[Am] Mi España, la [F] tierra del ho[E]nor.
+-[Am] Esta es la España del Fe[F]lipe y del Az[E]nar,
+[Am] La España demo[F]crática del [E] gal,
+[Am] La España de la es[F]tafa inmobi[E]liaria,
+[Am] La delincuencia en la [F] alta socie[E]dad.
+-[Am] Politicuchos que se [F] inflan a ro[E]bar,
+[Am] Los asesinos hoy [F] vuelven a to[E]rear
+[Am] España, el [F] país de la pa[E]traña
+[Am] De trapicheos, pelo[F]tazos y de[E]más.
 
-[Am] [E] (2) / [Am] [E] [F] [E](2)
-Y aquí no pasa nada,
-Nos tomamos la tostada
-Ni siquiera te levantes del sofá
-Vaya decepción en la manifestación,
-Solamente han ido los antidisturbios
--Sí, Jesulín, España es así,
-La tierra donde yo nací,
-Sí, Jesulín, España es así,
-Que sepas que vamos a por ti
+[Am] Y aquí no pasa nada,
+[E] Nos tomamos la tostada
+[Am] Ni siquiera te le[E]vantes del sofá
+[Am] Vaya decepción en la mani[E]festación,
+Solamente [F] han ido los antidis[E]turbios
+-[Am] Sí, Jesu[E]lín, España es a[Am]sí,
+La tierra [E] donde yo na[Am]cí,
+[Am] Sí, Jesu[E]lín, España es a[Am]sí,
+Que sepas [F] que vamos a por [E] ti
 
-[Am] [F] [E]
-Y son curritos que no pueden ni currar
-Negociaciones dignas de un neandertal
-Trabajadores pagando los errores
-Como siempre, al que no tiene
-Hay que explotar.
-- Somos Europa, no nos podemos quejar
-Hemos entrado en el gran capital
-Imperialismo que devora tu nevera
-Y la vaselina en el culo bien untá
+[Am] Y son curritos que no [F] pueden ni cu[E]rrar
+[Am] Negociaciones [F] dignas de un nean[E]dertal
+[Am] Trabajadores pa[F]gando los e[E]rrores
+Como [Am] siempre, al que no [F] tiene
+Hay que explo[E]tar.
+-[Am] Somos Europa, no [F] nos podemos que[E]jar
+[Am] Hemos entrado en el [F] gran capi[E]tal
+[Am] Imperialismo que de[F]vora tu ne[E]vera
+[Am] Y la vaselina en el [F] culo bien un[E]tá

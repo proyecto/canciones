@@ -8,53 +8,31 @@ tags: ["rock", "español", "2000s"]
 ---
 
 ## Intro
-[Am] [C]/ [Em] [G] [Am] (2)
+[Am] [C] [Em] [G] [Am]
 
-Se torció el camino,
-Tú ya sabes que no puedo volver.
-Son cosas del destino,
-Siempre me quiere morder,
-El horizonte se confunde con un negro telón
-Y puede ser
-¿cómo decir que se acabó la función?
+[Am] Se torció el camino, [C] tú ya sabes que no [Em] puedo volver. [G] [Am]
+[Am] Son cosas del destino, [C] siempre me [Em] quiere morder, [G] [Am]
+El hori[Am]zonte se con[C]funde con un [Em] negro telón [G] [Am]
+Y puede [Am] ser, [C] ¿cómo decir que se a[Em]cabó la función? [G] [Am]
 
-[Dm] [G] [Am]/ [C] [G]/ [F] [C]
-Ha sido divertido,
-Me equivocaría otra vez,
-Quisiera haber querido
-Lo que no he sabido querer
-¿Quieres bailar conmigo?
-Puede que te pise los pies
+[Dm] Ha sido diver[G]tido, me equi[Am]vocaría otra vez,
+Qui[C]siera haber que[G]rido lo que no he sa[F]bido que[C]rer
+¿Quieres bai[Dm]lar con[G]migo? [Am] Puede que te pise los pies [C] [G] [F] [C]
 
-[G] [F]/ [C] [G]/ [F] [G] [Am]/ [D] [F] [G] [Am]
-Y soñaré solo
-Porque me he quedao dormido,
-No voy a despertarme porque salga el sol,
-Ya sé llorar una vez por cada vez que río,
-No sé restar (2) tu mitad a mi corazón.
+Y soña[G]ré solo [F] porque me he que[C]dao dormido, [G]
+No voy a desper[F]tarme porque [G] salga el [Am] sol,
+Ya sé llo[G]rar una [F] vez por cada [C] vez que río, [G]
+No sé res[F]tar tu mi[G]tad a mi cora[Am]zón. [D] [F] [G] [Am]
 
-[Em] [Am] [C]/ [Em] [G] [Am] (2)
-Puede ser que la respuesta
-Sea no preguntarse por qué,
-Perderse por los bares
-Donde se bebe sin sed.
-Virgen de la locura
-Nunca más te voy a rezar
-Que me he
+[Am] Puede ser que la res[C]puesta sea no pregun[Em]tarse por qué, [G] [Am]
+Per[Am]derse por los [C] bares donde se [Em] bebe sin sed. [G] [Am]
+[Am] Virgen de la lo[C]cura, nunca más te [Em] voy a rezar [G] [Am]
+Que me he ente[Am]rao de los pe[C]cados que me [Em] quieres quitar. [G] [Am]
 
-de los pecados
-Que me quieres quitar
+[Dm] Será más diver[G]tido cuando [Am] no me toque perder,
+Sigo apos[C]tando al 5 [G] y cada 2 por 3 [F] sale 6. [C]
+Yo baila[Dm]ría con[G]tigo, pero es [Am] que estoy sordo de un pie [C] [G] [F] [C]
 
-enterao
-
-[Dm] [G] [Am]/ [C] [G]/ [F] [C]
-Será más divertido
-Cuando no me toque perder,
-sigo apostando al 5 y cada 2 por 3 sale 6.
-Yo bailaría contigo
-Pero es q estoy sordo de un pie
-
-[G] [F]/ [C] [G]/ [F] [G] [Am]/ [D] [F] [G] [Am]
-Soñaré solo porque…
-Ha sido divertido..
-Soñaré solo porque me he quedado…
+Y soña[G]ré solo [F] porque me he que[C]dao dormido... [G]
+Ha sido diver[Dm]tido... [G] [Am]
+Soñaré [G] solo [F] porque me he que[C]dado... [G] [F] [G] [Am] [D] [F] [G] [Am]
