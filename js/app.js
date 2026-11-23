@@ -4505,6 +4505,94 @@
     };
   }
 
+  async function deleteSongFromGithub(slug, songTitle) {
+    const config = getGithubConfig();
+
+    if (!config.token || !config.repo) {
+      throw new Error('Debes configurar tu Repositorio y Token de GitHub en Ajustes (icono ⚙️).');
+    }
+
+    const [owner, repo] = config.repo.split('/');
+    if (!owner || !repo) {
+      throw new Error('El repositorio debe tener el formato: usuario/nombre-del-repo (ej. miusuario/canciones)');
+    }
+
+    const branch = config.branch || 'main';
+    const songFilePath = `canciones/${slug}.md`;
+    const manifestPath = `canciones/manifest.json`;
+
+    const headers = {
+      'Accept': 'application/vnd.github+json',
+      'Authorization': `Bearer ${config.token}`,
+      'X-GitHub-Api-Version': '2022-11-28'
+    };
+
+    async function getFileDetails(path) {
+      const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}?ref=${branch}`;
+      const res = await fetch(url, { headers });
+      if (res.status === 404) return null;
+      if (!res.ok) {
+        if (res.status === 401) throw new Error('Token de GitHub no autorizado o expirado.');
+        throw new Error(`Error ${res.status} al consultar ${path}`);
+      }
+      return await res.json();
+    }
+
+    // 1. Eliminar archivo .md de la canción si existe en GitHub
+    const existingSong = await getFileDetails(songFilePath);
+    if (existingSong && existingSong.sha) {
+      const deleteSongUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${songFilePath}`;
+      const deleteSongBody = {
+        message: `Eliminar canción: ${songTitle || slug}`,
+        sha: existingSong.sha,
+        branch
+      };
+      const deleteRes = await fetch(deleteSongUrl, {
+        method: 'DELETE',
+        headers: { ...headers, 'Content-Type': 'application/json' },
+        body: JSON.stringify(deleteSongBody)
+      });
+      if (!deleteRes.ok) {
+        const errData = await deleteRes.json().catch(() => ({}));
+        throw new Error(errData.message || `Error ${deleteRes.status} al eliminar archivo ${songFilePath}`);
+      }
+    }
+
+    // 2. Actualizar manifest.json en GitHub
+    const existingManifest = await getFileDetails(manifestPath);
+    if (existingManifest && existingManifest.sha) {
+      let manifestList = [];
+      try {
+        const decodedJson = base64ToUtf8(existingManifest.content);
+        manifestList = JSON.parse(decodedJson);
+      } catch (e) {
+        manifestList = [];
+      }
+
+      manifestList = manifestList.filter(s => s.id !== slug);
+      const manifestBase64 = utf8ToBase64(JSON.stringify(manifestList, null, 2) + '\n');
+
+      const putManifestUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${manifestPath}`;
+      const putManifestBody = {
+        message: `Eliminar de índice: ${songTitle || slug}`,
+        content: manifestBase64,
+        sha: existingManifest.sha,
+        branch
+      };
+
+      await fetch(putManifestUrl, {
+        method: 'PUT',
+        headers: { ...headers, 'Content-Type': 'application/json' },
+        body: JSON.stringify(putManifestBody)
+      });
+    }
+
+    return {
+      success: true,
+      message: `Canción "${songTitle}" eliminada de GitHub.`
+    };
+  }
+
   // ==========================================
   // 5. ESTADO DE LA APLICACIÓN Y CONTROLADOR
   // ==========================================
@@ -4585,6 +4673,7 @@
     formBody: document.getElementById('form-body'),
     editorPreview: document.getElementById('editor-preview'),
     chordHelperChips: document.getElementById('chord-helper-chips'),
+    btnDeleteSong: document.getElementById('btn-delete-song'),
     btnCopyMd: document.getElementById('btn-copy-md'),
     btnDownloadMd: document.getElementById('btn-download-md'),
     btnSaveLocal: document.getElementById('btn-save-local'),
@@ -4921,6 +5010,7 @@ capo: ${song.capo || 0}
   function openEditor(songToEdit = null) {
     if (songToEdit) {
       state.editingSongId = songToEdit.id;
+      if (elements.btnDeleteSong) elements.btnDeleteSong.classList.remove('hidden');
       elements.editorModalTitle.textContent = `Editar: ${songToEdit.title}`;
       elements.formTitle.value = songToEdit.title || '';
       elements.formArtist.value = songToEdit.artist || '';
@@ -4931,6 +5021,7 @@ capo: ${song.capo || 0}
       elements.formBody.value = state.currentBody || '';
     } else {
       state.editingSongId = null;
+      if (elements.btnDeleteSong) elements.btnDeleteSong.classList.add('hidden');
       elements.editorModalTitle.textContent = 'Añadir Nueva Canción';
       elements.formTitle.value = '';
       elements.formArtist.value = '';
@@ -5141,6 +5232,75 @@ capo: ${song.capo || 0}
       textarea.focus();
       updateEditorPreview();
     });
+
+    if (elements.btnDeleteSong) {
+      elements.btnDeleteSong.addEventListener('click', async () => {
+        if (!state.editingSongId) return;
+
+        const songTitle = elements.formTitle.value.trim() || state.editingSongId;
+        const slug = state.editingSongId;
+
+        if (!confirm(`¿Estás seguro de que deseas eliminar la canción "${songTitle}"?\n\nEsta acción no se puede deshacer.`)) {
+          return;
+        }
+
+        const originalText = elements.btnDeleteSong.textContent;
+        elements.btnDeleteSong.disabled = true;
+        elements.btnDeleteSong.textContent = '⏳ Eliminando...';
+
+        try {
+          const config = getGithubConfig();
+          const hasGithub = Boolean(config.token && config.repo);
+
+          if (hasGithub) {
+            try {
+              await deleteSongFromGithub(slug, songTitle);
+            } catch (ghErr) {
+              console.error('Error al eliminar de GitHub:', ghErr);
+              if (!confirm(`No se pudo eliminar de GitHub (${ghErr.message}).\n\n¿Deseas eliminarla igualmente de la vista y almacenamiento local?`)) {
+                return;
+              }
+            }
+          }
+
+          // Eliminar de localStorage
+          try {
+            const raw = localStorage.getItem('cancionero_local_songs');
+            if (raw) {
+              let localSongs = JSON.parse(raw);
+              localSongs = localSongs.filter(s => s.id !== slug);
+              localStorage.setItem('cancionero_local_songs', JSON.stringify(localSongs));
+            }
+          } catch (e) {
+            console.error('Error al actualizar localStorage:', e);
+          }
+
+          // Eliminar del estado en memoria
+          state.songs = state.songs.filter(s => s.id !== slug);
+
+          showToast(`Canción "${songTitle}" eliminada.`);
+          closeEditor();
+
+          // Si la canción eliminada era la que estaba abierta, seleccionar otra o vaciar
+          if (state.currentSongId === slug) {
+            if (state.songs.length > 0) {
+              selectSong(state.songs[0].id);
+            } else {
+              elements.songView.classList.add('hidden');
+              elements.emptyView.classList.remove('hidden');
+              state.currentSongId = null;
+              state.currentMeta = null;
+              state.currentBody = null;
+            }
+          } else {
+            renderSongList();
+          }
+        } finally {
+          elements.btnDeleteSong.disabled = false;
+          elements.btnDeleteSong.textContent = originalText;
+        }
+      });
+    }
 
     elements.btnCopyMd.addEventListener('click', async () => {
       const { meta, markdown } = getEditorFormData();
