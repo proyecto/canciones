@@ -1,6 +1,6 @@
 ---
 title: "bbb"
-artist: "bbbb"
+artist: "aaaa"
 key: "G"
 capo: 0
 tempo: 111
