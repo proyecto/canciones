@@ -23,7 +23,7 @@
       "2010s"
     ],
     "file": "canciones/16-anitos.md",
-    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro 1\n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
+    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro\n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
   },
   {
     "id": "19-dias-y-500-noches",
@@ -4793,7 +4793,7 @@
         const localSongs = JSON.parse(localSongsRaw);
         localSongs.forEach(song => {
           if (!deletedIds.has(song.id)) {
-            map.set(song.id, { ...song, isLocal: true });
+            map.set(song.id, { ...song, isLocal: song.isLocal === true });
           }
         });
       }
@@ -4814,13 +4814,25 @@
           localStorage.setItem('cancionero_deleted_songs', JSON.stringify(stillDeleted));
         }
 
+        // Si canciones publicadas ya están en el manifest oficial, limpiarlas del caché de local_songs
+        try {
+          const localSongsRaw = localStorage.getItem('cancionero_local_songs');
+          if (localSongsRaw) {
+            const localSongs = JSON.parse(localSongsRaw);
+            const remaining = localSongs.filter(s => s.isLocal === true && !manifestIds.has(s.id));
+            if (remaining.length !== localSongs.length) {
+              localStorage.setItem('cancionero_local_songs', JSON.stringify(remaining));
+            }
+          }
+        } catch (e) {}
+
         manifest.forEach(song => {
           if (!deletedIds.has(song.id)) {
             const existing = map.get(song.id);
             if (existing) {
-              map.set(song.id, { ...existing, ...song });
+              map.set(song.id, { ...existing, ...song, isLocal: false });
             } else {
-              map.set(song.id, { ...song });
+              map.set(song.id, { ...song, isLocal: false });
             }
           }
         });
@@ -5142,7 +5154,7 @@ capo: ${song.capo || 0}
     elements.editorPreview.innerHTML = previewHtml || '<span style="color:var(--text-dim);font-style:italic;">Escribe la letra para ver la vista previa...</span>';
   }
 
-  function saveSongLocally(meta, body, markdown) {
+  function saveSongLocally(meta, body, markdown, isLocal = true) {
     const slug = state.editingSongId || slugify(meta.title);
     const songEntry = {
       id: slug,
@@ -5153,7 +5165,7 @@ capo: ${song.capo || 0}
       tempo: meta.tempo,
       tags: meta.tags,
       content: markdown,
-      isLocal: true
+      isLocal: Boolean(isLocal)
     };
 
     let localSongs = [];
@@ -5430,9 +5442,9 @@ capo: ${song.capo || 0}
         const { meta, body, markdown } = getEditorFormData();
         const result = await publishToGithub(meta, markdown);
 
-        // Guardar inmediatamente en local para que la UI muestre el cambio AL INSTANTE
+        // Guardar inmediatamente en local (sin etiqueta "Local") para que la UI muestre el cambio AL INSTANTE
         // sin tener que esperar los 1-2 minutos que tarda GitHub Pages en desplegar
-        saveSongLocally(meta, body, markdown);
+        saveSongLocally(meta, body, markdown, false);
 
         showToast(result.message, 5000);
         closeEditor();
