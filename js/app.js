@@ -4642,9 +4642,9 @@
       console.warn('Error leyendo canciones locales:', e);
     }
 
-    // 3. Si hay servidor/red, intentar enriquecer con manifest.json
+    // 3. Si hay servidor/red, intentar enriquecer con manifest.json (evitando caché)
     try {
-      const res = await fetch('canciones/manifest.json');
+      const res = await fetch(`canciones/manifest.json?_t=${Date.now()}`, { cache: 'no-cache' });
       if (res.ok) {
         const manifest = await res.json();
         manifest.forEach(song => {
@@ -5186,13 +5186,16 @@ capo: ${song.capo || 0}
       elements.btnPublishGithub.innerHTML = '⏳ Publicando...';
 
       try {
+        const { meta, body, markdown } = getEditorFormData();
         const result = await publishToGithub(meta, markdown);
+
+        // Guardar inmediatamente en local para que la UI muestre el cambio AL INSTANTE
+        // sin tener que esperar los 1-2 minutos que tarda GitHub Pages en desplegar
+        saveSongLocally(meta, body, markdown);
+
         showToast(result.message, 5000);
         closeEditor();
-        setTimeout(() => {
-          loadSongs();
-          selectSong(result.slug);
-        }, 1000);
+        selectSong(result.slug);
       } catch (err) {
         showToast(`Error: ${err.message}`, 6000);
       } finally {
