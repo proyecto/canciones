@@ -4388,6 +4388,138 @@
       .replace(/-+/g, '-');
   }
 
+  function markSongDeletedLocally(slug) {
+    try {
+      const raw = localStorage.getItem('cancionero_deleted_songs');
+      const list = raw ? JSON.parse(raw) : [];
+      if (!list.includes(slug)) {
+        list.push(slug);
+        localStorage.setItem('cancionero_deleted_songs', JSON.stringify(list));
+      }
+    } catch (e) {}
+  }
+
+  function unmarkSongDeletedLocally(slug) {
+    try {
+      const raw = localStorage.getItem('cancionero_deleted_songs');
+      if (raw) {
+        const list = JSON.parse(raw).filter(id => id !== slug);
+        localStorage.setItem('cancionero_deleted_songs', JSON.stringify(list));
+      }
+    } catch (e) {}
+  }
+
+  function getLocallyDeletedSongs() {
+    try {
+      const raw = localStorage.getItem('cancionero_deleted_songs');
+      return raw ? JSON.parse(raw) : [];
+    } catch (e) {
+      return [];
+    }
+  }
+
+  /**
+   * Realiza un commit atómico en GitHub que crea, modifica o elimina múltiples archivos
+   * en una única transacción de Git (un solo commit, un solo push, un solo workflow de Actions).
+   */
+  async function commitAtomicToGithub({ message, files }) {
+    const config = getGithubConfig();
+
+    if (!config.token || !config.repo) {
+      throw new Error('Debes configurar tu Repositorio y Token de GitHub en Ajustes (icono ⚙️).');
+    }
+
+    const [owner, repo] = config.repo.split('/');
+    if (!owner || !repo) {
+      throw new Error('El repositorio debe tener el formato: usuario/nombre-del-repo');
+    }
+
+    const branch = config.branch || 'main';
+    const headers = {
+      'Accept': 'application/vnd.github+json',
+      'Authorization': `Bearer ${config.token}`,
+      'X-GitHub-Api-Version': '2022-11-28'
+    };
+
+    // 1. Obtener la referencia HEAD actual de la rama
+    const refRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/ref/heads/${branch}`, { headers });
+    if (!refRes.ok) {
+      if (refRes.status === 401) throw new Error('Token de GitHub no autorizado o expirado.');
+      throw new Error(`Error ${refRes.status} al consultar la rama ${branch}`);
+    }
+    const refData = await refRes.json();
+    const latestCommitSha = refData.object.sha;
+
+    // 2. Obtener el tree del último commit
+    const commitRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/commits/${latestCommitSha}`, { headers });
+    if (!commitRes.ok) throw new Error(`Error ${commitRes.status} al consultar commit base`);
+    const commitData = await commitRes.json();
+    const baseTreeSha = commitData.tree.sha;
+
+    // 3. Crear el nuevo árbol con los archivos a crear/modificar o eliminar
+    const treeItems = files.map(file => {
+      if (file.delete) {
+        return {
+          path: file.path,
+          mode: '100644',
+          type: 'blob',
+          sha: null
+        };
+      }
+      return {
+        path: file.path,
+        mode: '100644',
+        type: 'blob',
+        content: file.content
+      };
+    });
+
+    const treeRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/trees`, {
+      method: 'POST',
+      headers: { ...headers, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        base_tree: baseTreeSha,
+        tree: treeItems
+      })
+    });
+    if (!treeRes.ok) {
+      const err = await treeRes.json().catch(() => ({}));
+      throw new Error(err.message || `Error ${treeRes.status} al preparar árbol de Git`);
+    }
+    const newTreeData = await treeRes.json();
+
+    // 4. Crear el commit atómico
+    const newCommitRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/commits`, {
+      method: 'POST',
+      headers: { ...headers, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        message,
+        tree: newTreeData.sha,
+        parents: [latestCommitSha]
+      })
+    });
+    if (!newCommitRes.ok) {
+      const err = await newCommitRes.json().catch(() => ({}));
+      throw new Error(err.message || `Error ${newCommitRes.status} al crear commit en Git`);
+    }
+    const newCommitData = await newCommitRes.json();
+
+    // 5. Actualizar la rama hacia el nuevo commit (fast-forward)
+    const updateRefRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/git/refs/heads/${branch}`, {
+      method: 'PATCH',
+      headers: { ...headers, 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        sha: newCommitData.sha
+      })
+    });
+    if (!updateRefRes.ok) {
+      const err = await updateRefRes.json().catch(() => ({}));
+      throw new Error(err.message || `Error ${updateRefRes.status} al actualizar la rama ${branch}`);
+    }
+
+    return { commitSha: newCommitData.sha };
+  }
+
   async function publishToGithub(songMeta, markdownContent) {
     const config = getGithubConfig();
 
@@ -4411,53 +4543,19 @@
       'X-GitHub-Api-Version': '2022-11-28'
     };
 
-    async function getFileDetails(path) {
-      const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}?ref=${branch}`;
-      const res = await fetch(url, { headers });
-      if (res.status === 404) return null;
-      if (!res.ok) {
-        if (res.status === 401) throw new Error('Token de GitHub no autorizado o expirado.');
-        throw new Error(`Error ${res.status} al consultar ${path}`);
-      }
-      return await res.json();
-    }
-
-    // 1. Guardar archivo .md de la canción
-    const existingSong = await getFileDetails(songFilePath);
-    const songBase64 = utf8ToBase64(markdownContent);
-
-    const putSongUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${songFilePath}`;
-    const putSongBody = {
-      message: `${existingSong ? 'Actualizar' : 'Añadir'} canción: ${songMeta.title}`,
-      content: songBase64,
-      branch
-    };
-    if (existingSong && existingSong.sha) {
-      putSongBody.sha = existingSong.sha;
-    }
-
-    const putSongRes = await fetch(putSongUrl, {
-      method: 'PUT',
-      headers: { ...headers, 'Content-Type': 'application/json' },
-      body: JSON.stringify(putSongBody)
-    });
-
-    if (!putSongRes.ok) {
-      const errData = await putSongRes.json().catch(() => ({}));
-      throw new Error(`No se pudo guardar la canción: ${errData.message || putSongRes.statusText}`);
-    }
-
-    // 2. Actualizar canciones/manifest.json con contenido embebido para que cargue instantáneamente
-    const existingManifest = await getFileDetails(manifestPath);
+    // Obtener manifest actual directamente de GitHub
     let manifestList = [];
-
-    if (existingManifest && existingManifest.content) {
-      try {
-        const decodedJson = base64ToUtf8(existingManifest.content);
-        manifestList = JSON.parse(decodedJson);
-      } catch (e) {
-        manifestList = [];
+    try {
+      const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${manifestPath}?ref=${branch}`, { headers });
+      if (res.ok) {
+        const fileData = await res.json();
+        if (fileData.content) {
+          const decodedJson = base64ToUtf8(fileData.content);
+          manifestList = JSON.parse(decodedJson);
+        }
       }
+    } catch (e) {
+      manifestList = [];
     }
 
     const songEntry = {
@@ -4473,35 +4571,31 @@
     };
 
     const existingIndex = manifestList.findIndex(item => item.id === slug);
-    if (existingIndex >= 0) {
+    const isNew = existingIndex < 0;
+    if (!isNew) {
       manifestList[existingIndex] = songEntry;
     } else {
       manifestList.push(songEntry);
     }
 
     manifestList.sort((a, b) => a.title.localeCompare(b.title, 'es', { sensitivity: 'base' }));
+    const manifestContent = JSON.stringify(manifestList, null, 2) + '\n';
 
-    const manifestBase64 = utf8ToBase64(JSON.stringify(manifestList, null, 2) + '\n');
-    const putManifestUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${manifestPath}`;
-    const putManifestBody = {
-      message: `Actualizar índice con: ${songMeta.title}`,
-      content: manifestBase64,
-      branch
-    };
-    if (existingManifest && existingManifest.sha) {
-      putManifestBody.sha = existingManifest.sha;
-    }
-
-    await fetch(putManifestUrl, {
-      method: 'PUT',
-      headers: { ...headers, 'Content-Type': 'application/json' },
-      body: JSON.stringify(putManifestBody)
+    // Commit atómico con ambos archivos juntos
+    await commitAtomicToGithub({
+      message: `${isNew ? 'Añadir' : 'Actualizar'} canción: ${songMeta.title}`,
+      files: [
+        { path: songFilePath, content: markdownContent },
+        { path: manifestPath, content: manifestContent }
+      ]
     });
+
+    unmarkSongDeletedLocally(slug);
 
     return {
       success: true,
       slug,
-      message: `¡Canción "${songMeta.title}" publicada con éxito en GitHub! GitHub Pages se actualizará automáticamente.`
+      message: `¡Canción "${songMeta.title}" guardada con éxito en GitHub en un único commit atómico!`
     };
   }
 
@@ -4527,69 +4621,38 @@
       'X-GitHub-Api-Version': '2022-11-28'
     };
 
-    async function getFileDetails(path) {
-      const url = `https://api.github.com/repos/${owner}/${repo}/contents/${path}?ref=${branch}`;
-      const res = await fetch(url, { headers });
-      if (res.status === 404) return null;
-      if (!res.ok) {
-        if (res.status === 401) throw new Error('Token de GitHub no autorizado o expirado.');
-        throw new Error(`Error ${res.status} al consultar ${path}`);
+    // Obtener manifest actual directamente de GitHub
+    let manifestList = [];
+    try {
+      const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${manifestPath}?ref=${branch}`, { headers });
+      if (res.ok) {
+        const fileData = await res.json();
+        if (fileData.content) {
+          const decodedJson = base64ToUtf8(fileData.content);
+          manifestList = JSON.parse(decodedJson);
+        }
       }
-      return await res.json();
+    } catch (e) {
+      manifestList = [];
     }
 
-    // 1. Eliminar archivo .md de la canción si existe en GitHub
-    const existingSong = await getFileDetails(songFilePath);
-    if (existingSong && existingSong.sha) {
-      const deleteSongUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${songFilePath}`;
-      const deleteSongBody = {
-        message: `Eliminar canción: ${songTitle || slug}`,
-        sha: existingSong.sha,
-        branch
-      };
-      const deleteRes = await fetch(deleteSongUrl, {
-        method: 'DELETE',
-        headers: { ...headers, 'Content-Type': 'application/json' },
-        body: JSON.stringify(deleteSongBody)
-      });
-      if (!deleteRes.ok) {
-        const errData = await deleteRes.json().catch(() => ({}));
-        throw new Error(errData.message || `Error ${deleteRes.status} al eliminar archivo ${songFilePath}`);
-      }
-    }
+    manifestList = manifestList.filter(s => s.id !== slug);
+    const manifestContent = JSON.stringify(manifestList, null, 2) + '\n';
 
-    // 2. Actualizar manifest.json en GitHub
-    const existingManifest = await getFileDetails(manifestPath);
-    if (existingManifest && existingManifest.sha) {
-      let manifestList = [];
-      try {
-        const decodedJson = base64ToUtf8(existingManifest.content);
-        manifestList = JSON.parse(decodedJson);
-      } catch (e) {
-        manifestList = [];
-      }
+    // Commit atómico: borra el archivo .md y actualiza manifest.json simultáneamente
+    await commitAtomicToGithub({
+      message: `Eliminar canción: ${songTitle || slug}`,
+      files: [
+        { path: songFilePath, delete: true },
+        { path: manifestPath, content: manifestContent }
+      ]
+    });
 
-      manifestList = manifestList.filter(s => s.id !== slug);
-      const manifestBase64 = utf8ToBase64(JSON.stringify(manifestList, null, 2) + '\n');
-
-      const putManifestUrl = `https://api.github.com/repos/${owner}/${repo}/contents/${manifestPath}`;
-      const putManifestBody = {
-        message: `Eliminar de índice: ${songTitle || slug}`,
-        content: manifestBase64,
-        sha: existingManifest.sha,
-        branch
-      };
-
-      await fetch(putManifestUrl, {
-        method: 'PUT',
-        headers: { ...headers, 'Content-Type': 'application/json' },
-        body: JSON.stringify(putManifestBody)
-      });
-    }
+    markSongDeletedLocally(slug);
 
     return {
       success: true,
-      message: `Canción "${songTitle}" eliminada de GitHub.`
+      message: `Canción "${songTitle}" eliminada de GitHub en un único commit atómico.`
     };
   }
 
@@ -4714,10 +4777,13 @@
    */
   async function loadSongs() {
     const map = new Map();
+    const deletedIds = new Set(getLocallyDeletedSongs());
 
     // 1. Cargar las canciones base (garantiza que siempre hay canciones aún sin red o en file://)
     DEFAULT_SONGS.forEach(song => {
-      map.set(song.id, { ...song });
+      if (!deletedIds.has(song.id)) {
+        map.set(song.id, { ...song });
+      }
     });
 
     // 2. Incorporar canciones guardadas en localStorage
@@ -4725,7 +4791,11 @@
       const localSongsRaw = localStorage.getItem('cancionero_local_songs');
       if (localSongsRaw) {
         const localSongs = JSON.parse(localSongsRaw);
-        localSongs.forEach(song => map.set(song.id, { ...song, isLocal: true }));
+        localSongs.forEach(song => {
+          if (!deletedIds.has(song.id)) {
+            map.set(song.id, { ...song, isLocal: true });
+          }
+        });
       }
     } catch (e) {
       console.warn('Error leyendo canciones locales:', e);
@@ -4736,13 +4806,22 @@
       const res = await fetch(`canciones/manifest.json?_t=${Date.now()}`, { cache: 'no-cache' });
       if (res.ok) {
         const manifest = await res.json();
+        const manifestIds = new Set(manifest.map(s => s.id));
+
+        // Si el manifest desplegado ya no tiene la canción eliminada, podemos limpiarla de la lista local de borradas
+        const stillDeleted = Array.from(deletedIds).filter(id => manifestIds.has(id));
+        if (stillDeleted.length !== deletedIds.size) {
+          localStorage.setItem('cancionero_deleted_songs', JSON.stringify(stillDeleted));
+        }
+
         manifest.forEach(song => {
-          // Si manifest tiene contenido, o si no teníamos esta canción en el mapa
-          const existing = map.get(song.id);
-          if (existing) {
-            map.set(song.id, { ...existing, ...song });
-          } else {
-            map.set(song.id, { ...song });
+          if (!deletedIds.has(song.id)) {
+            const existing = map.get(song.id);
+            if (existing) {
+              map.set(song.id, { ...existing, ...song });
+            } else {
+              map.set(song.id, { ...song });
+            }
           }
         });
       }
@@ -5093,6 +5172,7 @@ capo: ${song.capo || 0}
     }
 
     localStorage.setItem('cancionero_local_songs', JSON.stringify(localSongs));
+    unmarkSongDeletedLocally(slug);
 
     showToast(`Canción "${meta.title}" guardada con éxito.`);
     closeEditor();
@@ -5275,7 +5355,8 @@ capo: ${song.capo || 0}
             console.error('Error al actualizar localStorage:', e);
           }
 
-          // Eliminar del estado en memoria
+          // Eliminar del estado en memoria y registrar localmente para evitar desfases de caché
+          markSongDeletedLocally(slug);
           state.songs = state.songs.filter(s => s.id !== slug);
 
           showToast(`Canción "${songTitle}" eliminada.`);
