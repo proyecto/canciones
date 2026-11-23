@@ -307,19 +307,6 @@
     "content": "---\ntitle: \"Bamboleo\"\nartist: \"Gipsy Kings\"\nkey: \"Em\"\ncapo: 0\ntempo: 120\ntags: [\"flamenco\", \"rumba\", \"clásico\", \"80s\"]\n---\n\n## Intro\n[Em] [B7] [Em] [B7]\n[Em] [B7] [Em] [B7]\n\n## Verso 1\n[Em] Este amor llega así, de esta manera,\nNo tiene la [B7] culpa.\nCaballo de danza vana,\nPorque es muy despre[Em]ciado,\nPor eso no te perdona de llo[B7]rar.\n\n## Coro\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n\n## Puente\nNo tienes per[Am]dón de Dios,\n[D7] Tú eres mi vida, la for[G]tuna del destino,\n[C] Pero el destino tendría pa[Am]rado\nLo mismo que a[B7]yer, lo mismo soy [Em] yo.\n\n## Coro Final\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n"
   },
   {
-    "id": "bbb",
-    "title": "bbb",
-    "artist": "bbbb",
-    "key": "G",
-    "capo": 0,
-    "tempo": 111,
-    "tags": [
-      "rrrr"
-    ],
-    "file": "canciones/bbb.md",
-    "content": "---\ntitle: \"bbb\"\nartist: \"bbbb\"\nkey: \"G\"\ncapo: 0\ntempo: 111\ntags: [\"rrrr\"]\n---\n\n## Intro\n[G] [D] [Em] [C]\n\n## Verso 1\n[G] Escribe aquí la letra con [D] acordes sobre la palabra\n[Em] y se alineará [C] automáticamente."
-  },
-  {
     "id": "beautiful",
     "title": "Beautiful",
     "artist": "Christina Aguilera",
