@@ -23,7 +23,7 @@
       "2010s"
     ],
     "file": "canciones/16-anitos.md",
-    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro 1\n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
+    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro \n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
   },
   {
     "id": "19-dias-y-500-noches",
@@ -4630,7 +4630,19 @@
       'X-GitHub-Api-Version': '2022-11-28'
     };
 
-    // Obtener manifest actual directamente de GitHub
+    // 1. Comprobar si el archivo .md existe realmente en GitHub antes de pedirle a Git que lo borre
+    // (enviar sha: null a Git para un archivo inexistente provoca GitRPC::BadObjectState)
+    let fileExistsInGit = false;
+    try {
+      const checkRes = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${songFilePath}?ref=${branch}`, { headers });
+      if (checkRes.ok) {
+        fileExistsInGit = true;
+      }
+    } catch (e) {
+      fileExistsInGit = false;
+    }
+
+    // 2. Obtener manifest actual directamente de GitHub
     let manifestList = [];
     try {
       const res = await fetch(`https://api.github.com/repos/${owner}/${repo}/contents/${manifestPath}?ref=${branch}`, { headers });
@@ -4645,23 +4657,31 @@
       manifestList = [];
     }
 
-    manifestList = manifestList.filter(s => s.id !== slug);
-    const manifestContent = JSON.stringify(manifestList, null, 2) + '\n';
+    const hadSongInManifest = manifestList.some(s => s.id === slug);
+    const updatedManifestList = manifestList.filter(s => s.id !== slug);
 
-    // Commit atómico: borra el archivo .md y actualiza manifest.json simultáneamente
-    await commitAtomicToGithub({
-      message: `Eliminar canción: ${songTitle || slug}`,
-      files: [
-        { path: songFilePath, delete: true },
-        { path: manifestPath, content: manifestContent }
-      ]
-    });
+    const filesToCommit = [];
+    if (fileExistsInGit) {
+      filesToCommit.push({ path: songFilePath, delete: true });
+    }
+    if (hadSongInManifest || updatedManifestList.length !== manifestList.length) {
+      const manifestContent = JSON.stringify(updatedManifestList, null, 2) + '\n';
+      filesToCommit.push({ path: manifestPath, content: manifestContent });
+    }
+
+    // Solo hacemos commit si realmente había algo que borrar o actualizar en GitHub
+    if (filesToCommit.length > 0) {
+      await commitAtomicToGithub({
+        message: `Eliminar canción: ${songTitle || slug}`,
+        files: filesToCommit
+      });
+    }
 
     markSongDeletedLocally(slug);
 
     return {
       success: true,
-      message: `Canción "${songTitle}" eliminada de GitHub en un único commit atómico.`
+      message: `Canción "${songTitle}" eliminada de GitHub.`
     };
   }
 
