@@ -23,7 +23,7 @@
       "2010s"
     ],
     "file": "canciones/16-anitos.md",
-    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro\n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
+    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro 1\n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
   },
   {
     "id": "19-dias-y-500-noches",
@@ -4343,19 +4343,28 @@
   function getGithubConfig() {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
-      if (!raw) return { token: '', repo: '', branch: 'main' };
-      return JSON.parse(raw);
-    } catch (e) {
-      return { token: '', repo: '', branch: 'main' };
-    }
+      if (raw) {
+        const parsed = JSON.parse(raw);
+        if (parsed.token || parsed.repo) return parsed;
+      }
+    } catch (e) {}
+
+    return {
+      repo: localStorage.getItem('cancionero_gh_repo') || '',
+      branch: localStorage.getItem('cancionero_gh_branch') || 'main',
+      token: localStorage.getItem('cancionero_gh_token') || ''
+    };
   }
 
   function saveGithubConfig(config) {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify({
-      token: (config.token || '').trim(),
-      repo: (config.repo || '').trim(),
-      branch: (config.branch || 'main').trim()
-    }));
+    const token = (config.token || '').trim();
+    const repo = (config.repo || '').trim();
+    const branch = (config.branch || 'main').trim();
+
+    localStorage.setItem(STORAGE_KEY, JSON.stringify({ token, repo, branch }));
+    localStorage.setItem('cancionero_gh_token', token);
+    localStorage.setItem('cancionero_gh_repo', repo);
+    localStorage.setItem('cancionero_gh_branch', branch);
   }
 
   function utf8ToBase64(str) {
@@ -5186,6 +5195,28 @@ capo: ${song.capo || 0}
     localStorage.setItem('cancionero_local_songs', JSON.stringify(localSongs));
     unmarkSongDeletedLocally(slug);
 
+    showToast(`Canción "${meta.title}" guardada con éxito.`);
+    closeEditor();
+    loadSongs();
+    selectSong(slug);
+  }
+
+  function downloadSongMarkdown(meta, markdown) {
+    const filename = `${slugify(meta.title)}.md`;
+    const blob = new Blob([markdown], { type: 'text/markdown;charset=utf-8' });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement('a');
+    a.href = url;
+    a.download = filename;
+    document.body.appendChild(a);
+    a.click();
+    document.body.removeChild(a);
+    URL.revokeObjectURL(url);
+    showToast(`Archivo ${filename} descargado.`);
+  }
+
+  // ==========================================
+  // 8. EVENTOS DE INTERFAZ
   // ==========================================
   function initEvents() {
     elements.btnThemeToggle.addEventListener('click', toggleTheme);
