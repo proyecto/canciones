@@ -1077,16 +1077,18 @@
     "id": "el-porompompero",
     "title": "El Porompompero",
     "artist": "Manolo Escobar",
-    "key": "C",
+    "key": "Am",
     "capo": 0,
-    "tempo": 100,
+    "tempo": 110,
     "tags": [
       "copla",
       "rumba",
-      "español"
+      "flamenco",
+      "español",
+      "clásico"
     ],
     "file": "canciones/el-porompompero.md",
-    "content": "---\ntitle: \"El Porompompero\"\nartist: \"Manolo Escobar\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"rumba\", \"español\"]\n---\n\n## Verso 1\nAy porompompó\nPoropo porompompero peró(2)\nPoropo porompompó (bis)\n\nEl trigo entre to las flores\nHa escogido a la amapola\nY yo escojo a mi Dolores, Dolores, Lolita, Lola\n-Y yo, y yo escojo a mi Dolores,\nQue es la, que es la flor más perfumada\nDolo, Dolores, Lolita, Lola\n\nEnamorao de ella...\n(bis)\n"
+    "content": "---\ntitle: \"El Porompompero\"\nartist: \"Manolo Escobar\"\nkey: \"Am\"\ncapo: 0\ntempo: 110\ntags: [\"copla\", \"rumba\", \"flamenco\", \"español\", \"clásico\"]\n---\n\n## Intro\n[Am] [G] [F] [E] (x2)\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó.\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. [Am]\n\n## Verso 1\n[Am] El trigo entre todas las flores\nha escogido a la ama[E]pola,\ny yo escojo a mi Dolores,\nDo[Am]lores, Lolita, Lola.\nY yo, y yo es[G]cojo a mi Dolores,\nque es la flor [F]más perfumada,\nDoló, Do[E]lores, Lolita, Lola.\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n\n## Verso 2\n[Am] El cateto de tu hermano\nque no me venga con [E]leyes,\nque si es payo, yo soy gitano\ny tengo sangre de [Am]reyes.\nQue si es payo, yo soy gi[G]tano,\nque tengo sangre de [F]reyes\nen la palma de la [E]mano.\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n\n## Verso 3\n[Am] A los clisos de mi cara\nles voy a poner un can[E]dao\npor no ver las cosas raras\nde este niñato cha[Am]lao.\nPor no ver las cosas [G]raras\nde este niñato cha[F]lao\nque te apunta y no dis[E]para.\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n\n## Verso 4\n[Am] Verde era la yerbabuena,\nverdecita era la [E]parra,\ndebajo del puente\nretumbaba el [Am]agua.\nRetumbaba el [G]agua,\ndebajo del [F]puente\nretumbaba el [E]agua.\n\n## Estribillo Final\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n"
   },
   {
     "id": "el-sitio-de-mi-recreo",
