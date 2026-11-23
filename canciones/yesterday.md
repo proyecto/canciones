@@ -8,22 +8,33 @@ tags: ["rock", "balada", "60s", "classic", "himno", "inglés"]
 ---
 
 ## Intro
-[C] [E7] [Am] [F]-[G]-[C] [Am] [D] [C] (2)
+[C]
 
 ## Verso 1
-Yesterday, all my troubles seemed so far away,
-Now it looks as though there’re here to stay,
-Oh I believe in yesterday.
-Suddenly, I’m not half the man I used to be,
-There’s a shadow hanging over me
-Oh yesterday came suddenly
+[C] Yesterday, all my [Bm7] troubles seemed so [E7] far away
+[Am] Now it [G] looks as though they're [F] here to stay
+Oh, [G] I believe in [C] yesterday
 
-[E7] [Am]  [G] [C](2)
-Why she had to go, i don’t know,
-She wouldn’t say,
-I said somethng wrong,
-Now I long for yesterday
+## Verso 2
+[C] Suddenly, I'm not [Bm7] half the man I [E7] used to be
+[Am] There's a [G] shadow hanging [F] over me
+Oh, [G] yesterday came [C] suddenly
 
-[C] [E7] [Am] [F]-[G]-[C] [Am] [D] [C]
-Yesterday, love was such an easy game to play,
-Now I need a place to hide away, oh I believe in yesterday
+## Coro
+[E7] Why she [Am] had [G] to [F] go, I don't [G] know, she wouldn't [C] say
+[E7] I said [Am] some[G]thing [F] wrong, now I [G] long for yester[C]day
+
+## Verso 3
+[C] Yesterday, love was [Bm7] such an easy [E7] game to play
+[Am] Now I [G] need a place to [F] hide away
+Oh, [G] I believe in [C] yesterday
+
+## Coro
+[E7] Why she [Am] had [G] to [F] go, I don't [G] know, she wouldn't [C] say
+[E7] I said [Am] some[G]thing [F] wrong, now I [G] long for yester[C]day
+
+## Outro
+[C] Yesterday, love was [Bm7] such an easy [E7] game to play
+[Am] Now I [G] need a place to [F] hide away
+Oh, [G] I believe in [C] yesterday
+[Am] Mm mm [F] mm mm [C] mm

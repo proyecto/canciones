@@ -10,24 +10,35 @@ tags: ["r&b", "soul", "classic", "60s", "inglés"]
 ## Intro
 [Am] [G] [F] [E7]
 
+## Coro
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back
+No [Am] more, no [G] more, no [F] more, no [E7] more
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]
+(What'd you say?)
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back
+No [Am] more, no [G] more, no [F] more, no [E7] more
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]
+
 ## Verso 1
-Hit the road Jack and don't you come back
-No more, no more, no more, no more
-Hit the road Jack and don't you come back
-No more (What'd you say?)
-Hit the road Jack and don't you come back
-No more, no more, no more, no more
-Hit the road Jack and don't you come back, no more
+Oh [Am] woman, oh [G] woman, don't [F] treat me so [E7] mean
+You're the [Am] meanest old [G] woman that I've [F] ever [E7] seen
+I [Am] guess if you [G] say so
+I'll [F] have to pack my [E7] things and go (that's right)
 
-Oh woman, oh woman, don't treat me so mean
-You're the meanest old woman that I've ever have seen.
-I guess, if you say so, I'll have to pack my things and go (that's right)
+## Coro
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back
+No [Am] more, no [G] more, no [F] more, no [E7] more
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]
 
-Hit the road Jack and don't you come back
+## Verso 2
+Now [Am] baby, listen [G] baby, don't you [F] treat me this [E7] way
+'Cause [Am] I'll be back on my [G] feet some[F]day [E7]
+Don't [Am] care if you [G] do 'cause it's [F] under[E7]stood
+You ain't [Am] got no money, you [G] just ain't no [F] good [E7]
+Well, I [Am] guess if you [G] say so
+I'll [F] have to pack my [E7] things and go (that's right)
 
-Now baby listen baby, don't you treat me this way
-'Cause I'll be back on my feet someday
-Don't care if you do, 'cause it's understood
-You ain't got no money, you just ain't no good
-Well, I guess if you say so
-I'll have to pack my things and go (that's right)
+## Coro
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back
+No [Am] more, no [G] more, no [F] more, no [E7] more
+Hit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]

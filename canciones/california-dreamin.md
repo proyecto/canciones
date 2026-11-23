@@ -8,42 +8,63 @@ tags: ["folk rock", "60s", "classic", "himno", "inglés"]
 ---
 
 ## Intro
-[Am] [E7]
+[Am] [Esus4] [E]
 
 ## Verso 1
-_[Am] [G] [F] [G] [E] -7/ [F] [C]-[F] [E7]
-All the leaves are brown             (all the leaves are brown)
-And the sky is gray             (and the sky is gray)
-I've been for a walk             (I've been for a walk)
-On a winter's day                 (on a winter's day)
+All the leaves are [Am] brown [G] [F]
+(All the leaves are [G] brown)
+And the sky is [Esus4] gray [E]
+(And the sky is [F] gray)
+I've been for a [C] walk [E7] [Am]
+(I've been for a [F] walk)
+On a winter's [Esus4] day [E]
+(On a winter's [E] day)
+I'd be safe and [Am] warm [G] [F]
+(I'd be safe and [G] warm)
+If I was in L.[Esus4]A. [E]
+(If I was in L.[F]A.)
 
-_[Am] [G] [F] [G] [E7] (2)
-I'd be safe and warm             (I'd be safe and warm)
-If I was in LA                 (If I was in LA)
-California dreamin'             (California dreamin')
-On such a winter's day
+## Coro
+California [Am] dreamin' [G] [F]
+(California [G] dreamin')
+On [Esus4] such a winter's [E] day
 
-_[Am] [G] [F] [G] [E] -7/ [F] [C]-[F] [E7]
-Stopped into a church, I passed along the way
-Well, I got down on my knees         (got down on my knees)
-And I pretend to pray             (I pretend to pray)
+## Verso 2
+Stopped into a [Am] church [G] [F]
+I passed a[G]long the [Esus4] way [E]
+Well, I got down on my [F] knees [C] [E7] [Am]
+(Got down on my [F] knees)
+And I pretend to [Esus4] pray [E]
+(I pretend to [E] pray)
+You know the preacher like the [Am] cold [G] [F]
+(Preacher like the [G] cold)
+He knows I'm gonna [Esus4] stay [E]
+(Knows I'm gonna [F] stay)
 
-_[Am] [G] [F] [G] [E7] (2)
-You know the preacher like the cold     (preacher like the cold)
-He knows I'm gonna stay         (knows I'm gonna stay)
-California dreamin'             (California dreamin')
-On such a winter's day
+## Coro
+California [Am] dreamin' [G] [F]
+(California [G] dreamin')
+On [Esus4] such a winter's [E] day
 
-_[Am] [G] [F] [G] [E] -7/ [F] [C]-[F] [E7]
-All the leaves are brown (all the leaves are brown)
-And the sky is gray (and the sky is gray)
-I've been for a walk (I've been for a walk)
-On a winter's day (on a winter's day)
+## Verso 3
+All the leaves are [Am] brown [G] [F]
+(All the leaves are [G] brown)
+And the sky is [Esus4] gray [E]
+(And the sky is [F] gray)
+I've been for a [C] walk [E7] [Am]
+(I've been for a [F] walk)
+On a winter's [Esus4] day [E]
+(On a winter's [E] day)
+If I didn't [Am] tell her [G] [F]
+(If I didn't [G] tell her)
+I could leave to[Esus4]day [E]
+(I could leave to[F]day)
 
-_[Am] [G] [F] [G] [E7] (4).  -[Am]
-If I didn't tell her (if I didn't tell her)
-I could leave today (I could leave today)
-California dreamin' (California dreamin')
-On such a winter's day (California dreamin')
-On such a winter's day (California dreamin')
-On such a winter's day
+## Coro
+California [Am] dreamin' [G] [F]
+(California [G] dreamin')
+On [Esus4] such a winter's [E] day
+(California [Am] dreamin') [G] [F]
+On [Esus4] such a winter's [E] day
+(California [Am] dreamin') [G] [F]
+On [Fmaj7] such a winter's [Am] day

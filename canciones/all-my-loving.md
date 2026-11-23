@@ -8,47 +8,35 @@ tags: ["rock", "pop", "60s", "classic", "inglés"]
 ---
 
 ## Intro
-[Am(maj7)] 1000
+[Dm] [G] [C] [Am]
 
 ## Verso 1
-[Dm] [G] [C] [Am]/ [F] [Dm] [A#]-[G7]
-Close your eyes and I'll kiss you
-Tomorrow I'll miss you
-Remember I'll always be true
+Close your [Dm] eyes and I'll [G] kiss you, to[C]morrow I'll [Am] miss you
+Re[F]member I'll [Dm] always be [Bb] true [G]
+And then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day
+And I'll [F] send all my [G] loving to [C] you
 
-[Dm] [G] [C] [Am]/ [F] [G] [C]
-And then while I'm away
-I'll write home everyday
-And I'll send all my loving to you
+## Verso 2
+I'll pre[Dm]tend that I'm [G] kissing the [C] lips I am [Am] missing
+And [F] hope that my [Dm] dreams will come [Bb] true [G]
+And then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day
+And I'll [F] send all my [G] loving to [C] you
 
-[Dm] [G] [C] [Am]/ [F] [Dm] [A#]-[G7]
-I'll pretend that I'm kissing
-The lips I am missing
-And hope that my dreams will come true
+## Coro
+All my [Am] loving [C+] I will send to [C] you
+All my [Am] loving, [C+] darling, I'll be [C] true
 
-[Dm] [G] [C] [Am]/ [F] [G] [C]
-And then while I'm away
-I'll write home everyday
-And I'll send all my loving to you
+## Solo
+[F] [C] [Dm] [G] [C]
 
-[Am] [Am(maj7)] [C] (2)
-All my loving, I will send to you
-All my loving, darling, I'll be true
+## Verso 3
+Close your [Dm] eyes and I'll [G] kiss you, to[C]morrow I'll [Am] miss you
+Re[F]member I'll [Dm] always be [Bb] true [G]
+And then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day
+And I'll [F] send all my [G] loving to [C] you
 
-[Dm] [G] [C] [Am]/ [F] [Dm] [A#]-[G7]
-Close your eyes and I'll kiss you
-Tomorrow I'll miss you
-Remember I'll always be true
-
-[Dm] [G] [C] [Am]/ [F] [G] [C]
-And then while I'm away
-I'll write home everyday
-And I'll send all my loving to you
-
-[Am] [Am(maj7)] [C] (2)/ [Am] [C] (2)
-All my loving, I will send to you
-All my loving, darling, I'll be true
-All my loving, all my loving
-All my loving, I will send to you.
-
-[Am] [D]/ [G] [Em]/ [C] ([Am] [F] [D7]/ [D] [G]) (2) [Em] [G](2)
+## Coro
+All my [Am] loving [C+] I will send to [C] you
+All my [Am] loving, [C+] darling, I'll be [C] true
+All my [Am] loving, all my [C] loving, ooh
+All my [Am] loving I will send to [C] you

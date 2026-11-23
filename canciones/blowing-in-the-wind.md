@@ -8,46 +8,40 @@ tags: ["folk", "classic", "60s", "protest", "inglés"]
 ---
 
 ## Intro
-[D]-[G] [D] / [D] [G] [A] (3)
+[D] [G] [D] / [D] [G] [A]
 
 ## Verso 1
-How many roads must a man walk down
-Before you call him a man?
-How many seas must a white dove sail
-Before she sleeps in the sand?
-Yes, and how many times
-Must the cannonballs fly
-Before they're forever banned?
+[D] How many [G] roads must a [D] man walk down
+Before you [G] call him a [A] man?
+[D] How many [G] seas must a [D] white dove sail
+Before she [G] sleeps in the [A] sand?
+Yes, and [D] how many [G] times must the [D] cannonballs fly
+Before they're for[G]ever [A] banned?
 
-[G] [A] [D] [Bm]/ [G] [A] [D]
-The answer, my friend,
-Is blowin' in the wind
-The answer is blowin' in the wind
+## Coro
+The [G] answer, my [A] friend, is [D] blowin' in the [Bm] wind
+The [G] answer is [A] blowin' in the [D] wind
 
-[D]-[G] [D] / [D] [G] [A] (3)
-Yes, and how many years
-Must a mountain exist
-Before it is washed to the sea?
-And how many years
-Can some people exist
-Before they're allowed to be free?
-Yes, and how many times
-Can a man turn his head
-And pretend that he just doesn't see?
+## Verso 2
+Yes, and [D] how many [G] years can a [D] mountain exist
+Before it is [G] washed to the [A] sea?
+Yes, and [D] how many [G] years can some [D] people exist
+Before they're al[G]lowed to be [A] free?
+Yes, and [D] how many [G] times can a [D] man turn his head
+And pretend that he [G] just doesn't [A] see?
 
-[G] [A] [D] [Bm]/ [G] [A] [D]
-The answer, my friend,
-Is blowin' in the wind
-The answer is blowin' in the wind
+## Coro
+The [G] answer, my [A] friend, is [D] blowin' in the [Bm] wind
+The [G] answer is [A] blowin' in the [D] wind
 
-[D]-[G] [D] / [D] [G] [A] (3)
-Yes, and how many times
-Must a man look up
-Before he can see the sky?
-And how many ears must one man have
-Before he can hear people cry?
-Yes, and how many deaths
-Will it take 'til he knows
-That too many people have died?
+## Verso 3
+Yes, and [D] how many [G] times must a [D] man look up
+Before he can [G] see the [A] sky?
+Yes, and [D] how many [G] ears must [D] one man have
+Before he can [G] hear people [A] cry?
+Yes, and [D] how many [G] deaths will it [D] take 'til he knows
+That too many [G] people have [A] died?
 
-> *DOmaj7 032000/ FAmaj7 003210/MIsus4 0(2)2200
+## Coro
+The [G] answer, my [A] friend, is [D] blowin' in the [Bm] wind
+The [G] answer is [A] blowin' in the [D] wind

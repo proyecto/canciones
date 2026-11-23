@@ -8,55 +8,35 @@ tags: ["pop rock", "español", "2010s"]
 ---
 
 ## Intro
-[C] [G]/[Am] [Em] (2) [F] [G]-7 (BIS[)//][D] A/ [Bm] [G] (2) [G] A -7
+[C] [G] / [Am] [Em] (2)
+[F] [G] / [C] [G]
 
-16 añitos fiera, me creía el rey del mundo
-Con mi lema por bandera
-Lo que digan yo no escucho
-No había nadie que pudiera lograr
-Que cambiara un poco el rumbo
-Con mi idea la primera
-Y que no agobiaran mucho
+## Verso 1
+[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]
+[F] Con mi lema por bandera, lo que [G] digan yo no escucho
+[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]
+[F] Con mi idea la primera y que no ago[G]biaran mucho
 
-[C] [G] [F] [G] (2) [Am]// [D] A [G] A (2) [Bm]
-Y así fue, me revelé contra todo
-Hasta el sol viviendo entonces
-Una distorsión
-Y me enfadé con el mundo
-Malditos complejos
-Que siempre sacan lo peor, pensé
-“en la fuerza estará lo mejor”
-Me disfracé de uno que no era yo
-Buscando esa firmeza
-Llegué a un lugar negro
-Pensé que eso era el valor
+## Coro
+[C] Y así [G] fue, me reve[F]lé contra [G] todo
+Hasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]
+Y me enfa[Am]dé con el mundo, malditos com[Em]plejos
+Que siempre sacan lo [F] peor, pensé: "en la [G] fuerza estará lo mejor"
+[C] Me disfra[G]cé de uno que [F] no era [G] yo
+Buscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]
+Pensé que [Am] eso era el valor
 
-Y sufrí de tal manera
-Por dejar de ser quien era
-Por pensar que ser cobarde
-Era ser lo que creyera
-Los valientes son los
-Que son de verdad
-Y los fuertes ni sus guerras
-Los valientes los que saben llorar
-Con la cara descubierta
+## Verso 2
+[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]
+[F] Por pensar que ser cobarde era [G] ser lo que creyera
+[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]
+[F] Los valientes los que saben llorar con la [G] cara descubierta
 
-[C] [G] [F] [G] (2) [Am]// [D] A [G] A (2) [Bm]
-Y así fue, me revelé contra todo
-Hasta el sol viviendo entonces
-Una distorsión
-Y me enfadé con el mundo
-Malditos complejos
-Que siempre sacan lo peor, pensé
-“en la fuerza estará lo mejor”
-Me disfracé de uno que no era yo
-Buscando esa firmeza
-Llegué a un lugar negro
-Pensé que eso era el valor
-
-El valor, y es mirarme ahora
-A la cara ¡y ser quien soy!
-
-[G] [F]
-Y soñar, y vivir, y olvidar el rencor,
-Y cantar, y reír y sentir sólo amor
+## Coro
+[C] Y así [G] fue, me reve[F]lé contra [G] todo
+Hasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]
+Y me enfa[Am]dé con el mundo, malditos com[Em]plejos
+Que siempre sacan lo [F] peor, pensé: "en la [G] fuerza estará lo mejor"
+[C] Me disfra[G]cé de uno que [F] no era [G] yo
+Buscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]
+Pensé que [Am] eso era el valor

@@ -7,80 +7,51 @@ tempo: 100
 tags: ["pop latino", "dueto", "éxito"]
 ---
 
+## Intro
+[G] [D] [Em] / [C] [D] [G]
+
 ## Verso 1
-Quizá no fue coincidencia encontrarme contigo
+Qui[G]zá no fue coinci[D]dencia encon[Em]trarme contigo
+Tal [C] vez esto lo [D] hizo el des[G]tino
+Quiero dor[G]mirme de [D] nuevo en tu [Em] pecho
+Y des[C]pués me des[D]pierten tus [G] besos
+Tu sexto sen[G]tido [D] sueña con[Em]migo
+Sé que [C] pronto esta[D]remos u[G]nidos
+Esa son[G]risa tra[D]viesa que [Em] vive conmigo
+Sé que [C] pronto esta[D]ré en tu ca[Em]mino
 
-[G] [D] [Em]/ [C]-[D]-[G](3) [G] [D] [Em]/ [C]-[D]-[Em]
-Tal vez esto lo hizo el destino
-
-_Quiero dormirme de nuevo en tu pecho
-
-Y después me despierten tus besos
-
-Tu sexto sentido sueña conmigo
-
-Sé que pronto estaremos unidos
-
-Esa_sonrisa traviesa que vive conmigo
-
-Sé que pronto estaré en tu camino
-
-[Em]_[D] /[C] [G]-[D]-[Em]/ [Em] [D]-[C] [G]-[D]
+## Pre-coro
+[Em] Sabes que estoy [D] colgando en tus [C] manos
+[G] Así [D] que [Em] no me dejes ca[D]er [C] [G] [D]
 Sabes que estoy colgando en tus manos
 
-Uh…Así que no me dejes caer
-Sabes que estoyyyy… colgando en tus manos
-
-[G] [D] [Am]/ [C]-[D]-[G] (4)
-Te envío poemas de mi puño y letra
-
-Te envío canciones de 4.40
-
-Te envío las fotos cenando en Marbella
-
-Y cuando estuvimos por Venezuela
-
-Y así me recuerdes y tengas presente
-
-Que mi corazón está colgando en tus manos
+## Coro
+Te en[G]vío po[D]emas de mi [Am]puño y letra
+Te en[C]vío can[D]ciones de [G]4.40
+Te en[G]vío las [D]fotos ce[Am]nando en Marbella
+Y [C]cuando es[D]tuvimos por [G]Venezuela
+Y a[G]sí me re[D]cuerdes y [Am]tengas presente
+Que mi cora[C]zón está col[D]gando en tus [G]manos
 Cuidado, cuidado,
-Que mi corazón está colgando en tus manos
+Que mi cora[C]zón está col[D]gando en tus [G]manos
 
-[G] [D] [Em]/ [C]-[D]-[G]/ [G] [D] [Em]/ [C]-[D]-[Em]
-No perderé la esperanza, de hablar contigo
+## Verso 2
+No perde[G]ré la espe[D]ranza de ha[Em]blar contigo
+No me [C] importa qué [D] dice el des[G]tino
+Quiero te[G]ner tu fra[D]gancia con[Em]migo
+Y be[C]berme de [D] ti lo prohi[Em]bido
 
-No me importa qué dice el destino
-
-_Quiero tener tu fragancia conmigo
-
-Y beberme de ti lo prohibido
-
-[Em]_[D] -[C]/ [G]-[D]-[Em]/ [Em] [D]-[C] [G]-[D]
+## Pre-coro
+[Em] Sabes que estoy [D] colgando en tus [C] manos
+[G] Así [D] que [Em] no me dejes ca[D]er [C] [G] [D]
 Sabes que estoy colgando en tus manos
 
-Uh…Así que no me dejes caer
-Sabes que estooooy… colgando en tus manos
-
-[G] [D] [Am]/ [C]-[D]-[G] (3)
-Te envío poemas de mi puño y letra
-
-Te envío canciones de 4.40
-
-Te envío las fotos cenando en Marbella
-
-Y cuando estuvimos por Venezuela
-
-Y así, así me recuerdes y tengas presente
-
-Que mi corazón está colgando en tus manos
-
-[G] [D]/ [Am]-[C] [D]-[G] (3) [D]
-Cuidado, mucho cuidado…
-
-Marta, yo te digo, me tienes en tus manos
-
-Cuidado, mucho cuidado…
-
-No importa qué diga el destino, quédate conmigo,
-
-Cuidado, mucho cuidado…
+## Coro
+Te en[G]vío po[D]emas de mi [Am]puño y letra
+Te en[C]vío can[D]ciones de [G]4.40
+Te en[G]vío las [D]fotos ce[Am]nando en Marbella
+Y [C]cuando es[D]tuvimos por [G]Venezuela
+Y a[G]sí me re[D]cuerdes y [Am]tengas presente
+Que mi cora[C]zón está col[D]gando en tus [G]manos
+Cuidado, cuidado,
+Que mi cora[C]zón está col[D]gando en tus [G]manos
