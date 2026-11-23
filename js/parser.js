@@ -163,19 +163,22 @@ export function renderSongHtml(bodyText, options = {}) {
  * Parses a single line: extracts chords between [ ... ] and lyrics
  */
 function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
+  // Normalize &nbsp; entities to unicode non-breaking space \u00A0 for processing
+  const normalizedLine = line.replace(/&nbsp;/g, '\u00A0');
+
   // Regex to match [Chord]
   const chordRegex = /\[([^\]]+)\]/g;
   let match;
   let lastIndex = 0;
   const segments = [];
 
-  while ((match = chordRegex.exec(line)) !== null) {
+  while ((match = chordRegex.exec(normalizedLine)) !== null) {
     const matchStart = match.index;
     const rawChord = match[1];
 
     // If there is lyrics before this chord
     if (matchStart > lastIndex) {
-      const lyricBefore = line.substring(lastIndex, matchStart);
+      const lyricBefore = normalizedLine.substring(lastIndex, matchStart);
       // If we don't have an active chord segment to attach this lyric to, create a blank chord segment
       if (segments.length === 0 || segments[segments.length - 1].lyric !== null) {
         segments.push({ chord: null, lyric: lyricBefore });
@@ -192,8 +195,8 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
   }
 
   // Any remaining lyric at end of line
-  if (lastIndex < line.length) {
-    const trailingLyric = line.substring(lastIndex);
+  if (lastIndex < normalizedLine.length) {
+    const trailingLyric = normalizedLine.substring(lastIndex);
     if (segments.length > 0 && segments[segments.length - 1].lyric === null) {
       segments[segments.length - 1].lyric = trailingLyric;
     } else {
@@ -203,8 +206,9 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
 
   // If no chords were found at all in the line:
   if (segments.length === 0) {
+    const safeLine = escapeHtml(normalizedLine).replace(/ /g, '&nbsp;').replace(/\u00A0/g, '&nbsp;');
     return {
-      html: `<span class="chord-unit"><span class="chord empty">&nbsp;</span><span class="lyric">${escapeHtml(line)}</span></span>`,
+      html: `<span class="chord-unit"><span class="chord empty">&nbsp;</span><span class="lyric">${safeLine}</span></span>`,
       isChordsOnly: false
     };
   }
@@ -224,12 +228,14 @@ function parseLineWithChords(line, transposeDelta, notation, preferFlats) {
     // If chord has no text underneath (like intro chords or consecutive notes), provide generous spacing
     let lyricText = seg.lyric !== null ? seg.lyric : '';
     if (isChordOnly) {
-      // Add minimum width non-breaking space for solo chords
-      lyricText = '\u00A0'.repeat(Math.max(seg.chord.length + 3, 5));
+      // If the user specified explicit spaces (&nbsp; or whitespace), preserve or ensure generous width
+      const explicitSpaces = lyricText.length;
+      const count = Math.max(explicitSpaces, (seg.chord ? seg.chord.length + 3 : 5), 5);
+      lyricText = '\u00A0'.repeat(count);
     }
 
-    // Preserve whitespace in lyrics
-    const safeLyric = escapeHtml(lyricText).replace(/ /g, '&nbsp;');
+    // Preserve whitespace in lyrics (convert regular spaces and \u00A0 to &nbsp;)
+    const safeLyric = escapeHtml(lyricText).replace(/ /g, '&nbsp;').replace(/\u00A0/g, '&nbsp;');
     const unitClass = isChordOnly ? 'chord-unit chord-only' : 'chord-unit';
     return `<span class="${unitClass}">${chordHtml}<span class="lyric">${safeLyric}</span></span>`;
   }).join('');

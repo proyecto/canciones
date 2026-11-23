@@ -21,12 +21,3 @@ Un barco se hace pequeño cuando se aleja en el mar
 Y cuando se va perdiendo que grande es la soledad
 Ese vacío que deja, el amigo que se va.
 Es como un pozo sin fondo que no se vuelve a llenar.
-
-La puerta de Toledo
-
-[E] [Am] [Em] [Am] [Am7] [Dm] [Em7] [Dm] [Em7] [Am]
-A la puerta de Toledo, mare, le tengo celos.
-Le tengo celos.
-A la puerta de Toledo, mare, le tengo celos (2)
-Le tengo celos.
-Porque se cita con otro la mujer que yo más quiero (2)

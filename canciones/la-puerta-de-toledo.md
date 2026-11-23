@@ -8,7 +8,17 @@ tags: ["flamenco", "canción", "español"]
 ---
 
 ## Intro
-[Am] [Dm] [G7] [C] [E7] [Am]
+[E] &nbsp;&nbsp;&nbsp; [Am] &nbsp;&nbsp;&nbsp; [Em] &nbsp;&nbsp;&nbsp; [Am] &nbsp;&nbsp;&nbsp; [Am7] &nbsp;&nbsp;&nbsp; [Dm] &nbsp;&nbsp;&nbsp; [Em7] &nbsp;&nbsp;&nbsp; [Dm] &nbsp;&nbsp;&nbsp; [Em7] &nbsp;&nbsp;&nbsp; [Am]
+
+## Verso 1
+A la puerta de Toledo, mare, le tengo celos.
+Le tengo celos.
+A la puerta de Toledo, mare, le tengo celos (2)
+Le tengo celos.
+Porque se cita con otro la mujer que yo más quiero (2)
+
+## Estribillo
+[Am] &nbsp;&nbsp;&nbsp; [Dm] &nbsp;&nbsp;&nbsp; [G7] &nbsp;&nbsp;&nbsp; [C] &nbsp;&nbsp;&nbsp; [E7] &nbsp;&nbsp;&nbsp; [Am]
 
 En el mismo sitio, a la misma hora,
 A la misma hora estaba durmiendo
