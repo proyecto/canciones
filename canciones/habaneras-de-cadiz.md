@@ -4,7 +4,7 @@ artist: "Carlos Cano"
 key: "Am"
 capo: 0
 tempo: 100
-tags: ["habanera", "copla", "andaluz"]
+tags: ["habanera", "copla", "andaluz", "tuna", "español"]
 ---
 
 ## Intro

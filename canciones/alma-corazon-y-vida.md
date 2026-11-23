@@ -4,7 +4,7 @@ artist: "Adrián Flores"
 key: "Am"
 capo: 0
 tempo: 100
-tags: ["vals peruano", "bolero", "clásico"]
+tags: ["vals peruano", "bolero", "clásico", "tuna", "español"]
 ---
 
 ## Intro

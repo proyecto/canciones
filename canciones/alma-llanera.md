@@ -4,7 +4,7 @@ artist: "Pedro Elías Gutiérrez"
 key: "E"
 capo: 0
 tempo: 100
-tags: ["joropo", "folklore", "venezolano"]
+tags: ["joropo", "folklore", "venezolano", "tuna", "español"]
 ---
 
 ## Intro

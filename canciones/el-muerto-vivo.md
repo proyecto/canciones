@@ -4,7 +4,7 @@ artist: "Peret"
 key: "Am"
 capo: 0
 tempo: 100
-tags: ["rumba catalana", "español", "clásico"]
+tags: ["rumba catalana", "español", "clásico", "tuna"]
 ---
 
 ## Intro

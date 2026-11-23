@@ -1,0 +1,45 @@
+---
+title: "Agua del pozo"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "C"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Verso 1
+AGU
+[F]-[Fm]-[C]-[Am]-[Dm]-[G7]-[C] (bis)
+AQUELLOS [C] TIEMPOS QUE VIVISTE JUNTO
+[E],
+[G] AQUELLOS TIEMPOS QUE TU AMOR FU
+PARA MI,
+QUE A TU INOCENCIA ME CONFIE
+Y A TUS ENCANTOS ME [C] RENDI.
+MAS SI HE SABIDO QUE AL FIN TE IBA YO
+PERDER,
+TE HUBIERA [C7] DADO YO A [F] BEBER
+AGUA DEL [F] POZO DE LA [Fm] VIRGEN MEJICANA
+PA'QUE APRENDIERAS [Dm] [Am] TU [G7] A [C] QUERER.
+[G] Y AHORA TE MIRO CON DESPRECIO
+IGUAL,
+CARA [D] A [G] CARA
+[G] Y SI TE ACERCAS A MI LADO A COQUETEA
+YA [D] NO ES [G7] IGUAL.
+A DEL POZO
+[C] MAS SI HE SABIDO QUE AL FIN TE IBA YO A
+PERDER,
+E TE HUBIERA [C7] DADO YO A [F] BEBER
+[F]                  [Fm]
+[C] AGUA DEL POZO DE LA VIRGEN MEJICANA
+PA'QUE [Am] APRENDIERAS [Dm] A [C] [G7] QUERER.
+[F]-[Fm]-[C]-[Am]-[Dm]-[G7]-[C]
+A
+[C]-[G]-[C]-[C7]-[F]-[Fm]-[C]-[Am]-[Dm]-
+[C] [G7] DO(VERSION LIBRE)
+Y AHORA TE MIRO...
+[F]                    [Fm]
+[C] [D] AGUA DEL POZO DE LA VIRGEN MEJICANA
+[C] [G7] [Dm] [Am] SIN
+PA'QUE APRENDIERAS TU A QUERER
+[D] R

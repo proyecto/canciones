@@ -1,0 +1,43 @@
+---
+title: "Amalia Rosa"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "C"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Verso 1
+AM
+[C]-[F]-[G]-[C]-[G7]-DO(BIS)
+[C] DE MARACAIBO SALIERON
+[F] DOS PALOMITAS VOLANDO
+[G] A LA GUAIRA VOLVERAN,
+A LA GUAIRA [C] VOLVERAN,
+PERO A [G7] MARACAIBO CUANDO [C] (BIS
+MARIA [F] ME DIO UNA CINTA,
+ROSA ME LA [C] QUITO,
+[C] AMALIA PELEO CON ELLAS
+[F] PORQUE [G] [F#] JUANA, PORQUE JUANA
+ENOJO (BIS)
+[G] YA SE JUNTARON LAS CUATRO
+Y ESA ES LA QUE QUIERO [C] Y0
+ALIA ROSA
+[C] AMALIA, AMALIA, AMALIA, (a capella
+a
+1                 toda la estrofa)
+[F] AMALIA, AMALIA ROSA,
+ESA ES LA QUE YO ME [G] LLEVO,
+ESA ES LA QUE YO ME [C] LLEVO
+[C] [G7] ).
+POR SER LA MAS BUENA MOZA
+(BIS).
+[C]-[F]-[G]-SO-[G7]-[C] (bis)
+[C] COGE NIÑA ESTE PUÑAL,
+[F] Y ABREME POR UN "COSTAO"
+[G] SE
+PA'QUE VEAS MI CORAZON,
+PA'QUE VEAS MI [C] CORAZON
+JUNTO AL [G] TUYO "RETRATAO" [C] (BIS).
+[F] MARIA ME DIO... (BIS).
+[C] AMALIA,...

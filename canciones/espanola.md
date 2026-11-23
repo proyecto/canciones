@@ -1,0 +1,30 @@
+---
+title: "Española"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "E"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[Am]-[G]-[F]-[E] (AD LIBITUM)
+[Am] ESPAÑOLA,
+DAME UN ABRAZO DE [G] HERMANO
+CON SABOR [F] VENEZOLANO
+PARA YO DECIR TU [E] NOMBRE
+[Am] ESPAÑOLA,
+MARACAS Y [G] CASTAÑUELAS
+REPICAN EN [F] VENEZUELA
+CUANDO YO TE DIGO [E] ¡OLE!
+[G] [Am] ESPAÑOLA,... [E] [F] (1º).
+## Verso 1
+ESPAÑOLA,... (2º).
+OYE MI CANTO, (OYE [E] MI CANTO)
+TAN TROPICAL, (TAN [Am] TROPICAL)
+QUE YO TE TRAIGO, (QUE [E] YO TE TRAIGO)
+DE MI LUGAR, (DE [Am] MI LUGAR)
+OYE MI CANTO, (OYE [E] MI CANTO)
+QUE ES PARA TI, (QUE [Am] ES PARA TI)
+QUE ALLA EN MI [E] TIERRA
+SE CANTA [Am] ASI.
+CON EL [E] [F] [G] [Am] TRAILALALA...(BIS)

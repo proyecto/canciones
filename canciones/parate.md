@@ -1,0 +1,28 @@
+---
+title: "Párate"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "D"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+Instrumental: [Gm] - [D] - [B7] - [Em] - [A] - [D]
+TU SABES BIEN QUE ME [D] ENAMORO DE TU BOCA
+## Verso 1
+CUANDO ME MIRAS EN SILENCIO ENTRE LA GENTE
+TU SABES BIEN QUE ALGUNA [G] PIEZA SE DISLOCA
+DENTRO DE [E] MI CUANDO ME MIRAS [A] FIJAMENTE
+PERO TU SABES BIEN QUE [D] CUANDO YO TE CANTE
+BAJO LA [F#] LUNA DE SEVILLA EN TU [Bm] BALCON
+COMO NINGUN DESCONOCIDO [E] HABRA DELANTE
+ENTONCES TU ME [A] ENTREGARAS TU CORAZON
+## Estribillo
+Y DIRAS PARATE , PARATE [D] , PARATE
+Y DIRAS CANTAME [A#] , CANTAME , [D] [A] CANTAME
+Y DIRAS MIRAME , MIRAME [G] , MIRAME
+Y DIRAS BESAME , [E] BESAME , BESAME [A] B I S
+[Gm] CUANDO PASE CON MI [D] TUNA
+CANTANDO [B7] BAJO LA [Em] LUNA
+DE MI [A] SEVILLA [D] MUJER
+Instrumental completo del estribillo y se toca entera otra vez.

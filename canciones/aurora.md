@@ -1,0 +1,23 @@
+---
+title: "Aurora"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "D"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[D]-[A]-[G]-[A]-[D]-[Bm]-[Em]-[A]-[D]
+CUANDO LA AURORA [D] TIENDE SU MANTO
+Y EL FIRMAMENTO VISTE DE [A] AZUL
+[G] NO HAY UN LUCERO QUE [A] BRILLE [Bm] [D] TANTO
+[Em] COMO ESOS [A] OJOS QUE TIENES [D] TU.
+BELLA AURORA, [A] SI ES QUE [D] DUERMES
+EN [A] BRAZOS DE LA [D7] [D] ILUSION,
+[G] DESPIERTA SI [A] ESTAS [D] DORMIDA, MORENA [Bm] SI,
+[E] PARA ESCUCHAR [A] MI CANCION [D7] [D] (BIS).
+BELLA NIÑA SAL [D] AL BALCON,
+QUE TE ESTOY ESPERANDO [G] [D7] AQUI
+PARA DARTE UNA [Bm] [D] [A] SERENATA,
+SOLO, SOLO [Em] PARA [A] TI [D] (BIS).
+SOLO, SOLO [Em] PARA [A] TI [D] (BIS).

@@ -1,0 +1,30 @@
+---
+title: "Ansiedad"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "G"
+capo: 4
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+(CEJILLA EN 4º TRASTE)
+[D7]-[G]-[Em]-[Am]-[D7]-[G]-[B7]-[Em]-[B7]-[Em]-[D7]
+[C]-[Cm]-[G]-[Em]-[Am]-[D7]-[G]
+[G] ANSIEDAD, [D7] DE TENERTE EN MIS [D7] [G] BRAZOS
+## Verso 1
+SOL           LA#dis               LAm
+MUSITANDO PALABRAS DE AMOR
+[D7] ANSIEDAD, [Am] DE TENER TUS [Am] [D7] ENCANTOS
+Y EN LA [C] BOCA [C] VOLVERTE A [D7] BESAR
+ANSIEDAD...
+TAL VEZ ESTE LLORANDO [B7] AL [Em] RECORDARTE
+TUS LAGRIMAS SON [B7] PERLAS QUE CAEN AL [D] [Em] MAR
+Y EL ECO ADORMECIDO [Cm] [C] DE ESTE [Em] [G] LAMENTO
+HACE QUE ESTES [Am] PRESENTE [D7] EN MI [G] SOÑAR
+QUIZAS ESTE LLORANDO [B7] TU [Em] PENSAMIENTO
+Y ESTRECHES MI [B7] RETRATO CON [D] [Em] FRENESÍ
+Y HASTA TU OIDO [Cm] [C] LLEGUE LA MELODIA [Em] [G] SALVAJE
+Y EL ECO DE LA [Am] PENA DE ESTAR [D7] SIN [G] TI
+[Am]-[D7]-[G]-[Em]-[Am]-[D7]-[G]-[A#m]-[D#]-[G#m]-[Fm]-[Am]-[D7]-[G]
+POR LA [Cm] [C] ANSIEDAD DE TENERTE EN MIS [Em] [G] BRAZOS
+Y EL ECO [Am] DE LA PENA [D7] DE ESTAR [G] SIN TI

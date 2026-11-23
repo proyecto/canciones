@@ -4,7 +4,7 @@ artist: "Hugo Blanco"
 key: "Am"
 capo: 0
 tempo: 100
-tags: ["ritmo orquídea", "venezolano", "clásico"]
+tags: ["ritmo orquídea", "venezolano", "clásico", "tuna", "español"]
 ---
 
 ## Intro

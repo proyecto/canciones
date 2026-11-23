@@ -1,0 +1,28 @@
+---
+title: "Reloj"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "D"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[D]-[Bm]-[Em]-[A]
+[D] RELOJ [Bm] NO MARQUES LAS [A7] [Em] HORAS
+[D] PORQUE [Bm] VOY A [A7] [Em] ENLOQUECER
+[D] ELLA [Bm] SE IRA PARA [A7] [Em] SIEMPRE
+[D] CUANDO [Bm] AMANEZCA OTRA [A7] [Em] VEZ
+NO [D] MAS NOS [Bm] QUEDA ESTA [A7] [Em] NOCHE
+[D] PARA VIVIR [Bm] NUESTRO [A7] [Em] AMOR
+[D] Y TU [Bm] TIC-TAC ME [A7] [Em] RECUERDA
+[D] MI [Bm] IRREMEDIABLE [A7] [Em] DOLOR
+[D] RELOJ [Bm] DETEN [F#m] TU [Em] [Fm] CAMINO
+PORQUE [A7] MI VIDA SE [D7] [D] APAGA
+[Em] ELLA ES LA [A7] ESTRELLA QUE [D] ALUMBRA MI [Bm] SER
+[Em] YO SIN SU [A7] AMOR NO SOY [D7] [D] NADA
+[D] DETEN [Bm] EL TIEMPO EN [F#m] TUS [Em] [Fm] MANOS
+[Em] HAZ ESTA [A7] NOCHE [D7] [D] PERPETUA
+[Em] PARA QUE [A7] NUNCA SE [D] ALEJE DE [Bm] MI
+[Em] PARA QUE [A7] NUNCA [D7] [D] AMANEZCA
+[Em] PARA QUE [A7] NUNCA [D7] [D] AMANEZCA
+[Em] PARA QUE [A7] NUNCA [D7] [D] AMANEZCA

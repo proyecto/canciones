@@ -1,0 +1,45 @@
+---
+title: "Dos puntas"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "C"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Verso 1
+D
+[G7]-[C]-[G7]-[F]-[G]-DO(BIS)
+CUANDO PA' CHILE ME [G7] VOY
+CRUZANDO [F] LA [G] CORDILLERA [C] (BIS).
+LATE EL CORAZON [G7] CONTENTO
+[F] UNA CHILENA [G] ME [C] ESPERA (BIS).
+Y CUANDO VUELVO DE [G7] CHILE
+ENTRE [G] [F] CERROS Y QUEBRADAS [C] (BIS
+LATE EL CORAZON [G7] CONTENTO
+[F] PUES ME ESPERA [G] UNA CUYANA [C] (BI
+[D] VIVA LA CHICHA Y EL [G] VINO,
+[D]                       [G]
+[G] VIVA [F#] LA CUECA Y LA SAMBA.
+[F] DOS PUNTAS [G] TIENE EL [C] CAMINO
+[G]
+[C] Y EN LAS DOS ALGUIEN
+AGUARDA (BIS).
+OS PUNTAS
+[G7]-[C]-[G7]-[F]-[G]-[C] (bis)
+YO BAILO LA CUECA EN [G7] CHILE,
+EN [F] CUYO BAILO [G] LA [C] SAMBA (BIS).
+EN CHILE CON LA [G7] CHILENA
+[F] EN CUYO [G] CON LA [C] CUYANA (BIS )
+[G7] VIDA TRISTE, VIDA ALEGRE
+ES [F] LA VIDA [G] DEL [C] ARRIERO (BIS).
+).                               SOL7
+PENITAS EN EL CAMINO,
+[F] RISAS AL [G] FIN DEL [C] SENDERO (BIS).
+S).
+[D] VIVA LA CHICHA...
+[F] DOS PUNTAS [G] TIENE EL [C] CAMINO
+[G7]
+[C] Y EN LAS DOS ALGUIEN ME
+7 AGUARDA.
+ME

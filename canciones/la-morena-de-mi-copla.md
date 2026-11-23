@@ -1,0 +1,43 @@
+---
+title: "La morena de mi copla"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "E"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Verso 1
+LA MORE
+[E]-[F]-[E] (bis)-[Am]-[G]-[F]-[E] (bis)
+JULIO ROMERO [E] DE TORRES
+PINTO [F] A LA MUJER [E] MORENA,
+CON LOS OJOS DE MISTERIO
+Y EL [F] ALMA [G] LLENA DE [C] PENA.
+[G] PUSO EN SUS MANOS DE [C] BRONC
+LA GUITARRA [E] CANTAORA,
+[F] EN SU BORDON UN [E] SUSPIRO
+[F] Y EN SU CAPA UNA [E] DOLORA.
+[Dm]-[B7]-[F]-[E]-[F]-[E]
+[A] MORENA,
+LA DE LOS ROJOS [E] CLAVELES
+LA DE LA REJA [A] FLORIDA;
+LA REINA DE LAS [E] MUJERES.
+[E] [Bm] MORENA,
+LA DEL BORDADO [A] MANTON,
+[A7] LA DE LA ALEGRE [D] GUITARRA,
+[A] LA DEL [E] CLAVEL [A] [E] [A] ESPAÑOL.
+[E]-[F]-[E] (bis)-[Am]-[G]-[F]-[E] (bis)
+NA DE MI COPLA
+))
+COMO ESCAPADA [E] DE UN CUADRO
+Y EN [F] EL SENTIR DE UNA [E] COPLA
+TODA ESPAÑA LA VENERA
+Y [F] TODA ESPAÑA [G] LA [C] ADORA.
+ETRENZA [G] CON SU [C] TACONEO
+LA SEGUIDILLA [E] GITANA
+[F] BAILA TU DANZA [E] MORENA
+[F] EN LA VENTA DE [E] RITAÑA.
+[E] [F] [E] [F] [B7] [Dm] MORENA...(PRIMERA)
+MORENA...(SEGUNDA)
+))

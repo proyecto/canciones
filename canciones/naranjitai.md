@@ -1,0 +1,31 @@
+---
+title: "Naranjitai"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "Em"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[D7]-[G]-[B7]-[Em] (bis) (AD LIBITUM)
+[D7]-[G]-[B7]-[Em] (bis)-[B7]-[Em] (bis)
+[Em] NARANJITAI, [B7] LINDA [Em] [B7] [Em] INDITA.
+[Em] NARANJITAI, [B7] LINDA [Em] INDITA.
+TE HE DE ROBAR DE TU [D7] QUINTA (A CAPELLA TODO)
+SI NO ES [G] ESTA NOCHECITA
+MAÑANA [B7] POR LA MAÑANITA (BIS NO [Em] A CAPELLA)
+[D7]-[G]-[B7]-[Em] (bis)-[B7]-[Em] (bis)
+[Em] A LO [B7] LEJOS SE TE [Em] [B7] [Em] DIVISA.
+[Em] A LO LEJOS [B7] SE TE [Em] DIVISA.
+LA PUNTA DE TU [D7] ENAGUITA (A CAPELLA TODO)
+LA BOCA SE [G] ME HACE AGUITA
+Y EL [B7] CORAZON ME PALPITA (BIS NO [Em] A CAPELLA).
+[D7]-[G]-[B7]-[Em] (bis)-[B7]-[Em] (bis)
+[Em] TUS HERMANOS [B7] MIS [Em] [B7] [Em] CUÑADITOS.
+TUS [Em] HERMANAS [B7] MIS [Em] CUÑADITAS.
+TU PAPA SERA MI [D7] SUEGRO (A CAPELLA TODO)
+TU MAMA [G] SERA MI SUEGRA
+Y TU LA [B7] PRENDA MAS QUERIDA (BIS NO [Em] A CAPELLA).
+## Verso 1
+Y TU LA PRENDA MAS QUERIDA, (A CAPPELLA)
+[B7] Y TU LA PRENDA MAS [Em] [B7] [Em] QUERIDA.

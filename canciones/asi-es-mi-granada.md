@@ -4,7 +4,7 @@ artist: "Popular"
 key: "Am"
 capo: 0
 tempo: 100
-tags: ["copla", "andaluz", "popular"]
+tags: ["copla", "andaluz", "popular", "tuna", "español"]
 ---
 
 ## Intro

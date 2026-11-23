@@ -4,7 +4,7 @@ artist: "Noel Estrada"
 key: "E"
 capo: 0
 tempo: 100
-tags: ["bolero", "puerto rico", "clásico"]
+tags: ["bolero", "puerto rico", "clásico", "tuna", "español"]
 ---
 
 ## Intro

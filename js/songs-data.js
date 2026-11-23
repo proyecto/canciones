@@ -12,7 +12,7 @@ export const DEFAULT_SONGS = [
       "2010s"
     ],
     "file": "canciones/16-anitos.md",
-    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro 1\n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
+    "content": "---\ntitle: \"16 añitos\"\nartist: \"Dani Martín\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2010s\"]\n---\n\n## Intro \n[C] [G] / [Am] [Em] (2)\n[F] [G] / [C] [G]\n\n## Verso 1\n[C] 16 añitos [G] fiera, me creía el [Am] rey del mundo [Em]\n[F] Con mi lema por bandera, lo que [G] digan yo no escucho\n[C] No había nadie que pu[G]diera lograr que cam[Am]biara un poco el rumbo [Em]\n[F] Con mi idea la primera y que no ago[G]biaran mucho\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor\n\n## Verso 2\n[C] Y sufrí de tal ma[G]nera por de[Am]jar de ser quien era [Em]\n[F] Por pensar que ser cobarde era [G] ser lo que creyera\n[C] Los valientes son los [G] que son de verdad [Am] y los fuertes ni sus guerras [Em]\n[F] Los valientes los que saben llorar con la [G] cara descubierta\n\n## Coro\n[C] Y así [G] fue, me reve[F]lé contra [G] todo\nHasta el [C] sol viviendo en[G]tonces una dis[F]torsión [G]\nY me enfa[Am]dé con el mundo, malditos com[Em]plejos\nQue siempre sacan lo [F] peor, pensé: \"en la [G] fuerza estará lo mejor\"\n[C] Me disfra[G]cé de uno que [F] no era [G] yo\nBuscando [C] esa fir[G]meza llegué a un lugar [F] negro [G]\nPensé que [Am] eso era el valor"
   },
   {
     "id": "19-dias-y-500-noches",
@@ -92,6 +92,104 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Abre la puerta\"\nartist: \"Triana\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock andaluz\", \"psicodelia\", \"clásico\"]\n---\n## Intro\n[Am] [G] [Am]\n\n[Am] Yo quise subir al [G] cielo para [Am] ver\n[Am] Y bajar hasta el in[G]fierno para com[Am]prender\n[Am] Qué motivo [G] es, que nos impide [Am] ver\n[F] Dentro de ti, [G] dentro de ti, dentro de [Am] mí\n\n[Am] Abre la puerta [G] niña,\n[F] Que el día va a co[G]men[Am]zar\n[Am] Se marchan todos los [G] sueños,\n[F] Qué pena da des[G]per[Am]tar.\n[Am] Por la mañana a[G]manece,\n[F] La vida y una ilu[G]sión. [Am]\n[Am] Deseos que se re[G]tuercen\n[F] Muy dentro del cora[G]zón. [Am]\n\n[Am] Soñaba que te que[G]ría,\n[F] Soñaba que era ver[G]dad, [Am]\n[Am] Que los luceros te[G]nían,\n[F] Misterio para so[G]ñar, [Am]\n[Am] Hay una fuente, [G] niña,\n[F] Que la llaman del a[G]mor [Am]\n[Am] Donde bailan los lu[G]ceros\n[F] Y la luna con el [G] sol [Am]\n\n[Am] Abre la puerta [G] niña,\n[F] Y dale paso a la [G] luz, [Am]\n[Am] Mira que destello [G] tiene,\n[F] Esa nube con el [G] sol, [Am]\n[Am] Por la mañana a[G]manece,\n[F] La vida y una ilu[G]sión, [Am]\n[Am] Deseos que se re[G]tuercen,\n[F] Muy dentro del cora[G]zón. [Am]\n\n[Am] Hay una fuente, [G] niña,\n[F] Que la llaman del a[G]mor [Am]\n[Am] Donde bailan los lu[G]ceros\n[F] Y la luna con el [G] sol. [Am]\n"
   },
   {
+    "id": "acurrucame",
+    "title": "Acurrúcame",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/acurrucame.md",
+    "content": "---\ntitle: \"Acurrúcame\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[Dm]-[Am]-[E7]-[Am]-LA7(bis)\nEsta noche [Am] muñeca divina\ncon mi mandolina te vengo a [E7] cantar.\nSal prontito carita de cielo\nque tenga el consuelo de verte [Am] asomar.\nSon mis notas lamentos del alma\nsuspiros que [A7] llegan hacia tu [Dm] balcón.\nNo consientas carita [Am] morena\nque muera de [E7] pena y [Am] desilusión.\n[A] Acurrúcame, como un niño que tiembla de [E7] frio\nacurrúcame, en un sueño de eterna [A] pasión\nacurrúcame, que no [A7] puedo sufrir tu [Gm] desvío\ntu amor ha de ser [Am] solo mio, [E7] por favor dame [Am] tu corazón.\n(INTRO)\nOtra vez a rondarte he venido\nde amores tranquilos, sonando al cantar.\nYo en tus labios quisiera algun día\nhallar vida mia la felicidad.\nCon mis notas lamentos del alma\nsuspiros que vuelan hacia tu balcón.\nNo consientas, carita morena\nque muera de pena y desilusión.\n## Estribillo\nAcurrúcame, por favor\nacurrúcame, acurrúcame, acurrúcame, por favor.\nADELITA\n"
+  },
+  {
+    "id": "adelita",
+    "title": "Adelita",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/adelita.md",
+    "content": "---\ntitle: \"Adelita\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[G]-[D]-[A7]-[D]-[D7] (bis)\nSI [D] ADELITA SE [A7] FUERA CON [D7] [D] OTRO\nLA SEGUIRIA [G] POR TIERRA Y POR [A7] MAR,\nSI POR MAR EN UN BUQUE DE [D] GUERRA,\nSI POR [A7] TIERRA EN UN TREN [D] MILITAR.\n[D]              [A7]\nY [D7] SI ACASO YO MUERO EN LA GUERRA\n## Verso 1\nS\n[A7] Y SI MI CUERPO EN LA TIERRA VA\nQUEDAR,\nADELITA, POR DIOS TE LO [D] RUEGO,\nQUE POR [A7] MI NO VAYAS A [D] LLORAR.\nSI [A7] ADELITA QUISIERA SER MI [D] ESPOSA,\nSI [A7] ADELITA YA FUERA MI [D] MUJER,\nLE COMPRARIA UN VESTIDO [D7] DE [G] SEDA\nRE                     L\n[D] PARA LLEVARLA A BAILAR AL CUARTEL.\n[G]-[D]-[A7]-[D]-[D7] (bis)\nY SI [D] ACASO...\n[A7] SI ADELITA...\nRE            -R\n[G] .\nNO, NO, NO, NO, SEÑOR,     YO NO ME\nCASARE,\n[A7] ASI LE DIGO AL CURA Y [D] ASI LE DIGO A\nUSTED\n-[D7]\n[G] NO, NO, NO, NO, SEÑOR, YO NO ME\nCASARE,\n[A7]\n[D] ESTOY ENAMORADO PERO ME AGUANTARE.\n[D] YO NO ME CASO COMPADRE QUERIDO\nL\nOL A7\nPORQUE LA VIDA ES UN PURO BACILON,\nA\n(BACILON BACILON, PONTELO PONSELO)\nYO NO ME CASO COMPADRE QUERIDO,\n[D] AUNQUE ME PONGA EN EL PECHO UN\nPISTOLON,\n(PISTOLON PISTOLON, PONTELO, PONSELO)\nYO NO ME CASO COMPADRE QUERIDO\nA7 [D7] SOL\nPORQUE LA VIDA ES UN PURO BACILON.\nNO, NO, NO, NO, SEÑOR, YO NO [D] ME\nCASARE,\n[A7]\n[D] ASI LE DIGO AL CURA Y ASI LE DIGO A\nUSTED;\n-[D7]\n[G] NO, NO, NO, NO, SEÑOR, YO NO ME\nCASARE,\n[A7]\n[D] ESTOY [D] [A] ENAMORADO PERO ME AGUANTARE\n"
+  },
+  {
+    "id": "adios-a-la-llanera",
+    "title": "Adiós a la llanera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/adios-a-la-llanera.md",
+    "content": "---\ntitle: \"Adiós a la llanera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nADIOS\n[Dm]-[Gm]-[A7] (6 (veces)\n[Dm]-[Gm]-[A7]-[Dm]-[Gm]-[A7]\n(bis)\n[Dm] AH, [Gm] AH, [A7] AH [Dm] (TER).\nPOR SI [Dm] ACASO YA NO [Gm] VUELVO\nCAPPELLA)\nME [A7] DESPIDO A LA [Dm] LLANERA\nCAPPELLA);\nVENEZUELA, [A7] VENEZUELA,\nDESPEDIRME NO [Dm] QUISIERA\n[Gm]\n[A7] PORQUE NO ENCUENTRO MANE\n(BIS NO A CAPPELLA).\n[Dm] SI YO PUDIERA TENER\n[Gm] ALAS PARA VOLAR\n[A7] COMO TENGO UN [Dm] CORAZON\nQUE [Gm] SABE MUY BIEN AMAR [A7] (BIS).\n[Dm] CUANTAS VECES YO QUISIERA\n[Gm] QUE ESTUVIERAS JUNTO A MI,\n[A7] PERO NO ENCUENTRO [Dm] MANERA\nA LA LLANERA\nDE ACERCARME [Gm] UN POCO A TI [A7] (BIS).\n[D] MAÑANA, CUANDO [G] PARTAMOS,\n[A]                        [D]-[G]-\n[A] UN RECUERDO TE DEJARE;\n[D] LAGRIMAS EN TUS [G] MEJILLAS,\n[A] Y DE TI, QUE ME [Dm] LLEVARE.\nRA POR SI ACASO...\n(6 (veces) (bis)-[C]\n[F] MAÑANA, CUANDO [A#] PARTAMOS,\n[C]                       [F]-[A#]-\n[C] UN RECUERDO TE DEJARE;\n[F] LAGRIMAS EN TUS [A#] MEJILLAS,\nY DE [C] TI, QUE ME [F] LLEVARE.\nPOR SI ACASO...\n[Dm]-[Gm]-[A7]-[Dm]-[Gm]-[A7]-\n[Dm] AH, AH, AH (TER).\n[Gm]-[A7]-\n"
+  },
+  {
+    "id": "adoro",
+    "title": "Adoro",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/adoro.md",
+    "content": "---\ntitle: \"Adoro\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n[Dm] Adoro la calle en que nos vimos,\nla noche cuando nos cono[Gm]cimos.\n[A7] Adoro las cosas que me dices,\nnuestros ratos fe[Dm]lices,\nlos adoro, vida [A7] mía.\n\n## Verso 2\n[Dm] Adoro la seda de tus manos,\nlos besos que nos damos los [Gm] dos.\n[A7] Me muero por tenerte junto a mí,\ncerca, muy cerca de [Dm] mí,\nno separarme de [A7] ti.\n\n## Coro\nY es que [D7] eres mi existen[Gm]cia, mi sentir,\neres [C7] mi luna, eres mi [F] sol,\neres mi [Bb] noche de a[Gm]mor.\n[A7] Adoro el brillo de tus ojos,\nel calor de tu [Dm] boca,\nel temblor de tu [Gm] cuerpo.\nAdoro la luz y las som[A7]bras,\nel silencio del mundo cuando no estás a[Dm]quí.\n"
+  },
+  {
+    "id": "agua-del-pozo",
+    "title": "Agua del pozo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/agua-del-pozo.md",
+    "content": "---\ntitle: \"Agua del pozo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nAGU\n[F]-[Fm]-[C]-[Am]-[Dm]-[G7]-[C] (bis)\nAQUELLOS [C] TIEMPOS QUE VIVISTE JUNTO\n[E],\n[G] AQUELLOS TIEMPOS QUE TU AMOR FU\nPARA MI,\nQUE A TU INOCENCIA ME CONFIE\nY A TUS ENCANTOS ME [C] RENDI.\nMAS SI HE SABIDO QUE AL FIN TE IBA YO\nPERDER,\nTE HUBIERA [C7] DADO YO A [F] BEBER\nAGUA DEL [F] POZO DE LA [Fm] VIRGEN MEJICANA\nPA'QUE APRENDIERAS [Dm] [Am] TU [G7] A [C] QUERER.\n[G] Y AHORA TE MIRO CON DESPRECIO\nIGUAL,\nCARA [D] A [G] CARA\n[G] Y SI TE ACERCAS A MI LADO A COQUETEA\nYA [D] NO ES [G7] IGUAL.\nA DEL POZO\n[C] MAS SI HE SABIDO QUE AL FIN TE IBA YO A\nPERDER,\nE TE HUBIERA [C7] DADO YO A [F] BEBER\n[F]                  [Fm]\n[C] AGUA DEL POZO DE LA VIRGEN MEJICANA\nPA'QUE [Am] APRENDIERAS [Dm] A [C] [G7] QUERER.\n[F]-[Fm]-[C]-[Am]-[Dm]-[G7]-[C]\nA\n[C]-[G]-[C]-[C7]-[F]-[Fm]-[C]-[Am]-[Dm]-\n[C] [G7] DO(VERSION LIBRE)\nY AHORA TE MIRO...\n[F]                    [Fm]\n[C] [D] AGUA DEL POZO DE LA VIRGEN MEJICANA\n[C] [G7] [Dm] [Am] SIN\nPA'QUE APRENDIERAS TU A QUERER\n[D] R\n"
+  },
+  {
+    "id": "alfonsina-y-el-mar",
+    "title": "Alfonsina y el mar",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/alfonsina-y-el-mar.md",
+    "content": "---\ntitle: \"Alfonsina y el mar\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[Am]-[E7]-[F]-[E7]-[Am]-(bis)\nPor la blanda [Gm] arena que [A7] lame [Dm] el mar,\nsu pequeña [E7] huella no vuelve [Am] más,\ny un sendero [F] solo de [G7] pena [C] y silencio [Dm] llegó\nhasta el [Am] agua [A7] [E7] profunda,\ny un sendero [Dm] solo de [G7] penas [C] puras [Dm] llegó\n[Am] hasta [E7] la [Am] espuma\n.\nSabe Dios qué angustia te acompañó,\nqué dolores viejos calló tu voz,\npara recordarte arrullada en el canto de las\ncaracolas marinas,\nla canción que canta en el fondo oscuro del mar,\nla caracola.\nREdis7       SOL7       DO\nTe vas Alfonsina con tu soledad,\n¿qué poemas [Gm] nuevos [A7] fuiste a [Dm] buscar?\nUna voz antigua de [E7] viento y [Am] de sal,\nque requiebra el [E7] alma\ny la está [A7] [Gm] llamando.\nY te [Dm] vas\nhacia [E7] allá como un [Am] sueño\ndormida [B7] [Am] Alfonsina [E7] vestida de [Am] mar.\nCinco sirenitas te llevarán\npor caminos de algas y de coral\ny fosforescentes caballos marinos harán\nuna ronda a tu lado\ny los habitantes del agua van a jugar\npronto a tu lado\nBájame la lámpara un poco más,\ndéjame que duerma, lo dice el mar\ny si viene él no le digas que estoy, dile que\nAlfonsina no vuelve\ny si llama él no le digas nunca que estoy\ndi que me he ido.\nTe vas Alfonsina con tu soledad…\n"
+  },
+  {
+    "id": "algo-contigo",
+    "title": "Algo contigo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/algo-contigo.md",
+    "content": "---\ntitle: \"Algo contigo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n¿[C] Hace falta que te diga\nque me [Cmaj7] muero por tener algo con[F]tigo?\n¿Es que [Dm] no te has dado cuenta\nde lo [G7] mucho que me cuesta ser tu a[C]migo?\n\n## Verso 2\nYa no [C] puedo acercarme a tu boca\nsin de[Cmaj7]searla de una manera [F] loca.\nNece[Dm]sito controlar tu mirada,\nsaber [G7] quién te está mirando y quién te [C] toca.\n\n## Coro\n¿Hará [Gm7] falta que te [C7] diga\nque me [F] muero por tener algo con[Fm]tigo?\n¿Es que [Em7] no te has dado [Am7] cuenta\nde lo [Dm7] mucho que me [G7] cuesta ser tu a[C]migo?\n"
+  },
+  {
     "id": "algo-se-muere-en-el-alma",
     "title": "Algo se muere en el alma",
     "artist": "Cantores de Híspalis",
@@ -118,10 +216,12 @@ export const DEFAULT_SONGS = [
       "pop",
       "60s",
       "classic",
-      "inglés"
+      "inglés",
+      "tuna",
+      "español"
     ],
     "file": "canciones/all-my-loving.md",
-    "content": "---\ntitle: \"All My Loving\"\nartist: \"The Beatles\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"pop\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Dm] [G] [C] [Am]\n\n## Verso 1\nClose your [Dm] eyes and I'll [G] kiss you, to[C]morrow I'll [Am] miss you\nRe[F]member I'll [Dm] always be [Bb] true [G]\nAnd then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day\nAnd I'll [F] send all my [G] loving to [C] you\n\n## Verso 2\nI'll pre[Dm]tend that I'm [G] kissing the [C] lips I am [Am] missing\nAnd [F] hope that my [Dm] dreams will come [Bb] true [G]\nAnd then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day\nAnd I'll [F] send all my [G] loving to [C] you\n\n## Coro\nAll my [Am] loving [C+] I will send to [C] you\nAll my [Am] loving, [C+] darling, I'll be [C] true\n\n## Solo\n[F] [C] [Dm] [G] [C]\n\n## Verso 3\nClose your [Dm] eyes and I'll [G] kiss you, to[C]morrow I'll [Am] miss you\nRe[F]member I'll [Dm] always be [Bb] true [G]\nAnd then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day\nAnd I'll [F] send all my [G] loving to [C] you\n\n## Coro\nAll my [Am] loving [C+] I will send to [C] you\nAll my [Am] loving, [C+] darling, I'll be [C] true\nAll my [Am] loving, all my [C] loving, ooh\nAll my [Am] loving I will send to [C] you\n"
+    "content": "---\ntitle: \"All My Loving\"\nartist: \"The Beatles\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"pop\", \"60s\", \"classic\", \"inglés\", \"tuna\", \"español\"]\n---\n\n## Intro\n[Dm] [G] [C] [Am]\n\n## Verso 1\nClose your [Dm] eyes and I'll [G] kiss you, to[C]morrow I'll [Am] miss you\nRe[F]member I'll [Dm] always be [Bb] true [G]\nAnd then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day\nAnd I'll [F] send all my [G] loving to [C] you\n\n## Verso 2\nI'll pre[Dm]tend that I'm [G] kissing the [C] lips I am [Am] missing\nAnd [F] hope that my [Dm] dreams will come [Bb] true [G]\nAnd then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day\nAnd I'll [F] send all my [G] loving to [C] you\n\n## Coro\nAll my [Am] loving [C+] I will send to [C] you\nAll my [Am] loving, [C+] darling, I'll be [C] true\n\n## Solo\n[F] [C] [Dm] [G] [C]\n\n## Verso 3\nClose your [Dm] eyes and I'll [G] kiss you, to[C]morrow I'll [Am] miss you\nRe[F]member I'll [Dm] always be [Bb] true [G]\nAnd then [Dm] while I'm a[G]way, I'll write [C] home every [Am] day\nAnd I'll [F] send all my [G] loving to [C] you\n\n## Coro\nAll my [Am] loving [C+] I will send to [C] you\nAll my [Am] loving, [C+] darling, I'll be [C] true\nAll my [Am] loving, all my [C] loving, ooh\nAll my [Am] loving I will send to [C] you\n"
   },
   {
     "id": "alma-corazon-y-vida",
@@ -133,10 +233,26 @@ export const DEFAULT_SONGS = [
     "tags": [
       "vals peruano",
       "bolero",
-      "clásico"
+      "clásico",
+      "tuna",
+      "español"
     ],
     "file": "canciones/alma-corazon-y-vida.md",
-    "content": "---\ntitle: \"Alma, corazón y vida\"\nartist: \"Adrián Flores\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"vals peruano\", \"bolero\", \"clásico\"]\n---\n\n## Intro\n[Am] [G] [F] [E7] (2)\n\n## Verso 1\n[Am] Recuerdo aquella [Dm] vez que yo te cono[Am]cí\nRecuerdo aquella tarde\nPero [E7] no me acuerdo ni cómo te [Am] vi\nPero sí te di[Dm]ré que yo me enamo[Am]ré\nDe esos tus lindos ojos\nY tus [E7] labios rojos que no olvida[Am]ré\n\n## Coro\n[Am] Oye esta canción que lleva, [G] alma, corazón y [F] vida [E7]\nEstas tres cositas [E7] nada más te [Am] doy\n[Am] Porque no tengo fortuna, [G] estas tres cosas te o[F]frezco [E7]\nAlma, corazón y [E7] vida y nada [Am] más\n\n## Estribillo\n[Dm] Alma para conquis[Am]tarte, [E7] corazón para que[Am]rerte\n[Dm] Y vida para vi[Am]virla [E7] junto a [Am] ti\n[Dm] Alma para conquis[Am]tarte, [E7] corazón para que[Am]rerte\n[Dm] Y vida para vi[Am]virla [E7] junto a [Am] ti\n"
+    "content": "---\ntitle: \"Alma, corazón y vida\"\nartist: \"Adrián Flores\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"vals peruano\", \"bolero\", \"clásico\", \"tuna\", \"español\"]\n---\n\n## Intro\n[Am] [G] [F] [E7] (2)\n\n## Verso 1\n[Am] Recuerdo aquella [Dm] vez que yo te cono[Am]cí\nRecuerdo aquella tarde\nPero [E7] no me acuerdo ni cómo te [Am] vi\nPero sí te di[Dm]ré que yo me enamo[Am]ré\nDe esos tus lindos ojos\nY tus [E7] labios rojos que no olvida[Am]ré\n\n## Coro\n[Am] Oye esta canción que lleva, [G] alma, corazón y [F] vida [E7]\nEstas tres cositas [E7] nada más te [Am] doy\n[Am] Porque no tengo fortuna, [G] estas tres cosas te o[F]frezco [E7]\nAlma, corazón y [E7] vida y nada [Am] más\n\n## Estribillo\n[Dm] Alma para conquis[Am]tarte, [E7] corazón para que[Am]rerte\n[Dm] Y vida para vi[Am]virla [E7] junto a [Am] ti\n[Dm] Alma para conquis[Am]tarte, [E7] corazón para que[Am]rerte\n[Dm] Y vida para vi[Am]virla [E7] junto a [Am] ti\n"
+  },
+  {
+    "id": "alma-de-dios",
+    "title": "Alma de Dios",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/alma-de-dios.md",
+    "content": "---\ntitle: \"Alma de Dios\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n(Capella)  CANTA MENDIGO ERRANTE, CANTOS DE TU NIÑEZ\nYA QUE NUNCA TU PATRIA VOLVERAS A VER\n## Instrumental\n[E]  [D] [E]  [D]  [E]  [Dm] [E]\n[Am] YA QUE [G] NUNCA TU [C] [F] PATRIA, [G7] VOLVERAS A [Am] [E] [Am] VER\nHUNGRIA [G] DE MIS [C] AMORES, [Dm] PATRIA [E] QUERIDA,\n[Am] LLENAN DE [G] LUZ TUS CANCIONES [C] MI [Dm] TRISTE [E7] VIDA,\n[Am] VIDA DE [G] INQUIETO [F] Y ETERNO [C] ANDAR\n[Dm] QUE ALEGRO [Am] SOLO [E7] CON MI [A] CANTAR.\nCANTA VAGABUNDO [E7] TUS [A] MISERIAS POR EL [E7] MUNDO\nQUE TU [A] CANCION QUIZA [E7] EL VIENTO [E7] [A] LLEVARA\nHASTA [A] LA ALDEA DONDE TU [E7] AMOR [E7] [A] ESTA\n[A] CANTA [E7] VAGABUNDO TUS [A] MISERIAS POR EL [E7] MUNDO\nQUE TU [A] CANCION QUIZA [E7] EL VIENTO [E7] [A] LLEVARA\nHASTA LA [A] ALDEA DONDE TU [E7] SANTO CARIÑO [A] ESTA\nES CAMINAR SIEMPRE ERRANTE MI TRISTE SINO\nSIN ENCONTRAR UN DESCANSO EN MI CAMINO\nAVE PERDIDA NUNCA HE DE HALLAR\nUN NIDO AMANTE DONDE CANTAR\nCANTA VAGABUNDO TUS MISERIAS POR EL MUNDO\nQUE TU CANCION QUIZA EL VIENTO LLEVARA\nHASTA LA ALDEA DONDE TU AMOR ESTA\nCANTA VAGABUNDO TUS MISERIAS POR EL MUNDO\nTU CANTO LLEGARA DONDE TU AMOR ESTA\n"
   },
   {
     "id": "alma-llanera",
@@ -148,10 +264,40 @@ export const DEFAULT_SONGS = [
     "tags": [
       "joropo",
       "folklore",
-      "venezolano"
+      "venezolano",
+      "tuna",
+      "español"
     ],
     "file": "canciones/alma-llanera.md",
-    "content": "---\ntitle: \"Alma llanera\"\nartist: \"Pedro Elías Gutiérrez\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"joropo\", \"folklore\", \"venezolano\"]\n---\n\n## Intro\n[E] [Am] [E] [A] [D] [E7] [A] [G] [D] [Em] [D] [A7] [D]\n\n[D] Yo… Yo nací en esta ribera\nDel A[A7]rauca vibra[D]dor\n\n[D] Amo, [G] lloro, [A7] canto, [D] sueño,\nCon cla[A7]veles de pa[D]sión\nCon cla[A7]veles de pa[D]sión\nPara or[A7]nar las rubias crines\nAl potro de mi ama[D]dor*\nYo nací en una ribera\nDel A[A7]rauca vibra[D]dor\nSoy her[D]mana de la es[G]puma,\nDe las [A7] garzas, de las [D] rosas\nY del [A7] sol. [D]\n\n[D] Me arrulló la viva diana*\nDe la [A7] brisa en el pal[D]mar\nY por [D] eso tengo el [G] alma,\nComo el [A7] alma primo[D]rosa\nY por [D] eso tengo el [G] alma,\nComo el [A7] alma primo[D]rosa del cris[A7]tal [D]\n\n[D] Amo, [G] lloro, [A7] canto, [D] sueño,\nCon cla[A7]veles de pa[D]sión\nCon cla[A7]veles de pa[D]sión\nPara or[A7]nar las rubias crines\nAl potro de mi ama[D]dor*\nYo nací en una ribera\nDel A[A7]rauca vibra[D]dor\nSoy her[D]mano de la es[G]puma,\nDe las [A7] garzas, de las [D] rosas\nY del [A7] sol, y del [D] sol.\n\n```text\nhttps://corociudaddelospoetas.wordpress.com/2015/05/11/alma-llanera-una-zarzuela-y-un-joropo/\n```\n*libreto original:\n"
+    "content": "---\ntitle: \"Alma llanera\"\nartist: \"Pedro Elías Gutiérrez\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"joropo\", \"folklore\", \"venezolano\", \"tuna\", \"español\"]\n---\n\n## Intro\n[E] [Am] [E] [A] [D] [E7] [A] [G] [D] [Em] [D] [A7] [D]\n\n[D] Yo… Yo nací en esta ribera\nDel A[A7]rauca vibra[D]dor\n\n[D] Amo, [G] lloro, [A7] canto, [D] sueño,\nCon cla[A7]veles de pa[D]sión\nCon cla[A7]veles de pa[D]sión\nPara or[A7]nar las rubias crines\nAl potro de mi ama[D]dor*\nYo nací en una ribera\nDel A[A7]rauca vibra[D]dor\nSoy her[D]mana de la es[G]puma,\nDe las [A7] garzas, de las [D] rosas\nY del [A7] sol. [D]\n\n[D] Me arrulló la viva diana*\nDe la [A7] brisa en el pal[D]mar\nY por [D] eso tengo el [G] alma,\nComo el [A7] alma primo[D]rosa\nY por [D] eso tengo el [G] alma,\nComo el [A7] alma primo[D]rosa del cris[A7]tal [D]\n\n[D] Amo, [G] lloro, [A7] canto, [D] sueño,\nCon cla[A7]veles de pa[D]sión\nCon cla[A7]veles de pa[D]sión\nPara or[A7]nar las rubias crines\nAl potro de mi ama[D]dor*\nYo nací en una ribera\nDel A[A7]rauca vibra[D]dor\nSoy her[D]mano de la es[G]puma,\nDe las [A7] garzas, de las [D] rosas\nY del [A7] sol, y del [D] sol.\n\n```text\nhttps://corociudaddelospoetas.wordpress.com/2015/05/11/alma-llanera-una-zarzuela-y-un-joropo/\n```\n*libreto original:\n"
+  },
+  {
+    "id": "amalia-rosa",
+    "title": "Amalia Rosa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amalia-rosa.md",
+    "content": "---\ntitle: \"Amalia Rosa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nAM\n[C]-[F]-[G]-[C]-[G7]-DO(BIS)\n[C] DE MARACAIBO SALIERON\n[F] DOS PALOMITAS VOLANDO\n[G] A LA GUAIRA VOLVERAN,\nA LA GUAIRA [C] VOLVERAN,\nPERO A [G7] MARACAIBO CUANDO [C] (BIS\nMARIA [F] ME DIO UNA CINTA,\nROSA ME LA [C] QUITO,\n[C] AMALIA PELEO CON ELLAS\n[F] PORQUE [G] [F#] JUANA, PORQUE JUANA\nENOJO (BIS)\n[G] YA SE JUNTARON LAS CUATRO\nY ESA ES LA QUE QUIERO [C] Y0\nALIA ROSA\n[C] AMALIA, AMALIA, AMALIA, (a capella\na\n1                 toda la estrofa)\n[F] AMALIA, AMALIA ROSA,\nESA ES LA QUE YO ME [G] LLEVO,\nESA ES LA QUE YO ME [C] LLEVO\n[C] [G7] ).\nPOR SER LA MAS BUENA MOZA\n(BIS).\n[C]-[F]-[G]-SO-[G7]-[C] (bis)\n[C] COGE NIÑA ESTE PUÑAL,\n[F] Y ABREME POR UN \"COSTAO\"\n[G] SE\nPA'QUE VEAS MI CORAZON,\nPA'QUE VEAS MI [C] CORAZON\nJUNTO AL [G] TUYO \"RETRATAO\" [C] (BIS).\n[F] MARIA ME DIO... (BIS).\n[C] AMALIA,...\n"
+  },
+  {
+    "id": "amalia",
+    "title": "Amalia",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amalia.md",
+    "content": "---\ntitle: \"Amalia\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nLa Tuna está al pie de tu balcón\nAsómate y escucha su canción\nYa estoy aquí cantando para tí\nPorque te quiero porque te adoro\nTú eres mi vida y mi tesoro\nPorque te quiero porque te adoro\nPorque es que Amalia por tí me muero.\nOye las coplas\nQue llevan mi amor.\n## Instrumental\nPorque te quiero porque te adoro\nTú eres mi vida y mi tesoro\nPorque te quiero porque te adoro\nPorque es que Amalia por tí me muero.\n"
   },
   {
     "id": "amante-enamorado",
@@ -167,6 +313,104 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/amante-enamorado.md",
     "content": "---\ntitle: \"Amante-enamorado\"\nartist: \"Popurrí\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"rumba\", \"popurrí\", \"flamenco\"]\n---\n\n## Intro\n[F] [C] [G] [C]\n\n## Parte 1 - Tu amante\n[C] Yo no quiero ser tu a[Em]mante\nY yo [F] no puedo serlo [G] más,\n[C] Yo no quiero ser tu a[Em]mante\nY yo [F] quiero ser algo [G] más.\n\n## Parte 2 - Enamorao de ella\n[G] Enamorao de [Em] ella,\n[C] Loco perdío por [D] ella,\n[G] Y veo que su es[Em]trella\nDe mis [C] manos se me [D] va. [G]\n\n[G] Vuela, pensamiento [Em] mío,\n[C] Corre, pensamiento, [D] corre,\n[G] Dile que mi luz se a[Em]paga,\nSiento [C] que la nece[D]sito,\nQue [G] venga, que me hace falta.\n"
+  },
+  {
+    "id": "amapola",
+    "title": "Amapola",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amapola.md",
+    "content": "---\ntitle: \"Amapola\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[G] [Em] [Am] [D7] (2)\n\n## Verso 1\n[G] Era una mañana [Em] fría,\n[Am] cuando por vez pri[D7]mera te vi.\n[G] Desde aquel dichoso [Em] día\n[Am] vivo pensando en [D7] ti.\n\n## Coro\nAma[G]pola, lindísi[Em]ma ama[Am]pola, [D7]\nserá siempre mi [Am] alma [D7] tuya [G] sola.\nYo te quiero, amada [Em] niña mía,\n[Am] igual que ama la [D7] flor la luz del [G] día.\n\nAma[G]pola, lindísi[Em]ma ama[Am]pola, [D7]\nno seas tan ingra[Am]ta [D7] y ámame [G] tú.\nAma[G]pola, ama[Em]pola,\n¿cómo [Am] puedes tú vi[D7]vir tan [G] sola?\n"
+  },
+  {
+    "id": "amarraditos",
+    "title": "Amarraditos",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amarraditos.md",
+    "content": "---\ntitle: \"Amarraditos\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A]-[D]-[B7]-[Em]-[G]-[A]-[D]  [G]-[A]-[D]\nVAMOS AMARRADITOS [A] LOS DOS EN PLUMAS Y [D] TERCIOPELO\nYO CON UN [B7] RECRUJIR DE ALMIDON Y TU SERIO [Em] ALTANERO\nLA GENTE NOS [G] MIRA CON ENVIDIA [A] POR LA [D] CALLE\n[B7] MURMURAN LOS VECINOS LOS AMIGOS Y [E7] EL [A] ALCALDE.\nDICEN QUE NO SE ESTILA YA [A] MÁS\nNI MI CINTURON NI TU [D] PASADOR\nDICEN QUE NO SE ESTILA [B7] YA MÁS\nNI MI PEINETÓN NI [Em] TU MEDALLÓN\nYO SE QUE SE ESTILA [G] MIS OJAZOS Y TU [D] [A] ORGULLO\n[B7] CUANDO VOY DE TU BRAZO [E] POR EL SOL Y [A] SIN [D] APURO.\nNOS ESPERA [A] NUESTRO COCHERO FRENTE A LA IGLESIA [D] MAYOR\nAL TROTECITO LENTO [A] RECORREMOS EL [D] PASEO\nTU SALUDAS [C] TOCANDO EL ALA DE TU SOMBRERO [F] MEJOR\nY YO [E7] AGITO CON DONAIRE NI [A] PAÑUELO\nNO SE [Em] ESTILA... YA SE QUE NO [A] SE [D] ESTILA...\n[E7]                                    [A]\n[A7] QUE TE PONGAS PARA CENAR JAZMINES EN EL OJAL\nDESDE LUEGO [Em] PARECE UN JUEGO [A] PERO NO HAY NADA [D] MEJOR\nQUE [B7] SER UN SEÑOR DE [Em] AQUELLOS\nQUE [A] VIERON MIS [D] ABUELOS.\n[Em] [B7] [D] [A] NOS [D] [A] [G] [D] [A] [G] ESPERA...\n"
+  },
+  {
+    "id": "amelia",
+    "title": "Amelia",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amelia.md",
+    "content": "---\ntitle: \"Amelia\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Dm]-[A7]-[Dm]\n[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm] (bis)\nTU GRAN [Dm] SINCERIDAD\nY TU BUEN [A7] CORAZON\n## Verso 1\nINSPIRAN EN MI SER\nESTA BELLA [Dm] CANCION.\nPERDONA QUE TE [Gm] CANTE [C7] MAL,\nME FALTA EL [A#7] [F] ALIENTO\nPARA DECIRTE [A7] NIÑA\nLO QUE TE QUIERO YO [Dm] (BIS).\nOH, [D] AMELIA, TU ERES [D#] FLOR DE [A] [Em] PRIMAVERA,\nNIÑA HERMOSA [Em] DE MIS SUEÑOS [A] MAS [D] SINCEROS;\nESTOS [Dm] VERSOS SON EL [Gm] CANTO DE MI [A7] VIDA\n[Gm] INSPIRADOS EN TU [A7] DULCE [D] SONREIR.\nLA [D] CANCION QUE EN ESTE DIA YO TE [A] [Em] CANTO\nSOLO [Em] QUIERO QUE LA GUARDES [A] EN TU [D] MENTE,\nY CUANDO [Dm] HAYAN TRANSCURRIDO [Gm] YA LOS [A7] AÑOS\nNO SE [Gm] ESFUME COMO EL [A7] HUMO ESTA [D] CANCION.\n[Dm]-[A7]-[Dm]\n[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm] (bis)\nOH, AMELIA,... [D] LA [D] CANCION...\n"
+  },
+  {
+    "id": "amiga",
+    "title": "Amiga",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Bm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amiga.md",
+    "content": "---\ntitle: \"Amiga\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Bm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A] AMIGA HAY QUE VER COMO ES EL [C#m] AMOR\nQUE VUELVE A QUIEN LO [B7] TOMA\nGAVILAN O [D] PALOMA\nPOBRE [Bm] TONTO, INGENUO [E] CHARLATAN\nQUE FUI [Bm] PALOMA POR QUERER [B7] SER [E] GAVILAN\n[A] AMIGA,IGA,IGA,IGA HAY QUE VER COMO ES EL [C#m] AMOR\nQUE VUELVE A QUIEN LO [B7] TOMA\nGAVILAN O [D] PALOMA\nPOBRE [Bm] TONTO,(SHUBARIBARI) INGENUO [E] CHARLATAN(WASHUBARIIBARI)\nQUE FUI [Bm] PALOMA POR QUERER [B7] SER [E] GAVILAN\n## Instrumental\nAMIGA...\nAMIGA (A CAPELLA)\n"
+  },
+  {
+    "id": "amor-y-fiesta",
+    "title": "Amor y fiesta",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amor-y-fiesta.md",
+    "content": "---\ntitle: \"Amor y fiesta\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nAM\n[E] UNA VIEJA SE MOJA DE [B7] ALOJA\nY UNA NIÑA COQUETA Y [E] DONOSA\nMI7                                   L\nAL BAILAR ESTA CUECA PRECIOS\n[B7]\nSU CARA DE [E] ROSA SE VUELVE\nMIMOSA\nMI7                                L\nAL BAILAR ESTA CUECA PRECIOS\n[B7]\nSU CARA DE [E] ROSA SE VUELVE\nMIMOSA\nS\n7\nY UNA PENA ME DEJA Y SE ALEJA\nY UNA JARRA DE VINO ME [E] AGARR\n[E7]\nY CANTANDO [A] CON BOMBO Y\nGUITARRA\n[B7]\nCOMIENZA LA [E] FARRA DEBAJO DE L\nPARRA\n[E7]\nY CANTANDO [A] CON BOMBO Y\nGUITARRA\n[B7]\nCOMIENZA LA [E] FARRA DEBAJO DE L\nPARRA\nEN [G#] EL DIA TODO ES [C#m] ALEGRIA\n[B7]\n[E]\nOR Y FIESTA\nEN LA NOCHE TODOS VAN EN\nCOCHE\nY EN LA [G#] FIESTA LLENA DE [A] COLOR\nA\nA\n[B7]\nLA VOZ DEL [E] CANTOR INVITA AL\nAAMOR\nA\n[B]\n7\nUNA CALLE SE PIERDE EN EL VALLE\nIMI\nY UNA CHINA LAVANDO EN LA TINA\nY A LA [E7] SOMBRA DE LA [A] SINASINA\nA                          [B7]\nCOQUETA Y [E] DIVINA ME MIRA Y SE\nARRIMA\nA Y A LA [E7] SOMBRA DE LA [A] SINASINA\n[B7]\nCOQUETA Y [E] DIVINA ME MIRA Y SE\nARRIMA\n[B]\n7\nA Y UNA NIÑA ME ENSEÑA SU GUIÑA\nY A UN RACIMO [E] DORADO ME\nARRIMO\n[E7]\n[A]\nY DESPACIO ME ANIMO Y ME ARRIMO                           SI7\n[B7] MIJUNTITO AL [E] CAMINO LOS DOS NOS\nJUNTITO AL CAMINO LOS DOS NOS UNIMOS\nUNIMOS\n[E7] LAEN EL DIA...\nY DESPACIO ME ANIMO Y ME ARRIMO\nAMORIOS EN EL MOLINO\nMolinera que caminas como el aspa de un molino\nacusada de ladrona, de casquivana e infiel,\nno te acuerdes del infundio pueblerino y envidioso\nmuele el grano, saca el gofio\ny amasémoslos con miel.\nMolinera molinera que robaste los costales\nde casada y de soltera\nno dejes de enamorar\nal peón que te camela\ncuando el marido esté fuera\nal caminante que llega\nsediento de beso y pan.\ncomo una espiga furtiva\ncuando solitaria queda\nolvidada de la hoz.\nY tiende sobre el trigo\nque fue regazo mullido\npara besar al amigo\nque quiere hacerte el amor.\n## Instrumental\nCurva tu cuerpo en la arena....\n"
+  },
+  {
+    "id": "amorios-en-el-molino",
+    "title": "Amoríos en el molino",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amorios-en-el-molino.md",
+    "content": "---\ntitle: \"Amoríos en el molino\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nMolinera que caminas como el aspa de un molino\nacusada de ladrona, de casquivana e infiel,\nno te acuerdes del infundio pueblerino y envidioso\nmuele el grano, saca el gofio\ny amasémoslos con miel.\nMolinera molinera que robaste los costales\nde casada y de soltera\nno dejes de enamorar\nal peón que te camela\ncuando el marido esté fuera\nal caminante que llega\nsediento de beso y pan.\ncomo una espiga furtiva\ncuando solitaria queda\nolvidada de la hoz.\nY tiende sobre el trigo\nque fue regazo mullido\npara besar al amigo\nque quiere hacerte el amor.\n## Instrumental\nCurva tu cuerpo en la arena....\nMolinera molinera entre la piedra y el polvo\naspa el brazo, talle corvo, calmase la fe y la sed\nde un pueblo mísero y pobre que envidia tu libertad\nfracasado y oprimido entre la espada y la pared (bis)\nAMOROSA GUAJIRA\n## Intro\n[B] 7ª [Em]          [D] [D]  [C] [C] [B7]    [C]\nS17ª\n[Am] [Em] En una [B7] alegre [Am] [Em] campiña\ndonde florece [B7] la [Em] viña\naroman las flores [Am] que alumbra [B7] el [Em] palmar\nAy [Am] ,cuando el cielo [Am] [Em] [B7] azulado\nun guajiro [Em] [B7] enamorado\nsus penas [C] de amores [B7] se puso a [B7] [F#m] [C#7] [E] cantar\nVen [C#7] [E] amorosa [B7] [F#m] [C#7] [E] [B7] [F#m] guajira\nque ya [B7] nada me [E] inspira\nni el canto [C#7] del ave [F#m] que sube [B7] del [B7] [F#m] [C#7] [E] sur\nVen [E] a [C#7] alegrar [F#m] mi [B7] [F#m] [C#7] [E] [B7] bohío\nporque el lecho [B7] del [E] río\nse ha vuelto [C#7] sombrío [F#m] porque [B7] faltas [E7] [E] tu\nVen [A] que en mi blanca [E] casita\nse ha quedado [F#m] [C#7] solita\nque pena tan triste que causa [B7] [F#7] dolor\nVen [E] porque [C#7] mi [F#m] amor [B7] se [B7] [F#m] [C#7] [E] muere\ny mi alma [B7] no [E] puede\npreciosa [C#7] guajira [F#] vivir [B7] sin tu [B7] [F#m] [C#7] [E] amor\n"
+  },
+  {
+    "id": "amorosa-guajira",
+    "title": "Amorosa guajira",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/amorosa-guajira.md",
+    "content": "---\ntitle: \"Amorosa guajira\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Instrumental\nVen que en mi blanca...\nVen porque mi amor...\nvivir sin tu amor (3 veces)\nEL ANDARIEGO\n## Intro\n[A7],[Dm],[A7],[Dm],[D7],[Gm],[Dm],[A7],[Dm]\nYo que fui del [D7] amor ave de [C7] [Gm] paso\nyo que fui mariposa de mil [A#] [F] flores\nhoy siento la nostalgia [D7] de tus [Gm] brazos\nde aquellos tus [Dm] abrazos, [A#] de aquellos tus [A7] amores.\nNi cadenas, ni [D7] lagrimas me [C7] [Gm] ataron\nmas hoy siento la calma y el [A#] [F] sosiego\nperdona mi [D7] tardanza, te lo [Gm] ruego\nperdona al [Dm] andariego [C] que te [A#] ofrece [A7] el [Dm] corazón.\nHay [Dm] ausencias que [C7] triunfa\n[F] y la nuestra triunfó\namémonos [A7] ahora con la paz\nque en otro [Dm] tiempo nos falto.\nY cuando yo me [Gm] muera ni luz ni llanto\nni [C7] luto ni nada [F] más\n[D7] AY, JUNTO A [Gm] MI CRUZ [A7] ... yo solo [Dm] quiero paz\nSolo tu, [A7] corazón, si recuerdas [Dm] mi amor\nUna [Gm] lagrima [C7] derramé por [F] ultima vez\n"
   },
   {
     "id": "and-i-love-her",
@@ -202,6 +446,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Años 80\"\nartist: \"Los Piratas\"\nkey: \"D\"\ncapo: 0\ntempo: 124\ntags: [\"indie\", \"rock\", \"español\", \"2000s\"]\n---\n\n## Intro\n[G] [F#m] [Em] (x2)\n[D] [Dmaj7] [Em] (x2)\n\n## Verso 1\n[D] Cuando me [Dmaj7] hiciste llamar no sospe[C]chaba,\n[D] Plasti[Dmaj7]lina con color, ropa inte[C]rior, recuerdos de allá [A] fuera,\n[D] Cómics de [Dmaj7] ciencia-ficción, vida inte[C]rior.\n\n## Pre-Coro\n[Bm] Y yo no quiero [Em] volver, [F#m]\n[Bm] No me repitas ja[Em]más que no sabes qué [Bm] hora es,\n¿Las siete y veinti[F#m]siete o no?\n[G] Ya terminé.\n\n## Coro\n[D] No te echaré de [Dmaj7] menos en sep[Em]tiembre, [A]\n[D] Verano muerto ve[Dmaj7]ré a las chicas pa[Em]sar, [A]\n[G] Será como a[F#m]quella canción de los [Em] años 80,\n[G] Seré como el [F#m] tipo que algún día [Em] fui. [A]\n\n## Verso 2\n[D] Bloody [Dmaj7] Marys en el bar, [C]\nUn déjà [A] vu, Matrix está cam[D]biando\nPor la confe[Dmaj7]sión brutal de tu re[C]lato.\n\n## Pre-Coro\n[Bm] Y yo no quiero [Em] volver, [F#m]\n[Bm] No me repitas ja[Em]más que no sabes qué [Bm] hora es,\n¿Las siete y veinti[F#m]siete o no?\n[G] Ya terminé.\n\n## Coro\n[D] No te echaré de [Dmaj7] menos en sep[Em]tiembre, [A]\n[D] Verano muerto ve[Dmaj7]ré a las chicas pa[Em]sar, [A]\n[G] Será como a[F#m]quella canción de los [Em] años 80,\n[G] Seré como el [F#m] tipo que algún día [Em] fui.\n\n## Outro\n[G] Será como a[F#m]quella canción de los [Em] años 80,\n[G] Seré como el [F#m] tipo que algún día [Em] fui... [D]\n"
   },
   {
+    "id": "ansiedad",
+    "title": "Ansiedad",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 4,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/ansiedad.md",
+    "content": "---\ntitle: \"Ansiedad\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 4\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n(CEJILLA EN 4º TRASTE)\n[D7]-[G]-[Em]-[Am]-[D7]-[G]-[B7]-[Em]-[B7]-[Em]-[D7]\n[C]-[Cm]-[G]-[Em]-[Am]-[D7]-[G]\n[G] ANSIEDAD, [D7] DE TENERTE EN MIS [D7] [G] BRAZOS\n## Verso 1\nSOL           LA#dis               LAm\nMUSITANDO PALABRAS DE AMOR\n[D7] ANSIEDAD, [Am] DE TENER TUS [Am] [D7] ENCANTOS\nY EN LA [C] BOCA [C] VOLVERTE A [D7] BESAR\nANSIEDAD...\nTAL VEZ ESTE LLORANDO [B7] AL [Em] RECORDARTE\nTUS LAGRIMAS SON [B7] PERLAS QUE CAEN AL [D] [Em] MAR\nY EL ECO ADORMECIDO [Cm] [C] DE ESTE [Em] [G] LAMENTO\nHACE QUE ESTES [Am] PRESENTE [D7] EN MI [G] SOÑAR\nQUIZAS ESTE LLORANDO [B7] TU [Em] PENSAMIENTO\nY ESTRECHES MI [B7] RETRATO CON [D] [Em] FRENESÍ\nY HASTA TU OIDO [Cm] [C] LLEGUE LA MELODIA [Em] [G] SALVAJE\nY EL ECO DE LA [Am] PENA DE ESTAR [D7] SIN [G] TI\n[Am]-[D7]-[G]-[Em]-[Am]-[D7]-[G]-[A#m]-[D#]-[G#m]-[Fm]-[Am]-[D7]-[G]\nPOR LA [Cm] [C] ANSIEDAD DE TENERTE EN MIS [Em] [G] BRAZOS\nY EL ECO [Am] DE LA PENA [D7] DE ESTAR [G] SIN TI\n"
+  },
+  {
     "id": "asi-es-mi-granada",
     "title": "Así es mi Granada",
     "artist": "Popular",
@@ -211,10 +469,12 @@ export const DEFAULT_SONGS = [
     "tags": [
       "copla",
       "andaluz",
-      "popular"
+      "popular",
+      "tuna",
+      "español"
     ],
     "file": "canciones/asi-es-mi-granada.md",
-    "content": "---\ntitle: \"Así es mi Granada\"\nartist: \"Popular\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"andaluz\", \"popular\"]\n---\n\n## Intro\n[Am] [E] [Am] [E] [Am] [G] [F] [E]\n\n[Am] Al pie de Sierra Ne[E]vada,\n[Am] se halla asentada Gra[G7]nada,\n[C] la de belleza sin [G7] fin. [C]\n[Am] Cármenes de verde y [E] agua\n[Am] al pie del viejo Albai[G7]cín\n[C] y el Sacromonte ca[G7]ñí [C]\ncon sus cantares y [F] zambras\nson la ilusión y el vi[E]vir.\n\n[Am] La Virgen de las An[E]gustias,\n[Am] la que habita en La Ca[E]rrera,\n[A7] consuela a los granadinos\n[Dm] aliviándoles las penas.\n[Am] La Alhambra mora y sul[E]tana,\n[Am] la que admira el mundo entero.\n[A7] Ay mi Granada gitana,\n[Dm] eres tú lo que más quiero. [E] [Am]\n\n[Am] Granada, Granada mía,\n[G] [G7] la de hermosura re[C]pleta,\n[F] luna y sol de Anda[E]lucía.\n[Am] Granada, Granada mía,\n[A7] que al llegar el mes de a[Dm]bril\n[Am] florecen en tus vergeles\n[E] orgullosos los claveles\n[Am] de la vega de Mo[E]tril. [Am]\n"
+    "content": "---\ntitle: \"Así es mi Granada\"\nartist: \"Popular\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"andaluz\", \"popular\", \"tuna\", \"español\"]\n---\n\n## Intro\n[Am] [E] [Am] [E] [Am] [G] [F] [E]\n\n[Am] Al pie de Sierra Ne[E]vada,\n[Am] se halla asentada Gra[G7]nada,\n[C] la de belleza sin [G7] fin. [C]\n[Am] Cármenes de verde y [E] agua\n[Am] al pie del viejo Albai[G7]cín\n[C] y el Sacromonte ca[G7]ñí [C]\ncon sus cantares y [F] zambras\nson la ilusión y el vi[E]vir.\n\n[Am] La Virgen de las An[E]gustias,\n[Am] la que habita en La Ca[E]rrera,\n[A7] consuela a los granadinos\n[Dm] aliviándoles las penas.\n[Am] La Alhambra mora y sul[E]tana,\n[Am] la que admira el mundo entero.\n[A7] Ay mi Granada gitana,\n[Dm] eres tú lo que más quiero. [E] [Am]\n\n[Am] Granada, Granada mía,\n[G] [G7] la de hermosura re[C]pleta,\n[F] luna y sol de Anda[E]lucía.\n[Am] Granada, Granada mía,\n[A7] que al llegar el mes de a[Dm]bril\n[Am] florecen en tus vergeles\n[E] orgullosos los claveles\n[Am] de la vega de Mo[E]tril. [Am]\n"
   },
   {
     "id": "asi-estoy-yo-sin-ti",
@@ -230,6 +490,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/asi-estoy-yo-sin-ti.md",
     "content": "---\ntitle: \"Así estoy yo sin ti\"\nartist: \"Joaquín Sabina\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"rock\", \"español\"]\n---\n\n## Intro\n[G] [D] [Em] [C] [D] [G] [C] [D] [Em] [C] [Am] [A7] [D]\n\n[G] Extraño, como un [D] pato en el Manza[Em]nares, [C] torpe como un sui[D]cida sin voca[G]ción\n[C] Absurdo como un [D] belga por sole[Em]ares, [C] vacío, como una [Am] isla sin [A7] Robin[D]son\n\n[G] Oscuro como un [D] túnel sin tren ex[Em]preso, [C] negro como los [D] ángeles de Ma[G]chín\n[B7] Febril como la [Em] carta de amor de un preso, [C] así estoy yo, a[Am]sí estoy [A7] yo sin [D] ti\n\n[C] Perdido como un [D] quinto en día de per[G]miso\nComo un [B7] santo sin para[Em]íso, [D] como el [C] ojo de un maniquí.\n[Am] Huraño, como un [C] dandi con lamparones, [D]\nComo un [C] barco sin polizones, a[D]sí estoy yo sin [G] ti\n\n[Am7] Más triste que un to[C]rero, al otro [G] lado del te[D]lón de a[C]cero\n[G] Así estoy yo, [C] así estoy yo, [G] así estoy [Am] yo sin [C] ti\n\n[G] Vencido como un [D] viejo que pierde al [Em] tute, [C] lascivo como el [D] beso del coro[G]nel,\n[C] Furtivo como el [D] Lute cuando era el [Em] Lute, [C] inquieto, como un [Am] párroco [A7] en un bur[D]del.\n\n[G] Errante como un [D] taxi por el de[Em]sierto, [C] quemado como el [D] cielo de Cher[G]nóbil,\n[B7] Solo, como un po[Em]eta en el aeropuerto, [C] así estoy yo, a[Am]sí estoy [A7] yo sin [D] ti.\n\n[C] Inútil como un [D] sello por tripli[G]cado\nComo el [B7] semen de los ahor[Em]cados, [D] como el [C] libro del porvenir.\n[Am] Violento como un [C] niño sin cumpleaños, [D]\nComo el [C] perfume del desengaño, a[D]sí estoy yo sin [G] ti\n\n[Am7] Más triste que un to[C]rero, al otro [G] lado del te[D]lón de a[C]cero\n[G] Así estoy yo, [C] así estoy yo, [G] así estoy [Am] yo sin [C] ti\n\n[C] Amargo, como el [D] vino del exi[G]liado,\nComo el [B7] domingo del jubi[Em]lado, [D] como una [C] boda por lo civil.\n[Am] Macabro, como el [C] vientre de los misiles, [D]\nComo un [C] pájaro en un desfile, a[D]sí estoy yo sin [G] ti.\n\n[Am7] Más triste que un to[C]rero, al otro [G] lado del te[D]lón de a[C]cero\n[G] Así estoy yo, [C] así estoy yo, [G] así estoy [Am] yo sin [C] ti [G]\n"
+  },
+  {
+    "id": "aurora",
+    "title": "Aurora",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/aurora.md",
+    "content": "---\ntitle: \"Aurora\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[A]-[G]-[A]-[D]-[Bm]-[Em]-[A]-[D]\nCUANDO LA AURORA [D] TIENDE SU MANTO\nY EL FIRMAMENTO VISTE DE [A] AZUL\n[G] NO HAY UN LUCERO QUE [A] BRILLE [Bm] [D] TANTO\n[Em] COMO ESOS [A] OJOS QUE TIENES [D] TU.\nBELLA AURORA, [A] SI ES QUE [D] DUERMES\nEN [A] BRAZOS DE LA [D7] [D] ILUSION,\n[G] DESPIERTA SI [A] ESTAS [D] DORMIDA, MORENA [Bm] SI,\n[E] PARA ESCUCHAR [A] MI CANCION [D7] [D] (BIS).\nBELLA NIÑA SAL [D] AL BALCON,\nQUE TE ESTOY ESPERANDO [G] [D7] AQUI\nPARA DARTE UNA [Bm] [D] [A] SERENATA,\nSOLO, SOLO [Em] PARA [A] TI [D] (BIS).\nSOLO, SOLO [Em] PARA [A] TI [D] (BIS).\n"
   },
   {
     "id": "ayo-technology",
@@ -294,6 +568,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Bamboleo\"\nartist: \"Gipsy Kings\"\nkey: \"Em\"\ncapo: 0\ntempo: 120\ntags: [\"flamenco\", \"rumba\", \"clásico\", \"80s\"]\n---\n\n## Intro\n[Em] [B7] [Em] [B7]\n[Em] [B7] [Em] [B7]\n\n## Verso 1\n[Em] Este amor llega así, de esta manera,\nNo tiene la [B7] culpa.\nCaballo de danza vana,\nPorque es muy despre[Em]ciado,\nPor eso no te perdona de llo[B7]rar.\n\n## Coro\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n\n## Puente\nNo tienes per[Am]dón de Dios,\n[D7] Tú eres mi vida, la for[G]tuna del destino,\n[C] Pero el destino tendría pa[Am]rado\nLo mismo que a[B7]yer, lo mismo soy [Em] yo.\n\n## Coro Final\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n[Em] Bamboleo, [Am] bambolea,\nPorque mi [B7] vida, yo la prefiero vi[Em]vir así.\n"
   },
   {
+    "id": "barrio-brujo",
+    "title": "Barrio brujo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/barrio-brujo.md",
+    "content": "---\ntitle: \"Barrio brujo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[G]-[F]-[E]  (bis)   [G]-[F]\nENTRE LOS BARRIOS [A] SEVILLANOS\n## Verso 1\nEXISTE UNO DE LEYENDA\nPUES SON SUS [G] CALLES TAN [F] SOLITARIAS\nQUE ES UN [E] ENCANTO\nY EN EL VERANO [G] EN NINGUNA DE [F] ELLAS\nPENETRA [E] ELSOL\nPLAZA PRECIOSA [A] DE DOÑA ELVIRA\nES EL MAS BELLO PLACER EN ESTA [E] VIDA\nPRECIOSA Y BELLA, PUES SON NOOTABLES,\nSANTA TERESA, LOPE DE VEGA Y LOS [A] VENERABLES\nPLAZA PRECIOSA DE DOÑA ELVIRA\nCALLE [A7] PIMIENTA Y DEL AGUA AL [D] CALLEJON\nBELLOS JARDINES DE [A] MURILLO\nLO MAS [E] HERMOSO QUE DIOS [A] [E] [A] CREO.\nPLAZA PRECIOSA DE LUCES Y CLAVELES  (SOLISTA)\nCOMO SULTANAS [G] VIVEN [F] TUS [E] MUJERES\nENCADENADA SIEMPRE TRAS DE LA REJA  (SOLISTA)\nEN GRANDES [G] FIESTAS TAN [F] SOLO SE [E] VE\nPLAZA PRECIOSA DE DOÑA ELVIRA...\n[Am]-[G]-[F]-[E]  (bis)  [G]-[F]\nPLAZA PRECIOSA [E] [A] DE [A] DOÑA ELVIRA...\n"
+  },
+  {
     "id": "beautiful",
     "title": "Beautiful",
     "artist": "Christina Aguilera",
@@ -323,6 +611,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/besame-mucho.md",
     "content": "---\ntitle: \"Bésame mucho\"\nartist: \"Consuelo Velázquez\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"clásico\", \"romántico\"]\n---\n\n## Intro\n[Am] [Dm] [Am] [E7] [Am]\n\n[Am] Bésame, [Dm] bésame mucho,\nComo si [Am] fuera esta noche la [E7] última [Am] vez\n[Dm] Bésame, [Am] bésame mucho,\nQue tengo [E7] miedo a perderte, perderte des[Am]pués [A7]\n\n[Dm] Bésame, [Am] bésame mucho,\nComo si [E7] fuera esta noche la última [Am] vez\n[Dm] Bésame, [Am] bésame mucho,\nQue tengo [E7] miedo a perderte, perderte des[Am]pués\n\n[Dm] Quiero tenerte muy cerca, mi[Am]rarme en tus ojos y [E7] estar junto a [Am] ti\n[Dm] Piensa que tal vez mañana, es[Am]taré muy lejos, muy [E7] lejos de a[Am]quí\n\n[Am] Bésame, [Dm] bésame mucho,\nComo si [Am] fuera esta noche la [E7] última [Am] vez\n[Dm] Bésame, [Am] bésame mucho,\nQue tengo [E7] miedo a perderte, perderte des[Am]pués\nQue tengo [E7] miedo a perderte, perderte des[Am]pués\nQue tengo [E7] miedo a perderte… a perderte des[Am]pués\n"
+  },
+  {
+    "id": "bikina",
+    "title": "Bikina",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/bikina.md",
+    "content": "---\ntitle: \"Bikina\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n1: [G]-[A#]-[Am]-R\n## Intro\n2: [G]-[B7]-[Em]-[F]\n[G]-[B7]-[Em]-F\nSOLITARIA [G] CAMINA LA [B7] BIKINA\n[Em]\n[G7] Y LA GENTE COMIENZA A MURMURAR\n[C] DICEN QUE TIENE [B7] UNA [Em] PENA,\n[A] DICEN QUE TIENE UNA PENA QUE LA\n[D7] HACE LLORAR.\nALTANERA, [G] PRECIOSA Y [B7] ORGULLOSA,\nNO PERMITE [Em] LA QUIERAN [G7] [F] CONSOLAR,\n[C] PASA LUCIENDO [B7] SU REAL [Cm] [Em] MAJESTAD,\n[G] PASAN, CAMINAN LOS DIAS [D] SIN\n[G] VERLOS JAMAS.\n[Cm] LA [F] BI-KI- [Cm] [Gm] [A#] NA\nTIENE [F] PENA Y [A#] DOLOR,\n[Cm] LA [F] BI-KI- [Cm] [Gm] [A#] NA\nNO [Cm7] CONOCE EL [D7] AMOR.\nALTANERA, [G] PRECIOSA Y [B7] ORGULLOSA\nNO PERMITE [Em] LA QUIERAN [G7] [F] CONSOLAR,\nDO                         SI7                          M\nDICEN QUE ALGUIEN YA VINO Y SE\n[Cm] FUE,\nBIKINA\nE7 (BIS)\n-[G7]-[C7]-[B7]-[Em]-[A]-[A7]-[D]-[D7]\nA-[G7]-[C7]-[B7]-[Em]-[Cm]-[G]-[D]-SOL.\nFA-DICEN [G] QUE PASA LA VIDA [D] SOÑANDO\n[G] CON EL.\n[A7] (INTRODUCCION2)\n[Cm] LA [F] BI-KI- [Cm] [Gm] [A#] NA...\n[G] ALTANERA...\n[G] DICEN QUE PASA LA VIDA [D] SOÑANDO\n[G] CON EL. (BIS)\nIm\n"
   },
   {
     "id": "blowing-in-the-wind",
@@ -436,6 +738,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Calle melancolía\"\nartist: \"Joaquín Sabina\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"clásico\", \"español\"]\n---\n\n## Intro\n[A] [Bm] [G] [A] [D] [A] [Bm] [G] [E] [A] [C] [G] [Bm] [A] [D] [A] [Bm] [G] [A] [D]\n\nComo quien viaja a [A] lomos de una [Bm] yegua sombría, [G]\nPor la ciudad [A] camino, no pregun[D]téis adónde.\nBusco a[A]caso un encuentro que me ilu[Bm]mine el día, [G]\nY no hallo más que [E] puertas que niegan lo que es[A]conden.\n\n[C] Las chimeneas [G] vierten su vómito de humo\nA un cielo cada [Bm] vez más le[A]jano y más [D] alto.\nPor las pa[A]redes ocres se despa[Bm]rrama el zumo [G]\nDe una fruta de [A] sangre crecida en el as[D]falto.\n\nYa el campo esta[A]rá verde, debe ser [Bm] primavera, [G]\nCruza por mi mi[A]rada un tren in[D]terminable,\nEl barrio [A] donde habito no es nin[Bm]guna pradera, [G]\nDesolado pai[E]saje de antenas y [A] de cables.\n\n[C] Vivo en el número [G] siete, calle Melancolía.\nQuiero mudarme hace [Bm] años al [A] barrio de la ale[D]gría\nPero siempre que lo in[A]tento ha salido ya el tran[Bm]vía [G]\nY en la esca[A]lera me siento a silbar mi melo[D]día.\n\nComo quien viaja a [A] bordo de un barco enloque[Bm]cido, [G]\nQue viene de la [A] noche y va a nin[D]guna parte,\nAsí mis pies des[A]cienden la cuesta del ol[Bm]vido, [G]\nFatigados de [E] tanto andar sin encon[A]trarte.\n\n[C] Luego, de vuelta a [G] casa, enciendo un cigarrillo,\nOrdeno mis pa[Bm]peles, re[A]suelvo un cruci[D]grama;\nMe enfado con las [A] sombras que pueblan los pa[Bm]sillos [G]\nY me abrazo a la au[A]sencia que dejas en mi [D] cama.\n\nTrepo por tu re[A]cuerdo como una enreda[Bm]dera [G]\nQue no encuentra ven[A]tanas donde aga[D]rrarse, soy\nEsa ab[A]surda epidemia que sufren las a[Bm]ceras, [G]\nSi quieres encon[A]trarme, ya sabes dónde es[D]toy.\n"
   },
   {
+    "id": "calles-sin-rumbo",
+    "title": "Calles sin rumbo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/calles-sin-rumbo.md",
+    "content": "---\ntitle: \"Calles sin rumbo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[B7]-[Em]-[B7]-[Em]-[Am]-[Em]-[B7]-[Em]-S\n[Em] PASO TRAS PASO LA NOCHE [B7] AL PASAR\nPOR LAS ACACIAS EN [Em] FLOR,\n[E] LOS FAROLILLOS DE GAS [Am] AL TEMBLAR\n[C] ILUMINAN NUESTRO [B7] AMOR.\n[Em] PLAZA TRANQUILA [B7] DE BARR\n## Verso 1\nANTAÑON,\nREJA QUE GUARDA EL [E] JARDIN;\n[E] PASO, TRAS [E7] PASO, [Am] PASANDO\nPOR LAS [Em] CALLES DE [E] [B7] MADRID.\n[E] CASCORRO, CIBELES\nY EL ARCO DE [B] CUCHILLEROS,\n[F#m] MIRANDO TUS [B] OJOS\nPARA DECIRTE ¡TE [E] QUIERO!\n[F#] m\nY ENTRE LAS FRONDAS DEL PRAD\nESCUCHAR\n[F#] LAS CUATRO FUENTES [B] CANTAR\nC\nI7\n[E] CASCORRO, CIBELES,\n[B] PARA DECIRTE ¡TE [E] QUIERO!\n[B7] CALLES [B7] [Em] SIN [Em] RUMBO [Em] [B7] [Em] [Am] (CONTINUACION)\nIO\n[Em] CALLES SIN RUMBO QUE VAN A [B7] SOÑAR\nDONDE LA LUZ SE [Em] APAGO;\n[E] LOS SOPORTALES TE MIRAN [Am] PASAR,\n[C] SOMBRAS DE UN VIEJO [B7] LANDO.\n[Em] MACETA HUMILDE QUE [B7] ALEGRA EL\nBALCON,\nFLOR DE AZAHAR O [E] ALHELI;\n[E] PASO, TRAS [E7] PASO, [Am] PASANDO\nPOR LAS [Em] CALLES DE [E] [B7] MADRID.\nO         MI\nCASCORRO,...\nY ENTRE LAS...\nAMINEMOS\n"
+  },
+  {
     "id": "calma",
     "title": "Calma",
     "artist": "Pedro Capó",
@@ -467,6 +783,76 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Caminando por la vida\"\nartist: \"Melendi\"\nkey: \"Dm\"\ncapo: 0\ntempo: 108\ntags: [\"rumba\", \"pop\", \"español\", \"2000s\"]\n---\n\n## Intro\n[Dm] [C] [F] [Bb]\n\n## Verso 1\n[Dm] Huele a aire de prima[C]vera,\n[F] Tengo alergia en el cora[C]zón,\n[Bb] Voy cantando por la carre[F]tera,\n[C] De copiloto llevo el [Bb] sol.\n\n[Dm] Y a mí no me hace falta es[C]trella\n[F] Que me lleve hasta tu por[C]tal,\n[Bb] Como ayer estaba bo[F]rracho\n[C] Fui tirando migas de [Bb] pan.\n\n## Coro\n[F] Voy ca[C]minando por la [Dm] vida,\nSin pausa pero sin [Bb] prisa,\nProcu[F]rando no hacer ruido,\nVes[C]tío con una sonrisa.\nSin com[Dm]plejos ni temores,\nCanto [Bb] rumbas de colores,\nY el llo[F]rar no me hace [C] daño\nSiempre y cuando tú no [Dm] llores... [Bb]\nSiempre y cuando tú no [Dm] llores... [Bb]\n\n## Verso 2\n[Dm] Y el milindri a mí me [C] llaman\n[F] En el mundillo ca[C]lé,\n[Bb] Porque al coger mi gui[F]tarra\n[C] Se me van solos los [Bb] pies.\n\n[Dm] Y este año le pido al [C] cielo\n[F] La salud del ante[C]rior,\n[Bb] No necesito di[F]nero,\n[C] Voy sobrao en el a[Bb]mor.\n\n## Coro\n[F] Voy ca[C]minando por la [Dm] vida,\nSin pausa pero sin [Bb] prisa,\nProcu[F]rando no hacer ruido,\nVes[C]tío con una sonrisa.\nSin com[Dm]plejos ni temores,\nCanto [Bb] rumbas de colores,\nY el llo[F]rar no me hace [C] daño\nSiempre y cuando tú no [Dm] llores... [Bb]\nSiempre y cuando tú no [Dm] llores... [Bb]\n\n## Puente\n[Dm] Y no quiero amores no correspondidos, no quiero [F] guerras,\nNo quiero amigos que no me [C] quieran sin mis ga[Bb]lones.\n[Dm] No me tires flores ni falsas miradas de inexpre[F]sión\nQue no dicen nada del cora[C]zón que me las pro[Bb]pone.\n\n## Coro Final\n[F] Voy ca[C]minando por la [Dm] vida,\nSin pausa pero sin [Bb] prisa... [F]\n"
   },
   {
+    "id": "caminemos",
+    "title": "Caminemos",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/caminemos.md",
+    "content": "---\ntitle: \"Caminemos\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nINTRODUCCÍON [Gm]-[Dm]-[A7]-[Dm]-[D7]-(bis)\n[Dm] No, ya no debo pensar que te [A7] amé;\n[G] es preferible [A7] olvidar que [Dm] sufrí;\nNo, no concibo [D7] que todo acabó;\n## Verso 1\nque este sueño de amor terminó;\nque la vida nos separó; [Gm] sin querer.\nCaminemos, [Dm] tal vez nos [A#] veremos [Dm] [A7] después.\n[A7] Esta es la ruta que estaba [Dm] marcada,\n[A7] sigo insistiendo en tu amor que se perdió; en [Dm] la [D7] nada,\ny vivo [Gm] caminando sin saber [Dm] donde llegar,\ntal vez caminando [A#] la vida nos [A7] vuelva a [Dm] juntar.\n[Gm] No, [A#] no, [A7] no,\nNo ya no debo [Dm] pensar que te amé\nes preferible olvidar que sufrí\nNo, no concibo que todo acabó\nque este sueño de amor terminó\nque la vida nos separó; sin querer.\nCaminemos, tal vez nos veremos después.\n"
+  },
+  {
+    "id": "campanas-de-vegueta",
+    "title": "Campanas de Vegueta",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/campanas-de-vegueta.md",
+    "content": "---\ntitle: \"Campanas de Vegueta\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nCAMPAN\n[D]-[G]-[D] (bis)-[A]-RE(BIS))\n[D7]-[G]-[A]-[D]-[Bm]-[Em]-[A] RE(BIS\nBARRIO DE [D] [G] [D] VEGUETA,\nBARRIO DONDE [D] [G] [D] NACI,\n[A] TORRE DE LA [D] AUDIENCIA\n[A] DE SAN [D7] [D] AGUSTIN\nLAS MAS [G] ALEGRES [Bm] [D] [A] CAMPANAS\nDE [Em] NUESTRA [D7] [D] [A] CATEDRAL,\nSOL               LA                       R\n[Bm] DONDE LA PLAZA SANTA ANA\nAL [Em] AIRE SE [A] ECHA A [D] VOLAR.\nAL [D] MAR, AL MAR,\n[A] REPICAN, REPICAN AL [D] MAR;\nAL MAR,\n[A] REPICAN, REPICAN AL [D] MAR.\nBARRIO DE [D] [G] [D] VEGUETA,\nBARRIO DE MI [D] [G] [D] NIÑEZ;\n[A] HOY ME TRAES [D] TRISTEZA,\n[A] RECUERDOS DE [D7] [D] AYER.\nLAS [G] MAS [A] ALEGRES [Bm] [D] CAMPANAS\nDE [Em] NUESTRA [D7] [D] [A] CATEDRAL,\nSOL               LA                      R\n[Bm] DONDE LA PLAZA SANTA ANA\nAL [Em] AIRE SE [A] ECHA A [D] VOLAR.\nAS DE VEGUETA\n))  [A]-[D] (bis)\nAL [D] MAR, AL MAR,\n[A] REPICAN, REPICAN AL [D] MAR;\nAL MAR\n[A] REPICAN, REPICAN AL [D] MAR.\nBARRIO DE [D] [G] [D] VEGUETA.\nE-\nE-\n"
+  },
+  {
+    "id": "cancion-con-todos",
+    "title": "Canción con todos",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/cancion-con-todos.md",
+    "content": "---\ntitle: \"Canción con todos\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am] SALGO A CAMINAR , POR LA CINTURA CÓSMICA [E7] DEL SUR\nPISO [A7] EN LA REGIÓN , MAS VEGETAL DEL VIENTO Y [Dm] DE LA LUZ\nSIENTO AL CAMINAR , TODA LA PIEL DE AMERICA EN [Am] MI PIEL\nY ARDE EN MI SANGRE [F] UN RÍO QUE [B7] LIBERA EN MI [E7] VOZ , SU [Am] CAUDAL\n## Verso 1\nSOL DE ALTO PERÚ , ROSTRO BOLIVIA , ESTAÑO Y SOLEDAD\nUN VERDE BRASIL , BESA MI CHILE COBRE Y MINERAL\nSUBO DESDE EL SUR HACIA LA ENTRAÑA AMERICA Y TOCAR\nPURA RAIZ DE UN [F] GRITO DESTINADO [B7] A CRECER [E7] , Y A [A] ESTALLAR\nTODAS LAS MANOS [F] TODAS, [A] TODAS LAS VOCES [F] TODAS\n[C] TODA LA SANGRE [G] PUEDE SER CANCIÓN [F] EN EL [E7] VIENTO\n[A] CANTA CONMIGO CANTA, [A] [F] HERMANO [F] AMERICANO\n[C] LIBERA TU [G] ESPERANZA, [F] CON UN GRITO EN LA [E7] VOZ\nSOL DE ALTO PERÚ , ROSTRO BOLIVIA , ESTALLO Y SOLEDAD\nUN VERDE BRASIL , BESA MI CHILE COBRE Y MINERAL\nSUBO DESDE EL SUR HACIA LA ENTRAÑA AMERICA Y TOCAR\nPURA RAIZ DE UN GRITO DESTINADO A CRECER , Y A ESTALLAR\nTODAS LAS MANOS TODAS, TODAS LAS VOCES TODAS\nTODA LA SANGRE PUEDE SER CANCIÓN EN EL VIENTO\nCANTA CONMIGO CANTA, HERMANO AMERICANO\n[A] [G] [F]\nLIBERA TU ESPERANZA, CON UN [E7] GRITO EN LA VOZ, EN LA VOOOOOOOOOZ,\nEN LA [G] [A] VOOOOOOOZ... [E7] [F] EN LA [A] VOZ\n"
+  },
+  {
+    "id": "cancion-de-orfeo",
+    "title": "Canción de Orfeo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/cancion-de-orfeo.md",
+    "content": "---\ntitle: \"Canción de Orfeo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am] Azul, la [E7] mañana es [Am] azul,\nel sol [Dm] si le [G7] llamo [Am] [C] vendrá;\nse [Dm] detendrá en mi [G7] voz\ny hasta la [Am] [C] eternidad\nen su camino [Dm] irá\nhacia otro [E7] [F] azul.\n[Am] Después, yo no sé [E7] si hay [Am] después,\nsi el [A7] sol volverá a [Dm] despertar\n¿Por qué la [E7] canción\nno ha de ser [Am] verdad,\npor [E7] qué\nen Carnaval [Am] ?\nCantará [Am] el [Dm] corazón\nla [Am] razón de [Dm] vivir,\ncantará [F] sin [E7] hablar ni [Am] sentir.\n## Verso 1\nAzul, la mañana es azul,\nseñal de que todo acabó;\nes que te busco yo\naunque no habrá de estar\ny mentirá tu voz\nen el azul\nDespués...\n"
+  },
+  {
+    "id": "candombe-para-jose",
+    "title": "Candombe para José",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/candombe-para-jose.md",
+    "content": "---\ntitle: \"Candombe para José\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nLai-lai-la..\nEn un pueblo olvidado, no sé; por qué\nni su danza de moreno lo hace mover\nen el pueblo lo llamaban Negro José\namigo Negro José\nCon mucho amor candombea el Negro José\ntiene el color de la noche sobre su piel\ny es muy feliz candombeando dichoso de él\namigo Negro José\nSOLISTA:\nPerdóname si te digo Negro José\nque eres diablo pero amigo, Negro José\nmi futuro va contigo, Negro José\nyo te digo porque sé\namigo Negro José\nLai - lai - la ...\nCon mucho amor las miradas, cuando al bailar\ny el tamboril de sus ojos parece hablar\nLA CALESERA (PASACALLE DE LOS CHISPEROS)\n"
+  },
+  {
     "id": "cantares",
     "title": "Cantares",
     "artist": "Joan Manuel Serrat",
@@ -482,6 +868,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Cantares\"\nartist: \"Joan Manuel Serrat\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"machado\", \"clásico\"]\n---\n\n## Intro\n[G] [Em] [C] [D] [G]\n\n[G] Todo pasa y [Em] todo queda\n[C] Pero lo [D] nuestro es pa[G]sar\n[G] Pasar ha[Em]ciendo caminos\n[C] Caminos [D] sobre la [G] mar\n[G] Nunca perse[Em]guí la gloria\n[C] Ni dejar [D] en la me[G]moria\nDe los [C] hombres, [D] mi can[G]ción\n\n[G] Yo amo los [Em] mundos sutiles\nIn[C]grávidos [D] y gen[G]tiles\nComo [C] pompas [D] de ja[G]bón\n\n[G] Me gusta verlos pin[Em]tarse,\nDe [C] sol y [D] grana, vo[G]lar\n[G] Bajo el cielo [Em] azul, temblar\n[C] Súbitamente y [D] quebrarse\n[C] Nunca perse[D]guí la [G] gloria\n\n[G] Caminante, son tus [Em] huellas\nEl [C] camino y [D] nada más.\n[G] Caminante, no hay ca[Em]mino\nSe [C] hace camino al an[D]dar\nAl an[G]dar se hace ca[Em]mino, y al volver\nLa [C] vista atrás se [D] ve la senda\nQue [G] nunca se ha de vol[Em]ver a pisar\n[C] Caminante, no hay ca[D]mino\nSino [C] estelas [D] en la [G] mar\n\n[G] Hace algún tiempo, en [Em] ese lugar\nDonde [C] hoy los [D] bosques\nSe [G] visten de espinos,\n[G] Se oyó la voz de un po[Em]eta gritar:\n[C] ¡Caminante, no hay ca[D]mino,\nSe [C] hace camino al [D] an[G]dar!\n"
   },
   {
+    "id": "cantinero-de-cuba",
+    "title": "Cantinero de Cuba",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/cantinero-de-cuba.md",
+    "content": "---\ntitle: \"Cantinero de Cuba\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nITRODUCCION : [Dm]-[Am]-[E7]-[Am]-[A7]-(bis)\n[Am] Tiene mi Cuba un [A7] son y una [Dm] cantina,\n[G] hecha de caña y ron y agua [C] marina.\nEl [A7] cantinero es un buen [Dm] cubano,\nque una historia de [E7] amor lo volvió [A7] [A#] malo.\nCantinero de [Dm] Cuba, Cuba, Cuba,\n[Am] Cantinero de Cuba, Cuba, [F] Cuba,\nsólo bebe aguardiente [E7] para [Am] olvidar. [A7] [BIS]\n## Verso 1\nCuando va para el puerto siempre se asoma\nesperando el mensaje de una paloma.\nEl mar dice a los vientos más marineros\n¡Por ti hincharon las velas de aquel velero!\nCantinero...\n[Am] Hoy me quiero [Dm] emborrachar, [G7] necesito ser [F] [C] amado,\npara olvidar un [E7] pasado que no se puede [Am] olvidar\nSi yo [A7] pudiera [Dm] cantar, [G7] pero la pena me [F] [C] ahoga,\nla recuerdo a todas [E7] horas, y no la puedo [A7] [A#] olvidar.\nCantinero....\n"
+  },
+  {
+    "id": "carnavalito",
+    "title": "Carnavalito",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/carnavalito.md",
+    "content": "---\ntitle: \"Carnavalito\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\nMusical\nLlegando [Am] está el carnaval [F] quebradeño mi cholitai [C] [BIS]\nFiesta de la [G7] quebrada, [C] [G7] [C] umahuequeño [E7] para [Am] cantar.\n[C] Enque [G7] charango y [C] bongo, [G7] carnavalito [E7] [C] para [Am] bailar\n[F] Quebradeño, [C] [G7] umahuaqueñito.[BIS]\n[C] Fiesta de [G7] la quebrada, [G7] [C] umahuaqueño [E7] [C] para [Am] cantar\n[C] Enque [G7] charango y [C] bongo, [G7] carnavalito [E7] [C] para [Am] bailar.\nd.c. y fin\n"
+  },
+  {
     "id": "carolina",
     "title": "Carolina",
     "artist": "M-Clan",
@@ -495,6 +909,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/carolina.md",
     "content": "---\ntitle: \"Carolina\"\nartist: \"M-Clan\"\nkey: \"G\"\ncapo: 0\ntempo: 126\ntags: [\"rock\", \"español\", \"2000s\"]\n---\n\n## Intro\n[Em] [C] [G] [D] (x3)\n[Bb] [F] [G]\n\n## Verso 1\n[C] La dulce niña Caro[G]lina,\n[D] No tiene edad para hacer el a[Am]mor.\n[C] Su madre la estará bus[G]cando,\n[D] O eso es lo que creo yo.\n[C] No puedo echarla de mi [G] casa,\n[D] Me dice que no tiene dónde dor[Am]mir.\n[C] Después se mete en mi [G] cama,\n[D] Eso es mucho para mí.\n\n## Pre-Coro\n(Ah) [Am] Esa va a [D] ser mi ruina,\n(Ah) [Am] Pequeña Caro[D]lina,\n[C] Vete, [G] por fa[D]vor.\n\n## Coro\n[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,\n[Em] No me ar[C]ranques la [G] piel. [D]\n[Em] Carolina, [C] trátame [G] bien,\nO al fi[Bb]nal te ten[F]dré que co[G]mer, ¡eh!\n\n## Verso 2\n[C] No queda en la ciudad es[G]quina\n[D] Tras la que yo me pueda escon[Am]der.\n[C] Siempre aparece Caro[G]lina\n[D] Con algún tipo de interés.\n[C] La reina de las medi[G]cinas\n[D] Que no se venden en farmacia legal, [Am]\n[C] Vinagre para las he[G]ridas,\n[D] Dulce azúcar al final.\n\n## Pre-Coro\n(Ah) [Am] El Diablo es[D]tá en mi vida,\n(Ah) [Am] Pequeña Caro[D]lina,\n[C] Vete, [G] por fa[D]vor.\n\n## Coro\n[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,\n[Em] No me ar[C]ranques la [G] piel. [D]\n[Em] Carolina, [C] trátame [G] bien,\nO al fi[Bb]nal te ten[F]dré que co[G]mer, ajam.\n\n## Solo de Guitarra\n¡Santi Campillo a la guitarra!\n[Em] [C] [G] [D] (x2)\n[Bb] [F] [G]\n\n## Puente\n(Ah) [Am] Eh, el Diablo es[D]tá en mi vida,\n(Ah) [Am] Pequeña Caro[D]lina,\n[C] Vete, [G] por fa[D]vor.\n\n## Coro Final\n[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,\n[Em] No me ar[C]ranques la [G] piel. [D]\n[Em] Carolina, [C] trátame [G] bien,\nO al fi[Bb]nal te ten[F]dré que co[G]mer.\n[Em] Carolina, [C] trátame [G] bien, no te [D] rías de mí,\n[Em] No me ar[C]ranques la [G] piel. [D]\n[Em] Carolina, [C] trátame [G] bien,\nO al fi[Bb]nal te ten[F]dré que co[G]mer, eh, eh, eh.\nDulce niña Caro[G]lina, eh.\n"
+  },
+  {
+    "id": "cartagenera",
+    "title": "Cartagenera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Bm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/cartagenera.md",
+    "content": "---\ntitle: \"Cartagenera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Bm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Em]-[Bm]-[F#]-[Bm]-(bis)\n[Bm] PASEANDO MI SOLEDAD [F#] POR LAS PLAYAS DE [Bm] MARBELLA\nYO TE [A] VI [G] CARTAGENERA, [F#] LUCIENDO TU PIEL [Bm] MORENA\nEN TIBIA NOCHE DE [F#] LUNA, CUANDO TE BESA LA [Bm] BRISA\nSE ESCUCHA [G] [A] CARTAGENERA, [F#] EL CASCABEL DE TU [Bm] RISA\nCARTAGENERA [F#] TU BOCA, COMO GUAYABA [Bm] MADURA\nCARTAGENERA [F#] TUS OJOS, EN MI RECUERDO [Bm] PERDURAN\nCARTAGENERA [A] MORENA, DORADA [G] CON LUZ DE [F#] LUNA\n[Em] DORADA CON LUZ DE [Bm] LUNA, CARTAGENERA [Bm] [F#] MORENA\n"
   },
   {
     "id": "chiquilla",
@@ -522,10 +950,12 @@ export const DEFAULT_SONGS = [
     "tags": [
       "mariachi",
       "ranchera",
-      "mexicano"
+      "mexicano",
+      "tuna",
+      "español"
     ],
     "file": "canciones/cielito-lindo.md",
-    "content": "---\ntitle: \"Cielito lindo\"\nartist: \"Quirino Mendoza\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"mariachi\", \"ranchera\", \"mexicano\"]\n---\n\n## Intro\n[D] [E] [A]\n\nAy, ay, [D] ay, ay, canta y no [A] llores\nPorque cantando se alegran, cielito [E] lindo, los cora[A]zones\nAy, ay, [D] ay, ay, canta y no [A] llores\nPorque cantando se alegran, cielito [E] lindo, los cora[A]zones\n\n[A] Con ese lunar que tienes, cielito lindo, junto a la [E] boca\nNo se lo des a nadie cielito lindo que a mí me [A] toca\n[A] De la Sierra Morena, cielito lindo, vienen ba[E]jando\nUn par de ojitos negros cielito lindo de contra[A]bando\n[A] De tu casa a la mía, cielito lindo, no hay más que un [E] paso\nAhora que estamos solos, cielito lindo, dame un a[A]brazo\n"
+    "content": "---\ntitle: \"Cielito lindo\"\nartist: \"Quirino Mendoza\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"mariachi\", \"ranchera\", \"mexicano\", \"tuna\", \"español\"]\n---\n\n## Intro\n[D] [E] [A]\n\nAy, ay, [D] ay, ay, canta y no [A] llores\nPorque cantando se alegran, cielito [E] lindo, los cora[A]zones\nAy, ay, [D] ay, ay, canta y no [A] llores\nPorque cantando se alegran, cielito [E] lindo, los cora[A]zones\n\n[A] Con ese lunar que tienes, cielito lindo, junto a la [E] boca\nNo se lo des a nadie cielito lindo que a mí me [A] toca\n[A] De la Sierra Morena, cielito lindo, vienen ba[E]jando\nUn par de ojitos negros cielito lindo de contra[A]bando\n[A] De tu casa a la mía, cielito lindo, no hay más que un [E] paso\nAhora que estamos solos, cielito lindo, dame un a[A]brazo\n"
   },
   {
     "id": "clandestino",
@@ -543,6 +973,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Clandestino\"\nartist: \"Manu Chao\"\nkey: \"F#m\"\ncapo: 0\ntempo: 100\ntags: [\"reggae\", \"canción protesta\", \"clásico\"]\n---\n\n## Intro\n[F#m] [Bm] [C#7]\n\n[Am] Solo, voy con mi pena, sola, va mi con[Dm]dena\nCorrer es mi des[E7]tino, para burlar la [Am] ley\nPerdido en el corazón, de la grande Babi[Dm]lón\nMe dicen: El Clandes[E7]tino por no llevar pa[Am]pel\n\n[Am] Pa' una ciudad del norte, yo me fui a traba[Dm]jar\nMi vida la de[E7]jé entre Ceuta y Gibral[Am]tar\nSoy una raya en el mar, fantasma en la ciu[Dm]dad\nMi vida va prohi[E7]bida, dice la autori[Am]dad\n\n[Am] Solo, voy con mi pena, sola, va mi con[Dm]dena\nCorrer es mi des[E7]tino, por no llevar pa[Am]pel\nPerdido en el corazón de la grande Babi[Dm]lón\nMe dicen el Clandes[E7]tino, yo soy el quiebra [Am] ley\n\n[E7] Mano Negra, clandestina\n[Am] Peruano, clandestino\n[E7] Africano, clandestino\n[Am] Marihuana, ilegal\n\n[Am] Solo, voy con mi pena, sola, va mi con[Dm]dena\nCorrer es mi des[E7]tino, para burlar la [Am] ley\nPerdido en el corazón, de la grande Babi[Dm]lón\nMe dicen: El Clandes[E7]tino por no llevar pa[Am]pel\n\n[E7] Argelino, clandestino\n[Am] Nigeriano, clandestino\n[E7] Boliviano, clandestino\n[Am] Mano Negra, ilegal\n\n¿Qué voy a hacer? Je ne sais pas… (4)\n\n(4 de la mañana)\nA la bim, a la bam, a la bim bom bam (2)\nObladí, obladá, obladidada\nA la bim, a la bam, a la bim bom bam\n(Radio Reloj) (Cinco de la mañana)\n(No todo lo que es oro, brilla)\n(Remedio chino e infalible)\n"
   },
   {
+    "id": "clavelitos",
+    "title": "Clavelitos",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/clavelitos.md",
+    "content": "---\ntitle: \"Clavelitos\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nCL\n[E]-[Am]-[Dm]-[E]-[Am] (bis)\n[Am] MOCITA [E] DAME EL [Am] CLAVEL,\nDAME EL CLAVEL DE TU [E] BOCA,\nQUE PA'ESO NO HAY QUE TENER\nMUCHA VERGUENZA NI [Am] POCA\n[G] YO TE DARE UN [C] CASCABEL,\nTE LO [G] PROMETO, [C] MOCITA,\n[E] SI TU ME DAS ESA [Am] MIEL\nQUE LLEVAS [Dm] EN [E] LA [A] BOQUITA.\nCLAVELITOS, [A] CLAVELITOS,\nCLAVELITOS DE MI [E] CORAZON;\nYO TE TRAIGO [E] CLAVELITOS\n[A] COLORADOS IGUAL QUE\nFRESON.\nSI ALGUN DIA, CLAVELITOS,\nNO [A7] LOGRARA PODERTE [D] TRAER,\nL\nNO TE CREAS QUE YA NO\nQUIERO,\nES QUE [E] NO TE LOS PUDE [A] COGER.\n[E]-[Am]-[Dm]-[E7]-[Am] (bis)\n[Am]     [E]                   [Am]\nAVELITOS\nLA TARDE QUE A MEDIA LUZ\nVI TU BOQUITA DE [E] GUINDA\nYO NO HE VISTO EN SANTA CRUZ\nUNA BOQUITA MAS [Am] LINDA.\n[G] Y LUEGO AL VER EL [C] CLAVEL\nQUE LLEVABAS [G] EN EL [C] PELO\n[E] MIRANDOLO YO CREI [Am] VER\nUN [Dm] PEDACITO [E] DE [A] CIELO.\nCLAVELITOS...\nSI ALGUN DIA...\nUN\nA\nTE\n"
+  },
+  {
+    "id": "clodomiro-el-najo",
+    "title": "Clodomiro el ñajo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/clodomiro-el-najo.md",
+    "content": "---\ntitle: \"Clodomiro el ñajo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nCLOD\n[D]-[A]-[E]-[A]\n[A]\n[E] EN EL BARRIO LARREYNAGA, AL FINAL DE AQUEL AT\n[A] VIVE CLODOMIRO ARTIAGA A QUIEN LE DICEN EL ÑAJ\n[D] CLODOMIRO ES ENTERADO COMO BIEN LO SABES V\n[A]\n[A] DEL CELADOR MALPAGADO DE LA FARMACIA DE CL\nURROZ\n[A] CLODOMIRO CLODOMIRO ¿PARA DONDE VAS\nSERIO?\n[E]\n[A7] VOY A VER UN PARTIDITO ALLA POR EL CEMENTERIO\n[A] Y EN ASUNTO DE MUJERES ¿COMO TE TRATA LA VIDA?\n[A] ME DEFIENDO ME DEFIENDO COMO GATO PANZA\nARRIBA\n[E] EN LA FARMACIA SURTIDA DEL MENTADO CLETO URR\nTIENE CLODOMIRO EL ES EL [A] CACHIMBER-BOY\nEL BOTICARIO SIN [A7] DIENTES A LA CALLE LO MANDO\n[A]\n[A] OIGAN AMIGOS PRESENTES LO QUE AL ÑAJO LE PAS\n\"A ver clodomiro andate a la ferretería y me com\nuna libra de clavos y un formón\"\n\"Una libra de clavos y un formón\"\n\"No, no tenés que apuntarlo porque sino se te olvida\n\"No, no se me olvida patronato, yo tengo un truc\npongo musiquita, oiga usted:\"\n[E]                    [A]\n[A] Una libra de clavos y un formón.Una libra de clavos\nformón\n[A] CLODOMIRO CLODOMIRO ¿PARA DONDE VAS\nSERIO?\nMI                                          L\nVOY A VER UN PARTIDITO ALLA POR EL CEMEN..\nUNA LIBRA DE [E] CLAVOS Y UN [A] FORMON\nCLODOMIRO EL ÑAJO   (CONTINUACION)\nOMIRO EL ÑAJO\n[D]\n[A] Y EN ASUNTO DE MUJERES ¿COMO TE TRATA LA VIDA?\nAJO\n[E] ME DEFIENDO ME DEFIENDO COMO [A] GATO PANZA ARRI..\nO                             MI                               LA\nLA7 UNA LIBRA DE CLAVOS Y UN FORMON\nOS                                                                                      MI\nMI CLODOMIRO COMO SIEMPRE EN LA CALLE SE TOPO\nETO LA\nCON SU CUATE PICUE-LIENDRE QUE ES UN GRAN\nVACILADOR\n[D]                                           [A7]\nTAN [D] CLODOMIRO POR VERGUENZA LA ESTRATEGIA\nTRANSFORMO\n[A]                                                [A]                      [E]\n[A] Y EN VEZ DE LA CANCIONCITA SOLO LA MUSICA SILBO\n[D]\n[D]\nMI [A] CLODOMIRO CLODOMIRO ¿PARA DONDE VAS TAN\nSERIO?\nVOY A VER UN PARTIDITO [E] ALLA POR EL [A] CEMENTERIO\n(Silbido)\n[D]\nOZY [A] EN ASUNTO DE MUJERES ¿COMO TE TRATA LA VIDA?\n[E]\nREME [A] DEFIENDO ME DEFIENDO COMO GATO PANZA\nARRIBA (Silbido)\n[E]\nOCUANDO A LA FERRETERIA EL ÑAJO LLEGO POR [E] FIN\npras LA\nLE PREGUNTO EL DEPENDIENTE ¿EN QUE TE PUEDO\nSERVIR?\n\"                                          LA7\no, le RE\nCLODOMIRO MUY CONTENTO DE SU TRUCO MUSICAL\n[E] LE SILBO LA CANCIONCITA [A] CON TODA [A] [E] SEGURIDAD\ny un\nEsto es lo que vengo a comprar (Silbido)\n\"Bueno, bueno ¿Qué significa ese silbido?, rapido que\nRE estoy muy ocupado.\"\n¿Yo que culpa tengo si no entendés?\nTAN Te lo voy a decir despacito, pues. (Silbido)\n\"Un momento o me decis lo que querés o te saco a\nApuñetazo limpio de la ferretería\"\n\"Ya me llevó el diablo, fijate que yo me acuerdo bien de\nla musiquita pero se me olvidó la letra\"\nCLODOMIRO, CLODOMIRO...\n"
+  },
+  {
     "id": "colgando-en-tus-manos",
     "title": "Colgando en tus manos",
     "artist": "Carlos Baute & Marta Sánchez",
@@ -556,6 +1014,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/colgando-en-tus-manos.md",
     "content": "---\ntitle: \"Colgando en tus manos\"\nartist: \"Carlos Baute & Marta Sánchez\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop latino\", \"dueto\", \"éxito\"]\n---\n\n## Intro\n[G] [D] [Em] / [C] [D] [G]\n\n## Verso 1\nQui[G]zá no fue coinci[D]dencia encon[Em]trarme contigo\nTal [C] vez esto lo [D] hizo el des[G]tino\nQuiero dor[G]mirme de [D] nuevo en tu [Em] pecho\nY des[C]pués me des[D]pierten tus [G] besos\nTu sexto sen[G]tido [D] sueña con[Em]migo\nSé que [C] pronto esta[D]remos u[G]nidos\nEsa son[G]risa tra[D]viesa que [Em] vive conmigo\nSé que [C] pronto esta[D]ré en tu ca[Em]mino\n\n## Pre-coro\n[Em] Sabes que estoy [D] colgando en tus [C] manos\n[G] Así [D] que [Em] no me dejes ca[D]er [C] [G] [D]\nSabes que estoy colgando en tus manos\n\n## Coro\nTe en[G]vío po[D]emas de mi [Am]puño y letra\nTe en[C]vío can[D]ciones de [G]4.40\nTe en[G]vío las [D]fotos ce[Am]nando en Marbella\nY [C]cuando es[D]tuvimos por [G]Venezuela\nY a[G]sí me re[D]cuerdes y [Am]tengas presente\nQue mi cora[C]zón está col[D]gando en tus [G]manos\nCuidado, cuidado,\nQue mi cora[C]zón está col[D]gando en tus [G]manos\n\n## Verso 2\nNo perde[G]ré la espe[D]ranza de ha[Em]blar contigo\nNo me [C] importa qué [D] dice el des[G]tino\nQuiero te[G]ner tu fra[D]gancia con[Em]migo\nY be[C]berme de [D] ti lo prohi[Em]bido\n\n## Pre-coro\n[Em] Sabes que estoy [D] colgando en tus [C] manos\n[G] Así [D] que [Em] no me dejes ca[D]er [C] [G] [D]\nSabes que estoy colgando en tus manos\n\n## Coro\nTe en[G]vío po[D]emas de mi [Am]puño y letra\nTe en[C]vío can[D]ciones de [G]4.40\nTe en[G]vío las [D]fotos ce[Am]nando en Marbella\nY [C]cuando es[D]tuvimos por [G]Venezuela\nY a[G]sí me re[D]cuerdes y [Am]tengas presente\nQue mi cora[C]zón está col[D]gando en tus [G]manos\nCuidado, cuidado,\nQue mi cora[C]zón está col[D]gando en tus [G]manos\n"
+  },
+  {
+    "id": "colombiana",
+    "title": "Colombiana",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/colombiana.md",
+    "content": "---\ntitle: \"Colombiana\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[F]-[Fm]-[C]-DO2-[Dm]-[G7]-[C]  (bis)\nAGACHATE EL SOMBRERITO [G7] Y POR DEBAJO [C] MIRAME\nAGACHATE EL SOMBRERITO [G7] Y POR DEBAJO [C] MIRAME\n[C] Y CON ESA MIRADITA [F] DE LO QUE QUIERAS [C] [Fm] HABLAME\nY CON ESA [Dm] MIRADITA DE TU AMOR [C] [G7] EMBORRACHAME\nQUE ME VOY A [Fm] [F] MORIR\n## Verso 1\nDO-DO2\nQUE ME MUERO DE AMOR\nQUE ME MUERO DE [Dm] AMOR,\nPOR LAS COLOMBIANAS [C] (BIS)\n[F]-[Fm]-[C]-DO2-[Dm]-[G7] (bis)\nTENGO QUE SUBIR [G] SUBIR LAS AGUAS DEL [C] MADALENA\nTENGO QUE SUBIR [G7] SUBIR LAS AGUAS DEL [C] MADALENA\n[C7] Y LLEGAR A BOGOTA [F] Y A [Fm] BESAR A MI [C] MORENA\n[C] Y LLEGAR A BOGOTA [Dm] Y A BESAR [G7] A MI [C] MORENA\nQUE ME VOY A MORIR...(BIS)\n[F]-[Fm]-[C]-DO2-[Dm]-[G7]-DO(BIS)\n"
   },
   {
     "id": "color-esperanza",
@@ -617,6 +1089,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/contaminame.md",
     "content": "---\ntitle: \"Contamíname\"\nartist: \"Pedro Guerra\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"español\", \"90s\"]\n---\n\n## Intro\n[Am] [G] [C] [F] [Dm]\n\n[Am] Cuéntame el cuento del árbol dátil de [G] los desiertos, de las mezquitas de tus a[Am]buelos\n[Am] Dame los ritmos de las darbukas, de [G] los secretos que hay en los libros que yo no [Am] leo\n\n[C] Contamíname, [G] pero no con el humo que as[F]fixia el [G] aire, [C]\n[C] Ven, pero sí [G] con tus ojos y [F] con tus [G] bailes. [C]\n[C] Ven, pero no [G] con la rabia y los [F] malos [G] sueños. [C]\n[C] Ven, pero sí [G] con los labios que a[F]nuncian [G] besos. [C]\n\n[C] Contamíname, [G] mézclate conmigo, [Dm] que bajo mi rama [G] tendrás abrigo\n[F] Conta[G]míname, [F] mézclate con[G]migo, que bajo mi rama tendrás a[C]brigo\n\n[Am] Cuéntame el cuento de las cadenas que [G] te trajeron, de los tratados y los via[Am]jeros\n[Am] Dame los ritmos de los tambores y [G] los voceros, del barrio antiguo y del barrio [Am] nuevo\n\n[C] Contamíname, [G] pero no con el humo que as[F]fixia el [G] aire, [C]\n[C] Ven, pero sí [G] con tus ojos y [F] con tus [G] bailes. [C]\n[C] Ven, pero no [G] con la rabia y los [F] malos [G] sueños. [C]\n[C] Ven, pero sí [G] con los labios que a[F]nuncian [G] besos. [C]\n\n[C] Contamíname, [G] mézclate conmigo, [Dm] que bajo mi rama [G] tendrás abrigo\n[F] Conta[G]míname, [F] mézclate con[G]migo, que bajo mi rama tendrás a[C]brigo\n\n[Am] Cuéntame el cuento de los que nunca se [G] descubrieron,\nDel río verde y de los bo[Am]leros.\n[Am] Dame los ritmos de los buzukis, los [G] ojos negros,\nLa danza inquieta del hechi[Am]cero\n\n[C] Contamíname, [G] pero no con el humo que as[F]fixia el [G] aire, [C]\n[C] Ven, pero sí [G] con tus ojos y [F] con tus [G] bailes. [C]\n[C] Ven, pero no [G] con la rabia y los [F] malos [G] sueños. [C]\n[C] Ven, pero sí [G] con los labios que a[F]nuncian [G] besos. [C]\n\n[C] Contamíname, [G] mézclate conmigo, [Dm] que bajo mi rama [G] tendrás abrigo\n[F] Conta[G]míname, [F] mézclate con[G]migo, que bajo mi rama tendrás a[C]brigo (4)\n"
+  },
+  {
+    "id": "contigo-aprendi",
+    "title": "Contigo aprendí",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/contigo-aprendi.md",
+    "content": "---\ntitle: \"Contigo aprendí\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nContigo [A] aprendí\nque existen nuevas y mejores [C#7] emociones,\ncontigo [F#m] aprendí\n[B7] a conocer un [E7] mundo nuevo [A7] [A] de ilusiones.\n[D] Aprendí\nque la semana [E7] tiene más de siete [A] días,\na hacer [F#7] mayores mis contadas [Bm] alegrías,\ny a ser [B7] dichoso yo contigo lo [E7] aprendí\n## Verso 1\nContigo aprendí\na ver la luz del otro lado de la Luna;\ncontigo aprendí\nque tu presencia no la cambio por ninguna.\nAprendí\nque puede ser un beso más dulce y más profundo,\nque puedo irme mañana mismo de este mundo.\nLas cosas buenas ya contigo las viví;\nY contigo [D] [A7] aprendí\nque yo nací [A] el día en [E7] que te [A] conocí\nFinal: Contigo aprendí\n"
   },
   {
     "id": "copacabana",
@@ -714,6 +1200,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Cruz de navajas\"\nartist: \"Mecano\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"80s\", \"español\"]\n---\n\n## Intro\n[Dm] [G7] [C] [Am] [Dm] [G]\n\n[Dm] A las cinco se cierra la [G7] barra del 33,\n[C] Pero Mario no sale [Am] hasta las seis,\n[Dm] Y si encima le toca hacer [G7] caja, despídete,\n[C] Casi siempre se le [Am] hace de día,\n\n[Am] Mientras María ya se ha [Em] puesto en pie,\nHa hecho la [Dm] casa, ha hecho [G7] hasta el ca[C]fé\n[Am] Y le espera [Em] medio des[Dm]nuda [G]\n\n[Dm] Mario llega cansado y sa[G7]luda,\n[C] Sin mucho [Am] afán,\n[Dm] Quiere cama, pero [G7] otra variedad,\n[C] Y María se moja las [Am] ganas en el café,\nMagda[Dm]lenas del sexo con[G]vexo.\n\n[Am] Luego el trabajo en un [Em] gran almacén,\nCuando re[Dm]gresa no hay [G7] más que un so[C]mier,\n[Am] Taci[Em]turno que usar [Dm] por turnos [G]\n\n[C] Cruz de na[G7]vajas por [Am] una mu[G7]jer,\n[C] Gritos mor[G7]tales des[Am]puntan al [G7] alba,\n[C] Sangres que [G7] tiñen de [Am] malva el amane[G7]cer [C]\n\n[Dm] Pero hoy como ha habido re[G7]dada en el 33,\n[C] Mario vuelve a las [Am] cinco menos diez.\n[Dm] Por su calle vacía a lo [G7] lejos sólo se ve\n[C] A unos novios co[Am]miéndose a besos [Dm] [G]\n\n[Am] El pobre Mario se [Em] quiere morir,\nCuando se a[Dm]cerca para [G7] descu[C]brir\n[Am] Que es Ma[Em]ría con com[Dm]pañía [G]\n\n[Dm] Sobre Mario, de bruces, [G7] tres cruces,\n[Am] Una en la frente, la [Em] que más dolió\n[F] Otra en el [G] pecho, la [C] que lo mató,\n[Am] Y otra miente [Em] en el noti[F]cie[G]ro: [C] [Dm] [G7]\n\n[C] Dos drogadic[G7]tos en [Am] plena ansie[G7]dad\n[C] Roban y [G7] matan a [Am] Mario Pos[G7]tigo,\n[C] Mientras su es[G7]posa es tes[Am]tigo [G7]\nDesde el por[C]tal, en vez de..\n\n[C] Y si el niño llora, men[G7]guará la luna\nPara ha[Am]cerle una [G7] cuna [C] (2)\n"
   },
   {
+    "id": "cuando-sali-de-cuba",
+    "title": "Cuando salí de Cuba",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/cuando-sali-de-cuba.md",
+    "content": "---\ntitle: \"Cuando salí de Cuba\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nIntro musical.\nNunca [C] podré morirme,\nmi corazón no lo tengo aquí\nAlguien me [F] está esperando,\nme está aguardando que vuelva [G7] aquí\nCuando salí de [A7] [C] Cuba,\ndejé [D] mi vida [G7] dejé [C] mi [F] [C7] amor.\nCuando [G7] salí de [A7] [C] Cuba,\ndejé [Dm] enterrado [G7] mi [C] corazón\nCuba, Cubita, [F] ay [G7] ay ay ay ay [C] ay (bis)\nIntro musical.\nLate y sigue latiendo\nporque la tierra vida le da,\npero llegará un ida\nen que mi mano te alcanzará\nCuando...\nIntro musical.\nUna triste tormenta\nte está azotando sin descansar\npero el sol de tus hijos\npronto la calma te hará alcanzar\nCuando...\nCuando...\nCUCURRUCUCÚ, PALOMA\n"
+  },
+  {
+    "id": "cucurrucucu-paloma",
+    "title": "Cucurrucucú paloma",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/cucurrucucu-paloma.md",
+    "content": "---\ntitle: \"Cucurrucucú paloma\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nDicen que por las [G] noches\nno más se le iba en puro to[D7]mar;\ndicen que no dor[Am]mía,\nno [D7] más se le iba en puro llo[G]rar.\nJuraba que el mismo [G7] cielo\nse estremecía al oír su llan[C]to;\ncómo sufría por [G] ella,\nque hasta en su [D7] muerte la fue lla[G]mando.\n\n## Coro\n¡Ay, ay, ay, ay, [C] ay! cantaba,\n¡ay, ay, ay, ay, [G] ay! gemía,\n¡ay, ay, ay, ay, [D7] ay! cantaba,\nde pasión mortal [G] moría.\n\n¡Cu-cu-rru-cu-[C]cú, pa[G]loma!\n¡Cu-cu-rru-cu-[D7]cú, no [G] llores!\nLas mismas mor[C]tajas, virgen,\n¿qué se han he[D7]cho de sus a[G]mores?\n"
+  },
+  {
     "id": "cuento-para-mi-nino",
     "title": "Cuento para mi niño",
     "artist": "Lole y Manuel",
@@ -727,6 +1241,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/cuento-para-mi-nino.md",
     "content": "---\ntitle: \"Cuento para mi niño\"\nartist: \"Lole y Manuel\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"flamenco\", \"nuevo flamenco\", \"poético\"]\n---\n\n## Intro\n[Am] [Dm]\n\n[Am] Érase una vez, una mari[Dm]posa blanca\n[Am] que era la reina de todas las mari[E7]posas del [Am] alba\n\n[Dm] Se posaba en los jardines, sobre las [Am] flores más bellas\ny le susurraba historias al cla[E7]vel y la vio[Am]leta\n\n[Am] Feliz la mari[G]posilla, presumi[F]dilla y coqueta\nparecía una flor de almendro, mecida por [E7] brisa [Am] fresca.\n\n[A7] Mas llegó un coleccio[Dm]nista, mañana de [Am] primavera\ny sobre un jazmín en [E] flor, apri[E7]sionó a nuestra [Am] reina,\n\n[Dm] la clavó con alfi[E7]leres, entre cartu[F]linas [E] negras\ny la llevó a su mu[E7]seo de breves be[Am]llezas [E7] muer[Am]tas.\n\nLas mariposas del [E7] alba lloraban por la flo[Am]resta.\n\n[Am] Sobre un cla[G]vel se po[F]só una mariposa [E] blanca\n"
+  },
+  {
+    "id": "dama-de-espana",
+    "title": "Dama de España",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/dama-de-espana.md",
+    "content": "---\ntitle: \"Dama de España\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nDama de España, manola,\nLabios color de amapola.\nTiene tu gracia española\nEl señorío mejor.\nDama de España te quiero,\nSin tus caricias yo muero.\nDice mi canto que espero,\nDama de España, tu amor.\n## Instrumental\nSigue la ronda cantando,\nAires de España bordando,\nY, en tu balcón, esperando,\nDama de España, tu amor.\n"
   },
   {
     "id": "dame-una-sonrisa",
@@ -757,6 +1285,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/dame-veneno.md",
     "content": "---\ntitle: \"Dame veneno\"\nartist: \"Los Chunguitos\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"rumba\", \"flamenco\", \"70s\"]\n---\n\n## Intro\n[E] [F] [G] [F] [E]\n\n## Estribillo\n[E] Dame veneno que [F] quiero morir,\nDame ve[G]neno,\nQue antes prefiero la muerte\nQue vivir contigo, dame ve[F]neno,\nAy para mo[E]rir. (2)\n\n## Verso 1\n[E] Ay, ¿qué adelantas con te[F]ner,\nLos ojos como las [G] moras,\nSi cuando sales a la [F] calle,\nAy de cualquiera te ena[E]moras?\n\n[E] Ay, mira si eres presu[F]mía,\nAy, mira si eres presu[G]mía,\nAy, que el traje de los do[F]mingos\nTe lo pones to' los [E] días.\n\n## Estribillo\n[E] Dame veneno que [F] quiero morir,\nDame ve[G]neno,\nQue antes prefiero la muerte\nQue vivir contigo, dame ve[F]neno,\nAy para mo[E]rir. (2)\n\n## Verso 2\n[E] Ay, levántame la cha[F]queta\nY mírame este cos[G]tao',\nAy, verás la puñala[F]íta\nQue por tu querer me han [E] dao'.\n\n[E] Ay, Virgencita los Re[F]medios\nTiene la cara de [G] pena,\nPorque to' los ale[F]luyas\nYa no tienen fe en [E] ella.\n\n## Estribillo Final\n[E] Dame veneno que [F] quiero morir,\nDame ve[G]neno,\nQue antes prefiero la muerte\nQue vivir contigo, dame ve[F]neno,\nAy para mo[E]rir. (2)\n"
+  },
+  {
+    "id": "de-colores",
+    "title": "De colores",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/de-colores.md",
+    "content": "---\ntitle: \"De colores\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nDE [D] COLORES\nDE COLORES SE VISTEN LOS CAMPOS EN LA [A] PRIMAVERA\n## Verso 1\nDE COLORES\nDE COLORES SON LOS PAJARILLOS QUE VIENE DE [D] FUERA\nDE COLORES\nDE [D7] COLORES ES EL ARCO IRIS QUE VEMOS [G] LUCIR\nY POR [G] ESO LOS [A7] GRANDES [D] AMORES\nDE [B7] MUCHOS [Em] COLORES ME [A7] GUSTAN A MI [D7] [D] (BIS)\nCANTA [D] EL GALLO\nCANTA EL GALLO CON EL KIRI KIRI, KIRI KIRI [A7] KIRI\nLA GALLINA\nLA GALLINA CON EL CARA CARA, CARA CARA [D] CARA\nLOS POLLUELOS\nLOS [D7] POLLUELOS CON EL PIO PIO, PIO PIO [G] PA\nY SE [G] FORMA [A7] LA DEL KIRI [D] KIRI\nCON [B7] EL CARA [Em] CARA, CON [A7] EL PIO [D] PA\n"
   },
   {
     "id": "de-ellos-aprendi",
@@ -882,6 +1424,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Despacito\"\nartist: \"Luis Fonsi\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"reggaeton\", \"pop latino\", \"éxito\"]\n---\n\n## Intro\n[Am] [F] [C] [G]\n\n[Am] Sí, sabes que ya llevo un [F] rato mirándote\nTengo que bai[C]lar contigo [G] hoy.\n[Am] Vi, que tu mirada ya [F] estaba llamándome\nMuéstrame el ca[C]mino que yo [G] voy\n[Am] Tú, tú eres el imán y [F] yo soy el metal\nMe voy acer[C]cando y voy armando el [G] plan\nSolo con pen[Am]sarlo se acelera el [F] pulso, ya\n[C] Ya me estás gustando más de lo nor[G]mal\nTodos mis sen[Am]tidos van pidiendo [F] más\nEsto hay que to[C]marlo sin ningún a[G]puro\n\n[Am] Pasito a pasito, suave [F] suavecito\nNos vamos pe[C]gando poquito a po[G]quito\nCuando tú me [Am] besas con esa des[F]treza\nVeo que eres ma[C]licia con delica[G]deza\n[Am] Pasito a pasito, suave [F] suavecito\nNos vamos pe[C]gando, poquito a po[G]quito\nY es que esa be[Am]lleza es un rompeca[F]bezas,\nPero pa' mon[C]tarlo aquí tengo la [G] pieza\n\n[Am] Despacito…\nQuiero respirar tu [F] cuello despacito\nDeja que te diga [C] cosas al oído\nPara que te a[G]cuerdes si no estás conmigo\n[Am] Despacito…\nQuiero desnudarte a [F] besos despacito\nFirmar las pa[C]redes de tu laberinto\nY hacer de tu [G] cuerpo todo un manuscrito\nQuiero ver bai[Am]lar tu pelo, quiero ser tu [F] ritmo\nQue le enseñes a mi [C] boca tus lugares fa[G]voritos\n\n[Am] Despacito…\nQuiero respirar tu [F] cuello despacito\nDeja que te diga [C] cosas al oído\nPara que te a[G]cuerdes si no estás conmigo\n[Am] Despacito…\nQuiero desnudarte a [F] besos despacito\nFirmar las pa[C]redes de tu laberinto\nY hacer de tu [G] cuerpo todo un manuscrito\nQuiero ver bai[Am]lar tu pelo, quiero ser tu [F] ritmo\nQue le enseñes a mi [C] boca tus lugares fa[G]voritos\n\n[Am] Déjame sobrepa[F]sar tus zonas de peligro\n[C] Hasta provocar tus gritos\n[G] Y que olvides tu apellido\n\n[Am] Déjame sobrepa[F]sar tus zonas de peligro\n[C] Hasta provocar tus gritos\n[G] Y que olvides tu apellido\n\n[Am] Si te pido un beso ven dámelo\n[F] Yo sé que estás pensándolo,\n[C] Llevo tiempo intentándolo,\n[G] Mami esto es dando y dándolo\n[Am] Sabes que tu corazón conmigo te hace bam [F] bam\nSabes que esa beba ta buscando de mi [C] bam bam [G]\n[Am] Ven prueba de mi boca para ver cómo te [F] sabe\nQuiero quiero quiero ver, cuánto [C] amor a ti te [G] cabe\n[Am] Yo no tengo prisa, yo me quiero dar el [F] viaje\nEmpezamos [C] lento, después sal[G]vaje\n\n[Am] Despacito,\nVamos a hacerlo en una [F] playa en Puerto Rico\nHasta que las [C] olas griten \"Ay, bendito\"\n[G] Para que mi sello se quede contigo\n[Am] Pasito a pasito, suave [F] suavecito\nNos vamos pe[C]gando, poquito a po[G]quito\nQue le enseñes a mi [Am] boca tus lugares fa[F]voritos\n\n[Am] Pasito a pasito, suave [F] suavecito\nNos vamos pe[C]gando, poquito a po[G]quito\nHasta provocar tus [Am] gritos\nY que olvides tu ape[F]llido… Despa[C]cito [G]\n"
   },
   {
+    "id": "despierta-mejicano",
+    "title": "Despierta mejicano",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/despierta-mejicano.md",
+    "content": "---\ntitle: \"Despierta mejicano\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D7]-[G]-[D]-[A]-[D]\nDESPIERTA, DULCE AMOR DE MI [A] VIDA,\n[Em] DESPIERTA, [A] SI TE ENCUENTRAS [D] DORMIDA.\n## Verso 1\nESCUCHA MI VOZ\nVIBRAR BAJO TU [A] VENTANA,\nCON ESTA [Em] CANCION\nTE [A] VENGO A ENTREGAR EL [D] ALMA.\nPERDONA SI INTERRUMPO [D7] TU [G] SUEÑO,\nPERO NO PUDE [D] MAS\nY ESTA NOCHE TE VENGO A [A] DECIR\nTE [D] QUIERO.\n[D]-[A]-[Em]-[A]-[D]\nESCUCHA MI VOZ...\nPERDONA SI...\nTE QUIERO,TE [A#] [C] ADORO, [D] [A] MI AMOR.\n"
+  },
+  {
+    "id": "despierta",
+    "title": "Despierta",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/despierta.md",
+    "content": "---\ntitle: \"Despierta\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nDESPIERTA NIÑA [D] DESPIERTA\nDESPIERTA SI ESTAS [Em] DORMIDA\nY ESCUCHA LAS [A] DULCES NOTAS\nQUE CANTA LA ESTUDIANTINA [D] (BIS)\nSAL NIÑA AL [A] BALCON\nY OIRAS NUESTRAS [D] CANCIONES\nQUE SALEN DEL FONDO DEL [A] ALMA\nY ALEGRAN LOS CORAZONES [D] (BIS)\nDEBAJO DE [D] TU VENTANA\nHAY UN LINDO [A] MIRADOR\n## Verso 1\nDONDE SE PARA LA TUNA\nDETENIDA POR TU [D] AMOR\nYA SE QUE ESTAS EN EL LECHO\nPERO QUE NO DUERMES [A] NO\nYA SE QUE ESTAS ESCUCHANDO\nLAS NOTAS DE MI [D] CANCION\nNO VAYAS, NO VAYAS\nDONDE LA MAR SE [G] AGITA\nQUE SI DULCE ES LA [D] BRISA\nMAS DULCE [A] SERA EL AMOR [D] (BIS)\n"
+  },
+  {
     "id": "dime-lole-y-manuel",
     "title": "Dime",
     "artist": "Lole y Manuel",
@@ -943,6 +1513,90 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Dormido entre rosas\"\nartist: \"Carlos Cano\"\nkey: \"Am\"\ncapo: 2\ntempo: 100\ntags: [\"copla\", \"pasodoble\", \"andaluz\"]\n---\n\n## Intro\n[Am] [E] [Am] [G] [C]\n\n## Verso 1\n[Am] Dormido entre rosas y encajes de hilo, so[G]ñando en los lirios que vienen del [C] sur,\n[E] Buscando en la noche los claveles [Am] fríos, del a[E]mor prohibido, vive el anda[Am]luz.\nSom[Am]brero en los ojos, pañuelo esmeralda, [G] fuego en las pestañas, menudo va[C]lor,\n[E] Quedó en el olvido tal vez las ra[Am]zones, aquel [E] pasodoble que en Madrid can[Am]tó.\n\n[G] Cuentan que en las noches de luna de [C] mayo, entre los mal[E]vados de la oscuri[Am]dad,\nSe pinta los [G] ojos, se muerde los [C] labios y aba[E]nico en mano, se [E7] pone a can[Am]tar:\n\n## Coro\n¡Ay [E] rosas! Málaga [Am] bella, biz[F]nagas de mi pa[E]sión,\nDonde yo apren[E7]dí a querer, donde cono[Am]cí el amor.\n¡Ay [Am] rosas! Málaga [E7] bella, biz[Am]nagas del cora[Dm]zón,\n¿De qué me [E7] sirve volver? Si el a[Am]mor se marchi[E]tó. [Am]\n\n## Verso 2\n[Am] Preguntan las rosas por qué fue al exilio, pre[G]guntan los lirios por qué no vol[C]vió,\n[E] Tan solo la luna y el amargo [Am] vino saben [E] los motivos de su cora[Am]zón.\n[G] Cuentan que por rojo, por republi[C]cano, que an[E]daba enredado con un mili[Am]tar,\nCuatro seño[G]ritos de pistola en [C] mano, sin [E] voz lo dejaron en la madru[Am]gá.\n\n## Coro Final\n¡Ay [E] rosas! Málaga [Am] bella, biz[F]nagas de mi pa[E]sión,\nDonde yo apren[E7]dí a querer, donde cono[Am]cí el amor.\n¡Ay [Am] rosas! Málaga [E7] bella, biz[Am]nagas del cora[Dm]zón,\n¿De qué me [E7] sirve volver? Si el a[Am]mor se marchi[E]tó. [Am]\n"
   },
   {
+    "id": "dos-palomitas",
+    "title": "Dos palomitas",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/dos-palomitas.md",
+    "content": "---\ntitle: \"Dos palomitas\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nDOS\nDOS PALOMITAS SE LAMENTABAN (A CAPPELL\n(AD LIBITUM)\nLLORANDO, (A CAPPELLA) (AD LIBITUM)\nY UNA A LA OTRA SE CONSOLABAN (A CAPPEL\n(AD LIBITUM)\nDICIENDO. (A CAPPELLA) (AD LIBITUM)\nDOS PALOMITAS...... (A CAPPELLA)\nQUIEN TE HA CORTADO TUS BELLAS ALAS,\nCAPPELLA)\nPALOMA, (A CAPPELLA)\nO ALGUN FALSARIO HA SORPRENDIDO\nCAPPELLA)\nTU VUELO. (A CAPPELLA)\n[Em]-[G]-[C]-[D7]-[G] [G]-[Em]-[Em]-[B7]-[Em] (BI\n[Em] LA, LA, [Em] [B7] [Em] [Em] [G] [G] [D7] [C] [G] LA,...\n[Em] QUIEN TE HA CORTADO TUS [G] BELLAS ALAS,\n[G] [D7] [C] PALOMA,\n[G] ALGUN FALSARIO HA [Em] SORPRENDIDO\nPALOMITAS\n[Em] TU [Em] [B7] VUELO.\n[C] AY, [D7] AY, [G] AY,\n[G] [D7] [C] PALOMA,\n[G] O ALGUN FALSARIO HA [Em] SORPRENDIDO\n[Em] TU [Em] [B7] VUELO.\n(A\n[B7]-[Em] (ter)-[G]-[C]-[D7]-[G] [G]-[Em]-[Em]-[B7]-\n[Em]\n(A [Em] DOS PALOMITAS SE [G] LAMENTABAN\n[G] [D7] [C] LLORANDO,\n[G] Y UNA A LA OTRA [Em] SE CONSOLABAN\nS) [Em] [B7] [Em] DICIENDO.\n[Em] QUIEN TE HA...\n[C] AY, [D7] AY, [G] AY,\n[G] [D7] [C] PALOMA,\n[G] O ALGUN FALSARIO HA [Em] SORPRENDIDO\nTU VUELO. (A CAPPELA) (AD LIBITUM)\n"
+  },
+  {
+    "id": "dos-puntas",
+    "title": "Dos puntas",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/dos-puntas.md",
+    "content": "---\ntitle: \"Dos puntas\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nD\n[G7]-[C]-[G7]-[F]-[G]-DO(BIS)\nCUANDO PA' CHILE ME [G7] VOY\nCRUZANDO [F] LA [G] CORDILLERA [C] (BIS).\nLATE EL CORAZON [G7] CONTENTO\n[F] UNA CHILENA [G] ME [C] ESPERA (BIS).\nY CUANDO VUELVO DE [G7] CHILE\nENTRE [G] [F] CERROS Y QUEBRADAS [C] (BIS\nLATE EL CORAZON [G7] CONTENTO\n[F] PUES ME ESPERA [G] UNA CUYANA [C] (BI\n[D] VIVA LA CHICHA Y EL [G] VINO,\n[D]                       [G]\n[G] VIVA [F#] LA CUECA Y LA SAMBA.\n[F] DOS PUNTAS [G] TIENE EL [C] CAMINO\n[G]\n[C] Y EN LAS DOS ALGUIEN\nAGUARDA (BIS).\nOS PUNTAS\n[G7]-[C]-[G7]-[F]-[G]-[C] (bis)\nYO BAILO LA CUECA EN [G7] CHILE,\nEN [F] CUYO BAILO [G] LA [C] SAMBA (BIS).\nEN CHILE CON LA [G7] CHILENA\n[F] EN CUYO [G] CON LA [C] CUYANA (BIS )\n[G7] VIDA TRISTE, VIDA ALEGRE\nES [F] LA VIDA [G] DEL [C] ARRIERO (BIS).\n).                               SOL7\nPENITAS EN EL CAMINO,\n[F] RISAS AL [G] FIN DEL [C] SENDERO (BIS).\nS).\n[D] VIVA LA CHICHA...\n[F] DOS PUNTAS [G] TIENE EL [C] CAMINO\n[G7]\n[C] Y EN LAS DOS ALGUIEN ME\n7 AGUARDA.\nME\n"
+  },
+  {
+    "id": "el-andariego",
+    "title": "El andariego",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-andariego.md",
+    "content": "---\ntitle: \"El andariego\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[A7],[Dm],[A7],[Dm],[D7],[Gm],[Dm],[A7],[Dm]\nYo que fui del [D7] amor ave de [C7] [Gm] paso\nyo que fui mariposa de mil [A#] [F] flores\nhoy siento la nostalgia [D7] de tus [Gm] brazos\nde aquellos tus [Dm] abrazos, [A#] de aquellos tus [A7] amores.\nNi cadenas, ni [D7] lagrimas me [C7] [Gm] ataron\nmas hoy siento la calma y el [A#] [F] sosiego\nperdona mi [D7] tardanza, te lo [Gm] ruego\nperdona al [Dm] andariego [C] que te [A#] ofrece [A7] el [Dm] corazón.\nHay [Dm] ausencias que [C7] triunfa\n[F] y la nuestra triunfó\namémonos [A7] ahora con la paz\nque en otro [Dm] tiempo nos falto.\nY cuando yo me [Gm] muera ni luz ni llanto\nni [C7] luto ni nada [F] más\n[D7] AY, JUNTO A [Gm] MI CRUZ [A7] ... yo solo [Dm] quiero paz\nSolo tu, [A7] corazón, si recuerdas [Dm] mi amor\nUna [Gm] lagrima [C7] derramé por [F] ultima vez\ny en [G] silencio [C7] dirás una [D7] [F] plegaria\ny por [Gm] Dios... [A7] olvídame [Dm] después\nMUSICAL\nSolo tu, [A7] corazón, si recuerdas [Dm] mi amor...\n"
+  },
+  {
+    "id": "el-beso",
+    "title": "El beso",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-beso.md",
+    "content": "---\ntitle: \"El beso\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n(ENTRADA EN [E]\nEN [B7] ESPAÑA BENDITA [E] TIERRA LAm-SI7\n## Verso 1\nSI7                                MIPERO UN BESO DE AMOR\nDONDE PUSO SU TRONO EL AMOR                                              MI-SI7-\nDO#mNO [E] [G#] [F#m] SE LO DAN A CUALQUIERA.\nSOLO EN ELLA        EL BESO\nENCIERRA\nALEGRIA, [A] SENTIDO [B7] Y [E] [B7] [A] [Em] [Am] [E] [Em] [B7] [Em] [E] VALOR.(BIS)\nLAm LAmES TAN NOBLE YO LE [E] [B7] ASEGURO\nLA ESPAÑOLA CUANDO BESA                             SI7\nDO     DO         SI7MI\nES QUE BESA DE VERDADQUE HA DE CAUSARLE MAYOR\nLAm               LAmEMOCION\nY A NINGUNA LE INTERESAEL BESO (CONTINUACION)\n[C] BESAR CON [B7] [C] FRIVOLIDAD. FA#m-SOL#\nMIm ESE BESO TAN NOBLE [C#] Y PURO\n[B7] EL BESO, EL BESO, EL BESO EN QUE [A] LLEVAMOS EN [B7] EL [E] CORAZON.\nESPAÑA\nRE7 SOLLA [Em] ESPAÑOLA...\nLO LLEVAAA LA HEMBRAAA MUY\nDENTROOO DEL ALMA.                          MIm\n[Am] MImEL [B7] [B7] BESO, EL BESO, EL BESO EN\nLE PUEDES DAR UN BESO EN LA ESPAÑA\nMANO                                   MIm          RE7\n[Am] DOSE [G] [B7] DA SIII SE QUIEREEE CON EL\nO PUEDES DARLE UN BESO DE NOOO SE ENGAÑA.\nHERMANO\nY ASI [Am] LA BESARAS [Am] CUANDO [Em] QUIERASLE PUEDES DAR UN BESO...\n"
+  },
+  {
+    "id": "el-burro-parrandero",
+    "title": "El burro parrandero",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-burro-parrandero.md",
+    "content": "---\ntitle: \"El burro parrandero\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[E] Yo tengo en mi casa un burro que le [F#7] gusta [B7] parrandear\ny cuando [A] ve a su burrita [E] le invita el [B7] mismo a [E] pasear\ny cuando [A] ve a su burrita [E] le invita el [B7] mismo a [E] pasear\nM :a [A] pasear, a [E] pasear ; la invita el [B7] mismo a [E] pasear\n## Verso 1\nB : la invita, la invita el mismo a pasear\nA :a pasear, a pasear ; la invita a pasear\nMUSICA 4\nSe escapa de madrugada con el cuatro y el tambor\ny a su burrita le canta con alegría y sabor\ny a su burrita le canta con alegría y sabor\nM :y sabor, y sabor ; con alegría y sabor\nB :y sabor, y sabor  alegría y sabor\nA:y sabor, y sabor  alegría y sabor\nMUSICA 2\nMi burro se da una fama de burro muy ricachón\nle gusta dormir en cama y comer en comedor\nle gusta dormir en cama y comer\nM :comedor, comedor ; y comer en comedor\nB :y comer, y comer en comedor\nA :comedor, comedor ; comer en comedor\nMUSICA 4\nMi burro entre la parranda no tiene comparación\nle encanta la serenata y una botella de ron\nle encanta la serenata y una botella de ron\nM :y de ron, y de ron ; una botella de ron\nB :y de ron, y de ron ; la botella de ron\nA:y de ron, y de ron ; la botella de ron\nMUSICA 2\nSi mi burro se me muere por dios me pongo a llorar\notro burro parrandero donde lo voy a encontrar\notro burro parrandero donde lo voy a encontrar\nM :a encontrar, a encontrar ; donde lo voy a encontrar\nB :donde lo, donde lo voy a encontrar\nA :a encontrar, a encontrar ; donde lo voy a encontrar\n3 veces y final\nCANDOMBE PARA JOSÉ\n"
+  },
+  {
+    "id": "el-chotis-del-feo",
+    "title": "El chotis del feo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-chotis-del-feo.md",
+    "content": "---\ntitle: \"El chotis del feo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nTodos los feos conquistan las chicas más guapas,\nAgustín Lara y un tal Sinatra.\nEn cambio yo que nací; un pollo pera,\nAquí; me tengo la lengua de fuera.\nHe visto gordos y flacos usar mi talento,\nMuy del bracete de un monumento.\nAy yo quisiera ser feo,\nPara lucir en la calle una buena gachí;.\nYo voy a buscar un cirujano especialista en lo facial,\nQue me cambie a mí; este perfil que tengo tan angelical.\nCon mi nueva faz entonces sí; podré; lucir supergachís,\nY las mujeres dirán que soy un Adonis,\nCuando les baile en un ladrillo este chotis.\n## Instrumental\nYo voy a buscar un cirujano especialista en lo facial,\nQue me cambie a mí; este perfil que tengo tan angelical.\nCon mi nueva faz entonces sí; podré; lucir supergachís,\nY las mujeres dirán que soy un Adonis\nCuando les baile en un ladrillo este chotis.\n"
+  },
+  {
     "id": "el-cine",
     "title": "El cine",
     "artist": "Mecano",
@@ -986,6 +1640,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/el-dia-que-yo-me-muera.md",
     "content": "---\ntitle: \"El día que yo me muera\"\nartist: \"Rozalén\"\nkey: \"Am\"\ncapo: 2\ntempo: 100\ntags: [\"canción de autor\", \"folklore\", \"español\"]\n---\n\n## Intro\n[Am] [Dm] [E] [Am] (x3) [Am] [E]\n\n## Verso 1\n[Am] El día que yo me muera no me corten ni una flor,\nTraigan la plantita entera, pongan un jardín en mi honor.\n[E7] No se le teme a la muerte, que el morir es natural,\n[Am] Se teme más a las cuentas que en el cielo ties que dar.\n[E7] El día que yo me muera no lloren porque me fui,\nAlcen la copa y brinden por todo lo que vi[Am]ví.\n\n## Coro\n[Am] Cuando ya no esté, recuérdame,\n[E7] Y vistan de alegres colores, que me amaron y yo [Am] amé.\n[G7] Que la puerta de casa se quede a[C]bierta,\nY por no tener [G7] pena no pidan per[C]dón.\n[Dm] Que el luto, cuando es sen[Am]tío,\nSe [Dm] lleva en el cora[E7]zón.\n[Dm] Y cada vez que me nombres yo revi[Am]viré,\nDesde [E7] donde esté, te protege[Am]ré.\n\n## Verso 2\n[Am] El día que yo me muera no quiero tu adoración,\nSi no me quisiste en vida, ahórrate la actuación.\nEl día que yo me muera que me entierren en un prao,\nQue mi cuerpo sea alimento pa la hierba del ganao.\n[E7] Qué hermoso será morirse, morirse siendo querido,\nPorque quien amarga es la muerte, cuando la muerte es ol[Am]vido.\n\n## Coro\n[Am] Cuando ya no esté, recuérdame,\n[E7] Y vistan de alegres colores, que me amaron y yo [Am] amé.\n[G7] Que la puerta de casa se quede a[C]bierta,\nY por no tener [G7] pena no pidan per[C]dón.\n[Dm] Que el luto, cuando es sen[Am]tío,\nSe [Dm] lleva en el cora[E7]zón.\n[Dm] Y cada vez que me nombres yo revi[Am]viré,\nDesde [E7] donde esté, te protege[Am]ré.\n\n## Outro\n[Am] (Cuando ya no esté) Me dejan la puerta abierta\n[E7] (Cuando ya no esté) Y se visten de alegres colores\n[Am] (Cuando ya no esté) Y no sientan pena, penita, pena\n[E7] (Cuando ya no esté) Yo os llevo en el [Am] corazón\n"
+  },
+  {
+    "id": "el-gato",
+    "title": "El gato",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-gato.md",
+    "content": "---\ntitle: \"El gato\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D] ESTANDO EL SEÑOR DON [D] [A] GATO\n[G] SENTADITO EN SU [D] TEJADO,\n## Verso 1\nMARRAMAMIAU, MIAU, MIAU\n[A] SENTADITO EN SU [D] TEJADO\n[D] HA TENIDO LA [D] [A] NOTICIA\n[G] QUE SI QUIERE SER [D] CASADO,\nMARRAMAMIAU, MIAU, MIAU\n[A] QUE SI QUIERE SER [D] CASADO\nCON UNA GATA [D] [A] MORENA\n[G] SOBRINA DEL GATO [D] PARDO,\nMARRAMAMIAU, MIAU, MIAU\n[A] SOBRINA DEL GATO [D] PARDO\nL\n[D] QUE CONTENTO QUE SE HA PUEST\n[G] SE HA CAIDO SE HA [D] MATADO,\nMARRAMAMIAU, MIAU, MIAU\n[A] SE HA CAIDO SE HA [D] MATADO\n[D]-[A]-[D]-[G]-[D]-[A]-[D]\nSE HA ROTO SIETE [D] [A] COSTILLAS\n[G] EL RABO Y EL [D] ESPINAZO,\nMARRAMAMIAU, MIAU, MIAU\n[A] EL RABO Y EL [D] ESPINAZO\n(SABANDEÑOS)\n[A] YA [D] LO LLEVAN A ENTERRAR\n[G] POR LA CALLE DEL [D] PESCADO,\nMARRAMAMIAU, MIAU, MIAU\n[A] POR LA CALLE DEL [D] PESCADO\nAL OLOR DE LAS [D] [A] SARDINAS\n[G] EL GATO HA [D] RESUCITADO,\nMARRAMAMIAU, MIAU, MIAU\n[A] EL GATO HA [D] RESUCITADO\nPOR ESO DICE LA [D] [A] GENTE\nASOL                                    RE\nSIETE VIDAS TIENE UN GATO,\nO\nMARRAMAMIAU, MIAU, MIAU\n[A] SIETE VIDAS TIENE UN [D] GATO\n[D]-[A]-[D]-[G]-[D]-[A]-[D]\nPOR ESO DICE LA [D] [A] GENTE...\n"
   },
   {
     "id": "el-hombre-del-piano",
@@ -1057,10 +1725,39 @@ export const DEFAULT_SONGS = [
     "tags": [
       "rumba catalana",
       "español",
-      "clásico"
+      "clásico",
+      "tuna"
     ],
     "file": "canciones/el-muerto-vivo.md",
-    "content": "---\ntitle: \"El muerto vivo\"\nartist: \"Peret\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rumba catalana\", \"español\", \"clásico\"]\n---\n\n## Intro\n[Am] [E] [Am]\n\nNanonaino naino nonai (3) Chévere (3)\n\n## Verso 1\n[Am] A mi papa el chocolate le pa[E]garon su salario\nY sin pensarlo dos veces salió [Am] para malgastarlo.\nUna semana de juerga y per[E]dió el conocimiento,\nComo no volvía a su casa todos [Am] le daban por muerto.\n\n## Coro\nY [E] no estaba muerto no, no (3)\nEstaba tomando [Am] caña, lerelerele.\nY [E] no estaba muerto no, no (3)\nChévere, chévere, [Am] cheveré.\n\n## Verso 2\nPero al [Am] cabo de unos días de ha[E]ber desaparecido\nEncontraron uno muerto, un [Am] muerto muy parecido.\nLe montaron un velorio, y le [E] rezaron la novena,\nLe perdonaron sus deudas y lo en[Am]terraron con pena.\n\n## Coro\nY [E] no estaba muerto no, no (3)\nEstaba tomando [Am] caña, lerelerele.\nY [E] no estaba muerto no, no (3)\nChévere, chévere, [Am] cheveré.\n\n## Verso 3\nPero un [Am] día se apareció, lleno de [E] vida y contento\nDiciéndole a todo el mundo: ¡Eh! Se equi[Am]vocaron de muerto.\nEl lío que se formó, eso [E] sí que es puro cuento,\nSu mujer ya no lo quiere, no quiere [Am] dormir con muertos.\n\n## Coro\nY [E] no estaba muerto no, no (3)\nEstaba tomando [Am] caña, lerelerele.\nY [E] no estaba muerto no, no (3)\nChévere, chévere, [Am] cheveré.\n"
+    "content": "---\ntitle: \"El muerto vivo\"\nartist: \"Peret\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rumba catalana\", \"español\", \"clásico\", \"tuna\"]\n---\n\n## Intro\n[Am] [E] [Am]\n\nNanonaino naino nonai (3) Chévere (3)\n\n## Verso 1\n[Am] A mi papa el chocolate le pa[E]garon su salario\nY sin pensarlo dos veces salió [Am] para malgastarlo.\nUna semana de juerga y per[E]dió el conocimiento,\nComo no volvía a su casa todos [Am] le daban por muerto.\n\n## Coro\nY [E] no estaba muerto no, no (3)\nEstaba tomando [Am] caña, lerelerele.\nY [E] no estaba muerto no, no (3)\nChévere, chévere, [Am] cheveré.\n\n## Verso 2\nPero al [Am] cabo de unos días de ha[E]ber desaparecido\nEncontraron uno muerto, un [Am] muerto muy parecido.\nLe montaron un velorio, y le [E] rezaron la novena,\nLe perdonaron sus deudas y lo en[Am]terraron con pena.\n\n## Coro\nY [E] no estaba muerto no, no (3)\nEstaba tomando [Am] caña, lerelerele.\nY [E] no estaba muerto no, no (3)\nChévere, chévere, [Am] cheveré.\n\n## Verso 3\nPero un [Am] día se apareció, lleno de [E] vida y contento\nDiciéndole a todo el mundo: ¡Eh! Se equi[Am]vocaron de muerto.\nEl lío que se formó, eso [E] sí que es puro cuento,\nSu mujer ya no lo quiere, no quiere [Am] dormir con muertos.\n\n## Coro\nY [E] no estaba muerto no, no (3)\nEstaba tomando [Am] caña, lerelerele.\nY [E] no estaba muerto no, no (3)\nChévere, chévere, [Am] cheveré.\n"
+  },
+  {
+    "id": "el-parque",
+    "title": "El parque",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-parque.md",
+    "content": "---\ntitle: \"El parque\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nEL\n[A]-[E]-[A]-[F#]-[Bm]-[A]-[E]-[A]\nPASEANDO POR EL [A] PARQUE YO\nFUI\nCON UNA MUCHACHITA [E] MUY GENT\nDEL BRACITO LOS DOS AL CAMINA\nDE PRONTO YO MI [A] AMOR\nDECLARE;\nENTONCES ELLA DIJO [F#] QUE NO,\nQUE NO, QUE NO, SABIA [Bm] QUERER;\n[Dm] QUIEREME UN [A] POQUITO,\n[A] NIÑA DE MI VIDA, REINA DE\nAMOR (BIS).\nPERO QUE BONITO QUE ES\nBAILAR EL [E] VALS ASI,\nJUNTITOS LOS DOS,\n[A] MOVIENDO LOS PIES,\nJUNTANDO LOS TACOS,\nPARQUE\nME QUE [E] YA VIENE EL CHACO\nCON ESE CHAMACO\nIL,      LA\nGRITANDO ¡SALUD!\nR,LA7                           RE\nBRINDEMOS CON CHICHA\nLE                          MI\n[A] POR ESA CHOLITA QUE VALE UN\nPERU.\n[A]-[E]-[A]-[F#]-[Bm]-[A]-[E]-[A]\n[E] BAILANDO UNA [A] CANCION LE\nMI SUSURRE,\nEN MI CORAZON [E] TENGO UN\nFRENESI,\nEN MI CAPA LA QUIERO COBIJAR,\nBAILANDO UN VALS QUE [A] NUNCA\nTENGA FIN;\nY ELLA ME REPETIA QUE NO...(BIS)\nPERO QUE BONITO...\n"
+  },
+  {
+    "id": "el-pescador-de-morenas",
+    "title": "El pescador de morenas",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-pescador-de-morenas.md",
+    "content": "---\ntitle: \"El pescador de morenas\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nIba cantando (Iba cantando y te ví morena) Te ví morena\nPor un momento clavé (Por un momento clavé) Mis ojos en tí\nPero tu cuerpo se hundió en la arena\nDibujó una ese y pensé que me estaba diciendo sí\nYo iba tranquilo por la vereda\nLlevaba un gancho y comencé a silbar\nPero mis voces y mis llamadas\nNo consiguieron hacerte salir\n(Estribillo):\nEntonces pensé que tu cuerpo se enroscaba en un coral\nLlamándote descubrí que sólo el eco de mi voz sentí\nOh morena oh (Oh morena oh seguí llamando) seguí llamando\nOh morena oh (Oh morena oh) Y mi canción\nNo logró que emergieras del agua\nComo en otras noches en que te invoqué\n## Instrumental\n## Estribillo\nPienso ahora mi encantada serpiente de mar\nQue no acudiste a la cita con mi canción\nPorque estaba de ronda por los arrecifes\nTu novio el murión\nUh uh uh uh uh (4 veces)\n"
   },
   {
     "id": "el-porompompero",
@@ -1078,6 +1775,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/el-porompompero.md",
     "content": "---\ntitle: \"El Porompompero\"\nartist: \"Manolo Escobar\"\nkey: \"Am\"\ncapo: 0\ntempo: 110\ntags: [\"copla\", \"rumba\", \"flamenco\", \"español\", \"clásico\"]\n---\n\n## Intro\n[Am] [G] [F] [E] (x2)\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó.\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. [Am]\n\n## Verso 1\n[Am] El trigo entre todas las flores\nha escogido a la ama[E]pola,\ny yo escojo a mi Dolores,\nDo[Am]lores, Lolita, Lola.\nY yo, y yo es[G]cojo a mi Dolores,\nque es la flor [F]más perfumada,\nDoló, Do[E]lores, Lolita, Lola.\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n\n## Verso 2\n[Am] El cateto de tu hermano\nque no me venga con [E]leyes,\nque si es payo, yo soy gitano\ny tengo sangre de [Am]reyes.\nQue si es payo, yo soy gi[G]tano,\nque tengo sangre de [F]reyes\nen la palma de la [E]mano.\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n\n## Verso 3\n[Am] A los clisos de mi cara\nles voy a poner un can[E]dao\npor no ver las cosas raras\nde este niñato cha[Am]lao.\nPor no ver las cosas [G]raras\nde este niñato cha[F]lao\nque te apunta y no dis[E]para.\n\n## Estribillo\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n\n## Verso 4\n[Am] Verde era la yerbabuena,\nverdecita era la [E]parra,\ndebajo del puente\nretumbaba el [Am]agua.\nRetumbaba el [G]agua,\ndebajo del [F]puente\nretumbaba el [E]agua.\n\n## Estribillo Final\n[Am] Ay porompompó,\nporopo porompom[G]pero peró,\nporopo porompom[F]pero peró,\nporopo porom[E]pompó. (x2)\n"
+  },
+  {
+    "id": "el-ruisenor",
+    "title": "El ruiseñor",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/el-ruisenor.md",
+    "content": "---\ntitle: \"El ruiseñor\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nEL\nIn\nUn día un ruiseñor\nErrante y trovador\nSupo que una princesa\nSe hallaba en la prisión\nDe un viejo torreón\nQue pena, que dolor\nComo un campeador\nValiente y soñador\nCantóle a la princesa\nLa niña le escuchó\nY así le respondió\nQue pena que dolor\nRuiseñor\nLoco pájaro cantor\nPor qué cantas al amor\nSi me obliga mu señor\nA que me case mañana\nRuiseñor\nTú que eres la libertad\nRUISEÑOR\ntroduccion :\nAnda y dile a la ciudad\nCuan grande es la soledad\nQue hay detrás de mi ventana\nEl príncipe es mi dueño\nDónde estará, ruiseñor\n## Instrumental\nAl alba el ruiseñor\nDió su trino mejor\nA la princesa presa\nY aquella adoración\nFue abriendo la prisión\nPor magia del amor\nLa niña le besó\nY el ruiseñor cambió\nPor mágica sorpresa\nDime quién eres tú\nSoy tu príncipe azul\nQue se hizo ruiseñor\nRuiseñor\nLoco pájaro cantor\nHoy serás tú mi señor\nPues no he hallado más amor\nQue el nacido esta mañana\nRuiseñor\nTú que eres la libertad\nAnda y dile a la ciudad\nCuanta es la felicidad\nQue hay detrás de mi ventana\nEl príncipe es mi dueño\nLo trajo aquí un ruiseñor\nRuiseñor, ruiseñor.\n"
   },
   {
     "id": "el-sitio-de-mi-recreo",
@@ -1174,6 +1885,62 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"En el campo\"\nartist: \"Grupo Celeste\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"cumbia\", \"peruano\", \"popular\"]\n---\n\n## Intro\n[Dm] [C] [Dm]\n\n## Verso 1\n[Dm] En el campo, junto a mi dulce amada,\nCon mis [C] sueños y su tierna mi[Dm]rada.\n[Dm] En el campo, junto a mi dulce amada,\nCon mis [C] sueños y su tierna mi[Dm]rada.\n\n## Coro\n[C] En la inmensa soledad, vivimos un puro a[Dm]mor,\n[C] Bajo los rayos del sol, cantamos esta can[Dm]ción.\n[C] En la inmensa soledad, vivimos un puro a[Dm]mor,\n[C] Bajo los rayos del sol, cantamos esta can[Dm]ción.\n"
   },
   {
+    "id": "en-inglaterra",
+    "title": "En Inglaterra",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/en-inglaterra.md",
+    "content": "---\ntitle: \"En Inglaterra\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nEN INGLATERRA SE HA [E] PERMITIDO\nQUE SE CASE EL VARON CON EL [B7] VARON\n## Verso 1\nLO QUE DEMUESTRA QUE EN ESAS TIERRAS\nAL MENOS UNO DE LOS DOS ES [E] MARICON\nRECOMENDAMOS A ESOS SEÑORES\nYA QUE LES [E7] CABE UN TRANVIA POR [A] DETRAS\nLES MANDAMOS UNA ESCUADRA [E] GASTADORES\nY NOS [B7] DEVUELVEN EL PEÑON DE [E] GIBRALTAR\nEN ALEMANIA SE HA [E] PERMITIDO\nQUE SE CASEN LAS MUJERES ENTRE [B7] SI\nLO QUE DEMUESTRA QUE EN ESAS TIERRAS\nANDAN ESCASOS DEL BENDITO [E] PIRULI\nRECOMENDAMOS A ESAS SEÑORAS\nYA QUE LES [E7] FALTA EL CARIÑO [A] NATURAL\nQUE SE DEN UNA VUELTA POR LA [E] TUNA\nA VER SI [B7] ESO LO PODEMOS [E] REMEDIAR\n"
+  },
+  {
+    "id": "encuentro-junto-al-jaguey",
+    "title": "Encuentro junto al jagüey",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/encuentro-junto-al-jaguey.md",
+    "content": "---\ntitle: \"Encuentro junto al jagüey\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nENCUENTRO JUNTO AL JAGUERY\n[Bm] [F#] [Bm] [Em] (lara junto al jaguey)\nSIm                             FA#  (lara lara)\nCANTANDO CON TU RECUERDO\n[Em] FLORECE [F#] MI [F#] [Em] [Bm] [Bm] CORAZONJUNTO AL PALMAR [Em] TU MI [Bm] CANCION\nLA [Bm] BRISA MAÑANERA COMO YO TE [F#] BESAPOR ESO [F#] MAS TE QUIERO [Bm] YO\nTE [Em] BESAN LAS ESPIGAS [F#] COMO YO MI AMOR [Em] [Bm] (BIS)SIm\nJUNTO AL PAL -ERES LA TERNURA PARA MI CANCION\nm [E] -(mar tu mi canción)\nCUANDO NO VIENEN TUS BESOS HACIA LOS MIOS                 FA#                        SIm-LA\n(uu..) POR ESO MAS TE QUIERO YO\n(uu..)\nLA PALMA ENTERA [F#] SE QUEDA EN SU [Bm] SOLEDAD RE LA\n(uu)                                   (uu)CANTANDO CON TU RECUERDO\nPOR ESO QUISIERA [A] MI DULCE [F#] [G] AMADAFLORECE [A] [Em] MI [A] [G] [D] [D] CORAZON\n(l        RE                                                    LA\nara junto al jaguey)LA BRISA MAÑANERA COMO YO TE BESA\n[Em] BESARME CONTIGO [F#] JUNTO AL [Bm] PALMARTE [Em] BESAN LAS ESPIGAS [A] COMO YO MI [D] AMOR\n(lara junto al jaguey)\n(lara junto al jaguey)\n[D]-[A]-[Em]-[A]-[D]  [D]-[G]-[A]  -[D]-[A]-[Em]-[A]-[F#]\nmCUANDO [E] NO VIENEN...\nCUANDO NO VIENEN TUS BESOS HACIA LOS MIOS\n(uu..) CUANDO NO VIENEN...\n(uu..)\nFA#                                            SIm JUNTO AL PALMAR...\nLA PALMA ENTERA SE QUEDA EN SU SOLEDAD\n(uu)                                            (uu)                             MIm\n-LA          SOL         FA#SIm\nPOR ESO QUISIERA    MI DULCE    AMADA JUNTO AL PAL -ERES LA TERNURA PARA MI CANCION\n(lara junto al jaguey)                              -(mar tu mi canción)\n[Em] BESARME CONTIGO [F#] JUNTO AL [Bm] PALMARPOR ESO [F#] MAS TE QUIERO [Bm] YO\nJUNTO AL [Bm7] [Bm7] [Bm7] JAGUEY\nENVIDIA\n"
+  },
+  {
+    "id": "entre-sonrisas-y-flores",
+    "title": "Entre sonrisas y flores",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/entre-sonrisas-y-flores.md",
+    "content": "---\ntitle: \"Entre sonrisas y flores\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nY entre sonrisas y flores\ny alegría de canción\nsuenan notas de colores\nen un aire de bordón\nY un mar de negro y de golas\nse agitan sonoras librando en el cielo\ny cuando pasan las horas\nen dulces momentos parecen decir\nEs la Tuna de malageña\nde la flor de Andalucia para ti\nTe canta Filosofía\na la niña más bonita y más gentil\nquiero sentir la emoción (la emoción)\nque produce tu mirar\ny darle mi corazón,\ny darle mi corazón\ncon bordones de cantar\nSUEÑO AMERICANO (CANCION CON TODOS)\n"
+  },
+  {
+    "id": "envidia",
+    "title": "Envidia",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/envidia.md",
+    "content": "---\ntitle: \"Envidia\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\ntengo envidia de los valles,\nde los montes y los ríos,\nde los pueblos y las calles\nque has cruzado tú sin mí\nEnvidia,\ntengo envidia de tu cosas,\ntengo envidia de tu sombra,\nde tu casa y de tus rosas\nporque están cerca de tí\nY mira si es grande mi amor\nque cuando digo tu nombre\nsiento envidia de mi voz.\nEnvidia,\ntengo envidia del pañuelo\nque una vez secó tu llanto\ny es que yo te quiero tanto\nque mi envidia es tan sólo amor.\n## Instrumental\nY mira si es grande mi amor\nque cuando digo tu nombre\nsiento envidia de mi voz.\nEnvidia, tengo envidia del pañuelo\nque una vez secó tu llanto\ny es que yo te quiero tanto\nque mi envidia es tan sólo amor.\nEnvidia,\nenvidia,\ntengo envidia,\ny es de tanto amor.\n"
+  },
+  {
     "id": "es-por-ti",
     "title": "Es por ti",
     "artist": "Cómplices",
@@ -1250,6 +2017,76 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"España camisa blanca\"\nartist: \"Ana Belén\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"himno\", \"español\"]\n---\n\n## Intro\n[G] [D] [C] [G] [E7] [Am] [C] [D]\n\n## Verso 1\n[G] España camisa [D] blanca de mi esperanza,\nLa [C] negra pena nos ate[G]naza,\nLa [E7] pena deja plomo [Am] en las [C] a[D]las.\n[G] Quisiera poner el [D] hombro y pongo palabras\nQue [C] casi siempre acaban [G] en nada\nCuando se en[E7]frentan al [Am] ancho [C] mar. [D]\n\n## Verso 2\n[A] España camisa [E] blanca de mi esperanza,\nA [D] veces madre y siempre ma[A]drastra,\nNa[F#]vaja, barro, cla[Bm]vel, es[D]pa[E]da.\nLa [A] muerte siempre [E] nos acompaña\nEn [D] nuestras cosas más coti[A]dianas,\nY al [F#] fin nos hace a [Bm] todos i[D]gual. [E]\n\n## Verso 3\n[G] España camisa [D] blanca de mi esperanza,\nDe [C] fuera o dentro, dulce o a[G]marga,\nDe o[E7]lor a incienso, de [Am] cal y [C] ca[D]ña.\n¿Quién [G] puso el desaso[D]siego en nuestras entrañas?\nNos [C] hizo libres, pero sin [G] alas,\n¿Nos de[E7]jó el hambre y se lle[Am]vó el [C] pan? [D]\n\n## Puente\n[C] En el comedor se sientan sepa[G]rados a comer,\nSi se [Am] miran bien, les corren mil hor[D]migas por los pies.\n\n## Verso 4\n[G] España camisa [D] blanca de mi esperanza,\nA[C]quí me tienes, nadie me [G] manda,\nQue[E7]rerte tanto me [Am] cuesta [C] na[D]da.\nNos [G] haces siempre a tu [D] imagen y semejanza,\nLo [C] bueno y malo que hay en tu es[G]tampa\nDe pere[E7]grina a nin[Am]gún lu[C]gar. [D] [G]\n"
   },
   {
+    "id": "espanola",
+    "title": "Española",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/espanola.md",
+    "content": "---\ntitle: \"Española\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[G]-[F]-[E] (AD LIBITUM)\n[Am] ESPAÑOLA,\nDAME UN ABRAZO DE [G] HERMANO\nCON SABOR [F] VENEZOLANO\nPARA YO DECIR TU [E] NOMBRE\n[Am] ESPAÑOLA,\nMARACAS Y [G] CASTAÑUELAS\nREPICAN EN [F] VENEZUELA\nCUANDO YO TE DIGO [E] ¡OLE!\n[G] [Am] ESPAÑOLA,... [E] [F] (1º).\n## Verso 1\nESPAÑOLA,... (2º).\nOYE MI CANTO, (OYE [E] MI CANTO)\nTAN TROPICAL, (TAN [Am] TROPICAL)\nQUE YO TE TRAIGO, (QUE [E] YO TE TRAIGO)\nDE MI LUGAR, (DE [Am] MI LUGAR)\nOYE MI CANTO, (OYE [E] MI CANTO)\nQUE ES PARA TI, (QUE [Am] ES PARA TI)\nQUE ALLA EN MI [E] TIERRA\nSE CANTA [Am] ASI.\nCON EL [E] [F] [G] [Am] TRAILALALA...(BIS)\n"
+  },
+  {
+    "id": "espinita",
+    "title": "Espinita",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/espinita.md",
+    "content": "---\ntitle: \"Espinita\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A] SUAVE QUE ME ESTAS [Bm] MATANDO\nQUE ESTAS [E] ACABANDO CON MI [A] JUVENTUD\nYO [F#m] QUISIERA HABERTE SIDO [Bm] INFIEL\nY [E] PAGARTE CON UNA [A] TRAICION\n[A7] ERES COMO UNA [D] ESPINITA\nQUE SE ME HA CLAVADO [E] EN EL [A] CORAZON\n[D] SUAVE QUE ME ESTAS [A] SANGRANDO\nQUE ME ESTAS MATANDO [E] DE [A] PASION\nYO QUE SUFRO POR MI [Am] GUSTO ESTE CRUEL MARTIRIO\nQUE ME DA TU [Dm] AMOR\nNO ME IMPORTA [G7] LO QUE ME HAGAS\nSI EN TUS BESOS [E] VIVO TODA MI [Am] ILUSIÓN\n## Verso 1\nY QUE PASE LO QUE PASE\nESTE PECHO [A7] AMANTE ES LO MAS DE [Dm] MI\nAUNQUE YO [Am] QUISIERA NO PODRE [E] OLVIDARTE\nPORQUE SIEMPRE VAS DENTRO DE [A] MI\nSUAVE QUE...\n[A]-[Bm]-[E]-[A]-[F#m]-[Bm]-[E]-[A]-[A7]-[D]-[E]-[A]-[D]-[A]-[E]-[A]\n[Dm] AUNQUE YO QUISIERA, [Am] NO PODRE [E] OLVIDARTE\nPORQUE SIEMPRE VAS DENTRO DE [A] MI\nSUAVE QUE...\n[D] SUAVE QUE ME ESTAS [A] SANGRANDO\nQUE ME ESTAS MATANDO DE [A] [E] PASION\n"
+  },
+  {
+    "id": "estampa-cumanesa",
+    "title": "Estampa cumanesa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/estampa-cumanesa.md",
+    "content": "---\ntitle: \"Estampa cumanesa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nInstrumental: [F]-[C]  (bis)-[F]-[Gm]-[C7]-[F]-[C7]-[F]  (bis)-[A7]-[Dm]\nEN CUMANA [Dm] HACEN CANTAR LA [Gm] [D7] MALAGUEÑA\nEN MANZANARES [A] LA COPLA Y EL GALERÓ ( [Dm] BIS )\nY EL [D7] ESTRIBILLO COMO EL QUE YO ESTOY [Gm] CANTANDO\nZUMBA QUE ZUMBA [Dm] ESPUMA EN ESTE [A] CORAZON ( [Dm] BIS )\nEN ESTA [F] TIERRA DONDE REINA LA [C] ALEGRIA\nCON SUS MUJERES TAN BONITAS CUAN LA [F] FLOR\nME TRAEN RECUERDOS [D7] LAS COPLAS Y LA [Gm] FOLIA\nEL MARE-MARE [Dm] EL GOLPE Y [A7] EL GALERÓ ( [Dm] BIS)\nInstrumental:Rem-[D7]-[Gm]-[A]-[Dm]   (bis)\n[D7]-[Gm]-[Dm]-[A]-[Dm]   (bis)\nCOMEN LAS [F] OSTRAS QUE SE DAN EN LOS [C] MANGLARES\nY EL CHIPI-CHIPI EN LA PLAYA DE SAN [F] LUIS\n## Verso 1\nRe7ªSolm\nLOS CAMARONES QUE SE DAN EN MANZANARES\nES UN ORGULLO [Dm] CON QUE CUENTA [A] MI PAIS ( BIS [Dm] )\n"
+  },
+  {
+    "id": "estudiantina-madrilena",
+    "title": "Estudiantina madrileña",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/estudiantina-madrilena.md",
+    "content": "---\ntitle: \"Estudiantina madrileña\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nESTUDIA\n[G]-[D]-[G]-[E7]-[Am]-[G]-[D]-[G]\nPOR LAS CALLES DE [Em] MADRID,\nBAJO LA LUZ DE LA [B7] LUNA,\nDE CASCORRO A CHAMBERI\nPASA RONDANDO LA [Em] TUNA.\nSU ALEGRIA Y BUEN [E] HUMOR\nSON EN LA [E7] NOCHE [Am] ABRILEÑA\n[Em]\n[B7] COMO UN REQUIEBRO DE AMOR\nA LA MUJER [E] MADRILEÑA.\nASOMATE, [E] ASOMATE AL BALCON\nCARITA DE [B] AZUCENA,\nY ASI [F#m] VERAS\nQUE PONGO EN MI [B] CANCION\nSUSPIROS DE [E] VERBENA.\n[E7] ADORNATE CIÑENDOTE UN MANTO\nDE LA CHINA, LA [A] CHINA,\n[F#]\n[B] ADORNATE Y ASOMATE AL BALCON\nA VER LA [E] ESTUDIANTINA.\nCLAVELITO [G#] [G#] REBONITO\n[A]         [A]      [G#]\nNTINA MADRILEÑA\nDEL JARDIN DE MI MADRID,\nMADRILEÑA [B] NO NOS [B] PLANTES\nPORQUE [C] SOMOS [B] ESTUDIANTES\nY [C] CANTAMOS PARA [B] [C] TI.\nASOMATE, [G] ASOMATE AL BALCON\nCARITA DE [D] AZUCENA,\nY ASI [Am] VERAS\nQUE PONGO EN MI [D] CANCION\nSUSPIROS DE [G] VERBENA\n[G]\n[G7] ADORNATE CIÑENDOTE UN MANTON\nDE LA CHINA A LA [C] CHINA\n[Am]\n[D] ADORNATE Y ASOMATE AL BALCON\nA VER LA [G] ESTUDIANTINA.\nNSOL-[D]-[G]-[E7]-[Am]-[G]-[D]-[G]\nm\n"
+  },
+  {
+    "id": "estudiantina-portuguesa",
+    "title": "Estudiantina portuguesa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/estudiantina-portuguesa.md",
+    "content": "---\ntitle: \"Estudiantina portuguesa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[E7]-[Am]-[A7]-[Dm]-[Am]-[E7]-[Am]\nSOMOS [Am] CANTORES DE LA TIERRA [E7] LUSITANA,\nTRAEMOS CANCIONES DE LOS AIRES Y DEL [Am] MAR;\nVAMOS [A7] LLENANDO LOS BALCONES Y [Dm] VENTANAS\nDE MELODIAS [G7] DEL ANTIGUO [C] PORTUGAL.\nOPORTO [Am] RIEGA EN VINO ROJO SUS [E7] LADERAS,\nDE FLORES ROJAS VA TIÑENDO EL [Am] LITORAL,\nVERDE ES EL [Dm] TAJO, VERDES SON SUS DOS [Am] RIBERAS\nLOS DOS [E7] COLORES DE LA ENSEÑA [A] NACIONAL.\n¿PORQUE TU TIERRA TODA ES [A] UN ENCANTO?\n¿POR QUE, POR QUE SE MARAVILLA QUIEN TE [E] VE?\n¿AY PORTUGAL, [Bm] POR QUE TE QUIERO [E] TANTO?\n¿POR QUE, POR QUE TE ENVIDIAN TODOS, AY POR [A] QUE?\nSERA QUE TUS MUJERES [A] SON HERMOSAS,\nSERA, SERA QUE EL VINO ALEGRA EL [E] CORAZON;\nSERA QUE [Bm] HUELEN BIEN TUS LINDAS [E] ROSAS,\nSERA, SERA QUE ESTAS BAÑADA POR EL [A] SOL.\n[Am]-[E7]-[Am]-[A7]-[Dm]-[G7]-[C]\n## Verso 1\nOPORTO RIEGA...\n"
+  },
+  {
     "id": "every-breath-you-take",
     "title": "Every Breath You Take",
     "artist": "The Police",
@@ -1282,6 +2119,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Fandangos de Huelva\"\nartist: \"Popular\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"flamenco\", \"fandangos\", \"andaluz\"]\n---\n\n## Intro\n[E] [Am] [G] [F] [E]\n\n## Verso 1\n[C] Morena, morena [F] tiene la [C] cara\nLa mu[G7]jer que yo más [C] quiero,\nEl [F] pelo negro y ri[C]zao.\nLa [G7] única pena que [C] tengo\nEs que [F] no la tengo a mi [E] lao.\n\n## Verso 2\n[C] Querer, querer a [F] quién no te [C] quiere,\nA [G7] eso lo llamo que[C]rer.\nPues querer a [F] quién te [C] quiera,\nEs [G7] solo corres[C]ponder\nY [F] eso lo hace cual[E]quiera.\n\n## Verso 3\n[C] Tomate, ¿qué culpa [F] tiene el to[C]mate?\nQue está [G7] tranquilo en su [C] mata,\nQue [F] venga un tío ma[C]laje\nY lo [G7] meta en una [C] lata,\n¿Qué [F] culpa tiene el to[E]mate?\n\n## Verso 4\n[C] Negando, ¿de qué pre[F]sumes ne[C]gando\nSi al [G7] verlo te vuelves [C] loca?\nLo [F] que tú estás dese[C]ando\nEs [G7] darle un beso en la [C] boca,\nTú [F] misma te estás ma[E]tando.\n\n## Verso 5\n[C] Si me quieres, si me [F] quieres díme[C]lo\nY [G7] no me estés enga[C]ñando.\nMás [F] vale dar una [C] pena\nQue [G7] mucha y estar ma[C]tando,\n[F] Eres pa mí una con[E]dena.\n\n## Verso 6\n[C] Juré, por mi madre [F] yo ju[C]ré\nQue a [G7] verte más no vol[C]vía.\nEl [F] juramento olvi[C]dé\nPorque [G7] en el alma sen[C]tía\nLo [F] que explicarme no [E] sé.\n\n## Verso 7\n[C] Estaba, estaba la [F] noche [C] clara\nY me a[G7]cordé yo de [C] ti.\nLas [F] lágrimas me ca[C]ían\nSa[G7]biendo que te per[C]dí,\nAunque [F] eso ya lo sa[E]bía.\n\n## Estribillo\n[E] Y desde entonces se [Am] bailan los fan[E]dangos,\nY desde [E7] entonces se [Am] bailan\nLos fan[E7]dangos de Santi[Am]ponce.\n\n## Verso 8\n[C] Las olas, las olas [F] del mar bra[C]vío\nSe es[G7]trellan contra las [C] rocas,\nI[F]gual que los besos [C] tuyos\nSe es[G7]trellan contra mi [C] boca,\nAy, [F] me estás quitando el sen[E]tío.\n\n## Verso 9\n[C] Amores, amores [F] que se han que[C]rido\nY que [G7] se ven por la [C] calle,\nO [F] se cambian de co[C]lor\nO [G7] se hacen un des[C]aire,\nPor [F] dentro sufren los [E] dos.\n\n## Verso 10\n[C] Canario, y en mi casa [F] hay un ca[C]nario\nQue [G7] canta cuando te [C] nombro,\nMira [F] si te nombra[C]ré\nQue hasta el [G7] canario está [C] ronco,\n[F] Mira si yo te que[E]rré.\n\n## Verso 11\n[C] Morenas, qué dulce [F] son las mo[C]renas,\nDulces [G7] como el cara[C]melo,\nY [F] yo que soy tan go[C]loso\nPor [G7] una morena me [C] muero,\nQué [F] dulces son las mo[E]renas.\n\n## Verso 12\n[C] Fandango, un fandango [F] sin gui[C]tarra,\nSin [G7] una copa de [C] vino,\nEs [F] como un jardín sin [C] flores,\nUn ma[G7]trimonio sin [C] hijos\nY una [F] niña sin amo[E]res.\n\n## Verso 13\n[C] Amores, amores [F] tienes con [C] otro,\nCon[G7]migo solo bro[C]mitas.\nSi [F] te quieres diver[C]tir\nCómprate [G7] un trompo con [C] guita\nY [F] no te acuerdes de [E] mí.\n"
   },
   {
+    "id": "farola-de-santa-cruz",
+    "title": "Farola de Santa Cruz",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/farola-de-santa-cruz.md",
+    "content": "---\ntitle: \"Farola de Santa Cruz\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[G]-[A] (bis)-[Dm]\n## Verso 1\nFAROLA DE SANTA CRUZ  (DE SANTA CRUZ)\nMARQUESA EN TU MARQUESINA [A7] (MARQUESA A TI)\nTANTAS NIEVES HECHIZADAS [Gm] (SIN GAS NI [A7] LUZ)\nHOY DESPIERTAS A LA VIDA (PARA [Dm] ALUMBRAR)\nPORQUE EL PUEBLO TE HA [A7] [Gm] BESADO\nY HA ROTO LA [D] HECHICERIA.\nFAROLA DE SANTA CRUZ,\nLINTERNITA [A] [G] CHICHARRERA,\n[Gm] SOLTERONA [A7] EMPEDERNIDA,\n[Gm] COQUETA DE LA [D] [A7] RIBERA.\nLA SEÑA DE LA PERICA\nLA LANZAS AL [A] [G] INFINITO,\n[Gm] COMO JUGANDO AL [A7] ENVITE\nCON [Gm] LOS PEJES Y [Dm] [A7] BARQUITOS.\n[Dm] TUS [A7] VIEJOS [Gm] ENAMORADOS [Dm] [A7] (EL [Dm] [A7] [Gm] LIMONAR)\nEN PORIS, TENO Y ANAGA (CON [A7] SU FULGOR)\nTE SALUDAN CADA [Gm] NOCHE (DE BLANCA [A7] LUZ)\n[Dm]\nCON SUS TRES LUCES CRUZADAS  (BESOS DE AMOR).\nTE SALUDAN CADA [A7] [Gm] NOCHE\nCON SUS TRES LUCES [D] CRUZADAS.\nPERO TU TE HACES LA CIEGA,\nMUY ESQUIVA Y [A] [G] REMOLONA;\nNO [Gm] SERA QUE TE [A7] CAMELA\nLA [Gm] VIEJA [D] [A7] LOCOMOTORA.\n[D]-[G]-[A]-[Gm]-[A7]-[Gm]-[A7]-[D]\nPERO TU TE HACES LA CIEGA,\nMUY ESQUIVA Y [A] [G] REMOLONA;\nNO [Gm] SERA QUE TE [A7] CAMELA\nLA VIEJA [D] LOCOMOTORA.\n"
+  },
+  {
     "id": "flaca-calamaro",
     "title": "Flaca",
     "artist": "Andrés Calamaro",
@@ -1296,6 +2147,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/flaca-calamaro.md",
     "content": "---\ntitle: \"Flaca\"\nartist: \"Andrés Calamaro\"\nkey: \"G\"\ncapo: 0\ntempo: 120\ntags: [\"rock\", \"pop\", \"argentina\", \"90s\"]\n---\n\n## Intro\n[G] [B7] [Em] [C] [G] [D] [G] [D]\n\n## Verso 1\n[G] Flaca, no me [B7] claves\nTus puñales [Em] por la espalda, [C]\nTan profundo [G] no me duelen, [D]\nNo me hacen [G] mal. [D]\n[G] Lejos, en el [B7] centro\nDe la tierra, [Em] las raíces [C]\nDel amor, [G] donde estaban [D]\nQueda[G]rán. [D]\n\n## Verso 2\n[G] Entre no-me-olvides me de[B7]jé nuestros abriles\nOlvi[Em]dados en el fondo del pla[C]card,\nEn el cuarto de invi[G]tados, [D]\nEran tiempos do[G]rados, un pasado me[D]jor.\n\n[G] Aunque casi me equivoco y te [B7] digo poco a poco:\nNo me [Em] mientas, no me digas la ver[C]dad,\nNo te quedes ca[G]llada, no levantes la [D] voz\nNi me pidas per[G]dón. [D]\n\n[G] Aunque casi te confieso que tam[B7]bién\nHe sido un perro compa[Em]ñero, un perro ide[C]al\nQue aprendió a la[G]drar y a volver al ho[D]gar\nPara poder co[G]mer. [D]\n\n## Coro\n[G] Flaca, no me [B7] claves\nTus puñales [Em] por la espalda, [C]\nTan profundo [G] no me duelen, [D]\nNo me hacen [G] mal. [D]\n[G] Lejos, en el [B7] centro\nDe la tierra, [Em] las raíces [C]\nDel amor, [G] donde estaban [D]\nQueda[G]rán. [D] [G]\n"
+  },
+  {
+    "id": "flor-marchita",
+    "title": "Flor marchita",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/flor-marchita.md",
+    "content": "---\ntitle: \"Flor marchita\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nEn cada hoja de un libro voy dibujando una flor\nque se parezca a tu cara en su encendido rubor\npero no lo he conseguido, el subir al altar\nrobarle una a la Virgen y así poderte cantar\nToma niña esta rosa plántala en tu balcón\nno la dejes se deshoja cuídala con amor\nsi la flor se marchita mi vida se acaba\nno juegues niña y dame la flor,\nsi la flor se marchita mi vida se acaba\nmátame antes que muera mi amor\nDe noche cuando me duermo sueño bendita ilusión\ntu a mi lado chiquita juntos paseando los dos\ntodas las noches los mismos no quiero yo mas soñar\nquiero que vengas conmigo y así poderte cantar\n## Estribillo\nToma niña esta rosa\n"
   },
   {
     "id": "fonseca",
@@ -1328,6 +2193,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Frenesí\"\nartist: \"Alberto Domínguez\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"chachachá\", \"clásico\"]\n---\n\n## Intro\n[G] [Em] [Am] [Dmaj7] (x2)\n\n## Verso 1\n[G] Bésame [Em] tú a [Am] mí,\n[Dmaj7] Bésame i[G]gual que mi [Em] boca te be[Am]só, [Dmaj7]\n[G] Dame el frene[Em]sí [Am]\n[D] Que mi lo[G]cura te [C#m] dio. [F#]\n\n## Verso 2\n[B] ¿Quién si no [G#m] fui [C#m] yo\n[F#] Pudo ense[B]ñarte el ca[G#m]mino [C#m] del a[F#]mor?\n[B] Muerta mi alti[G#m]vez, [C#m]\nCuando mi or[F#]gullo ro[B]dó a tus pies. [Dmaj7]\n\n## Coro\n[Am] Quiero que [Dmaj7] vivas solo para [Am] mí, [Dmaj7]\nY que tú [Am] vayas por [Dmaj7] donde yo voy,\n[Am] Para que mi [Dmaj7] alma sea nomás de [G] ti,\n[Bm] [A#m] [Am] Bésame con frene[Dmaj7]sí. [G]\n\n## Verso 3\n[Am] Dame la [Dmaj7] luz que tiene tu mi[Am]rar [Dmaj7]\nY la ansie[Am]dad que entre tus [Dmaj7] labios vi,\n[Am] Esa lo[Dmaj7]cura de vivir y a[G]mar,\n[Bm] [A#m] [Am] Que es más que a[Dmaj7]mor, frene[G]sí.\n\n## Puente\n[Bmaj7] Hay en el beso que te [C] di: alma, pie[Bmaj7]dad, corazón.\n[C] Dime qué sabes tú sen[Bmaj7]tir, [C] lo mismo que [Amaj7] siento [Dmaj7] yo.\n\n## Coro\n[Am] Quiero que [Dmaj7] vivas solo para [Am] mí, [Dmaj7]\nY que tú [Am] vayas por [Dmaj7] donde yo voy,\n[Am] Para que mi [Dmaj7] alma sea nomás de [G] ti,\n[Bm] [A#m] [Am] Bésame con frene[Dmaj7]sí. [G]\n\n## Puente\n[Bmaj7] Hay en el beso que te [C] di: alma, pie[Bmaj7]dad, corazón.\n[C] Dime qué sabes tú sen[Bmaj7]tir, [C] lo mismo que [Amaj7] siento [Dmaj7] yo.\n\n## Outro\n[Am] Quiero que [Dmaj7] vivas solo para [Am] mí,\nY que tú [Dmaj7] vayas por donde yo voy,\n[Am] Para que mi [Dmaj7] alma sea nomás de [G] ti,\nBésame con frene[Dmaj7]sí,\nBésame con frene[G]sí.\n[C#m] [F#] Bésame con frene[B]sí. [G#m]\n"
   },
   {
+    "id": "galopera",
+    "title": "Galopera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/galopera.md",
+    "content": "---\ntitle: \"Galopera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nEn un barrio de Asunción, gente viene, gente va;\nestá llamando el tambor: la galopa va a empezar.\nCon el sombrero llegó el patrón, señor San Blas.\nAmeniza la función la banda de Trinidad.\nDebajo de la enramada ya está formada la rueda\ny sale la galopera: la galopa va a empezar.\nLuciendo el fino alegraz, zarcillo de tres pendientes\nanillos siete ramales y rosario de coral.\nGalopera, baila tu danza hechicera.\nGalopera, va con su sombra de cuerda\nmeneando la cintura de su promesa de amor.\nLa morena galopera de la estirpe indio-latina\nva mostrando caminera sus dedos trenzas floridas.\nSobre su cabeza ergida lleva un cantaro nativo\nque le ofrece al peregrino la hermosa niña cuñá.\nGalopera, baila tu danza hechicera.\nGalopera, soy valiente soñado:\ndame un poco de agua fresca de tu cántaro de amor.\n"
+  },
+  {
+    "id": "gaudeamus-igitur",
+    "title": "Gaudeamus igitur",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/gaudeamus-igitur.md",
+    "content": "---\ntitle: \"Gaudeamus igitur\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n(A capella)\n\n## Verso 1\n[C] Gaude[G]amus [C] igi[F]tur,\n[C] juvenes dum [G7] sumus; [C]\n[C] Gaude[G]amus [C] igi[F]tur,\n[C] juvenes dum [G7] sumus; [C]\n[C] Post jucundam [G] juventutem,\n[C] post molestam [G] senectutem,\n[C] nos ha[F]bebit [C] humus, [G7]\n[C] nos ha[F]bebit [C] hu[G7]mus. [C]\n\n## Verso 2\n[C] Vita [G] nostra [C] brevis [F] est,\n[C] brevi fini[G7]etur; [C]\n[C] venit [G] mors ve[C]loci[F]ter,\n[C] rapit nos a[G7]trociter,\n[C] nemi[F]ni par[C]cetur, [G7]\n[C] nemi[F]ni par[C]ce[G7]tur. [C]\n\n## Verso 3\n[C] Vivat Aca[G]demia, [C]\n[F] vivant pro[C]fessores, [G7]\n[C] vivat [G] membrum [C] quodli[F]bet,\n[C] vivant membra [G7] quaelibet,\n[C] semper [F] sint in [C] flore, [G7]\n[C] semper [F] sint in [C] flo[G7]re! [C]\n"
+  },
+  {
     "id": "girl",
     "title": "Girl",
     "artist": "The Beatles",
@@ -1345,6 +2238,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Girl\"\nartist: \"The Beatles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"folk\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7] [Am] [Dm] [C] [E7] [Am]\n\n## Verso 1\n[Am] Is there anybody [E7] going to listen [Am] to my story\n[Dm] All about the girl who came to [C] stay? [E7]\n[Am] She’s the kind of girl you want so [E7] much it makes you [Am] sorry,\n[Dm] Still you don’t regret a single [Am] day.\n\n## Coro\n[C] Ah, [Em] girl! [Dm] [G7]\n[C] Girl! [Em] [Dm7] [G7]\n\n## Verso 2\n[Am] When I think of all the times I’ve [E7] tried so hard to [Am] leave her,\n[Dm] She will turn to me and start to [C] cry. [E7]\n[Am] And she promises the earth to [E7] me and I be[Am]lieve her,\n[Dm] After all this time I don’t know [Am] why.\n\n## Coro\n[C] Ah, [Em] girl! [Dm] [G7]\n[C] Girl! [Em] [Dm7] [G7]\n\n## Puente\n[Dm] She’s the kind of girl who puts you [A] down\nWhen friends are there you feel a [Dm] fool. [A]\n[Dm] When you say she’s looking good,\nShe [A] acts as if it’s understood, she’s [Dm7] cool,\n[F] Oh, oh, [C] oh...\n\n## Coro\n[Em] Girl! [Dm7] [G7]\n[C] Girl! [Em] [Dm]\n\n## Verso 3\n[Am] Was she told when she was young that [E7] pain would lead to [Am] pleasure,\n[Dm] Did she understand it when they [C] said [E7]\n[Am] That a man must break his back to [E7] earn his day of [Am] leisure?\n[Dm] Will she still believe it when he’s [Am] dead?\n\n## Coro\n[C] Ah, [Em] girl! [Dm] [G7]\n[C] Girl! [Em] [Dm7] [G7]\n\n## Outro\n[Am] [E7] [Am] [Dm] [C] [E7] [Am]\n"
   },
   {
+    "id": "granada",
+    "title": "Granada",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/granada.md",
+    "content": "---\ntitle: \"Granada\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[E]-[F]-[E] -[F]-[Dm]- [E]-[E]-[E]\nGRANADA, [C] TIERRA SOÑADA POR [Am] MI;\nMI CANTAR [Am] SE [G] VUELVE [C] GITANO\nCUANDO [F] ES PARA [E] TI.\nMI CANTAR [E] HECHO DE [E] [F] FANTASIA,\nMI CANTAR, [E] FLOR DE [F] MELANCOLIA,\nQUE YO TE [Dm] VENGO A [G] [E] [E] [E] DAR.\n[C] GRANADA, TIERRA ENSANGRENTADA\nEN TARDES DE [G] TOROS,\n[Dm] MUJER QUE CONSERVA [F] EL [G] EMBRUJO\nDE LOS OJOS [C] MOROS.\n## Verso 1\nTE SUEÑO REBELDE Y GITANA\nCUBIERTA DE [Em] FLORES,\nY [B7] BESO TU BOCA DE [Em] GRANA,\nJUGOSA [B7] MANZANA,\nQUE ME HABLA DE [Em] AMORES. [G] (AD LIBITUM)\nGRANADA\n[C] GRANADA, MANOLA CANTADA\nEN COPLAS [G] PRECIOSAS,\n[Dm] NO TENGO OTRA [F] COSA [G] QUE DARTE\nQUE UN RAMO DE [C] ROSAS.\nDE ROSAS DE [C7] SUAVE [F] FRAGANCIA\nQUE [Fm] LE DIERAN [C] MARCO\nA LA [G] VIRGEN [C] MORENA.\n[G#] GRANADA, TU [Fm6] TIERRA ESTA [C] LLENA\nDE LINDAS [G] MUJERES\nDE SANGRE Y DE [C] SOL.\n[C] DE [C] [G] [F] [Dm] [G] ROSAS...\n[G#] GRANADA, TU [Fm6] TIERRA ESTA [C] LLENA\nDE LINDAS [G] MUJERES\nDE SANGRE Y DE [C] [Fm] [C] SOL.\n"
+  },
+  {
     "id": "guantanamera",
     "title": "Guantanamera",
     "artist": "Tradicional",
@@ -1355,10 +2262,26 @@ export const DEFAULT_SONGS = [
       "latino",
       "folk",
       "fácil",
-      "clásico"
+      "clásico",
+      "tuna",
+      "español"
     ],
     "file": "canciones/guantanamera.md",
-    "content": "---\ntitle: \"Guantanamera\"\nartist: \"Tradicional\"\nkey: \"G\"\ncapo: 0\ntempo: 110\ntags: [\"latino\", \"folk\", \"fácil\", \"clásico\"]\n---\n\n// Una de las canciones más fáciles para empezar: sólo usa G - C - D\n\n## Coro\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n\n## Verso 1\n[G] Yo soy un [C] hombre sin[D]cero\n[G] De donde [C] crece la [D] palma\n[G] Yo soy un [C] hombre sin[D]cero\n[G] De donde [C] crece la [D] palma\n[G] Y antes de [C] morirme [D] quiero\n[G] Cantar mis [C] versos del [D] alma\n\n## Coro\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n\n## Verso 2\n[G] Mi verso es [C] de un verde [D] claro\n[G] Y de un car[C]mín encen[D]dido\n[G] Mi verso es [C] de un verde [D] claro\n[G] Y de un car[C]mín encen[D]dido\n[G] Mi verso es [C] un ciervo [D] herido\n[G] Que busca en [C] el monte a[D]mparo\n\n## Coro\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n"
+    "content": "---\ntitle: \"Guantanamera\"\nartist: \"Tradicional\"\nkey: \"G\"\ncapo: 0\ntempo: 110\ntags: [\"latino\", \"folk\", \"fácil\", \"clásico\", \"tuna\", \"español\"]\n---\n\n// Una de las canciones más fáciles para empezar: sólo usa G - C - D\n\n## Coro\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n\n## Verso 1\n[G] Yo soy un [C] hombre sin[D]cero\n[G] De donde [C] crece la [D] palma\n[G] Yo soy un [C] hombre sin[D]cero\n[G] De donde [C] crece la [D] palma\n[G] Y antes de [C] morirme [D] quiero\n[G] Cantar mis [C] versos del [D] alma\n\n## Coro\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n\n## Verso 2\n[G] Mi verso es [C] de un verde [D] claro\n[G] Y de un car[C]mín encen[D]dido\n[G] Mi verso es [C] de un verde [D] claro\n[G] Y de un car[C]mín encen[D]dido\n[G] Mi verso es [C] un ciervo [D] herido\n[G] Que busca en [C] el monte a[D]mparo\n\n## Coro\n[G] Guantanamera, [C] guajira [D] guantanamera\n[G] Guantanamera, [C] guajira [D] guantanamera\n"
+  },
+  {
+    "id": "habanera",
+    "title": "Habanera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/habanera.md",
+    "content": "---\ntitle: \"Habanera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nHA\n[A]-[E]-[A]-[A7]-[D]\n[A] [E] [Bm] [F#] [A] [Dm] L\nm\nDICEN LOS QUE NO HAN QUERIDO\nQUE NO SE MUERE DE [E] AMOR\nPERO SE VIVE MURIENDO\nY ASI ES COMO VIVO YO [A] [Am] (BIS)\n[A] CUANDO UNA CANARIA QUIERE\nA QUIEN LA SABE [E] QUERER\nDE TANTO QUERER SE MUERE\nY MUERTA QUIERE [A] TAMBIEN.\nTRISTE ES LA NOCHE EN EL MAR\n[A7] TRISTE ES LA NOCHE SIN [D] LUNA\n[Dm] PERO MAS TRISTE ES [A] AMAR\n[F#] SIN [Bm] ESPERANZA [A] [E] NINGUNA.\nTUVE UNA NOVIA [Am] CANARIA\nQUE AL MORIR SE [E] CONDENO\nPORQUE ME ENTREGO SU ALMA\nEN UN BESO QUE ME DIO [A] [Am] (BIS)\n[A] NO PUEDES NEGAR QUE TE AMO\nPORQUE TU PECHO [E] MANTIENE\nLA CARTA QU TE ESCRIBI\nY EL PAÑUELO QUE ME [A] TIENES\nBANERA\nA\nPERMITA DIOS AL IMPIO\n[A7] QUE BESE CON ANSIA [D] LOCA\n[Dm] HALLAR HUMEDA TU [A] BOCA\n[F#] DEL [Bm] ULTIMO BESO [A] [E] MIO.\nDE MI CORAZON AL [Am] TUYO\nVA PENDIENDO UNA [E] CADENA\nTODA LLENA DE SUSPIROS\n[Am]\n[A] DE SUSPIROS TODA LLENA (BIS)\n[A] UN BESO PROMETI DARTE\nQUE TU BOCA NO [E] MANCHARA\nY TE LO DI EN UNA COPLA\nMI PROMESA FUE [A] LOGRADA\nOJOS RASGADOS Y BELLOS\n[A7] NO ME MIREIS CON [D] ENOJO\n[Dm]\n[A] QUE NO HAY QUIEN MIRE A ESOS\n)OJOS\n[F#] QUE NO SE [Bm] ENAMORE [E] DE [A] ELLOS(BIS)\n"
   },
   {
     "id": "habaneras-de-cadiz",
@@ -1370,10 +2293,12 @@ export const DEFAULT_SONGS = [
     "tags": [
       "habanera",
       "copla",
-      "andaluz"
+      "andaluz",
+      "tuna",
+      "español"
     ],
     "file": "canciones/habaneras-de-cadiz.md",
-    "content": "---\ntitle: \"Habaneras de Cádiz\"\nartist: \"Carlos Cano\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"habanera\", \"copla\", \"andaluz\"]\n---\n\n## Intro\n[Am] [E] [Am] [E]\n\n## Verso 1\n[Am] Desde que estuve, niña, en La Habana\nNo se me puede olvi[E]dar,\nTanto Cádiz junto a mi ventana, tacita lejana,\nAquella mañana pude contem[Am]plar.\nLas olas de La Ca[Dm]leta, que es plata quieta,\nRompían contra las [Am] rocas de aquel paseo,\nQue al bambo[E7]leo de aquellas bocas\nAllí le llaman El Male[Am]cón.\nHabía coches de ca[Dm]ballos, que era por mayo,\nSonaban por la Ala[Am]meda, por Puerta Tierra,\nY me tra[E7]ían, ay, tierra mía,\nDesde mi Cádiz el mismo [Am] son.\nEl son de los [E7] Puertos, dulzor de gua[Am]yaba,\nCalabazas, [E7] huertos...\nAún pregunto quién me lo can[Am]taba.\n\n## Coro\n[Am] Que tengo un amor en La [E] Habana y el [Am] otro en Andalu[E]cía,\n[Am] No te he visto yo a ti, [E] tierra mía,\n[Am] Más cerca que la ma[G7]ñana que apa[C]reció en mi ven[F]tana\nDe La Ha[E]bana colonial.\n[F] Tó Cádiz, [E] la Catedral, [F] La Viña y [E] El Menti[F]dero, [E]\nY ve[A]rán que no exagero\nSi al can[E]tar la habanera re[A]pito:\nLa Ha[E7]bana es Cádiz con más negritos,\nCádiz, La Ha[E]bana con más sa[A]lero.\n\n## Verso 2\n[Am] Verán que tengo mi alma en La Habana\nNo se me puede olvi[E]dar,\nCanto un tango y es una habanera, la misma manera\nTan dulce y galana y el mismo com[Am]pás.\nPor la parte del Ca[Dm]ribe así se escribe\nCuando una canción de a[Am]mores, canción tan rica,\nSe la de[E7]dican los trovadores\nA una muchacha o a una ciu[Am]dad.\nY yo, Cádiz, te de[Dm]dico y te lo explico\nPor qué te canto este [Am] tango que sabe a mango,\nDe esta ma[E7]nera esta habanera\nDe piriñaca y de Carna[Am]val.\nSon de chiri[E7]gota, sabor de me[Am]laza,\nGuantánamo y [E7] Rota.\n¡Que lo canta ya un coro en la [Am] plaza!\n\n## Coro Final\n[Am] Que tengo un amor en La [E] Habana y el [Am] otro en Andalu[E]cía,\n[Am] No te he visto yo a ti, [E] tierra mía,\n[Am] Más cerca que la ma[G7]ñana que apa[C]reció en mi ven[F]tana\nDe La Ha[E]bana colonial.\n[F] Tó Cádiz, [E] la Catedral, [F] La Viña y [E] El Menti[F]dero, [E]\nY ve[A]rán que no exagero\nSi al can[E]tar la habanera re[A]pito:\nLa Ha[E7]bana es Cádiz con más negritos,\nCádiz, La Ha[E]bana con más sa[A]lero.\n"
+    "content": "---\ntitle: \"Habaneras de Cádiz\"\nartist: \"Carlos Cano\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"habanera\", \"copla\", \"andaluz\", \"tuna\", \"español\"]\n---\n\n## Intro\n[Am] [E] [Am] [E]\n\n## Verso 1\n[Am] Desde que estuve, niña, en La Habana\nNo se me puede olvi[E]dar,\nTanto Cádiz junto a mi ventana, tacita lejana,\nAquella mañana pude contem[Am]plar.\nLas olas de La Ca[Dm]leta, que es plata quieta,\nRompían contra las [Am] rocas de aquel paseo,\nQue al bambo[E7]leo de aquellas bocas\nAllí le llaman El Male[Am]cón.\nHabía coches de ca[Dm]ballos, que era por mayo,\nSonaban por la Ala[Am]meda, por Puerta Tierra,\nY me tra[E7]ían, ay, tierra mía,\nDesde mi Cádiz el mismo [Am] son.\nEl son de los [E7] Puertos, dulzor de gua[Am]yaba,\nCalabazas, [E7] huertos...\nAún pregunto quién me lo can[Am]taba.\n\n## Coro\n[Am] Que tengo un amor en La [E] Habana y el [Am] otro en Andalu[E]cía,\n[Am] No te he visto yo a ti, [E] tierra mía,\n[Am] Más cerca que la ma[G7]ñana que apa[C]reció en mi ven[F]tana\nDe La Ha[E]bana colonial.\n[F] Tó Cádiz, [E] la Catedral, [F] La Viña y [E] El Menti[F]dero, [E]\nY ve[A]rán que no exagero\nSi al can[E]tar la habanera re[A]pito:\nLa Ha[E7]bana es Cádiz con más negritos,\nCádiz, La Ha[E]bana con más sa[A]lero.\n\n## Verso 2\n[Am] Verán que tengo mi alma en La Habana\nNo se me puede olvi[E]dar,\nCanto un tango y es una habanera, la misma manera\nTan dulce y galana y el mismo com[Am]pás.\nPor la parte del Ca[Dm]ribe así se escribe\nCuando una canción de a[Am]mores, canción tan rica,\nSe la de[E7]dican los trovadores\nA una muchacha o a una ciu[Am]dad.\nY yo, Cádiz, te de[Dm]dico y te lo explico\nPor qué te canto este [Am] tango que sabe a mango,\nDe esta ma[E7]nera esta habanera\nDe piriñaca y de Carna[Am]val.\nSon de chiri[E7]gota, sabor de me[Am]laza,\nGuantánamo y [E7] Rota.\n¡Que lo canta ya un coro en la [Am] plaza!\n\n## Coro Final\n[Am] Que tengo un amor en La [E] Habana y el [Am] otro en Andalu[E]cía,\n[Am] No te he visto yo a ti, [E] tierra mía,\n[Am] Más cerca que la ma[G7]ñana que apa[C]reció en mi ven[F]tana\nDe La Ha[E]bana colonial.\n[F] Tó Cádiz, [E] la Catedral, [F] La Viña y [E] El Menti[F]dero, [E]\nY ve[A]rán que no exagero\nSi al can[E]tar la habanera re[A]pito:\nLa Ha[E7]bana es Cádiz con más negritos,\nCádiz, La Ha[E]bana con más sa[A]lero.\n"
   },
   {
     "id": "hallelujah",
@@ -1442,6 +2367,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Hit the Road Jack\"\nartist: \"Ray Charles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"r&b\", \"soul\", \"classic\", \"60s\", \"inglés\"]\n---\n\n## Intro\n[Am] [G] [F] [E7]\n\n## Coro\nHit the [Am] road [G] Jack and [F] don't you come [E7] back\nNo [Am] more, no [G] more, no [F] more, no [E7] more\nHit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]\n(What'd you say?)\nHit the [Am] road [G] Jack and [F] don't you come [E7] back\nNo [Am] more, no [G] more, no [F] more, no [E7] more\nHit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]\n\n## Verso 1\nOh [Am] woman, oh [G] woman, don't [F] treat me so [E7] mean\nYou're the [Am] meanest old [G] woman that I've [F] ever [E7] seen\nI [Am] guess if you [G] say so\nI'll [F] have to pack my [E7] things and go (that's right)\n\n## Coro\nHit the [Am] road [G] Jack and [F] don't you come [E7] back\nNo [Am] more, no [G] more, no [F] more, no [E7] more\nHit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]\n\n## Verso 2\nNow [Am] baby, listen [G] baby, don't you [F] treat me this [E7] way\n'Cause [Am] I'll be back on my [G] feet some[F]day [E7]\nDon't [Am] care if you [G] do 'cause it's [F] under[E7]stood\nYou ain't [Am] got no money, you [G] just ain't no [F] good [E7]\nWell, I [Am] guess if you [G] say so\nI'll [F] have to pack my [E7] things and go (that's right)\n\n## Coro\nHit the [Am] road [G] Jack and [F] don't you come [E7] back\nNo [Am] more, no [G] more, no [F] more, no [E7] more\nHit the [Am] road [G] Jack and [F] don't you come [E7] back no [Am] more [G] [F] [E7]\n"
   },
   {
+    "id": "hojas-muertas",
+    "title": "Hojas muertas",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/hojas-muertas.md",
+    "content": "---\ntitle: \"Hojas muertas\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n[Am] Oh, yo qui[D7]siera que te acor[G]daras\n[C] de aquellos [Am] días en que éramos [B7] felices;\n[Em] el sol brillaba con más ardor\ny las [Am] hojas del [B7] otoño ca[Em]ían.\n\n## Coro\nLas [Am] hojas [D7] muertas van cayen[G]do [C]\ncomo el re[Am]cuerdo [B7] de nuestro a[Em]mor;\ny el [Am] viento [D7] del norte las lle[G]va [C]\nhacia la [Am] noche [B7] del frío y del do[Em]lor.\n"
+  },
+  {
+    "id": "horas-de-ronda",
+    "title": "Horas de ronda",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/horas-de-ronda.md",
+    "content": "---\ntitle: \"Horas de ronda\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n(Estribillo):\nHoras de ronda de la alegre juventud\nQue abren al viento sus anhelos de inquietud\nSal niña hermosa sal pronto a tu balcón\nQue un estudiante te canta con pasión\nHoras de ronda que la noche guardará\nComo recuerdos que jamás se borrarán\nLa estudiantina te dice adiós mujer\nY no suspires que pronto ha de volver\n## Instrumental\nRasga el silencio de la noche una canción\nQue busca abrigo en un amante corazón\nHoras de ronda, rumor de capas\nY una letrilla que se enreda en un balcón\nTras los cristales una sombra femenina\nEscucha atenta temblorosa de emoción\n## Estribillo\nHOY ESTOY AQUÍ\n[F]-[C]-[F]-[C]-[F]-  [C]-[G7]-[C]-[G7]-  [E]-[Am]-[E]-[Am]\n[F]-[C]-      [G7]-[C]-[G7]   -[E]-[Am]\nHOY ESTOY AQUÍ [F] MAÑANA ME [C] VOY\n[F] PÁSADO [C] MAÑANA [E] DONDE ME [Am] ENCONTRARE\nHOY ESTOY [F] AQUÍ MAÑANA ME [C] VOY\n[F] PÁSADO [C] MAÑANA [E] DONDE ME [Am] ENCONTRARE\n[G]                                                              [C]\n"
+  },
+  {
     "id": "hotel-california",
     "title": "Hotel California",
     "artist": "The Eagles",
@@ -1457,6 +2410,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/hotel-california.md",
     "content": "---\ntitle: \"Hotel California\"\nartist: \"The Eagles\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"classic\", \"70s\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[Am] [E7] [G] [D] / [F] [C] [Dm] [E7] (2)\n\n## Verso 1\n[Am] On a dark desert highway, [E7] cool wind in my hair\n[G] Warm smell of colitas, [D] rising up through the air\n[F] Up ahead in the distance, [C] I saw a shimmering light\n[Dm] My head grew heavy and my sight grew dim, [E7] I had to stop for the night\n[Am] There she stood in the doorway, [E7] I heard the mission bell\n[G] And I was thinking to myself: \"This could be [D] Heaven or this could be Hell\"\n[F] Then she lit up a candle, [C] and she showed me the way\n[Dm] There were voices down the corridor, [E7] I thought I heard them say\n\n## Coro\n[F] Welcome to the Hotel Cali[C]fornia\nSuch a [E7] lovely place, such a [Am] lovely face\n[F] Plenty of room at the Hotel Cali[C]fornia\nAny [Dm] time of year, you can [E7] find it here\n\n## Verso 2\n[Am] Her mind is Tiffany-twisted, [E7] she got the Mercedes bends\n[G] She got a lot of pretty, pretty boys [D] she calls friends\n[F] How they dance in the courtyard, [C] sweet summer sweat\n[Dm] Some dance to remember, [E7] some dance to forget\n[Am] So I called up the Captain, [E7] \"Please bring me my wine.\"\nHe said, [G] \"We haven't had that spirit here since [D] 1969.\"\n[F] And still those voices are calling from [C] far away\n[Dm] Wake you up in the middle of the night, [E7] just to hear them say\n\n## Coro\n[F] Welcome to the Hotel Cali[C]fornia\nSuch a [E7] lovely place, such a [Am] lovely face\nThey [F] livin' it up at the Hotel Cali[C]fornia\nWhat a [Dm] nice surprise, bring your [E7] alibis\n\n## Verso 3\n[Am] Mirrors on the ceiling, [E7] the pink champagne on ice\nAnd she said: [G] \"We are all just prisoners here, [D] of our own device\"\n[F] And in the master's chambers, [C] they gathered for the feast\n[Dm] They stab it with their steely knives, but they [E7] just can't kill the beast\n[Am] Last thing I remember, I was [E7] running for the door\n[G] I had to find the passage back to the [D] place I was before\n[F] \"Relax,\" said the night man, \"we are [C] programmed to receive\n[Dm] You can check-out any time you like, [E7] but you can never leave!\"\n\n## Solo\n[Am] [E7] [G] [D] / [F] [C] [Dm] [E7] (4)\n"
+  },
+  {
+    "id": "hoy-estoy-aqui",
+    "title": "Hoy estoy aquí",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/hoy-estoy-aqui.md",
+    "content": "---\ntitle: \"Hoy estoy aquí\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nCARTITAS RECIBIRASRETRATOS TE MANDARÉ\n[F] PERO A MI [C] PERSONA [E] NUNCA LA [Am] TENDRÁS\n[F] PERO A MI [C] PERSONA [E] NUNCA LA [Am] TENDRÁS\n## Instrumental\n[F]-[C]-      [G7]-[C]-[G7]   -[E]-[Am]\nMAÑANA ME [F] VOY A LA [C] GUARNICION\n[F] SOLDADO [C] SERÉ, [E] DAME TU [Am] BENDICION\nMAÑANA ME [F] VOY A LA [C] GUARNICION\n[F] SOLDADO [C] SERÉ, [E] DAME TU [Am] BENDICION\nCARTITAS [G] RECIBIRASRETRATOS TE [C] MANDARÉ\n[F] PERO A MI [C] PERSONA [E] NUNCA LA [Am] TENDRÁS\n[F] PERO A MI [C] PERSONA [E] NUNCA LA [Am] TENDRÁS\n[E]-[Am]\n"
   },
   {
     "id": "hoy-gloria-estefan",
@@ -1540,6 +2507,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"I'm Yours\"\nartist: \"Jason Mraz\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"acoustic\", \"2000s\", \"inglés\"]\n---\n\n## Intro\n[G] [D] [Em] [C]            [C] [G] [Am] [F]\n\n## Verso 1\n[G] Well, you done done me and you bet I felt it\n[D] I tried to be chill but you're so hot that I melted\n[Em] I fell right through the cracks,\n[C] And I'm trying to get back\n[G] Before the cool done run out, I'll be giving it my bestest\n[D] And nothing's gonna stop me but divine intervention\n[Em] I reckon it's again my turn [C] to win some or learn some\n\n[G] But, I won't hesitate no more, no more, [D] it cannot wait I'm yours\n\n[G] Well, open up your mind and see like me\n[D] Open up your plans and damn you're free\n[Em] Look into your heart and you'll find [C] love, love, love, love\n[G] Listen to the music of the moment\n[D] People dance and sing we're just one big family,\n[Em] It's your God-forsaken right [C] to be loved, loved, loved, loved\n\n[G] So, I won't hesitate no more, no more, [D] it cannot wait I'm sure\n[Em] There's no need to complicate [C] our time is short, [G] this is our fate, [D] I'm yours\n\n[G] I've been, spending way too long, checking my tongue in the mirror\n[D] And bending over backwards, just to try to see it clearer\n[Em] But my breath fogged up the glass, [C] and so I drew a new face and I laughed\n[G] I guess what I be saying, is there ain't no better reason\n[D] To rid yourself of vanities and just go with the seasons\n[Em] It's what we aim to do, [C] our name is our virtue\n\n[G] But I won't hesitate no more, no more, [D] it cannot wait, I'm yours\n\n[G] I *won't hesitate no more,\n[D] No more, it cannot wait, I'm sure\n[Em] There's no need to complicate,\n[C] Our time is short, this is our fate,\n[G] I'm yours (bis)\n\n*[G] Well, open up your mind and see like me\n[D] Open up your plans and damn you're free\n[Em] And look into your heart and you'll find [C] that the sky is yours\n[G] So please don't, please don't, please don't\n[D] There's no need to complicate, 'cause our time is short\n[Em] this oh, this oh, [C] this is our fate, [G] I'm yours (2)\n"
   },
   {
+    "id": "imagenes-de-ayer",
+    "title": "Imágenes de ayer",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/imagenes-de-ayer.md",
+    "content": "---\ntitle: \"Imágenes de ayer\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[B7]-[E] (bis)-[E7]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E]\nRECUERDO UNA CANCION [E] QUE [B7] CANTABAMOS [E7] [E] ENTONCES,\nHABLABA DE UN BALCON [A] ADORNADO [C#] CON [F#m] FAROLES;\nRECUERDO AQUEL [B7] PARDILLO QUE NO PARABA DE [C#m] [E] LLORAR,\nRECUERDO UNAS [F#m] MUJERES QUE NO ESTABAN [F#] NADA [B7] MAL.\nRECUERDO COMO [E] AYER LOS MIL [B7] PARCHES SIEMPRE [E7] [E] JUNTOS,\nCANSADOS DE VIVIR [C#] [A] AVENTURAS POR EL [F#m] MUNDO;\nRECUERDO AQUEL [B7] PRELUDIO DE AMOR QUE EMPEZO EN UN [C#m] [E] CANTAR,\nRECUERDO AQUELLA [F#m] FLOR QUE NO TARDASTE [F#] EN [B7] DESHOJAR.\n## Verso 1\nPERO QUIERO VOLVER  (PERO QUIERO VOLVER)\nA VIVIR AQUELLOS TIEMPOS, (A [E] CONOCER)\nIMAGENES DE AYER (LA ILUSION [B7] QUE SENTI)\nQUE ESTAN EN MI PENSAMIENTO. [E7] [E] (AL CANTA)\n[A] Y QUIERO REVIVIR (QUIERO REVIVIR)\nPORQUE AUN SOY UN [B7] GALANTE (UN [E] NUEVO ABRIL)\nY MIENTRAS EL CUERPO [C#] AGUANTE (CON [F#m] MI GUITARRA)\nSERE TUNO HASTA MORIR. (A [B7] ENAMORAR)\n[B7]-[E] (bis) -[E7]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E]\n[E7]-[A]-[B7]-[E]-[C#m]-[F#m]-[B7]-[E]\nHOY VUELVO A [E] RECORDAR AQUELLAS [B7] JUERGAS DE [E7] [E] ANTAÑO\nQUE EL TIEMPO NO HA [A] LOGRADO BORRAR [C#] EN TANTOS [F#m] AÑOS;\nRECUERDO AQUELLA [B7] RONDA DE AMOR DEBAJO DE UN [C#m] [E] BALCON,\nAL SON DE NUESTRAS [F#m] VOCES SE RINDIO [F#] TU [B7] CORAZON.\nTODO ELLO VUELVE A [E] MI EN [B7] ESTA NOCHE DE [E7] [E] LUNA\nCANTANDO MI [A] GUITARRA [C#] CANCIONES DE LA [F#m] TUNA;\nLAS LAGRIMAS ME [B7] INVADEN AQUI, SENTADO EN MI [C#m] [E] SILLON,\nY ME PONGO A [F#m] LLORAR RECORDANDO [F#] MI [B7] ILUSION.\n"
+  },
+  {
     "id": "imagine",
     "title": "Imagine",
     "artist": "John Lennon",
@@ -1556,6 +2537,76 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/imagine.md",
     "content": "---\ntitle: \"Imagine\"\nartist: \"John Lennon\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"70s\", \"classic\", \"himno\", \"inglés\"]\n---\n\n## Intro\n[C] [Cmaj7] [F] (2)\n\n## Verso 1\n[C] Imagine there's no [Cmaj7] heaven [F]\n[C] It's easy if you [Cmaj7] try [F]\n[C] No hell be[Cmaj7]low us [F]\n[C] Above us only [Cmaj7] sky [F]\n[F] Imagine [Am] all the [Dm] people [F]\n[G] Living for to[G7]day, a-hah\n\n## Verso 2\n[C] Imagine there's no [Cmaj7] countries [F]\n[C] It isn't hard to [Cmaj7] do [F]\n[C] Nothing to kill or [Cmaj7] die for [F]\n[C] And no religion [Cmaj7] too [F]\n[F] Imagine [Am] all the [Dm] people [F]\n[G] Living life in [G7] peace, yoo-hoo\n\n## Coro\n[F] You may [G] say I'm a [C] dreamer [E7]\n[F] But I'm [G] not the only [C] one [E7]\n[F] I hope some[G]day you'll [C] join us [E7]\n[F] And the [G] world will [C] be as one\n\n## Verso 3\n[C] Imagine no pos[Cmaj7]sessions [F]\n[C] I wonder if you [Cmaj7] can [F]\n[C] No need for greed or [Cmaj7] hunger [F]\n[C] A brotherhood of [Cmaj7] man [F]\n[F] Imagine [Am] all the [Dm] people [F]\n[G] Sharing all the [G7] world, yoo-hoo\n\n## Coro\n[F] You may [G] say I'm a [C] dreamer [E7]\n[F] But I'm [G] not the only [C] one [E7]\n[F] I hope some[G]day you'll [C] join us [E7]\n[F] And the [G] world will [C] live as one\n"
+  },
+  {
+    "id": "ingenieros",
+    "title": "Ingenieros",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/ingenieros.md",
+    "content": "---\ntitle: \"Ingenieros\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[E]-[A] (ter)-[D]-[A]-[E]-[A] (bis)\nVA CAYENDO YA LA NOCHE [A] EN LA CIUDAD\nY SE ACERCA LA ALEGRE [E] ESTUDIANTINA,\n## Verso 1\nEL PANDERO VA MARCANDO YA EL COMPAS\nA LOS TUNOS DEL PINGUINO Y LA [A] GALLINA.\nLAS MUJERES TODAS LOQUITAS YA\nAL SENTIR QUE BAJO SU [A7] BALCON [D] PASAMOS\nY CELOSAS, TEMEROSAS, [A] TEMBLOROSAS,\nSE LES [F#m] HACE EL CULO [Bm] GASEOSA\nANTE [E] ESTAS TRAVESURAS QUE [A] CANTAMOS.\nLA DE [A] INGENIEROS LLEGO,\nCANTANDO VA, Y SU ALEGRIA EN LA CIUDAD [E] DEJO,\nY UN [Bm] TUNO CON AIRE [E] VACILON\nTE ROBARA EL CORAZON, [A] ¡MUJER!\nDEJATE [A] AMAR POR EL\nY LLEGARAS A ENLOQUECER [A7] DE [D] AMOR,\nY SENTIR LA VIDA [E] LLENA DE [F#m] [A] COLORES,\nDE ALEGRIA [Bm] Y BUEN [A] [E] HUMOR.\n[Bm] [E] [A] DEJATE [A] [E] AMAR...\n...DE [Dm] ALEGRIA [E] Y BUEN [A] [E] [A] HUMOR.\n"
+  },
+  {
+    "id": "isa-de-candidito",
+    "title": "Isa de Candidito",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/isa-de-candidito.md",
+    "content": "---\ntitle: \"Isa de Candidito\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[G] ASÓMATE A LA VENTANA, CARA DE LUNA [D7] [C] REDONDA\nQUE EL LUCERO QUE TE NOMBRA, LUCERO DE LA [G] MAÑANA\nASÓMATE A LA VENTANA, CARA DE REDONDA [D7] [C] LUNA\nQUE EL LUCERO QUE TE ALUMBRA, LUCERO DE LA [G] MAÑANA\n[C]                                                     [D7]  [Cm]  [D7]  [Cm]\nPARA QUÉ ME [D7] ACARICIASTE, DICIENDO QUE\nDICIENDO QUE ME [G] QUERIAS\nSI EN TU PECHO SE [C] ENCONTRABA OTRO [D7] HOMBRE [D7] [Cm] [D7] [Cm] QUE\nOTRO HOMBRE QUE ME [G] OFENDIA\nOTRO [C] HOMBRE QUE ME OFENDÍA [Cm] [D7] DICIENDO [D7] [Cm] [D7] QUE\nDICIENDO QUE TE [C] [G7] [G] QUERIA\nPARA QUE ME QUIERES PARA QUE, PARA QUE ME [G] [F] ENGAÑAS\nPARA QUE [G7] ME DICES QUE VUELVA [C] MAÑANA.............(BIS)\nY SI QUIERES QUE TE QUIERA SIN QUE NADIE ME LLEGASE [G7] A COMPRENDER\nCUANDO QUIERAS TE PREPARAS [G7] QUE YO SIEMPRE ESTOY DISPUESTO PA [C] CORRER\nVIVAN LAS CANCIONES DEL TEROL, VIVA LA [G7] [F] ALEGRÍA\nEN LA CALLE DEL CORREO ME COMPRE UNA [C] ZAPATILLA\nZAPATILLA DE [C7] CHAROL Y UN [F] DELANTAL\nY UN VESTIDO [G] BLANCO Y UNA PAÑOLETA [G7] PARA EL [C] CARNAVAL\n"
+  },
+  {
+    "id": "isa-parrandera",
+    "title": "Isa parrandera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/isa-parrandera.md",
+    "content": "---\ntitle: \"Isa parrandera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nISA PA\nINTROD\n[D]                               [A7]            [G]             [A7]\nESTA ES LA ISA [D] CANARIA, [D7] DIVERTIDA Y PARRANDERA\n[B7]                       [Em]                            [D]          [A7]\nY YO TENDRÉ QUE CANTARLA [D] HASTA EL DÍA EN QUE ME\nMUERA\n[A7]              [G]        [A7]\nQUE BIEN SE SIENTE [D] UN [D7] CANARIO, CON EL RUMOR DE\nLA BRISA\n[B7]                                   [Em]                           [D]\nEL ARRULLO DE LAS [A7] OLAS Y [D] CUANDO CANTA UNA ISA\n(SOLO)\nSEÑORES YO SOY DEL [A7] [G] CAMPO\nTENGO LA PATA RAJADA [D] (BIS)\nY PARA CANTAR [G] LA [A7] ISA\nTENGO LA BOCA [D] SALADA\nTENGO LA BOCA [A7] [G] SALADA\nSEÑORES YO SOY DEL [D] CAMPO\n(TODOS)\nEL QUE PIERDE UN BURRO Y [G] GANA UNA [A7] CABRA\nCUATRO PATAS PIERDE CUATRO PATAS [D] GANA\nCUANDO LOS DE ARANA PERDIERON [G] LA [A7] BURRA\nPARA UNOS DESGRACIA PARA OTROS [D] FORTUNA\n[Gm]            [D]                             [A]\nCON EL TANGANILLO [D] MADRE, CON EL TANGANILLO,\nMADRE\nRRANDERA\nUCCIÓN:   Re  La7ª\nCON [Gm] EL [D] TANGANILLO MADRE, CON [A] EL [D] TANGANILLO,\nMADRE\nAL TANGANILLO [D] MADRE, QUE [A] AL [G] [D7] TANGANILLO\nQUE AL TANGANILLO, QUE AL TANGANILLO\nQUE UNA PULGA SALTANDO ROMPIÓ [D7] UN [G] LEBRILLO\nQUE ROMPIÓ UN [D7] LEBRILLO [G] QUE ROMPIÓ UN [G] [D7] LEBRILLO\nY ESO ES MENTIRA [C] MADRE ESO [G7] ES [C] MENTIRA\nQUE ESO [G7] ES [C] MENTIRA, QUE ESO ES [C] [G7] MENTIRA\nQUE UNA PULGA SALTANDO NO [G7] LO [C] ROMPÍA\nQUE NO [G7] LO ROMPIA [C] QUE NO LO [C] [G7] ROMPÍA\nY A LA [G] FUENTE MI NIÑA SOLA [D7] NO [G] VAYAS\nQUE SOLA [D7] NO [G] VAYAS QUE SOLA [D7] NO [G] VAYAS\nPOR QUE EL MAGO ES MUY BRUJO Y TODO LO [G] [D7] ESTRALLA\nTODO [D7] LO ESTRALLA, [G] TODO LO [G] [D7] ESTRALLA\n## Instrumental\nQUIERO VIVIR EN [G] CANARIAS [D7] TIERRA DONDE YO NACÍ\nDONDE MURIERON MIS PADRESDONDE YO QUIERO MORIR\nYO QUIERO MORIR, YO QUIERO MORIR YO QUIERO MORIR\nEN CANARIAS YO QUIERO MORIR\nEN CANARIAS MORIR.....\n...CANARIAS...\n"
+  },
+  {
+    "id": "islas-canarias",
+    "title": "Islas Canarias",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/islas-canarias.md",
+    "content": "---\ntitle: \"Islas Canarias\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D] Ay! Canarias. La tierra de mis [Gm] amores.\n[A] Ramo [A] de flores que [Dm] brotan de [A7] la [A7] [Dm] mar.\n[Dm] Vergel [Gm] de [A7] belleza sin [Dm] par\n[Gm] son nuestras [A#] Islas [A7] Canarias\n[A#] que hacen despierto [A7] soñar\n[Gm] [D] Jardín [A7] ideal siempre [Dm] en flor\n## Verso 1\n.SOLm     DO7      FA\nSon tu mujeres las rosas\n[A7] luz del cielo y [D] del [A7] amor.\nEL [D] CORAZÓN DE LOS [G] GUANCHES [A7] (coros) Y MURMULLO DE LA [D] BRISA.(BIS)\n[Dm] SUSPIRAN TODOS [Gm] AMANTES [A7] (coros) POR EL AMOR DE UNA [D] ISA.(BIS)\n[D] Desde la cumbre [A7] [G] bravía\nhasta el mar que nos abraza. [D] (BIS)\n[Dm] No hay tierra como [Gm] la [A7] mia\nni raza como mi [D] raza.(BIS)\nSiete estrellas [G] brillan en la [A7] mar\nEl agua del hielo y [D] samaran\nqueoda, [G] algares y [A7] alquinque\nAlboranza y Gomera [D] también\n[Dm] AY! MIS SIETE ISLAS [A7] CANARIAS CON EL PICO TEIDE DE [Dm] GUARDIÁN.\n[A7]\nSON SIETE HERMOSOS CORAZONES [Dm] QUE PALPITAN AL MISMO COMPÁS.\nSOLm      LA7         REdis\nMis siete Islas Canarias.\n"
+  },
+  {
+    "id": "jamas",
+    "title": "Jamás",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "B",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/jamas.md",
+    "content": "---\ntitle: \"Jamás\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"B\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nSi quieres separar (separar)\nnuestro destino\nya nunca me verás (jamás, jamás, jamás)\nen tu camino\ntú vivirás sin mí\nyo moriré sin ti\ny es mi destino\nmas nunca me verás (jamás, jamás, jamás)\nen tu camino\nYo no regresaré (jamás, jamás)\na ver qué cosa fue (de ti, de ti)\ntú nunca me verás (jamás, jamás, jamás)\nnunca jamás\nSi quieres separar (separar)\nnuestro destino\nya nunca me verás (jamás, jamás, jamás)\nen tu camino\ntú vivirás sin mí\nyo moriré sin ti\ny es mi destino\nmas nunca me verás (jamás, jamás, jamás)\nen tu camino\nJamás,\njamás, jamás, jamás\n"
   },
   {
     "id": "jardin-de-rosas",
@@ -1586,6 +2637,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/junto-al-jaguey.md",
     "content": "---\ntitle: \"Junto al jagüey\"\nartist: \"Juan Vicente Torrealba\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"pasaje\", \"venezolano\", \"folklore\"]\n---\n\n## Verso 1\n> * En Venezuela: pozo o zanja llena de agua.\n\n[Dm] [Am] [E7] [A#] [A7] [Dm] [Am] [E7] [Am]\n[Am] [E7] [Am]\n\n[Am] Cantando con tu re[E7]cuerdo, florece, mi cora[Am]zón\nLa brisa mañanera como [E7] yo te besa,\nTe besan las espigas como [Am] yo, mi amor\n\n[A7] Cuando no vienen tus [Dm] besos hacia los [G7] míos [C]\nLa [Am] palma entera se [E7] llena de sole[Am]dad\n[A7] Por eso quisiera mi [Dm] dulce amada, [G7] besarme contigo junto al pal[C]mar\n[Am] Besarme con[E7]tigo junto al pal[Am]mar\n\n[A7] Cuando no vienen tus [Dm] besos hacia los [G7] míos [C]\nEl [Am] agua toda se [E7] queda sin tu que[Am]rer\n[A7] Por eso quisiera mi [Dm] dulce amada, [G7] besarme contigo junto al jagü[C]ey\n[Am] Besarme con[E7]tigo junto al jagü[Am]ey\n\n[Dm] Tiene la ternura [Am] para mi canción, [E7] por eso más, te quiero [Am] yo\n\n[G7] Cantando con tu re[C]cuerdo, [G7] florece, mi cora[C]zón\n[G7] La brisa mañanera como [C] yo, te besa\n[G7] Te besan las espigas como [C] yo, mi amor\n\n[C] [G7] [C] [Am] [A7] [Dm] [G7] [C]\n\n[Am] Cuando no vienen tus [E7] besos hacia los [Am] míos [A7]\nLa [Dm] palma entera se [G7] llena de sole[C]dad\nPor [Am] eso quisiera mi [E7] dulce amada, besarme con[Am]tigo junto al palmar\n\n[Am] Cuando no vienen tus [A7] besos hacia los [Dm] míos [G7] [C]\nEl [Am] agua toda se [E7] queda sin tu que[Am]rer [A7]\nPor [Dm] eso quisiera mi [G7] dulce amada, [C] besarme contigo junto al jagüey\n\n[Dm] Tiene la ternura [Am] para mi canción, [E7] por eso más, te quiero [Am] yo\n"
+  },
+  {
+    "id": "jurame",
+    "title": "Júrame",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/jurame.md",
+    "content": "---\ntitle: \"Júrame\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n[Dm] Todos dicen que es mentira que te quiero,\nporque nunca me han oído enamo[Gm]rado;\ny no saben que yo guardo en mi se[A7]creto\neste amor que de rodillas te he ju[Dm]rado.\n\n## Coro\nJúra[D7]me que aunque pase mucho [Gm] tiempo,\nno olvi[C7]darás el momento en que te co[F]nocí.\nMíra[Bb]me, que no hay nada más pro[Gm]fundo\nni más [A7] grande en este mundo que mi amor por [Dm] ti.\n\nBésa[D7]me, con un beso enamo[Gm]rado,\ncomo si [C7] fuera el primero que me diste [F] ayer.\nBésa[Bb]me, y no tengas nunca [Gm] miedo,\nque te [A7] juro que por siempre te he de que[Dm]rer.\n"
   },
   {
     "id": "knockin-on-heavens-door",
@@ -1683,6 +2748,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"La bombona de butano\"\nartist: \"Popular\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"rumba\", \"popular\", \"humor\"]\n---\n\n## Intro\n[E] [F] [E] (2) [Am] [G] [F] [E]\n\n## Estribillo\n[E] Ay métela, métela, métela muy rápidamente\n[Am] La bombona de butano,\n[G] Que necesito agüita [E] caliente. (2)\n\n## Verso 1\n[E7] Ay dígame usted señora,\n[A] Dónde quiere que se la meta,\n[E] Debajo de la escalera\n[B7] O bien detrás de la [E] puerta.\n\n## Estribillo\n[E] Ay métela, métela, métela muy rápidamente\n[Am] La bombona de butano,\n[G] Que necesito agüita [E] caliente.\n"
   },
   {
+    "id": "la-calesera",
+    "title": "La calesera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-calesera.md",
+    "content": "---\ntitle: \"La calesera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nDi mujer, si te debo esperar pero yo, ya me muero por ti\n¡ay paloma gentil que me vas a matar  y te vas a quedar tu desprecio sin mi!\nDi mujer, si te debo esperar pero yo, ya me muero por ti\n¡ay paloma gentil que me vas a matar  y te vas a quedar tu desprecio sin mi!\nDetrás de las guitarras, se esconden los anhelos\nque brillan como rayos cuando están en los ojos de un hombre sincero\nTú; no quieres querer al chispero que dice embustero palabras de amor,\nni te gustan los hombres de plante  que s'echan p'alante fingiendo valor.\nTu desprecio tampoco me gusta y a veces me asusta como un espadín\ntu sonrisa tampoco la quiero, porque entre tus labios se tiene mal fin.\nInterludio musical.\nTú; no quieres querer al chispero que dice embustero palabras de amor,\nni te gustan los hombres de plante  que s'echan p'alante fingiendo valor\n.\nYo te pido mujer mi cariño que mires de frente mi desilusión\ny si puedes derrames un beso que vuele a lo alto donde mi canción\ny si puedes derrames un beso que vuele a lo alto donde mi canción.\nCALLES SIN RUMBO\n"
+  },
+  {
     "id": "la-casa-por-el-tejado",
     "title": "La casa por el tejado",
     "artist": "Fito & Fitipaldis",
@@ -1729,6 +2808,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"La colegiala\"\nartist: \"Rodolfo Aicardi\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"cumbia\", \"latino\", \"bailable\"]\n---\n\n## Intro\n[Am] [G] [Am] [G]\n\n## Verso 1\n[Am] Hoy te he visto con tus libros cami[G]nando,\nY tu carita de coqueta, cole[Am]giala de mi amor.\nTú sonríes sin pensar que al mi[G]rarte,\nSolo por ti estoy sufriendo, cole[Am]giala de mi amor.\n\n## Coro\nCole[G]giala, colegiala, colegiala, linda cole[Am]giala,\nCole[G]giala no seas tan coqueta,\nCole[Am]giala ven dime que sí.\nCole[G]giala, colegiala, colegiala, linda cole[Am]giala,\nCole[G]giala no seas tan coqueta,\nCole[Am]giala ven dime que sí.\n\n## Verso 2\n[Am] Hoy te he visto con tus libros cami[G]nando,\nY tu carita de coqueta, cole[Am]giala de mi amor.\nTú sonríes sin pensar que al mi[G]rarte,\nSolo por ti estoy sufriendo, cole[Am]giala de mi amor.\n\n## Coro Final\nCole[G]giala, colegiala, colegiala, linda cole[Am]giala,\nCole[G]giala no seas tan coqueta,\nCole[Am]giala ven dime que sí.\nCole[G]giala, colegiala, colegiala, linda cole[Am]giala,\nCole[G]giala no seas tan coqueta,\nCole[Am]giala ven dime que sí.\n"
   },
   {
+    "id": "la-concha",
+    "title": "La concha",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-concha.md",
+    "content": "---\ntitle: \"La concha\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nINTRDUCCION : IDEM ESTRIBILLO\nMAÑANA CUANDO TE [E] ALEJES\nVIAJERA DE LA [Dm] [Am] ILUSION\nQUE VOY A HACER SI [E] [Am] CONTIGO\nTE LLEVAS MI [Am] CORAZON\nUNA CONCHA [E] ESTALLORANDO\nPORQUE LA PERLA [Dm] [Am] PERDIO\nQUE HARAN MIS OJOS [Am] MAÑANA\nCUANDO [F] TE DIGAN [A] [E] ADIOS\nPOR TODO LO QUE MAS [E] QUIERAS, DIME QUE [A] SI,\nPOR TU MADRECITA [E] BUENA, DIME QUE [A] SI.\nQUE ME VAS A QUERER [E] TANTO, DIME QUE [Dm] [Am] SI,\nQUE ME VAS A QUERER [Am] TANTO\nCOMO [F] YO TE [E] QUIERO [Am] A TI.\n[E]-[Am]-[Dm]-[Am]-[E]-[Am]\nPORQUE HAN [E] PASADO LAS HORAS\nY LA BARCA NO [Dm] [Am] VOLVIO\nESTA LLORANDO EN EL [Am] PUERTO\nLA NOVIA [F] DEL [A] [E] PESCADOR.\n"
+  },
+  {
+    "id": "la-dolores",
+    "title": "La Dolores",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-dolores.md",
+    "content": "---\ntitle: \"La Dolores\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nLA FLOR DE [Am] CALATAYUD.\nY UNA JOTICA [G7] RECORRIO [C] ESPAÑA\n[G7]\n[C] PREGON DE INFAMIA DE UNA MUJER\n## Verso 1\nM\n[Am] MAS EL BUEN NOMBRE DE AQUELLA\nMAÑA\n[Dm] YO TENGO QUE [E] DEFENDER.\nRecitado:\n[Am]\n[E] LA DOLORES DE LA COPLA, ME DIJO\nUN DIA MI PADRE,\n[F]\n[G] FUE [F] ALEGRE [E] PERO FUE BUENA, FUE\nMI MUJER, FUE MI MADRE\nSI VAS A CALATAYUD  (SOLISTA)\nSI VAS A [E7] CALATAYUD\nPREGUNTA POR LA [A] DOLORES\nQUE UNA COPLA LA [E7] MATO\nDE VERGUENZA Y [A] SINSABORES\nLORES\nDI QUE TE LO DIGO YO [E] (SOLISTA)\nEL HIJO DE LA [A] [E] [A] DOLORES.\n[A]-[E]-[A]  (bis)\n[A]\n[E7] CUENTA LA GENTE DE MALA LENGUA\nI [A] QUE POR LA CALLE ME VEN PASAR\n[Am]\n[E7] NO SABES TU MADRE QUIEN ERA\nDOLORES LA DEL [Am] CANTAR\n[G7] YO LA QUERIA, CON AMOR [C] BUENO\n[G7]\nMAS [C] LA CALUMNIA LA DIFAMO.\n[E]                           [Am]\n[Dm] Y NO SUPO, [F] AQUELLA MAÑA, [E] QUE LA\nMALDAD LA MATO\nRECITADO:\n[Am]\n[E] SI VAS A CALATAYUD, PREGUNTA POR\nLA JOAQUINA,\n[F]\n[E] QUE HACE DOS DE LA DOLORES, Y\nADEMAS TE DA PROPINA.\nSI VAS A CALATAYUD...\n"
+  },
+  {
+    "id": "la-feria",
+    "title": "La feria",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-feria.md",
+    "content": "---\ntitle: \"La feria\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A]\n[G]-[C]-[E7]-[Am] (bis)-[A7]-[Dm]-\nTERMINA [E7] LA FERIA\nESTA NOCHE SIN [Am] LUNA;\nTERMINAN LOS [G] BAILES\nCON SUSPIROS DE [C] AMOR.\nTRANQUILO ESTA EL [E7] VALLE\nESTA NOCHE SIN [Am] LUNA,\nY LAS ALMAS [G] OCULTAN\nALEGRIAS Y [C] LLANTOS\nDENTRO [E7] DEL [Am] CORAZON.\n[G] AY, AY, AY, [C] AY,\n[E7] YA NO SUENAN LAS [Am] GUITARRAS\n[E7]                   [Am]\nNI LOS BAJOS [A7] GUITARRONES;\n[Dm] YA SE HAN SECADO LAS [Am] FLORES\nQUE [E7] ADORNABAN TU [Am] BALCON.\n[G] AY, AY, AY, [C] AY,\n[E7] YA NO HAY FUEGOS DE [Am] COLORES,\n[E7]                     [Am]\nNI MARIACHIS, [A7] NI CANCIONES,\n[Dm] Y A LO LEJOS, POR EL [Am] BOSQUE\nSE VA [E7] YENDO MI [A] CANCION.\n## Verso 1\nFERIA\n[Am]-[E7]-[Am] (bis)\nTERMINA LA [A] FERIA Y TRISTE\nYO ME VOY POR LA [E] CAÑADA\n[Bm] DICIENDOLE A LAS [E] ESTRELLAS\nPOR QUE LLORA TANTO MI [A] ALMA.\nSENDERO DEL CASERON\nQUE AL PASAR [A7] BESE TUS [D] FLORES\nME MARCHO SIN [A] ILUSIONES\nY YO NO HE [E] ENCONTRADO\nAMORES\nY LA FERIA [Am] TERMINO.\nAY, AY, AY,    (PRIMERA)\nAY, AY, AY,    (SEGUNDA)\n"
+  },
+  {
     "id": "la-flaca",
     "title": "La Flaca",
     "artist": "Jarabe de Palo",
@@ -1754,10 +2875,12 @@ export const DEFAULT_SONGS = [
     "tags": [
       "vals peruano",
       "clásico",
-      "latino"
+      "latino",
+      "tuna",
+      "español"
     ],
     "file": "canciones/la-flor-de-la-canela.md",
-    "content": "---\ntitle: \"La flor de la canela\"\nartist: \"Chabuca Granda\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"vals peruano\", \"clásico\", \"latino\"]\n---\n\n## Intro\n[D7] [G] [G7] [C] [E7] [Am]\n\n[E7] Déjame que te cuente, li[Am]meña,\n[A7] ¡Ay!, déjame que te diga la [Dm] gloria\nDel en[G7]sueño que evoca la me[C]moria\nDel [E7] viejo puente, del río y la ala[Am]meda.\n\n[E7] Déjame que te cuente, li[Am]meña,\n[A7] Ahora que aún perdura el re[Dm]cuerdo,\nAhora [G7] que aún se mece en un [C] sueño\nEl [E7] viejo puente, el río y la ala[Am]meda.\n\n[G7] Jazmines en el pelo y [C] rosas en la cara,\nAi[G7]rosa caminaba la [C] Flor de la canela,\nDe[A7]rramaba lisura y a su [Dm] paso dejaba\nA[G7]romas de mixtura que en el [C] pecho llevaba.\n\nDel [G7] puente a la ala[C]meda,\nMenudo pie la [G7] lleva\nPor la vereda que se estre[C]mece\nAl ritmo de su ca[G7]dera,\nRecogía la risa de la [C] brisa del río,\nY al [G7] viento la lanzaba\nDel puente a la ala[C]meda.\n\n[E7] Déjame que te cuente, li[Am]meña,\n[A7] ¡Ay! Deja que te diga, mo[Dm]rena, mi pensamiento,\nA [G7] ver si así despiertas del [C] sueño,\nDel [E7] sueño que entretiene, morena, tu senti[Am]miento.\n\nAspira de la lisura que da la flor de canela,\nAdórnala con jazmines, matizando su hermosura,\nAlfombra de nuevo el puente y engalana la alameda\nQue el río acompasará su paso por la vereda.\nY recuerda que...\n\n[G7] [C]\n"
+    "content": "---\ntitle: \"La flor de la canela\"\nartist: \"Chabuca Granda\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"vals peruano\", \"clásico\", \"latino\", \"tuna\", \"español\"]\n---\n\n## Intro\n[D7] [G] [G7] [C] [E7] [Am]\n\n[E7] Déjame que te cuente, li[Am]meña,\n[A7] ¡Ay!, déjame que te diga la [Dm] gloria\nDel en[G7]sueño que evoca la me[C]moria\nDel [E7] viejo puente, del río y la ala[Am]meda.\n\n[E7] Déjame que te cuente, li[Am]meña,\n[A7] Ahora que aún perdura el re[Dm]cuerdo,\nAhora [G7] que aún se mece en un [C] sueño\nEl [E7] viejo puente, el río y la ala[Am]meda.\n\n[G7] Jazmines en el pelo y [C] rosas en la cara,\nAi[G7]rosa caminaba la [C] Flor de la canela,\nDe[A7]rramaba lisura y a su [Dm] paso dejaba\nA[G7]romas de mixtura que en el [C] pecho llevaba.\n\nDel [G7] puente a la ala[C]meda,\nMenudo pie la [G7] lleva\nPor la vereda que se estre[C]mece\nAl ritmo de su ca[G7]dera,\nRecogía la risa de la [C] brisa del río,\nY al [G7] viento la lanzaba\nDel puente a la ala[C]meda.\n\n[E7] Déjame que te cuente, li[Am]meña,\n[A7] ¡Ay! Deja que te diga, mo[Dm]rena, mi pensamiento,\nA [G7] ver si así despiertas del [C] sueño,\nDel [E7] sueño que entretiene, morena, tu senti[Am]miento.\n\nAspira de la lisura que da la flor de canela,\nAdórnala con jazmines, matizando su hermosura,\nAlfombra de nuevo el puente y engalana la alameda\nQue el río acompasará su paso por la vereda.\nY recuerda que...\n\n[G7] [C]\n"
   },
   {
     "id": "la-fruta-fresca",
@@ -1805,6 +2928,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"La gota fría\"\nartist: \"Carlos Vives\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"vallenato\", \"colombiano\", \"pop\"]\n---\n\n## Intro\n[Am] [E] [Am]\n[C] [G] [C]\n[Am] [E] [Am]\n\nAcor[C]date Moralito de aquel día\nQue estuviste en Urumita y no qui[G]siste hacer parran[C]da,\nTe fuiste de mañanita, se[G]ría de la misma [C] rabia (2)\nEn mis [C] notas soy extenso, a [G] mí nadie me co[C]rrige (2)\nPara to[C]car con Lorenzo, mañana [G] sábado día la [C] Virgen (2)\n\n[Am] Me lleva él o me lo llevo [E] yo, pa que se acabe la [Am] vaina (2)\nAy Mo[Am]rales a mí no me lleva [E] porque no me da la [Am] gana\nMora[Am]lito a mí no me lleva, [E] porque no me da la [Am] gana\n\nQué cul[C]tura, qué cultura va a tener\nUn indio chumeca como Lo[G]renzo Mora[C]les\nQué cultura va a tener (si na[G]ció en los Cardo[C]nales) (2)\nMo[C]rales miente a mi mama sola[G]mente pa ofen[C]der (2)\nPara [C] que también se ofenda, ahora [G] le miento la de [C] él (2)\n\n[Am] Me lleva él o me lo llevo [E] yo, pa que se acabe la [Am] vaina\n\nMora[C]lito, Moralito se creía, que él a [G] mí, que él a mí me iba a ga[C]nar\nY cuando me oyó tocar, le ca[G]yó la gota [C] fría (2)\nY al [C] cabo en la compartida, el [G] tiro le salió [C] mal (2)\n"
   },
   {
+    "id": "la-hiedra",
+    "title": "La hiedra",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-hiedra.md",
+    "content": "---\ntitle: \"La hiedra\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nPASARON DESDE AQUEL [A7] AYER\nYA TANTOS [Dm] AÑOS\nDEJARON EN SU GRIS [A7] CORRER\nMIL [C7] [D] DESENGAÑOS\nMAS [F] CUANDO QUIERO [C7] RECORDAR\nNUESTRO [F] PASADO\nTE SIENTO CUAL LA [E7] HIEDRA LIGADO A [A7] TI\n[Dm] Y ASI HASTA LA ETERNIDAD [A7] TE [D] SENTIRE\nYA SE QUE ESTOY LIGADO A [F#m] TI\nMAS FUERTE QUE LA [A7] [Em] HIEDRA\nPORQUE [D] TUS OJOS DE MIS [F#m] OJOS\nNO PUEDEN [Em] SEPARARSE [A7] JAMAS\nDONDE QUIERA QUE ESTES [D] MI VOZ [D7] ESCUCHARAS\nLLAMANDOTE CON [G] ANSIEDAD\nPOR LA PENA [B7] YA SIN [A7] [Em] FINAL DE SENTIRTE EN [D] MI SOLEDAD\nJAMAS LA HIEDRA Y [F#m] LA PARED PODRIAN [Em] APRETARSE [A7] MAS\n[D] IGUAL TUS OJOS DE MIS [F#m] SUEÑOS NO PUEDEN SEPARARSE [B7] [Em] JAMAS\nDONDE QUIERA QUE [D] ESTES MI VOZ [D7] ESCUCHARAS\nLLAMANDOTE CON [G] MI [Gm] CANCION\n[D]         [B7]                            [Em]   [A7]\nMAS FUERTE QUE EL DOLOR SE [D] AFERRA NUESTRO AMOR COMO LA\n## Verso 1\nHIEDRA.\n"
+  },
+  {
+    "id": "la-maricarmen",
+    "title": "La Maricarmen",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-maricarmen.md",
+    "content": "---\ntitle: \"La Maricarmen\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A]-[E]-[A] (bis)\nLA MARICARMEN [A] NO SABE [E] COSER,\nLA MARICARMEN NO SABE [A] BORDAR,\nLA MARICARMEN SI SABE [E] QUERER,\nLA MARICARMEN SI SABE [A] BESAR.\nMARICARMEN, [D] [A7] MARICARMEN,\nYA TE LO DECIA [A] YO,\nLOS MUCHACHOS DE LA [E] TUNA\nVAN A SER TU [A] PERDICION.\nMARICARMEN, [D] [A7] MARICARMEN,\nQUIEN TE HA VISTO Y QUIEN TE [A] VE,\nANTES TE QUERIA [E] MUCHO\nY AHORA NO TE PUEDO [A] VER.\n[A]-[E]-[A] (bis)\n## Verso 1\nMARICARMEN,... (PRIMERA).\nMARICARMEN,... (SEGUNDA).\n"
+  },
+  {
+    "id": "la-media-vuelta",
+    "title": "La media vuelta",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-media-vuelta.md",
+    "content": "---\ntitle: \"La media vuelta\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D] TE VAS PORQUE YO QUIERO QUE TE [D7] [D6] VAYAS\nA LA [G] HORA QUE YO QUIERO [B7] TE [Em] DETENGO\n[A] YO SE QUE MI CARIÑO TE HACE [B7] [D] FALTA\nPORQUE QUIERAS O [Em] NO, [A] YO SOY TU [D] DUEÑO\n## Verso 1\nRE5                     RE6    -RE7\nYO QUIERO QUE TE VAYAS POR EL MUNDO\nY [G] QUIERO QUE [B7] CONOZCAS OTRA [Em] GENTE\nYO [A7] QUIERO QUE TE BESEN OTROS [B7] [D] LABIOS\nPARA QUE ME COMPARES [Em] , [A7] HOY COMO [D] SIEMPRE\nSI [G] ENCUENTRAS UN [B7] AMOR QUE TE [Em] COMPRENDA\nY [A7] SIENTES QUE TE QUIERE MAS QUE A [D] NADIE\n[B7] ENTONCES YO DARE LA MEDIA [Em] VUELTA\nY ME IRE CON EL [A7] SOL CUANDO CAIGA LA [D] TARDE\n[D]-RE5-[D6]-[D7]-[G]-[B7]-[Em]-[A]-[D]-[B7]-[Em]-[A]-[D]\nSI ENCUENTRAS...\nTE VAS PORQUE YO QUIERO QUE TE VAYAS (A CAPELLA)\n"
+  },
+  {
     "id": "la-mitad",
     "title": "La mitad",
     "artist": "Christian Nodal",
@@ -1818,6 +2983,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/la-mitad.md",
     "content": "---\ntitle: \"La mitad\"\nartist: \"Christian Nodal\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"regional mexicano\", \"balada\", \"latino\"]\n---\n\n## Verso 1\n[G] [D7] [G]\n\n[G] Si por cosas del destino\nUn [B7] día, tú y yo nos despe[Em]dimos [E7]\nAy, [Am] yo no sé qué comería,\nO de qué me reiría,\nPorque el [C] mundo sin ti\nNo me lo imagi[D7]no.\n\n[G] Si por cosas de la vida,\nLlega el [B7] hombre que por fin te mere[Em]cías, [E7]\nY si él es tu alma gemela\nYo me [Am] quito, aunque me duela\nY hasta dos o [C] tres consejos le da[D7]ría.\n\nNo te preocu[B7]pes por mí,\nYo me las arregla[Em]ría [Em/D#]\nPa cam[Em/D]biarme de ca[Em/C#]beza\nPa [Am] otra que no sea la mía\nY no [C] pensar en ti, ya no pensar en [D7] ti.\n\nY aunque te [C] den el doble de ca[D7]ricias\nY el triple de los [G] besos que te [Em] di,\nY aunque te [C] den 21 [D7] rosas al día\nY mil veces [B7] digan que mueren por [Em] ti, [E7]\nAy, si te [Am] dan todo eso me quito el sombrero, [D7]\nPero [Am] nadie va a quererte la mi[D7]tad\nDe lo que yo a ti te [G] quiero. [D7]\n\nNo te preocu[B7]pes por mí,\nYo me las arregla[Em]ría [Em/D#]\nPa cam[Em/D]biarme de ca[Em/C#]beza\nPa [Am] otra que no sea la mía\nY no [C] pensar en ti, ya no pensar en [D7] ti.\n\nY aunque te [C] den el doble de ca[D7]ricias\nY el triple de los [G] besos que te [Em] di,\nY aunque te [C] den 21 [D7] rosas al día\nY mil veces [B7] digan que mueren por [Em] ti, [E7]\nAy, si te [Am] dan todo eso me quito el sombrero, [D7]\nPero [Am] nadie va a quererte la mi[D7]tad\nDe lo que yo a ti te [G] quiero, [Bm] [F#m] [Am]\nDe lo que yo a ti te [G] quiero, [Bm] [F#m] [Am]\n[D] De lo que [Cm] yo a ti te [G] quiero.\n"
+  },
+  {
+    "id": "la-morena-de-mi-copla",
+    "title": "La morena de mi copla",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-morena-de-mi-copla.md",
+    "content": "---\ntitle: \"La morena de mi copla\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nLA MORE\n[E]-[F]-[E] (bis)-[Am]-[G]-[F]-[E] (bis)\nJULIO ROMERO [E] DE TORRES\nPINTO [F] A LA MUJER [E] MORENA,\nCON LOS OJOS DE MISTERIO\nY EL [F] ALMA [G] LLENA DE [C] PENA.\n[G] PUSO EN SUS MANOS DE [C] BRONC\nLA GUITARRA [E] CANTAORA,\n[F] EN SU BORDON UN [E] SUSPIRO\n[F] Y EN SU CAPA UNA [E] DOLORA.\n[Dm]-[B7]-[F]-[E]-[F]-[E]\n[A] MORENA,\nLA DE LOS ROJOS [E] CLAVELES\nLA DE LA REJA [A] FLORIDA;\nLA REINA DE LAS [E] MUJERES.\n[E] [Bm] MORENA,\nLA DEL BORDADO [A] MANTON,\n[A7] LA DE LA ALEGRE [D] GUITARRA,\n[A] LA DEL [E] CLAVEL [A] [E] [A] ESPAÑOL.\n[E]-[F]-[E] (bis)-[Am]-[G]-[F]-[E] (bis)\nNA DE MI COPLA\n))\nCOMO ESCAPADA [E] DE UN CUADRO\nY EN [F] EL SENTIR DE UNA [E] COPLA\nTODA ESPAÑA LA VENERA\nY [F] TODA ESPAÑA [G] LA [C] ADORA.\nETRENZA [G] CON SU [C] TACONEO\nLA SEGUIDILLA [E] GITANA\n[F] BAILA TU DANZA [E] MORENA\n[F] EN LA VENTA DE [E] RITAÑA.\n[E] [F] [E] [F] [B7] [Dm] MORENA...(PRIMERA)\nMORENA...(SEGUNDA)\n))\n"
   },
   {
     "id": "la-mujer-de-verde",
@@ -1851,6 +3030,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"La muralla\"\nartist: \"Quilapayún\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"canción protesta\", \"nueva canción\", \"chileno\"]\n---\n\n## Intro\n[Em] [Am] [B7] [Em]\n[D7] [G] [D7] [Em] [C] [B7] [Em] [D7]\n\nPara hacer esta mu[Em]ralla:\nTráiganme todas las [Am] manos (2)\nLos [B7] negros sus manos [Em] negras,\nLos [B7] blancos sus blancas [Em] manos.\n\nUna muralla que [Em] vaya:\nDesde la playa hasta el [Am] monte (2)\nDesde [B7] el monte hasta la [Em] playa,\n[B7] Allá sobre el hori[Em]zonte.\n\n[G] —¡Tun, tun! —¿Quién [C] es?\n—Una rosa y un cla[D7]vel...\n—¡Abre la mu[G]ralla!\n\n—¡Tun, tun! —¿Quién [C] es?\n—El sable del coro[D7]nel...\n—¡Cierra la mu[G]ralla!\n\n—¡Tun, tun! —¿Quién [C] es?\n—La paloma y el lau[D7]rel...\n—¡Abre la mu[G]ralla!\n\n—¡Tun, tun! —¿Quién [C] es?\n—El gusano y el ciem[D7]piés...\n—¡Cierra la mu[G]ralla!\n\nAl corazón del a[C]migo: ¡abre la mu[D7]ralla! [G]\nAl veneno y al pu[C]ñal: ¡cierra la mu[D7]ralla! [G]\nAl mirto y la yerba[C]buena: ¡abre la mu[D7]ralla! [G]\nAl diente de la ser[C]piente: ¡cierra la mu[D7]ralla! [G]\nAl ruiseñor en la [C] flor: ¡abre la mu[D7]ralla! [G]\n"
   },
   {
+    "id": "la-nave-del-olvido",
+    "title": "La nave del olvido",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-nave-del-olvido.md",
+    "content": "---\ntitle: \"La nave del olvido\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n[Em] Espera, aún la nave del olvido no ha par[Am]tido,\nno condenes al naufragio nuestra [B7] dicha,\npor [Em] nuestro amor espera.\n\n## Verso 2\n[Em] Espera, que aún me quedan alegrías para [Am] darte,\nte prometo que seré un buen ca[B7]minante,\npor [Em] nuestro amor espera.\n\n## Coro\nEs[E7]pera un poco, un poquito [Am] más,\npara [D7] llenar mi copa con tu [G] boca;\nes[C]pera un poco, un poquito [Am] más,\nque me [B7] mata el dolor de tu par[Em]tida.\n"
+  },
+  {
+    "id": "la-paloma",
+    "title": "La paloma",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-paloma.md",
+    "content": "---\ntitle: \"La paloma\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nCuando salí de la Ha[D]bana, ¡válgame Dios!\nNadie me ha visto sa[A7]lir si no fui yo.\nY una linda guachi[D]nanga, ¡sí, allá voy yo!\nQue se vino tras de [A7] mí, que sí, señor.\n\n## Coro\nSi a tu ven[D]tana llega una pa[A7]loma,\ntrátala con cariño que es mi per[D]sona.\nCuéntale tus amores, bien de mi [A7] vida,\ncorónala de flores, que es cosa [D] mía.\n\n¡Ay, chinita que [A7] sí!\n¡Ay, que dame tu a[D]mor!\n¡Ay, que vente con[A7]migo, chinita,\na donde vivo [D] yo!\n"
+  },
+  {
+    "id": "la-playa",
+    "title": "La playa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-playa.md",
+    "content": "---\ntitle: \"La playa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nIntrodución:\nCuando la playa se inundó de luz y sol;\nY cuando el mar, con su rumor, habló de amor;\nCuando soñaba en él, azul,\nFue realidad este soñar: llegaste tú.\nSol de un verano nuestro amor será,\nQue una fatal brisa otoñal marchitará;\nFin de mi sueño de ilusión,\nY, en esta playa, naufragará mi corazón.\nY seguirán igual arena y mar,\nLa playa en soledad se quedará;\nEl eco de tu voz se extinguirá;\nLas huellas de los dos se borrarán.\nCuando en la playa nuevamente brille el sol,\nAllí estaré, y, junto al mar, recordaré;\nEvocaré la inmensidad de nuestro amor,\nque me brindó felicidad.\n## Instrumental\nEl eco de tu voz se extinguirá;\nLas huellas de los dos se borrarán.\nCuando en la playa nuevamente brille el sol,\nAllí estaré, y, junto al mar recordaré;\nEvocaré la inmensidad de nuestro amor,\nque me brindó felicidad.\n"
+  },
+  {
     "id": "la-puerta-de-toledo",
     "title": "La puerta de Toledo",
     "artist": "Chiquetete",
@@ -1882,6 +3103,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"La Raja de Tu Falda\"\nartist: \"Estopa\"\nkey: \"Am\"\ncapo: 0\ntempo: 130\ntags: [\"rumba\", \"rock\", \"español\", \"90s\"]\n---\n\n## Intro\n[Am] [E7] [Am] [E7]\n\n## Verso 1\n[Am] Era una tarde tonta y caliente de esas que te queman el [E7] sol la frente,\nY era el verano del 97 y yo me moría por [Am] verte.\n[G] Mi única i[Am]dea era came[G]larte, era lle[Am]varte a cualquier parte,\n[G] Yo ese día to[Am]caba en el bar sin nombre y al[E7]lí esperaba encon[Am]trarte.\n\n[Am] Me puse un pantaloncito estrecho, la camiseta de los con[E7]ciertos,\nVamos Josele, tira pal coche porque esta noche nos la co[Am]memos.\n[G] Y al pasar por tu [Am] calle allí estabas tú esperando en la pa[G]rada del auto[Am]bús,\nComiéndote con gracia aquel chupa-chup, ¡qué [E7] vicio, qué vicio!\n[Am] No sé qué me dio por la espalda cuando vi la raja de [G] tu falda,\nQue un Seat [Am] Panda se me cruzó y se comió el parachoques de mi [E7] Ford Es[Am]cort.\n\n## Coro\n[Am] Por la raja de tu [G] falda yo tuve un pi[F]ñazo con un Seat [E7] Panda,\n[Dm] Por la raja de tu [Am] falda yo tuve un pi[E7]ñazo con un Seat [Am] Panda.\n\n## Verso 2\n[Am] 10:40 post meridiem, llegamos tarde para no va[E7]riar,\nY el del garito está mosqueao porque aún no hay nada mon[Am]tao.\n[G] Y la gente [Am] entra que te entra y [G] yo enchufa [Am] que te enchufa,\n[G] Mi hermano [Am] prueba que te prueba y esto se [E7] escucha o no se es[Am]cucha.\n[Am] El calor de la gente, alma del ambiente, los focos deslumbrantes son [G] muy po[Am]tentes,\nEl público delante muy expectante, caliente, ca[E7]liente...\n[Am] De repente se abrió la puerta cuando yo cogía la gui[G]tarra,\nY me tem[Am]blaron las piernas al ver de nuevo la raja de [E7] tu [Am] falda.\n\n## Coro\n[Am] Por la raja de tu [G] falda yo rompí tres [F] cuerdas de esta gui[E7]tarra,\n[Dm] Por la raja de tu [Am] falda yo rompí tres [E7] cuerdas de esta gui[Am]tarra.\n\n## Outro\n[Am] Y ahora ya ha pasado el tiempo, parece que fuera ayer desde que desapa[E7]reciste del concierto,\nYo no te he vuelto a ver, ya no recuerdo tu [Am] cara ni siquiera tu mirada,\nTan [F] sólo puedo a[Dm]cordarme de la [Am] raja de [E7] tu [Am] falda.\n[Am] Por la raja de tu [G] falda yo me he obse[F]sionao y voy de barra en [E7] barra... [Am]\n"
   },
   {
+    "id": "la-ronda-del-firuli",
+    "title": "La ronda del firulí",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-ronda-del-firuli.md",
+    "content": "---\ntitle: \"La ronda del firulí\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nYa la ronda viene aquí, firulirulí\ny a cantarte amores va, firulirulá.\nSal a tu ventana, que mi canto es para ti.\nSal napolitana, firulí, firulí, firulirulá...\nHermosa napolitana, valle florido\nrayo de luna clara\nno sé yo cómo en el fuego de tu pupila\nno se ha fundido\nla nieve de tu cara\nNiña de mis amores\nque esperas gozar un día\nla dicha que da el amor...\nAmor que siembra de flores tu fantasía\nespinas da el dolor\nNiña de mis amores,\nya sabes lo que...\nes amar.\nYa la ronda viene aquí, firulirulí\ny a cantarte amores va, firulirulá.\nSal a tu ventana, que mi canto es para ti.\nSal napolitana, firulí, firulí, firulirulá...\n"
+  },
+  {
     "id": "la-saeta",
     "title": "La saeta",
     "artist": "Joan Manuel Serrat",
@@ -1895,6 +3130,48 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/la-saeta.md",
     "content": "---\ntitle: \"La saeta\"\nartist: \"Joan Manuel Serrat\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"saeta\", \"canción de autor\", \"clásico\"]\n---\n\n## Intro\n[G] [Em] [C] [D]\n\nGolpe a golpe, verso a verso\n\n[G] Murió el po[Em]eta lejos del ho[C]gar [D] [G]\nLe cubre el [Em] polvo de un país ve[C]cino [D] [G]\nAl ale[C]jarse le [D] vieron llo[G]rar\n(Caminante, no hay camino)\n(Se hace camino al andar)\n\n[G] [Em] [C] [D]\nGolpe a golpe (verso a verso)\n\n[G] Cuando el jil[Em]guero no puede can[C]tar [D] [G]\nCuando el po[Em]eta es un pere[C]grino [D] [G]\nCuando de [C] nada nos [D] sirve re[G]zar\n(Caminante no hay camino)\n(Se hace camino al andar)\n\n[G] [Em] [C] [D] [G]\nGolpe a golpe, verso a verso (3)\n\nDijo una voz popular: ¿Quién me presta una\nescalera para subir al madero,\nPara quitarle los clavos a Jesús el Nazareno?\n\n¡[A7] Oh, la sa[Dm]eta, el cantar al [Am] Cristo [Bb] de los gi[C]tanos [F]\nSiempre con [A7] sangre en las manos,\nSiempre por desencla[Dm]var!\nCantar del [A7] pueblo anda[Dm]luz\nQue to[Am]das [Bb] las prima[C]veras [F]\nAnda pi[A7]diendo escaleras para subir a la [Dm] cruz.\n\n¡Can[A7]tar de la tierra [Dm] mía que echa [Am] flores [Bb]\nAl Je[Gm]sús de la agonía\nY es la fe de mis ma[A7]yores!\n\n¡[A7] Oh, no eres [Dm] tú mi cantar!\n¡No [Am] puedo can[Bb]tar, ni [C] quiero [F]\nA este Je[A7]sús del madero,\nSino al que anduvo en la [Dm] mar!\n"
+  },
+  {
+    "id": "la-sirenita",
+    "title": "La sirenita",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-sirenita.md",
+    "content": "---\ntitle: \"La sirenita\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[E7]-[Am]\nCUANDO MI [Am] BARCO NAVEGA\nPOR LAS LLANURAS DEL [E7] MAR,\n## Verso 1\nPONGO ATENCION POR SI ESCUCHO\nA UNA SIRENA [Am] CANTAR.\nDICEN QUE [Am] MURIO DE AMORES\nQUIEN SU CANCION [E7] ESCUCHO;\nYO DOY GUSTOSO LA VIDA\nSIEMPRE QUE SEA DE [Am] AMOR.\nMIRA COMO CORRE, [Am] VUELA,\nCORTA LAS OLAS DEL [E7] MAR,\nQUIEN PUDIERA\nA UNA SIRENA ENCONTRAR [Am] (BIS).\n[Am]-[E7]-[Am]\nMIRA COMO CORRE,... [Am] (BIS).\n"
+  },
+  {
+    "id": "la-sitiera",
+    "title": "La sitiera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-sitiera.md",
+    "content": "---\ntitle: \"La sitiera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[Dm],[G7],[C],[F],[A#],[Gm],[A7]   [Gm],[A7],[Dm],[C],[A#],[A7]\nRem,Solm,La7ª\n[Dm]     [G7]  [C]                       [F]  [A#]                   [Gm]\n[A7] Sitiera mía, dime qué has hecho de nuestro dulce hogar,\n[Gm]                       La7ªRem                       [C]    [A#]                 [A7]\n[Dm] CUNA QUE UN DÍA FUE LA ALEGRÍA de todo aquel sitial.\n[A#] [F] [Dm] SolmLa7ª\nLágrimas vierte     la sitiería         que tiende a desolar,\n(Lá-gri-mas vier-te de-so-lar,)\nY [Gm] ES POR NO VERTE [A7] REINA, [Dm] QUE UN [C] DÍA\nfuiste [A#] de aquel [Dm] [A7] lugar.\nYa el [Dm] jilguero se alejó, de aquel frondoso [Gm] [D7] algaaarrobo,\ny hasta la mata de jobo nos da muestra de [A7] [A#] dolor,\nPUES [Gm] LA SITIERA [A7] HA [Dm] MARCHADO\nY YO ENAMORADO lloro [A7] por su [D7] [Dm] amoooor,\nSolmLa7ª            Rem\ny es para la sitiería\n[A7] [A#] [C] Rem,Solm,La7ª\ncual si fuera un día al que le falta el sol\n(Instrumental como introducción)\nYa el jilguero se alejó, de aquel frondoso algarrobo…\nVen sitiera [D] por [A7] [G] favor,\nven de nuevo a [D] mi [A7] [G] reeetiro,\ny gozaremos [D] de [A7] [G] amor\nal son del [D] timple y [G] eeel [A7] güiro.\nVEN [D] SITIERA POR [A7] [G] FAVOR,\nVEN DE [D] NUEVO A [G] MI [A7] RETIRO,\n[D]               [G]                       [A7]   [F#7] [Bm]\nY GOZAREMOS DE AMOR\nAL SON DEL TIMPLE Y [E7] DEL [A7] GÜIRO.\n"
+  },
+  {
+    "id": "la-tuna-pasa",
+    "title": "La tuna pasa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/la-tuna-pasa.md",
+    "content": "---\ntitle: \"La tuna pasa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[F#]-[F#]-[G]-[G]-[F#] [A]-[A]-[A#]-[A#]-[A]\n[A7]-[A6]-[A]-[A7]-[A]-[A]-[A]\n[D]-[A] (bis)-[Em]-[B7]-[Em]-[D]-[A]-[D]-[E]-[A]\n[D]-[A]-[D]-[D7]-[G]-[Em]-[B7]-[Em]-[D]-[A] (bis)-[D]\n[D] SALID [A] NIÑAS AL [D] BALCON,\nLOS ESTUDIANTES YA ESTAMOS [A] AQUI.\n[Em] SALID NIÑAS AL [A] BALCON,\nHEMOS LLEGADO DEL VIEJO [D] MADRID.\n[A] [D] DEJAMOS LA [D] FACULTAD\nCON LA ALEGRIA JUVENIL [D7] QUE [G] AÑORA\n[A] ESTUDIAR UN CUARTO [D] DE [Bm] HORA\n[Em] Y [A] GOZARLA CUANTO [D] [A] [D] MAS.\n## Verso 1\n(DA CAPO).\n"
   },
   {
     "id": "la-vereda-de-la-puerta-de-atras",
@@ -1960,6 +3237,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Lamento Boliviano\"\nartist: \"Los Enanitos Verdes\"\nkey: \"Em\"\ncapo: 0\ntempo: 120\ntags: [\"rock\", \"latino\", \"acústico\", \"90s\"]\n---\n\n## Intro\n[Em] [Bm] [Am] [Em] [B7] (x2)\n\n## Verso 1\n[Em] Me quieren agitar, me incitan a gri[Bm]tar,\nSoy como una roca, palabras no me [Am] tocan,\nAdentro hay un volcán que pronto va a esta[Em]llar, [B7]\nYo quiero estar tran[Em]quilo.\n\n## Verso 2\n[Em] Es mi situación una desola[Bm]ción,\nSoy como un lamento, lamento boli[Am]viano\nQue un día empezó y no va a termi[Em]nar,\nYa nadie me hace [B7] daño.\n\n## Coro\n[Em] Y yo estoy aquí, borracho y [Bm] loco,\nY mi corazón idi[Am]ota siempre brillará,\n[Em] Siempre brilla[B7]rá.\n[Em] Y yo te amaré, te amaré por [Bm] siempre,\nNena, no te peines en la [Am] cama\nQue los viajantes se van a atra[Em]sar. [B7]\n\n## Solo\n[Em] [Bm] [Am] [Em] [B7]\n\n## Coro Final\n[Em] Y yo estoy aquí, borracho y [Bm] loco,\nY mi corazón idi[Am]ota siempre brillará,\n[Em] Siempre brilla[B7]rá.\n[Em] Y yo te amaré, te amaré por [Bm] siempre,\nNena, no te peines en la [Am] cama\nQue los viajantes se van a atra[Em]sar... [Em]\n"
   },
   {
+    "id": "las-cintas-de-mi-capa",
+    "title": "Las cintas de mi capa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/las-cintas-de-mi-capa.md",
+    "content": "---\ntitle: \"Las cintas de mi capa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nLAS CINT\n[Dm]-[Am]-[E7]-[Am]-[A7] (bis)\n[Am]\nCUAL AMANTES [E7] VAN LAS OLAS A BES\nLAS ARENAS DE [Am] LA PLAYA CON FERVOR\nASI [A7] VAN LOS BESOS MIOS A [D] BUSCAR\n[G7]\nDE LA PLAYA DE [C] TUS LABIOS EL CALOR\n[Am]\nSI DEL FONDO DE [E7] LA MINA ES EL MET\nAm\nY DEL FONDO DE LOS MARES EL CORA\nDE LO MAS [Dm] HONDO DEL ALMA [Am] ME BROTO\n[E7]                                                 [A]\nEL CARIÑO [E7] MIO [Am] QUE TE TENGO YO.\n[Dm]-[F]-[E]-[F]-[E]\nENREDANDOSE [A] EN EL VIENTO\nVAN LAS CINTAS DE MI [E] CAPA,\nY CANTANDO A CORO DICEN\n\"QUIEREME NIÑA DEL [A] ALMA\".\nSON LAS CINTAS DE MI CAPA\nDE MI [A7] CAPA [D] ESTUDIANTIL;\nY UN [D] REPIQUE DE [A] CAMPANAS\nAS DE MI CAPA\nARY UN REPIQUE DE [E] CAMPANAS\nCUANDO YO TE RONDO A [A] [E] [A] TI.\n,\nm\n[A7] [Am] [E7] [Am] [Dm] .\n[Am]\nALNO PREGUNTES [E7] CUANDO YO TE CONOCI\nL\nL,NI AVERIGUES [Am] LAS RAZONES DEL\nQUERER;\n[A7] m-REm\nSOLO SE QUE MIS AMORES PUSE EN TI,\n[G7]\nEL PORQUE NO LO [C] SABRIA RESPONDER.\n[Am]\nPARA MI NO CUENTA [E7] EL TIEMPO NI RAZON\nDEL PORQUE [Am] TE QUIERO TANTO,\nCORAZON;\nCON TU AMOR [Dm] A TODAS HORAS [Am] VIVIRE,\n[Am] SIN TU [E7] AMOR, CARIÑO MIO, [Am] MORIRE.\n[Dm]-[F]-[E]-[F]-[E]\n[A] ENREDANDOSE...\nSON LAS CINTAS...\n"
+  },
+  {
     "id": "las-dos-puntas",
     "title": "Las dos puntas",
     "artist": "Osvaldo Rocha",
@@ -1973,6 +3264,34 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/las-dos-puntas.md",
     "content": "---\ntitle: \"Las dos puntas\"\nartist: \"Osvaldo Rocha\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"cueca\", \"folklore\", \"cuyo\"]\n---\n\n## Verso 1\n[G7] [C]\n\nCuando pa [C] Chile me voy, [G7] [C]\nSoy hermana de la es[G7]puma,\nDe las garzas, de las [C] rosas,\nSoy her[A7]mana de la es[Dm]puma,\nDe las [G7] garzas, de las rosas\nY del [C] sol, y del sol.\n\nMe arru[C]lló la viva diana [G7] [C]\nDe la brisa en el pal[G7]mar\nY por eso tengo el [C] alma,\nComo el [A7] alma primo[Dm]rosa\nY por [G7] eso tengo el alma,\nComo el alma primorosa\nDel cris[C]tal, del cristal.\n\nCruzando la cordi[C]llera (bis)\nLate el corazón con[G7]tento,\nPues me espera una chi[C]lena (bis)\nY cuando vuelvo de Chile,\nEntre cerros y que[G7]bradas (bis)\nLate el corazón con[C]tento,\nPues me espera una cu[G7]yana [C]\n\n[D7] Viva la chicha y el [G] vino,\n[D7] Viva la cueca y la [G] zamba\n[F] Dos puntas tiene el ca[C]mino,\nY en las [G7] dos alguien me a[C]guarda\n[F] Dos puntas tiene el ca[C]mino,\nY en las [G7] dos alguien me a[C]guarda\n\nYo bailo la cueca en [C] Chile,\nY en Cuyo bailo la [G7] zamba (bis)\nEn [C] Chile con la chilena,\nCon la [G7] otra en Calin[C]gasta (bis)\n\nVida [C] triste, vida alegre,\nEsa es la vida de a[G7]rriero (bis)\nPeni[C]tas en el camino,\nRisas al [G7] fin del sen[C]dero (bis)\n\n[D7] Viva la chicha y el [G] vino,\n[D7] Viva la cueca y la [G] zamba\n[F] Dos puntas tiene el ca[C]mino,\nY en las [G7] dos alguien me a[C]guarda\n[F] Dos puntas tiene el ca[C]mino,\nY en las [G7] dos alguien me a[C]guarda.\n"
+  },
+  {
+    "id": "las-palmeras",
+    "title": "Las palmeras",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/las-palmeras.md",
+    "content": "---\ntitle: \"Las palmeras\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nInstrum:  [Em]-[C]-[B7] (bis)\n## Verso 1\nMimDo  Si7ª\nHOOOOOOOOOY,  MI CORAZON ESTÁ EMPEZANDO A PADECER\nDESDE QUE YO TE CONOCÍ [Em] MI DULCE BIEN\n[Em] SÉÉÉÉÉÉEEEEEEEEE , QUE PARA MÍ ES [C] MUY DIFICIL [B7] OLVIDAR\nTODO EL ENCANTO DE TU VOZ Y TU [Em] MIRAR\nVEEEEEEEEN [D7] , MI AMOR QUE QUIERO SER [G] TU ADORACIÓN\nYYY [B7] FORMAR NUESTRO NIDITO DE [Em] PASIÓN\n[D7] VEEEEEEEEN , QUE LAS PALMERAS SABEN DE MI [G] AMOR\n[B7] VEEEEEEEEN , FORMAR NUESTRO NIDITO DE [Em] PASIÓN\nDAME TUS [B7] BESOS , CON [Em] FRENESÍ\nCARIÑO [B7] MÍO , DIME QUE [Em] SÍ\nCON LAS [B7] PALMERAS , QUIERO [Em] VIVIR\nCON LAS [B7] PALMERAS , HE DE [Em] MORIR\n## Instrumental\nVEEEEEEEEN [D7] , MI AMOR QUE QUIERO SER [G] TU ADORACIÓN...\n## Instrumental\n(capella)\nDAME TUS BESOS .........\nCON LAS PALMERAS , QUIERO MORIIIIR.\n"
+  },
+  {
+    "id": "las-plazas-de-mi-sevilla",
+    "title": "Las plazas de mi Sevilla",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/las-plazas-de-mi-sevilla.md",
+    "content": "---\ntitle: \"Las plazas de mi Sevilla\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nLa Sevilla del pasado de Rincon y de Cortado es la que te va a rondar la del viejo\nMonipodio la Sevilla del Tenorio la del pícaro Guzmán la de Figaro, Rivera, Carabonzo,\nregaera, taburete y Barrabas, la del Chuti y Malaespina, la de Candido y Justina, la del\ncapitán Centella, la que mira a las estrellas cuando se pone a cantar.\n[Am] SEVILLA MIA QUE ME GUSTAN TUS PLAZAS DE [E] TOROS\n[Dm] LAS [E] JUDERIAS LAS [Dm] ESQUINAS CON [E] RECUERDOS [Am] MOROS\nLA PLAZA NUEVA Y LA [A7] PLAZA DEL DUQUE TAN [Dm] FRIA\n[G7] PLAZAS QUE TIENEN LA HUELLA [C] DE UN [E] PASADO\nQUE NUNCA SE [Am] OLVIDA\n[Am] SE DUERME EL SOL EN LA PLACITA DEL [E] ALTOZANO\nY [Dm] EL CORAZON [E] SE [Dm] CONVIERTE EN DUENDE [Am] [E] SEVILLANO\nLA ENCARNACION, SAN [A7] FRANCISCO Y LA DE DOÑA [Dm] ELVIRA\n[G7] PLAZAS QUE TIENEN LA [C] HUELLA DE UN PASADO [E] QUE NUNCA SE [Am] OLVIDA.\nME GUSTA SEVILLA [E] DE [Am] MADRUGADA\nPLAZA DE LAS PALOMAS [E] PLAZA DE [Am] ESPAÑA\nTRIUNFO Y SANTA [A7] CRUZ DE SANTA [Dm] MARTA\nLA PLAZA DE [G7] PILATOS LA [C] INMACULADA\nSON PLAZAS [E] DE MI [Am] SEVILLA SON PLAZAS DE [E] MI [Am] [E] [Am] SEVILLA.\n[Am]-[E]-[Dm]-[E]-[Dm]-[E]-[Am]-[A7]-[Dm]-[G7]-[C]-[E]-[Am]\nSE DUERME EL SOL ...\nME GUSTA SEVILLA...\nLA PLAZA DEL [E] MUSEO LA DE SANTA [Am] ANA\nLA PUERTA DE [E] JEREZ LA DEL [Am] ALCAZAR\nPLAZA DE SAN LORENZO [A7] Y LA [Dm] CAMPANA\nEL PATIO DE [G7] BANDERAS PLAZA DE [C] ARMAS\nSON PLAZAS [E] DE MI [Am] SEVILLA, SON PLAZAS DE MI [E] SEVILLA [Am] [E] [Am] OLE!\n"
   },
   {
     "id": "lejos-de-ti",
@@ -2023,6 +3342,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Levantaremos al sol\"\nartist: \"Álvaro de Luna\"\nkey: \"Am\"\ncapo: 4\ntempo: 100\ntags: [\"pop rock\", \"español\", \"2020s\"]\n---\n\n## Intro\n[Am] [F] [C] [G] [Dm] [A#] [F] [C]\n\n[Am] A veces voy, [F] a veces vengo,\n[C] En el camino [G] me entretengo\n[Am] Contando las veces [F] que te recuerdo\n[C] Las noches a oscuras [G] rompiendo el silencio\n[Am] No sé si vas a [F] tomarme en serio\n[C] Pero es que quiero per[G]derme en tu pelo\n[Am] Y sentir tu aliento [F] si me desvelo [C] [G]\n\n[Dm] Sigue tu camino, [A#] vuela y no te detengas\n[F] Sal del precipicio, [C] corre y no te des la vuelta\n[Dm] Que la vida es corta, [A#] todo lo que viene [C] va\n[Am] Levantaremos al [F] sol, nos perderemos los [C] dos\nNo habrá quien nos [G] pare,\nni nos se[Am]pare el corazón [F]\nComo luces de [C] neón, iluminando el col[G]chón\nSolo voy a extra[Am]ñarte cuando se [F] muera mi [C] voz\n\n[Am] Hoy voy a sen[F]tirme bien,\n[C] Tengo tus fotos [G] en la pared\n[Am] Y no me importa si per[F]dí algún tren\n[C] Yo solo quiero vol[G]ver\n\n[Dm] Sigue tu camino, [A#] vuela y no te detengas\n[F] Sal del precipicio, [C] corre y no te des la vuelta\n[Dm] Que la vida es corta, [A#] todo lo que viene [C] va\n[Am] Levantaremos al [F] sol, nos perderemos los [C] dos\nNo habrá quien nos [G] pare,\nni nos se[Am]pare el corazón [F]\nComo luces de [C] neón, iluminando el col[G]chón\nSolo voy a extra[Am]ñarte cuando se [F] muera mi [C] voz\noh…oh…\n\n[Dm] Sigue tu camino, [A#] vuela y no te detengas\n[F] Sal del precipicio, [C] corre y no te des la vuelta\n[Dm] Que la vida es corta, [A#] todo lo que viene [C] va\n\n[Am] Levantaremos al [F] sol, nos perderemos los [C] dos\nNo habrá quien nos [G] pare,\nni nos se[Am]pare el corazón [F]\nComo luces de [C] neón, iluminando el col[G]chón\nSolo voy a extra[Am]ñarte cuando se [F] muera mi [C] voz\n"
   },
   {
+    "id": "limena",
+    "title": "Limeña",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/limena.md",
+    "content": "---\ntitle: \"Limeña\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[A7]-[D]-[D7]-[G]-[A7]-[D]-[A7]-[D]-[A7]-[D]-[A7]-[D]\n[D] LIMEÑA QUE TIENES [A7] ALMA DE [D7] [D] TRADICION,\n[G] REPICAN LAS CASTAÑUELAS [A7] DE TU [D7] TACON,\nPASITO A PASO VAS [A7] CAMINANDO\nPOR LA VEREDA QUE VA [D] ENTONANDO\nCOMO SI FUERA UN [A7] BORDON\n[D] COMPASES DE [A7] MARINERA CON TU [D7] [D] TACON.\nBOQUITA DE CARAMELO [G] CUTIS DE SEDA,\nMAGNOLIA QUE SE HA [D] ESCAPADO DE LA ALAMEDA,\nEN TU SONRISA HAY [A7] UN PAÑUELO\nQUE ENAMORADO LLEGA [D] HASTA EL CIELO\nPERFUMADO DE [A7] JAZMIN\n[D] PARA BAILAR MARINERAS [A7] POR SAN [D] MARTIN.\n[D]-[A7]-[D]-[D7]-[G]-[A7]-[D]-[A7]-[D]-[A7]-[D]-[A7]-[D]-[D7]\nBOQUITA DE [G] CARAMELO ...\n"
+  },
+  {
+    "id": "lo-duro",
+    "title": "Lo duro",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/lo-duro.md",
+    "content": "---\ntitle: \"Lo duro\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Dm]-[A]  (ter)  [Gm]-[Dm]-[A]-[Dm]\n[Dm] AQUELLOS DUROS [C] ANTIGUOS\n[A#]\nQUE TANTO EN [A7] CADI DIERON QUE\n## Verso 1\nHABLAR\nSE LO ENCONTRABA LA GENTE\nEN LA ORILLITA DEL [Dm] MAR\nE LA COSA MAS [A7] GRACIOSA\nQUE EN MI VIDA E VISTO [D] YO\nALLI FUE MEDIO CADI CON ESPIOCHA\nALLI ESTABA MI SUEGRA\nY ESO QUE ESTABA YA MEDIO CHOC\nCON LA UÑA Y EL [D7] PELO\nLA VI [G] ESCARBAR\nA7\nSIETE DIAS SEGUIDOS SIN DESCANS\nESTABA LA PLAYA [Dm] IGUAL QUE UNA FER\nLO DURO\nVALGAME [A7] SAN PEDRO LO [C] QUE ES LA\nMISERIA\nALGUNOS COJIERON [Dm] MAS DE OCHENTA\nDURO\n[C]                 [A#]\nSIN EMBARGO [A7] OTROS NO VIERON\nNINGUNO\nMI SUEGRA [D] COMO YA DIJE\n[A7] ESTUVO ALLI UNA [A7] SEMANA\nESCARBANDO POR LA NOCHE\n[D] HADE DIA Y POR LA [D] MAÑANA\nPERDIO LAS UÑAS Y EL PELO\n[D7] AUNQUE BIEN POCO [G] TENIA\nL                                              RE\nY EN VEZ DE COGER LOS DUROS\n[D] [A7] AR\nLO QUE COGIO FUE UNA PULMONIA\nY [G] EN EL PATIO DE LAS [D] MALBAS\n[A7] IARE\nESTA ESCARBANDO DESDE AQUEL DIA\n"
+  },
+  {
     "id": "lobo-hombre-en-paris",
     "title": "Lobo-hombre en París",
     "artist": "La Unión",
@@ -2052,6 +3399,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/los-amantes.md",
     "content": "---\ntitle: \"Los amantes\"\nartist: \"Mecano\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"80s\", \"español\"]\n---\n## Intro\n[C]-[C4] /5-[C] (2) [G] [Am] -[F]- [G] (3)\n\n[C] Yo soy uno de esos amantes, tan elegantes\nComo los de antes,\nQue siempre llevan guantes.\n[G] Entre semana voy deportivo,\nPero el [Am] domingo me pongo muy fino,\nCon mi [F] chaqué de lino.\n[G] Y voy buscando por los balcones\nBellas [Am] Julietas para mis canciones\nY [F] hacerles los honores.\n\n[F] [G] / [F] [Am] / [F] [G] / [F]_[C]-[F]-[G]\n[F] Y siempre estoy rompiéndome la voz\n[G] Cantando coplas bajo tu ventana,\n[F] Amor, sal ya, que este trovador\n[C] Se está asando de calor.\n\n[C]-[C4] /5-[C] (2) [G] [Am] -[F]- [G] (3)\n[C] Soy educado caballero, bello, cortés\nY [G] amable compañero, un codiciado soltero.\n[Am] Y como no tengo complejos,\nMe [F] miro siempre en todos los espejos\nAntes de [G] echar los tejos.\n[C] Si alguna vez cometo errores,\npa que no [Am] llores pido mil perdones,\nCon un [F] millón de flores.\n\n[F] [G] / [F] [Am] / [F] [G] / [F] [C]-[F]-[G]\n[F] Y siempre estoy rompiéndome la voz\n[G] Cantando coplas bajo tu ventana,\n[F] Amor, sal ya, que este trovador\n[C] Se está asando de calor.\n\n[C] [C4] /5 [C]\n"
+  },
+  {
+    "id": "los-perjumenes",
+    "title": "Los perjúmenes",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/los-perjumenes.md",
+    "content": "---\ntitle: \"Los perjúmenes\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nPERJUMENES\nLe pregunté a Baltasar Mecoño. Y él tiró una piedra pómez al fondo del rio, y cuando esta volvió a salir dijo: \"Mirela,\nmirela, mirela como se sulibeya\"\nSON TUS PERJUMENES [C] MUJER\nLOS QUE ME [G] SULIBEYAN\nLOS QUE ME SULIBEYAN\nSON TUS PERJUMENES [C] MUJER(BIS)\nLa primera en la frente dijo Espiridion Pichinchi y aqui está.\nTUS OJOS TUS OJOS SON DE [C] COLEBRI\nAY COMO ME [G] ALETELLAN\nAY COMO ME ALETELLAN\nTUS OJOS TUS OJOS SON DE [C] COLIBRI\nSON TUS PERJUMENES...\nNo hay primera sin segunda dijo Mincho Calandraca y aqui está.\nTUS LABIOS TUS LABIOS PETALOS [C] EN FLOR\nCOMO ME [G] SORIPELLAN\nCOMO ME SORIPELLAN\nTUS LABIOS TUS LABIOS PETALOS [C] EN FLOR\nSON TUS PERJUMENES...\nSulibeyo: Acción mediante la cual un objeto que es capaz de flotar , entra con fuerza en el agua y luego\nregresa a la superficie.\nSoripeyo: Movimiento sugerente que hace la campesina con la boca, para coquetear al barón.\nLa tercera es la vencida dijo Casto Lagüandica y aqui está.\nTUS PECHOS CANTAROS [C] DE MIEL\nCOMO [G] REVERBERELLAN\nCOMO REVERBERELLAN\nTUS PECHOS CANTAROS [C] DE MIEL\nSON TUS PERJUMENES...\nA la cuarta: ¡Ni lo sueñes!\nTU CUERPO CHUCARO [C] VIVIENAY COMO ME ALMARELLA\nAY COMO ME [G] ALMARELLA DETU CUERPO CHUCARO VIVIEN\n\"Un solito mandolina\"\nSON TUS [G] [C] PERJUMENES...(AD [C] LIBITUM)\n"
   },
   {
     "id": "losing-my-religion",
@@ -2117,6 +3478,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Loviu\"\nartist: \"Sandra Valero\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"eurovisión junior\", \"alegre\"]\n---\n## Intro\n[F] [Am][__] [A#]_ [C]_ // [C] [Em] [F] [G]\n\n[F] I love you, mon amour, je t'aime\n[Am] Ti amo, eu amo-te\n[A#] Tantas formas de decir te quiero\n[C] Y gritarlas por el mundo entero (bis)\n\n[F] Me gustaría cada día vivir así\n[Am] Traer de cada rinconcito algún souvenir\n[A#] Me gustaría descubrir cada país\n[C] Saber sus secretos\n[F] Me gustaría bucear en cada mar\n[Am] Me gustaría hablar la lengua de tu hogar\n[A#] Y que me cuentes las leyendas que al final\n[C] Acaban en cuentos\n[F] Aprenderé a soñar en todos los idiomas\n[C] Aprenderé a decir\n\n[F] I love you, mon amour, je t'aime\n[Am] Ti amo, eu amo-te\n[A#] Tantas formas de decir te quiero\n[C] Y gritarlas por el mundo entero (bis)\n\n[F] Me gustaría que mi viaje de película\n[Am] Desafiara las leyes de la física\n[A#] Hoy en la torre Eiffel\n[C] Mañana en el Big Ben\n[F] Y cada noche en un castillo cenaré pastel\n[Am] Y subir por los tejados\n[A#] Tirar confeti por todos lados\n[C] Y si queréis venir, yo os espero aquí\nEstáis todos invitados\n\n[F] I love you, mon amour, je t'aime\n[Am] Ti amo, eu amo-te\n[A#] Tantas formas de decir te quiero\n[C] Y gritarlas por el mundo entero (bis)\n\nOh oh…\n\n[A#] Tantas formas de decir te quiero\n[C] Y gritarlas por el mundo entero\n[F] Aprenderé a soñar en todos los idiomas\n[C] Aprenderé a decir\n\n[F] I love you, mon amour, je t'aime\n[Am] Ti amo, eu amo-te\n[A#] Tantas formas de decir te quiero\n[C] Y gritarlas por el mundo entero (bis)\n\noh oh\n[A#] Tantas formas de decir te quiero\n[C] Y gritarlas por el mundo entero…I love you\n"
   },
   {
+    "id": "luna-de-espana",
+    "title": "Luna de España",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/luna-de-espana.md",
+    "content": "---\ntitle: \"Luna de España\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nLa luna es una mujer\nY por eso el sol de España\nAnda que bebe los vientos\nPor si la luna le engaña\nAhí le engaña porque...\nPorque en cada anochecer\nDespués de que el sol se apaga\nSale la luna a la calle\nCon andares de gitana\nCuando la luna sale, sale de noche\nUn amante la aguarda en cada reja\nLuna, luna de España, cascabelera\nLuna de ojos azules, cara morena\nY se oye a cada paso la voz de un hombre\nQue a la luna que pasa le da su queja\nLuna, luna de España, cascabelera;\nLuna de ojos azules, cara morena\n"
+  },
+  {
     "id": "luna-tucumana",
     "title": "Luna tucumana",
     "artist": "Atahualpa Yupanqui",
@@ -2132,6 +3507,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Luna tucumana\"\nartist: \"Atahualpa Yupanqui\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"zamba\", \"folklore\", \"argentino\"]\n---\n## Intro\n[Dm]-[A7] [Dm] (2) [D7] / [Gm] [Dm] [A7] [Dm]\n\n[Dm] Yo no le canto a la luna\n[A7] Porque alumbra y nada más\n/:[Dm] Le canto porque ella sabe,\n[A7] De mi largo caminar:/\n\n[Dm] Ay, lunita tucumana,\n[A7] Tamborcito calchaquí\n\n\n/:[Gm] Compañera de los gauchos,\n[Dm] En las sendas de [A7] Tafí\n\n[C7] [F] (2) [Gm] [Dm] [A7] [Dm]\n:/\n\n[Dm] Perdido en las cerrazones,\nQuién sabe, [A7] vidita,\nPor dónde andaré\n[Dm] Mas cuando salga la luna,\nCantaré, [A7] cantaré\n[Dm] A mi Tucumán querido,\nCantaré, [A7] cantaré\n\n(2) [Dm]- [A7] [Dm] (2) [D7] / [Gm] [Dm] [A7] [Dm]\n[Dm] Con esperanza o con pena\nEn los campos de [A7] Acheral\n\n/:[Dm] Yo he visto a la luna buena,\n[A7] Besando el cañaveral:/\n[Gm] En algo nos parecemos,\n[Dm] Luna de la soledad\n/:[A7] Yo voy andando y cantando,\n[Dm] Que es mi modo de alumbrar :/\n\n[C7] [F] (2) [Gm] [Dm] [A7] [Dm] (2)\n[Dm] Perdido en las cerrazones,\nQuién sabe, [A7] vidita, por dónde andaré\n[Dm] Mas cuando salga la luna,\nCantaré, [A7] cantaré\n[Dm] A mi Tucumán querido,\nCantaré, [A7] cantaré\n\n\n> https://es.wikipedia.org/wiki/Provincia de Tucumán\n> https://es.wikipedia.org/wiki/Calchaqu%C3%ADes\n> https://es.wikipedia.org/wiki/Taf%C3%AD del Valle\n> https://es.wikipedia.org/wiki/Acheral\nhttps://youtu.be/0k6kG1WFIA4 (entrevista imperdible)\nhttps://youtu.be/fMGwTBHx6h0\n"
   },
   {
+    "id": "madrigal",
+    "title": "Madrigal",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/madrigal.md",
+    "content": "---\ntitle: \"Madrigal\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Dm] ESTANDO CONTIGO ME [A7] OLVIDO DE TODO Y DE [Dm] MI\n[Gm] PARECE QUE TODO LO [C] TENGO TENIENDOTE A [F] TI\nY NO [D7] SIENTO ESTE MAL QUE ME AGOBIA Y QUE LLEVO [Gm] CONMIGO\n[C] ARRUINANDO ESTA VIDA QUE LLEVO Y NO PUEDO [A7] VIVIR\n[Dm] ERES LUZ QUE ILUMINA EN LA NOCHE EN MI LARGO [Gm] [D7] CAMINO\n[E7]                                        [A7]                             [D]     [B7]  [Em]\nY ES POR ESO QUE FRENTE [A7] AL DESTINO YO QUIERO VIVIR\nUNA [D] ROSA EN TU PELO PARECE [G] UNA ESTRELLA [A7] EN EL [D] CIELO\nY EN EL VIENTO PARECE UN [B7] ACENTO TU VOZ [A] [Em] MUSICAL\nY PARECE [Em] UN DESTELLO DE LUZ [A] LA MEDALLA EN TU [Em] CUELLO\nAL MENOR [A] MOVIMIENTO DE [A7] TU CUERPO AL [A7] [Em] [B7] [D] ANDAR\nYO A TU [D] LADO NO SIENTO LAS [G] HORAS QUE VAN [A7] CON EL [D] TIEMPO\n[D7]\nNI ME ACUERDO QUE LLEVO [G] EN MI PECHO UNA HERIDA MORTAL\nYO [Gm] CONTIGO NO SIENTO EL SONAR DE LA LLUVIA Y EL [B7] [D] VIENTO\nPORQUE [Em] LLEVO TU AMOR EN MI [A7] PECHO COMO UN [D] MADRIGAL\n## Instrumental\nYO A TU LADO...\n"
+  },
+  {
+    "id": "magdalena",
+    "title": "Magdalena",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/magdalena.md",
+    "content": "---\ntitle: \"Magdalena\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[A] lai [A] [A] [A] [A] [A] lai [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A]\n[A] lai [A] [A] [A] [A] [A] lai [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A] [A]\nLlorar (Llorar)\nComo he llorado (Como he llorado)\nNadie (Nadie)\nPuede llorar (Puede llorar)\nAmar (Amar)\nComo he amado (Como he amado)\nNadie (Nadie)\nPodrá jamás (La lai la lai la la lai la la)\nLloraba que daba pena (La lai la lai la la lai la la)\nPor amor a Magdalena (La lai la lai la la lai la la)\nMas ella me abandonó disminuyendo en mi jardín esa linda flor\nLa lai la lai la la la lai la lai la la\nLa lai la la lai la lai la la lai la la\nLa lai la lai la la la lai la lai la la\nLa lai la la lai la lai la la lai la la\nMi Magdalena fue como un ángel salvador\nY yo (Y yo) la adoraba con fe (La adoraba con fe)\nBarco sin timón perdido en alta mar\nSoy Magdalena sin tu amor\nLa lai la lai la la la lai la lai la la\nLa lai la la lai la lai la la lai la la\nLa lai la lai la la la lai la lai la la\nLa lai la la lai la lai la la lai la la\n"
+  },
+  {
+    "id": "maitechu-mia",
+    "title": "Maitechu mía",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/maitechu-mia.md",
+    "content": "---\ntitle: \"Maitechu mía\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A7] [Dm] LAILA [Dm] LALAILA [A7] LAILA LALAILA LAILA [Dm] [A7] [A#] LALAILALÁ\n## Verso 1\nLAILA  LALAILA  LAILA  LALAILA  LAILA  LALAILALÁ\n[Dm]                [A7]               [Dm]                           LA#(SOLm) [A7]\nBUSCANDO HACER FORTUNA,COMO [Dm] EMIGRANTE PARTÍ A OTRAS TIERRAS\n[Dm] Y ENTRE [A7] LAS MOZAS [Dm] ,UNA QUEDÓ LLORANDO [G] [A#] POR MI [Dm] [A7] QUERER\nVUELVETE AL [D7] CASERÍO [Gm] , [E7] NO LLORES MAS MUJÉR [A7] ,\n[Dm] QUE DENTRO [D7] DE UNOS [Gm] AÑOS [C] , MUY RICO HE DE [F] VOLVER\n[Gm] Y SI ME ESPERAS , LO QUE TU [Dm] QUIERAS , DE [A7] MI [Dm] CONSEGUIRÁS\n[G] MAITECHU MÍA , [Dm] MAITECHU MÍA , [A7] ANDA Y NO LLORES [D] MAS\nYO VOLVERÉ A DECIRTE LAS MISMAS COSAS [B7] QUE TE [Em] DECÍA\nY VOLVERÉ A CANTAR [D] ... ZORCICOS AAAL [A7] [G] PASAR\n[D] Y VOVERÉ A [B7] QUERERTE CON TODA EL ALMA , MAITECHU [Em] MÍA\n[Gm] POR ORO CRUZO EL [Dm] MAR... Y [A#] DEBES [Dm] [A7] ESPERAR...\nLAILA  LALAILA  LAILA  LALAILA  LAILA  LALAILALÁ\nLAILA  LALAILA  LAILA  LALAILA  LAILA  LALAILALÁ\nLUCHÉ  POR  EL  DINERO  Y  AL  VERME  RICO  VOLVÍ  POR  ELLA\nSALTÉ A TIERRA EL PRIMERO ,PORQUE  SOÑABA  CON  SU  QUERER\nYÁ  LLEGO  AL  CASERÍO , VOY  A  VOLVERLA  A  VER...\nNÓ  SALE  A  RECIBIRME , QUÉ  ES  LO  QUE  PUDO  SER\nMURIÓ  LLORÁNDO  Y  SUSPIRÁNDO ,MI  AMOR  EN  DÓNDE  ESTAS\nMAITECHU  MÍA , MAITECHU  MÍA , YA  NO  HE  DE  VERTE  MÁS.\nYÁ  NO  PODRÉ  DECIRTE  LAS  MISMAS  COSAS  QUE  TE  DECÍA\nNI  VOLVERÉ  A  CANTAR ...    ZORCICOS  AAAL  PASAR\nYÁ NO PODRÉ QUERERTE  CON TODA EL ALMA ,MAITECHU MÍA\n[Gm] EL ORO [Dm] CONSEGUÍ...,PERO [A#] EL AMOR [A7] PERDÍ [Dm] ...\nMAITECHU [Gm] MÍA , MAITECHU [Dm] MÍA , .NÓ [A#] HE DE VIVIIIR [A7] SIN [Dm] TIII.\n"
+  },
+  {
     "id": "malaga-bonita-malaga",
     "title": "Málaga, bonita Málaga",
     "artist": "Popular",
@@ -2145,6 +3562,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/malaga-bonita-malaga.md",
     "content": "---\ntitle: \"Málaga, bonita Málaga\"\nartist: \"Popular\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"rumba\", \"andaluz\"]\n---\n\n## Intro\n[F] [G] [F] [E] [Am] [G] [F] [E]\n\n[Am] Málaga, bonita [G] Málaga,\n[F] Málaga, que guapa [E] es.\n[Am] Eres tú, la más her[G]mosa,\n[F] Eres tú, reina ca[E]lé.\n\n[Am] Málaga, bonita [G] Málaga, (Málaga, bonita)\n[F] Málaga, que guapa [E] es. (Málaga, bonita)\n[Am] Eres tú la más her[G]mosa, (Málaga, bonita)\n[F] Eres tú reina ca[E]lé. (Málaga)\n\n[Am] Con el embrujo de tus ojos [G] y el orgullo de tu ser\n[F] Te paseas por las calles, [E] por las calles del Perchel.\n[Am] Viva Málaga que [G] tiene\n[F] Caleta y el Limo[E]nar\n[Am] Y un parque lleno de [G] flores\n[F] A la orillita del [E] mar.\n[Am] Antiguamente eran [G] dulces\n[F] Todas las aguas del [E] mar\n[Am] Se bañó una mala[G]gueña\n[F] Y se volvieron sa[E]lás.\n[Am] Ay, rosas Málaga [G] bella,\n[F] Biznagas, de mi pa[E]sión\nCuando [Am] no estoy a tu [G] vera\n[F] Se me rompe el cora[E]zón\n\n[Am] Málaga, bonita [G] Málaga, (Málaga, bonita)\n[F] Málaga, que guapa [E] es. (Málaga, bonita)\n[Am] Eres tú la más her[G]mosa, (Málaga, bonita)\n[F] Eres tú reina ca[E]lé …\n[Am] Eres tú reina ca[G]lé…\n[F] Eres tú, reina ca[E]lée ¡Y olé!\n"
+  },
+  {
+    "id": "malaga",
+    "title": "Málaga",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/malaga.md",
+    "content": "---\ntitle: \"Málaga\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Intro\nMÁLAGA, BONITA MÁLAGA;\nMÁLAGA, QUE GUAPA ERES.\nERES TU LA MÁS HERMOSA,\nERES TU REINA CALÉ.\nMálaga, bonita Málaga;\nMálaga, que guapa eres.\nEres tu la más hermosa,\neres tu reina calé.\nDicen que Málaga tiene\nCaleta y El Limonar\ny un jardín lleno de flores\na la orillita de la mar.\n## Estribillo\nEl embrujo de tus ojos\ny el orgullo de tu ser\nse pasea por la plaza,\nla plaza de la Merced.\nESTRIBILLO ... y eres tu reina calé,\ny eres tu ....\nreina calééé.....\n"
   },
   {
     "id": "malaguena-del-chato",
@@ -2192,6 +3623,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Malagueñas populares\"\nartist: \"Popular\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"flamenco\", \"popular\", \"andaluz\"]\n---\n\n## Verso 1\n[Am] Que algún día, mala[G]gueña, serás mi mu[F]jer [E]\n\n[Am] A la sombra de una [G] copla yo te ena[F]moré\nY mi amor te entre[E]gué\nMala[Am]gueña te quiero [G] y siempre te que[F]rré [E]\n\n[Am] Viva Málaga que tiene, [G] Caleta y El Limonar,\n[F] Caleta y El Limonar, [E] y un parque lleno de flores,\n[Am] A la orillita del mar, [G] donde nacen los a[F]mores. [E]\n\n[Am] Antiguamente eran [G] dulces (2)\n[F] Todas las aguas del [E] mar.\n[Am] Se bañó una mala[G]gueña y se vol[F]vieron sa[E]lás,\nY se vol[F]vieron sa[E]lás.\n\n[Am] Cuando salí de Mar[G]bella (2)\n[F] Hasta el caballo llo[E]raba.\n[Am] Los ojos de mi mo[G]rena, al sol sus [F] rayos qui[E]taban,\n[Am] Al sol sus rayos qui[G]taban. [F] [E]\n\n[Am] Yo en mi vida nega[G]ré, (2)\n[F] Que te quise con lo[E]cura,\n[Am] Mira qué cariño [G] fue, que aún siento [F] la calen[E]tura,\n[Am] Que tuve por tu que[G]rer. [F] [E]\n"
   },
   {
+    "id": "manolo",
+    "title": "Manolo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/manolo.md",
+    "content": "---\ntitle: \"Manolo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Em]-[B7]-[Am]-[Em]-[B7] (bis)-[Em]\n[B7]-[Em] (bis)-[D]-[G]-[Am]-[B7]\nCUANDO LA TUNA, [B7] TUNA,\nPASEA POR [Em] LAS CALLES\nSALEN LAS [Am] CHICAS AL [Em] BALCON,\nNINGUNA [B7] PENSARIA\nQUE BAJO DE ESA [Em] CAPA\nVAYA ESCONDIDO [B7] UN [Em] EMPOLLON.\nCUANDO LA TUNA, [B7] TUNA,\nPASEA SU [Em] ALEGRIA\nPOR LAS [Am] CALLES DE LA [Em] CIUDAD,\nSU JUVENIL [B7] ENCANTO\nAMORES [Em] FEMENINOS\nCONSIGUE [B7] CON [E] FACILIDAD.\nESTUDIANTE, [E] ESTUDIANTE,\nQUE TE VAN A [B] SUSPENDER,\nPERO AL [F#m] CABO NO TE [B] IMPORTE\nSI CONSIGUES UN [E] QUERER.\nESTUDIANTE, [E] ESTUDIANTE,\nQUE TE [E7] CARGUEN NO ES LO [A] PEOR,\nPUES SERIA MAS [E] DENIGRANTE\nLAS CALABAZAS [B] EN EL [E] AMOR.\n## Verso 1\n(DA CAPO)\nPUES SERIA MAS [E] DENIGRANTE\nLAS CALABAZAS [B] EN [E] EL AMOR.\n"
+  },
+  {
+    "id": "maria-chuchena",
+    "title": "María Chuchena",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/maria-chuchena.md",
+    "content": "---\ntitle: \"María Chuchena\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[D]-[A7]-[G]-[D]-[A7]- [D]-[A7]- [D]\nEstaba María Chuchena, [A7] sentadita en la [D] barranca,\nSentadita en la barranca, [A7] estaba María [D] Chuchena,\nCon su vestido en las piernas, [A7] recogiendo flores [D] blancas\nRecogiendo flores [A7] blancas, estaba María [D] Chuchena\nMaría Chuchena se fue a [A7] bañar, a orillas del lago muy juntito al [D] mar,\nMaría Chuchena se estaba [A7] bañando y el pescador la estaba [D] mirando,\nY le decía: ¡María, María!\nNi techo tu casa [A7] ni techo la [D] mía, ni techo tu [A7] casa ni techo la [D] mía,\nNi techo la [A7] casa de María [D] García.\nDime qué flor te acomoda, para írtela a buscar,\nPara írtela a cortar,\nSi azucena o amapola o maravilla de mar,\nPara cuando tú estés sola tengamos que platicar.\nMaría Chuchena se fue …\nPor aquí pasó volando una calandria amarilla,\nUna calandria amarilla por aquí pasó volando,\nY en su piquito llevaba una rosa de castilla,\nQue el viento la deshojaba como blanca maravilla.\nMaría Chuchena  se fue …\n"
+  },
+  {
+    "id": "maria-dolores",
+    "title": "María Dolores",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "B",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/maria-dolores.md",
+    "content": "---\ntitle: \"María Dolores\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"B\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nMA\n[Em]-[D]-[C]-[B] (bis)\nDIOS TE HA DADO [B] LA GRACIA DEL CIELO, [C] (AD\nLIBITUM)\nMARIA DOLORES, (AD [B] LIBITUM)\nY EN TUS OJOS [B] EN VEZ DE MIRADAS [C] (AD\nLIBITUM)\nHAY RAYOS DE SOL (AD [B] LIBITUM).\nDEJAME [Em] QUE TE CANTE, MORENA [D] (AD\nLIBITUM)\nDE MIS AMORES, [C] (AD LIBITUM)\nUN BOLERO QUE ENSALCE TU GARBO [B] (AD\nLIBITUM)\nQUE ES TAN ESPAÑOL (A [B] [E] CAPPELLA Y AD\nLIBITUM).\nOLE, [E] OLE,\nTE MUEVES MEJOR QUE LAS OLAS\nY TIENES LA GRACIA DEL CIELO,\nLA NOCHE EN TU PELO,\nMUJER [B] ESPAÑOLA.\n[F#m] OLE, [B] OLE,\nTUS [F#m] OJOS SON TAN [B] PINTUREROS\nQUE [F#m] CUANDO LOS MIRO DE [B] CERCA,\nPRENDIDO EN SU [F#m] EMBRUJO,\nSOY [B] TU [E] PRISIONERO.\nRIA DOLORES\nOLE, OLE\nENVIDIA TE TIENEN LAS FLORES\nPUES LLEVAS LA ESENCIA EN TU ENTRAÑA\nDEL AIRE DE [E7] ESPAÑA,\nMARIA [A] DOLORES.\n[Am] OLE, OLE Y [E] OLE\nPOR [F#m] LINDA Y GRACIOSA TE [B] QUIERO,\nY EN [F#m] VEZ DE DECIRTE [B] PIROPOS,\nMARIA [F#m] DOLORES,\nTE [B] CANTO UN [E] BOLERO.\n[E]-[B]-[F#m]-[B] (4 (veces)-[E]\nOLE, OLE,... (3º).\n[Am] OLE, OLE Y [E] OLE,...\nOLE, OLE [Am] Y OLE. (AD [E] LIBITUM)\n"
+  },
+  {
     "id": "maria-la-portuguesa",
     "title": "María la portuguesa",
     "artist": "Carlos Cano",
@@ -2201,10 +3674,11 @@ export const DEFAULT_SONGS = [
     "tags": [
       "copla",
       "fado",
-      "español"
+      "español",
+      "tuna"
     ],
     "file": "canciones/maria-la-portuguesa.md",
-    "content": "---\ntitle: \"María la portuguesa\"\nartist: \"Carlos Cano\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"fado\", \"español\"]\n---\n\n## Verso 1\n[Em] [B7] [Em] [E7] [Am] [Em] [B7] [Em]\n\nEn las [Em] noches de luna y clavel, de Aya[B7]monte hasta Villarreal,\nSin rumbo por el río, entre suspiros, una can[Em]ción viene y va. [E7]\n\nQue la [Am] canta Ma[D7]ría, al que[G]rer de un andaluz,\nMa[B7]ría es la alegría y es la agonía que tiene el [Em] Sur. [E7]\n\nQue cono[Em]ció a ese hombre, en una [B7] noche de vino verde y calor,\nY entre palma y fandango la fue enredando, le trastornó el cora[Em]zón. [E7]\n\nY en las [Am] playas de [D7] Isla, se per[G]dieron los dos,\nDonde [B7] rompen las olas besó su boca, y se entre[Em]gó. [E]\n\n[C#7] [C7] [B7]\n¡Ay, Ma[E]ría la Portuguesa!\nDesde Ayamonte hasta Faro, se oye este fado por las ta[B7]bernas\nDonde bebe vinho amargo,\n¿por qué canta con tristeza? ¿Por qué esos ojos cerra[E]dos?\nPor un [B7] amor desgra[E]ciado, por eso [B7] canta, por eso [Em] pena.\n\n[Em] Fado porque me [D] faltan sus ojos, [C] fado porque me [B7] falta su boca,\n[Am] Fado porque se [Em] fue por el río, [B7] fado porque se fue con la [Em] sombra.\n\n[Em] [D] [C] [B7] [Am] [Em] [B7] [Em] [E7]\n\n[Em] Dicen que fue el \"te quiero\" de un mari[B7]nero razón de su padecer,\nY una noche en los barcos del contrabando al langos[Em]tino se fue. [E7]\n\nY en las [Am] sombras del [D7] río un dis[G]paro sonó,\nY de a[B7]quel sufrimiento nació el lamento de esta can[Em]ción. [E]\n"
+    "content": "---\ntitle: \"María la portuguesa\"\nartist: \"Carlos Cano\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"fado\", \"español\", \"tuna\"]\n---\n\n## Verso 1\n[Em] [B7] [Em] [E7] [Am] [Em] [B7] [Em]\n\nEn las [Em] noches de luna y clavel, de Aya[B7]monte hasta Villarreal,\nSin rumbo por el río, entre suspiros, una can[Em]ción viene y va. [E7]\n\nQue la [Am] canta Ma[D7]ría, al que[G]rer de un andaluz,\nMa[B7]ría es la alegría y es la agonía que tiene el [Em] Sur. [E7]\n\nQue cono[Em]ció a ese hombre, en una [B7] noche de vino verde y calor,\nY entre palma y fandango la fue enredando, le trastornó el cora[Em]zón. [E7]\n\nY en las [Am] playas de [D7] Isla, se per[G]dieron los dos,\nDonde [B7] rompen las olas besó su boca, y se entre[Em]gó. [E]\n\n[C#7] [C7] [B7]\n¡Ay, Ma[E]ría la Portuguesa!\nDesde Ayamonte hasta Faro, se oye este fado por las ta[B7]bernas\nDonde bebe vinho amargo,\n¿por qué canta con tristeza? ¿Por qué esos ojos cerra[E]dos?\nPor un [B7] amor desgra[E]ciado, por eso [B7] canta, por eso [Em] pena.\n\n[Em] Fado porque me [D] faltan sus ojos, [C] fado porque me [B7] falta su boca,\n[Am] Fado porque se [Em] fue por el río, [B7] fado porque se fue con la [Em] sombra.\n\n[Em] [D] [C] [B7] [Am] [Em] [B7] [Em] [E7]\n\n[Em] Dicen que fue el \"te quiero\" de un mari[B7]nero razón de su padecer,\nY una noche en los barcos del contrabando al langos[Em]tino se fue. [E7]\n\nY en las [Am] sombras del [D7] río un dis[G]paro sonó,\nY de a[B7]quel sufrimiento nació el lamento de esta can[Em]ción. [E]\n"
   },
   {
     "id": "maria",
@@ -2221,6 +3695,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/maria.md",
     "content": "---\ntitle: \"María\"\nartist: \"Ricky Martin\"\nkey: \"Gm\"\ncapo: 0\ntempo: 128\ntags: [\"pop\", \"latino\", \"bailable\", \"90s\"]\n---\n\n## Intro\n[D7] [D#] [D7] [D#] [D7]\n[Gm] [D7] [Gm] [D7]\n\n## Verso 1\n[Gm] Ella es una mujer especial, como caída de otro pla[D7]neta.\n[Gm] Ella es un laberinto carnal que te atrapa y no te en[D7]teras.\n[Gm] Así es María, blanca como el día, pero es veneno si te quieres enamo[D7]rar.\n[Gm] Así es María, tan caliente y fría, que si la bebes de seguro te va a ma[D7]tar.\n\n## Coro\n[Gm] Un, dos, tres, un pasito pa'lante, Ma[D7]ría.\n[Gm] Un, dos, tres, un pasito pa'[D7]trás.\n[Gm] Aunque me muera ahora, María (¡Un, dos, tres!) un pasito pa'lante, Ma[D7]ría.\n[Gm] Un, dos, tres, un pasito pa'[D7]trás.\n\n## Verso 2\n[Gm] Ella es como un pecado mortal que te condena poco a [D7] poco.\n[Gm] Ella es un espejismo sensual que te va volviendo [D7] loco.\n[Gm] Así es María, blanca como el día, pero es veneno si te quieres enamo[D7]rar.\n[Gm] Así es María, tan caliente y fría, que si la bebes de seguro te va a ma[D7]tar.\n\n## Coro\n[Gm] Un, dos, tres, un pasito pa'lante, Ma[D7]ría.\n[Gm] Un, dos, tres, un pasito pa'[D7]trás.\n[Gm] Aunque me muera ahora, María (¡Un, dos, tres!) un pasito pa'lante, Ma[D7]ría.\n[Gm] Un, dos, tres, un pasito pa'[D7]trás. [Gm]\n"
+  },
+  {
+    "id": "maribel",
+    "title": "Maribel",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/maribel.md",
+    "content": "---\ntitle: \"Maribel\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nArribé buscando un querer\nSin ver que mi corazón\nMás que amor, buscaba un placer.\nAquel remanso de paz\nCuya existencia dudé\nMe hizo por fin conocer\nLa mujer ideal.\n(Estribillo):\nMaribel,\nMuñequita de carne rosada.\nMaribel,\nLinda flor de candor perfumada.\nMaribel,\nEn tus ojos divinos soñé,\nMaribel,\nUna dicha que nunca logré.\nPor la sed del buen amor\nEs fatal no se debe hacer\nSe paga con el dolor\nDe llorar por una mujer\nPor eso voy yo de este mar\nBuscando el bien que soñé\nSin que lo pueda encontrar\nMi gentil Maribel\n## Estribillo\nMEDITERRANEO\n[Am], [Em]\n[Am] Quizá porque mi [Em] niñez [Am] sigue jugando en [Dm] tu [Am] [Em] playa\ny escondido tras [G] las cañas [C] duerme mi primer [Am] [Em] amor\n[G]          [F]                     [G7]         [C]         [Em]\n"
   },
   {
     "id": "mariposas",
@@ -2300,6 +3788,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Me gustas tú\"\nartist: \"Manu Chao\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"reggae pop\", \"mestizaje\", \"latino\"]\n---\n\n## Intro\n[Am] [G] [Dm]\n\n(¿Qué horas son, mi corazón?)\n(Te lo dije muy clarito)\n(Permanece a la escucha)\n(12 de la noche en La Habana, Cuba)\n(11 de la noche en San Salvador, El Salv.)\n(11 de la noche en Managua, Nicaragua)\n\n[Am] Me gustan los aviones, [G] me gustas tú\n[Dm] Me gusta viajar, [Am] me gustas tú\n[Am] Me gusta la mañana, [G] me gustas tú\n[Dm] Me gusta el viento, [Am] me gustas tú\n[Am] Me gusta soñar, [G] me gustas tú\n[Dm] Me gusta la mar, [Am] me gustas tú\n\n[Am] ¿Qué voy a hacer? Je ne sais pas\n[G] ¿Qué voy a hacer? Je ne sais plus\n[Dm] ¿Qué voy a hacer? Je suis perdu\n[Am] ¿Qué horas son, mi corazón?\n\n[Am] Me gusta la moto, [G] me gustas tú\n[Dm] Me gusta correr, [Am] me gustas tú\n[Am] Me gusta la lluvia, [G] me gustas tú\n[Dm] Me gusta volver, [Am] me gustas tú\n[Am] Me gusta marihuana, [G] me gustas tú\n[Dm] Me gusta colombiana, [Am] me gustas tú\n[Am] Me gusta la montaña, [G] me gustas tú\n[Dm] Me gusta la noche [Am] (me gustas tú)\n\n[Am] ¿Qué voy a hacer? Je ne sais pas… [G] [Dm] [Am]\n\n(Doce, un minuto)\n[Am] Me gusta la cena, [G] me gustas tú\n[Dm] Me gusta la vecina, [Am] me gustas tú\n[Am] Me gusta su cocina, [G] me gustas tú\n[Dm] Me gusta camelar, [Am] me gustas tú\n[Am] Me gusta la guitarra, [G] me gustas tú\n[Dm] Me gusta el reggae, [Am] me gustas tú\n\n[Am] ¿Qué voy a hacer? Je ne sais pas… [G] [Dm] [Am]\n\n[Am] Me gusta la canela, [G] me gustas tú\n[Dm] Me gusta el fuego, [Am] me gustas tú\n[Am] Me gusta menear, [G] me gustas tú\n[Dm] Me gusta la Coruña, [Am] me gustas tú\n[Am] Me gusta Malasaña, [G] me gustas tú\n[Dm] Me gusta la castaña, [Am] me gustas tú\n[Am] Me gusta Guatemala [G] (me gustas [Dm] tú) [Am]\n"
   },
   {
+    "id": "me-importas-tu",
+    "title": "Me importas tú",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/me-importas-tu.md",
+    "content": "---\ntitle: \"Me importas tú\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[D7]-[Am]-[D7]-[G]-[Em]-[G]-[Em]\n[Am]-[D7]-[Am]-[D7]-[G] [G]-[G]-[G]\nQUE [Am] SE QUEDE EL [D7] INFINITO SIN [Em] [G] ESTRELLAS\nO QUE [Am] PIERDA EL ANCHO MAR [D7] SU [G] INMENSIDAD\nPERO EL [B7] NEGRO DE TUS OJOS QUE NO [Em] MUERA\nY EL CANELA [A] DE TU PIEL SE QUEDE IGUAL [D] (chk,chk,ch)\nSI [Am] PERDIESE EL ARCO [D7] IRIS SU [Em] [G] BELLEZA\nY LAS [Am] FLORES SU [D7] PERFUME Y SU [G] COLOR\nNO [B7] SERIA TAN INMENSA MI [Em] TRISTEZA\nCOMO [A] AQUELLA DE QUEDARME SIN TU [D] AMOR\nME IMPORTAS [Am] TU, [D7] Y TU, [Am] Y TU, Y [D7] SOLAMENTE TU, [G] Y [Em] TU, Y [G] TU\nME IMPORTAS TU, [Am] Y TU, [D7] Y TU, [Am] Y [D7] SOLAMENTE [G] TUUUUU\n[E] OJOS NEGROS, PIEL [Am] CANELA, QUE ME [A] LLEVAN A [C#] DESESPERAR\nME IMPORTAS TU, [Am] Y TU, [D7] Y TU, [Am] Y [D7] SOLAMENTE [G] TUUUUU\n[Am]-[D7]-[G]-[Em]-[Am]-[D7]-[G]\n[B7]-[Em]-[A]-[D]\n## Verso 1\nSI PERDIESE...\nME IMPORTAS...\n"
+  },
+  {
+    "id": "me-voy-pal-pueblo",
+    "title": "Me voy pa'l pueblo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/me-voy-pal-pueblo.md",
+    "content": "---\ntitle: \"Me voy pa'l pueblo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nME VOY PAL PUEBLO\nME VOY PAL [B7] [F#m] PUEBLO\nHOY ES [E] MI [C#m] DIA\nVOY [F#m] ALEGRAR TODA [B7] EL ALMA [E7] [E] MIA\nME VOY PAL [B7] [F#m] PUEBLO\nHOY ES [E] MI [C#m] DIA\nVOY [F#m] A ALEGRAR TODA [B7] EL ALMA [E7] [E] MIA\n[C#m] [G#m] [E] [B7] [A] [F#m] LARALA....\n[F#m] TANTO COMO YO [B7] TRABAJO Y NUNCA [E] PUEDO [G#m] IRME AL [C#m] VACILON\nNO SE QUE [F#m] PASA CON ESTA [B7] GUAJIRA\nQUE NO LE [E] GUSTA EL [G#m] GUATEQUE Y EL [C#] RON\nAHORA [F#] MISMO [A] LA VOY A [B7] DEJAR EN SU [E] BOHÍO [G#m] ASANDO [C#m] MAIZ\nME VOY PAL PUEBLO [F#m] A TOMARME UN [A] GARRON\nY CUANDO [E] VUELVA SE [G#m] ACABO EL [C#m] CARBON\nME VOY...\nLARA...\n[F#m] DESDE EL DIA EN QUE NOS [B7] CASAMOS HASTA LA [E] FECHA [G#m] TRABAJANDO [C#m] ESTOY\nQUIERO QUE [F#m] SEPAS QUE NO ESTOY [B7] DISPUESTO\nA [E] ENTERRARME EN [G#m] VIDA EN UN [C#] RINCON\n[F#m]             [A]               [B7]                      [E]                 [G#m]\nES LINDO EL CAMPO MUY BIEN YA LO [C#m] SE PERO PAL PUEBLO VOY ECHANDO UN PIE\nSI TU [F#m] NO VIENES [A] MEJOR ES [B7] ASI PERO NO [E] SE LO QUE [G#m] SERA DE [C#m] MI\nME VOY...\n"
+  },
+  {
     "id": "mediterraneo",
     "title": "Mediterráneo",
     "artist": "Joan Manuel Serrat",
@@ -2309,10 +3825,11 @@ export const DEFAULT_SONGS = [
     "tags": [
       "canción de autor",
       "clásico",
-      "español"
+      "español",
+      "tuna"
     ],
     "file": "canciones/mediterraneo.md",
-    "content": "---\ntitle: \"Mediterráneo\"\nartist: \"Joan Manuel Serrat\"\nkey: \"Am7\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"clásico\", \"español\"]\n---\n\n## Verso 1\n6x4\n\nQui[Am7]zá porque mi [E7sus4] niñez [Am7] sigue ju[F]gando en tu [E7] playa\nY escon[Am7]dido tras las [G] cañas [C] duerme mi primer a[Am7]mor,\n[G] Llevo tu [F] luz y tu o[G]lor por donde [C] quiera que vaya,\n[E7] Y amonto[Am7]nado en tu arena [F] guardo amor, juegos y [E7] penas.\n\nYo, [Am7] que en la piel tengo el [E7sus4] sabor [Am7] amargo del [F] llanto e[E7]terno\nQue han ver[Am7]tido en ti cien [G] pueblos, [C] de Algeciras a Estam[Am7]bul,\n[G] Para que [F] pintes de a[G]zul sus largas [C] noches de invierno.\n[E7] A fuerza [Am7] de desventuras, [F] tu alma es profunda y os[Am7]cura.\n\nA tus [Dm] atardeceres [C] rojos, se acostum[E7]braron mis [Am] ojos como el recodo al camino.\n[Dm] Soy cantor, soy embus[C]tero, me gusta el [E7] juego y el [Am] vino, tengo alma de marinero.\n¡Qué le voy a ha[Dm]cer si [C] yo! [E7]\n¡Nací en el medite[Am]rráneo!\n[Dm] ¡Nací [C] en el [E7] medite[Am]rráneo!\n\nY te a[Am7]cercas y te [E7sus4] vas, [Am7] después de be[F]sar mi al[E7]dea,\nJu[Am7]gando con la ma[G]rea, [C] te vas pensando en vol[Am7]ver.\n[G] Eres co[F]mo una mu[G]jer, perfuma[C]dita de brea,\n[E7] Que se añora [Am7] y que se tiene, [F] que se conoce y se [E7] teme ¡ay!\n\nSi un [Am7] día para mi [E7sus4] mal [Am7] viene a bus[F]carme la [E7] Parca,\nEmpu[Am7]jad al mar mi [G] barca, [C] con un levante oto[Am7]ñal\n[G] Y dejad [F] que el tempo[G]ral desguace sus [C] alas blancas,\n[E7] Y a mí enter[Am7]radme sin duelo, [F] entre la playa y el [Am7] cielo.\n\nEn la [Dm] ladera de un [C] monte, más alto [E7] que el hori[Am]zonte, quiero tener buena vista.\n[Dm] Mi cuerpo será ca[C]mino, le daré [E7] verde a los [Am] pinos y amarillo a la genista,\n¡Cerca del [Dm] mar porque [C] yo! [E7]\nNací en el medite[Am]rráneo,\n[Dm] Nací [C] en el [E7] medite[Am]rráneo,\n[Dm] Nací [C] en el [E7] medite[Am]rráneo.\n"
+    "content": "---\ntitle: \"Mediterráneo\"\nartist: \"Joan Manuel Serrat\"\nkey: \"Am7\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"clásico\", \"español\", \"tuna\"]\n---\n\n## Verso 1\n6x4\n\nQui[Am7]zá porque mi [E7sus4] niñez [Am7] sigue ju[F]gando en tu [E7] playa\nY escon[Am7]dido tras las [G] cañas [C] duerme mi primer a[Am7]mor,\n[G] Llevo tu [F] luz y tu o[G]lor por donde [C] quiera que vaya,\n[E7] Y amonto[Am7]nado en tu arena [F] guardo amor, juegos y [E7] penas.\n\nYo, [Am7] que en la piel tengo el [E7sus4] sabor [Am7] amargo del [F] llanto e[E7]terno\nQue han ver[Am7]tido en ti cien [G] pueblos, [C] de Algeciras a Estam[Am7]bul,\n[G] Para que [F] pintes de a[G]zul sus largas [C] noches de invierno.\n[E7] A fuerza [Am7] de desventuras, [F] tu alma es profunda y os[Am7]cura.\n\nA tus [Dm] atardeceres [C] rojos, se acostum[E7]braron mis [Am] ojos como el recodo al camino.\n[Dm] Soy cantor, soy embus[C]tero, me gusta el [E7] juego y el [Am] vino, tengo alma de marinero.\n¡Qué le voy a ha[Dm]cer si [C] yo! [E7]\n¡Nací en el medite[Am]rráneo!\n[Dm] ¡Nací [C] en el [E7] medite[Am]rráneo!\n\nY te a[Am7]cercas y te [E7sus4] vas, [Am7] después de be[F]sar mi al[E7]dea,\nJu[Am7]gando con la ma[G]rea, [C] te vas pensando en vol[Am7]ver.\n[G] Eres co[F]mo una mu[G]jer, perfuma[C]dita de brea,\n[E7] Que se añora [Am7] y que se tiene, [F] que se conoce y se [E7] teme ¡ay!\n\nSi un [Am7] día para mi [E7sus4] mal [Am7] viene a bus[F]carme la [E7] Parca,\nEmpu[Am7]jad al mar mi [G] barca, [C] con un levante oto[Am7]ñal\n[G] Y dejad [F] que el tempo[G]ral desguace sus [C] alas blancas,\n[E7] Y a mí enter[Am7]radme sin duelo, [F] entre la playa y el [Am7] cielo.\n\nEn la [Dm] ladera de un [C] monte, más alto [E7] que el hori[Am]zonte, quiero tener buena vista.\n[Dm] Mi cuerpo será ca[C]mino, le daré [E7] verde a los [Am] pinos y amarillo a la genista,\n¡Cerca del [Dm] mar porque [C] yo! [E7]\nNací en el medite[Am]rráneo,\n[Dm] Nací [C] en el [E7] medite[Am]rráneo,\n[Dm] Nací [C] en el [E7] medite[Am]rráneo.\n"
   },
   {
     "id": "mentira",
@@ -2328,6 +3845,34 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/mentira.md",
     "content": "---\ntitle: \"Mentira\"\nartist: \"Manu Chao\"\nkey: \"Em\"\ncapo: 2\ntempo: 100\ntags: [\"mestizaje\", \"bolero\", \"latino\"]\n---\n\n## Verso 1\n[Em] Mentira lo que dice, [Bm] mentira lo que da\n[Em] Mentira lo que hace, [Bm] mentira lo que va, [Em] la mentira\n[Em] Mentira, la mentira, [Bm] mentira la verdad\n[Em] Mentira lo que cuece [Bm] bajo la oscuridad, [Em] mentira, mentira, la mentira\n[Em] Mentira el amor, [Bm] mentira el sabor\n[Em] Mentira la que manda, [Bm] mentira comanda, [Em] mentira, mentira, la mentira\n[Em] Mentira la tristeza, [Bm] cuando empieza\n[Em] Mentira, no se va, [Bm] mentira, [Em] mentira, la mentira\n[Em] Mentira no se borra, [Bm] mentira no se olvida, [Em] mentira, la mentira\n[Em] Mentira cuando llega, [Bm] mentira nunca se va\n[Em] Mentira la mentira, [Bm] mentira la ver[Em]dad\n\n[Em] Todo es mentira en este [Bm] mundo\n[Em] Todo es mentira, la ver[Bm]dad\n[Em] \"Todo es mentira\", yo me [Bm] digo\n[Em] Todo es mentira, ¿por qué se[Bm]rá? [Em]\n\n[Em] La mentira, [Bm] mentira, la men[Em]tira\n\n[Em] No sé si el corazón [D] peca, llorona\n[C] En aras de un tierno a[B7]mor\n[Em] Te quiero más que a mi [D] vida, llorona\n¿Qué [C] más quieres? ¿Quieres [B7] más?\n[Em] Te quiero más que a mi [D] vida, llorona\n¿Qué [C] más quieres? ¿Quieres [B7] más? [Em]\n"
+  },
+  {
+    "id": "merceditas",
+    "title": "Merceditas",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/merceditas.md",
+    "content": "---\ntitle: \"Merceditas\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[A] m dism. - [D] 7ª - [G] – [C] dism. – [A] m dism.- [B] 7ª - [E] m / [E] 7ª-\nla m dism.re 7ªSol\nQue dulce encato tienen tus recuerdos, Merceditas,\nDo dism.      la m dism.         Si 7ª           Mi m / Mi 7ª\naromada florecita, amor mío de una vez.\nla m dism.re 7ªSol\nLa conocí en el campo, allá muy lejos, una tarde,\nDo dism.      la m dism.         Si 7ª           Mi m\ndonde crecen los trigales, provincia de Santa Fe.\nAsí nació [B] nuestro querer, con ilusión, [E] con mucha fe,\npero no sé [B] por qué la flor se marchito [E] y muriendo fue.\nY amándola [B] con loco amor, así llegué [E] a comprender\nlo que es sufrir, [B] lo que es querer, porque [E] le di mi corazón.\nComo una queja errante, en la campiña va flotando\nel  eco vago de mi canto recordando aquel amor.\nPero a pesar del tiempo transcurrido, es Merceditas\nla leyenda que palpita en mi nostálgica canción.\nAsí nació nuestro querer, con ilusión, con mucha fe,\npero no sé por qué la flor se marchito y muriendo fue.\nY amándola con loco amor, así llegué a comprender\nlo que es sufrir, [B] lo que es querer, [B] [C] porque [E] le di mi corazón.\nLa m dism.Do dism.\n"
+  },
+  {
+    "id": "mi-buen-amor",
+    "title": "Mi buen amor",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/mi-buen-amor.md",
+    "content": "---\ntitle: \"Mi buen amor\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D], [F#7], [Bm], [A], [G], [E], [A], [A7] (bis).\nHay [D] amores que se [F#7] esfuman con [Bm] los añooos\nHay [B7] amores cuya llaaama [Em] sigue viva\nLos [F#] incieeer-tos que [F#7] son rooosa [Bm] y son espina\nY hay [G] amoreees de [E7] los buenooos [A7] como túuuu.\n## Verso 1\nHay amores que se siembran y floreceeen\nHay amoreees que termiiinan en sequía\nLos que traeeen desengaaaños en la vida\nY hay amoreees de los buenooos como tú.\nMi [F#] amor, mi buen [F#7] amor, mi [Bm] deliiiirio,\nNo [E] pretendas que te [E7] olviiide así [A7] no más,\n[D] Queee tu-a-mor-fue [F#7] maaar [Bm] cuando [Am] [A#m] sediento\nMe [Am] arrimé a tu [D7] puerto a [G] descansar.\nQueee tu amor, [Gm] amor, sólo el que un [B7] [D] día,\nEn tu pecho, vida [Em] mía, me [A7] dio la [D] felicidad.\nHay amoreees que nos llevaaan al abismo,\nHay amores que jamáaas se nos olvidan,\nLos que daaan toda ternuuura y fantasía,\nSon amoreees de los buenooos como tú.\nMi amor, mi dulce amor, mi delirio,\nNo pretendas que sea poco mi penar\nQue tu amor fue luz de pleno día\nCuando todo era oscuridad,\nQueee tu amor, amor, sólo el que un día,\nEn tu pecho, vida mía, me dio la felicidad.\nMIS NOCHES SIN TI.\n"
   },
   {
     "id": "mi-tierra",
@@ -2354,10 +3899,26 @@ export const DEFAULT_SONGS = [
     "tags": [
       "bolero",
       "puerto rico",
-      "clásico"
+      "clásico",
+      "tuna",
+      "español"
     ],
     "file": "canciones/mi-viejo-san-juan.md",
-    "content": "---\ntitle: \"Mi viejo San Juan\"\nartist: \"Noel Estrada\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"puerto rico\", \"clásico\"]\n---\n\n## Intro\n[E] [A] [B7] [E] [C#m] [F#m] [B7] [E] [B7]\n\nEn mi [E] viejo San Juan cuántos sueños for[B7]jé en mis años de infancia,\nMi primera ilusión y mis cuitas de a[E]mor son recuerdos del alma.\nUna [E7] tarde partí hacia extraña na[A]ción pues lo quiso el des[Am]tino,\nPero mi cora[E]zón se que[C#m]dó junto al [F#m] mar, en mi [B7] viejo San [E] Juan.\n\nA[B7]diós, (adiós, a[E]diós)\nBoriquen que[B7]rido, (la tierra del a[E]mor)\nA[B7]diós, (adiós, a[E]diós)\nMi diosa del [B7] mar. (la reina del pal[E]mar)\n\nMe [E7] voy, (yo ya me [A] voy)\nPero un [Am] día volveré, a bus[E]car mi que[C#m]rer,\nA so[F#m]ñar otra [B7] vez en mi viejo San [E] Juan.\n\n[E] [A] [B7] [E] [C#m] [F#m] [B7] [E] [B7]\n\nPero el [E] tiempo pasó y el destino bur[B7]ló mi terrible nostalgia,\nY no pude vol[B7]ver al San Juan que yo a[E]mé, pedacito de [E] patria.\nMi ca[E7]bello blanqueó, ya mi vida se [A] va, ya la muerte me [Am] llama,\nY no quiero mo[E]rir ale[C#m]jado de [F#m] ti, Puerto [B7] Rico del [E] alma.\n"
+    "content": "---\ntitle: \"Mi viejo San Juan\"\nartist: \"Noel Estrada\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"puerto rico\", \"clásico\", \"tuna\", \"español\"]\n---\n\n## Intro\n[E] [A] [B7] [E] [C#m] [F#m] [B7] [E] [B7]\n\nEn mi [E] viejo San Juan cuántos sueños for[B7]jé en mis años de infancia,\nMi primera ilusión y mis cuitas de a[E]mor son recuerdos del alma.\nUna [E7] tarde partí hacia extraña na[A]ción pues lo quiso el des[Am]tino,\nPero mi cora[E]zón se que[C#m]dó junto al [F#m] mar, en mi [B7] viejo San [E] Juan.\n\nA[B7]diós, (adiós, a[E]diós)\nBoriquen que[B7]rido, (la tierra del a[E]mor)\nA[B7]diós, (adiós, a[E]diós)\nMi diosa del [B7] mar. (la reina del pal[E]mar)\n\nMe [E7] voy, (yo ya me [A] voy)\nPero un [Am] día volveré, a bus[E]car mi que[C#m]rer,\nA so[F#m]ñar otra [B7] vez en mi viejo San [E] Juan.\n\n[E] [A] [B7] [E] [C#m] [F#m] [B7] [E] [B7]\n\nPero el [E] tiempo pasó y el destino bur[B7]ló mi terrible nostalgia,\nY no pude vol[B7]ver al San Juan que yo a[E]mé, pedacito de [E] patria.\nMi ca[E7]bello blanqueó, ya mi vida se [A] va, ya la muerte me [Am] llama,\nY no quiero mo[E]rir ale[C#m]jado de [F#m] ti, Puerto [B7] Rico del [E] alma.\n"
+  },
+  {
+    "id": "mia",
+    "title": "Mía",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/mia.md",
+    "content": "---\ntitle: \"Mía\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Estribillo\nMía, aunque tú vayas por otro camino\ny que jamás nos ayude el destino,\nnunca te olvides, sigues siendo mía.\nMía aunque con otro contemples la noche\ny de alegría hagas un derroche,\nnunca te olvides, sigues siendo mía, mía.\nMí porque jamás dejarás de nombrarme\ny cuando duermas habrás de soñarme\nhasta tú misma dirás que eres mía\nMía aunque mañana te liguen otros lazos\nno habrá quién sepa llorar en tus brazos\nnunca te olvides, sigues siendo mía, mía.\n(Solista)\nMía porque jamás dejarás de nombrarme\ny cuando duermas habrás de soñarme\nhasta tú misma dirás que eres mía\n## Estribillo\nMía aunque mañana te liguen otros lazos\nno habrá quién sepa llorar en tus brazos\nnunca te olvides, sigues siendo mía, mía, mía.\nMI BUEN AMOR\n"
   },
   {
     "id": "michelle",
@@ -2408,6 +3969,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Mil Horas\"\nartist: \"Los Abuelos de la Nada\"\nkey: \"Gm\"\ncapo: 0\ntempo: 118\ntags: [\"rock\", \"pop\", \"argentina\", \"80s\"]\n---\n\n## Intro\n[Gm] [Dm] [Gm] [Dm]\n\n## Verso 1\n[Gm] Hace frío y estoy lejos de [Dm] casa, [Gm]\nHace tiempo que estoy sentado sobre esta [Dm] piedra, [Gm]\n[Eb] Yo me pregunto: ¿para qué sirven las [Dm] guerras? [C7]\n\n## Verso 2\n[Gm] Tengo un cohete en el panta[C7]lón,\n[Gm] Y vos estás tan [C7] fría\n[Gm] Como la nieve a mi alrededor,\n[Gm] Vos estás tan blanca que yo no sé qué ha[Eb]cer.\n\n## Coro\n[Gm] La otra noche te esperé bajo la lluvia\n[Cm] Dos horas, [Dm] mil horas, como un [Eb] perro.\n[Gm] Y cuando llegaste me miraste y me dijiste:\n[Cm] \"Loco, estás mo[Dm]jado, ya no te [Eb] quiero\".\n\n## Puente\n[Cm] En el circo [Dm] vos ya sos una es[Gm]trella,\n[Cm] Una estrella [Dm] roja que todos se la ima[Gm]ginan.\n[Cm] Si te pre[Dm]guntan, vos no me cono[C7]cías, no, no...\n\n## Verso 3\n[Gm] Tengo un cohete en el panta[C7]lón,\n[Gm] Y vos estás tan [C7] fría\n[Gm] Como la nieve a mi alrededor,\n[Gm] Vos estás tan blanca que yo no sé qué ha[Eb]cer.\n\n## Coro Final\n[Gm] La otra noche te esperé bajo la lluvia\n[Cm] Dos horas, [Dm] mil horas, como un [Eb] perro.\n[Gm] Y cuando llegaste me miraste y me dijiste:\n[Cm] \"Loco, estás mo[Dm]jado, ya no te [Eb] quiero\"... [Gm]\n"
   },
   {
+    "id": "mis-noches-sin-ti",
+    "title": "Mis noches sin ti",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/mis-noches-sin-ti.md",
+    "content": "---\ntitle: \"Mis noches sin ti\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[G] Sufro al pensar que el [Bm] destino logro [D7] [Am] separarnos\nguardo tan bellos [Am] recuerdos [D7] que [D7] no [G] olvidare.\nSueños que juntas [Dm] forjaron [Dm] tu alma y la [Cm] [C] mi-i-i-a\ny las [G] horas de [E7] dicha [Am] infinita\nque añoro en mi [D7] canto y que no han de [G] volver.\n## Verso 1\nHoy que en mi vida tan solo quedo tu recuerdo\nsiento en mis labios tus besos que saben a miel.\nTu cabellera sedosa acaricio en mis sue-e-e-ños\ny me estrechan tus brazos amantes\nal arrullo [D7] suave del amor [G] de [B7] [B7] ayer.\n[Em] Mi corazón en [B7] tinieblas te busca con [D7] [Em] ansia.\n[G] Rezo [D7] tu nombre pidiendo [G] que [Dm] vuelvas [Dm] a [G7] [G7] mi\n[C] porque sin ti ya ni el [Cm] sol ilumina mis [G] días\ny al llegar [E7] la [Am] aurora\nme encuentro [D7] llorando mis noches [G] sin ti.\nMi corazón en tinieblas te busca con ansia.\nRezo tu nombre pidiendo que vuelvas a mi\nporque sin ti ya ni el sol ilumina mis días\ny al llegar la aurora\nme encuentro llorando mis noches sin ti\n"
+  },
+  {
     "id": "moliendo-cafe",
     "title": "Moliendo café",
     "artist": "Hugo Blanco",
@@ -2417,10 +3992,12 @@ export const DEFAULT_SONGS = [
     "tags": [
       "ritmo orquídea",
       "venezolano",
-      "clásico"
+      "clásico",
+      "tuna",
+      "español"
     ],
     "file": "canciones/moliendo-cafe.md",
-    "content": "---\ntitle: \"Moliendo café\"\nartist: \"Hugo Blanco\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"ritmo orquídea\", \"venezolano\", \"clásico\"]\n---\n\n## Intro\n[Am] [Dm] [Am] [E7] [Am]\n\n## Verso 1\n[Am] Cuando la tarde languidece renacen las sombras,\nY en su quietud los cafetales vuelven a sen[E7]tir\nEsa triste canción de amor de la vieja molienda,\nQue en el letargo de la noche parece ge[Am]mir.\n\n[Am] Esa triste canción de amor de la vieja molienda,\nQue en el letargo de la noche parece ge[E7]mir.\n\n## Coro\nUna [Dm] pena de amor y una tris[Am]teza,\nLleva el [E7] zambo Manuel, en su amar[Am]gura\nPasa incan[Dm]sable la noche mo[Am]liendo café,\nPasa incan[E7]sable la noche mo[Am]liendo café.\n"
+    "content": "---\ntitle: \"Moliendo café\"\nartist: \"Hugo Blanco\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"ritmo orquídea\", \"venezolano\", \"clásico\", \"tuna\", \"español\"]\n---\n\n## Intro\n[Am] [Dm] [Am] [E7] [Am]\n\n## Verso 1\n[Am] Cuando la tarde languidece renacen las sombras,\nY en su quietud los cafetales vuelven a sen[E7]tir\nEsa triste canción de amor de la vieja molienda,\nQue en el letargo de la noche parece ge[Am]mir.\n\n[Am] Esa triste canción de amor de la vieja molienda,\nQue en el letargo de la noche parece ge[E7]mir.\n\n## Coro\nUna [Dm] pena de amor y una tris[Am]teza,\nLleva el [E7] zambo Manuel, en su amar[Am]gura\nPasa incan[Dm]sable la noche mo[Am]liendo café,\nPasa incan[E7]sable la noche mo[Am]liendo café.\n"
   },
   {
     "id": "mon-amour",
@@ -2455,6 +4032,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Moonlight Shadow\"\nartist: \"Mike Oldfield\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"folk rock\", \"pop\", \"80s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Dm] [A#] [C] [F] [C]\n\n## Verso 1\nThe [Dm] last time ever she [A#] saw him\n[C] Carried away by a [F] moonlight [C] shadow\nHe [Dm] passed on worried and [A#] warning\n[C] Carried away by a [F] moonlight [C] shadow.\n\n[F] Lost in a riddle that [C] Saturday night,\n[Dm] Far a[A#]way on the [C] other side\nHe was [F] caught in the middle of a [C] desperate fight\nAnd [Dm] she couldn’t [A#] find how to [C] push through.\n\nThe [Dm] trees that whisper in the [A#] evening,\n[C] Carried away by a [F] moonlight [C] shadow\n[Dm] Sing a song of sorrow and [A#] grieving\n[C] Carried away by a [F] moonlight [C] shadow.\n\n[F] All she saw was the [C] silhouette of a gun\n[Dm] Far a[A#]way on the [C] other side\nHe was [F] shot six times by a [C] man on the run,\nAnd [Dm] she couldn’t [A#] find how to [C] push through.\n\n[C] I stay, [F] I pray [A#] see you in [C] heaven far away\n[C] I stay, [F] I pray [A#] see you in [C] heaven one day\n\n[Dm] Four a.m. in the [A#] morning\n[C] Carried away by a [F] moonlight [C] shadow\nI [Dm] watch your vision [A#] forming\n[C] Carried away by a [F] moonlight [C] shadow.\n\n[F] The stars move slowly in a [C] silvery light\n[Dm] Far a[A#]way on the [C] other side\n[F] Will you come to talk to [C] me this night\nBut [Dm] she couldn’t [A#] find how to [C] push through.\n\n[C] I stay, [F] I pray [A#] see you in [C] heaven far away\n[C] I stay, [F] I pray [A#] see you in [C] heaven one day\n\n[F] Caught in the middle of a [C] hundred and five\nThe [Dm] night was [A#] heavy and the [C] air was alive\nBut [Dm] she couldn’t [A#] find how to [C] push through\n[F] Far away on the [C] other side\nBut [Dm] she couldn’t [A#] find how to [C] push through [F]\n"
   },
   {
+    "id": "motivo",
+    "title": "Motivo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Bm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/motivo.md",
+    "content": "---\ntitle: \"Motivo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Bm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[Dm]-[A]-[F#m]-[Bm]-[E] (bis)\nUNA [A] ROSA [Bm] PINTADA DE [C#] AZUL\nES [C] UN [E] [Bm] MOTIVO,\nY UNA [Bm] SIMPLE ESTRELLITA DE [E] MAR\nES [A] UN [E] [Bm] [F#m] MOTIVO.\nESCRIBIR [A] UN [Bm] POEMA ES [C#m] FACIL\nSI [C] EXISTE UN [E] [Bm] MOTIVO,\nY HASTA PUEDES CREAR [Bm] MUNDOS NUEVOS\n## Verso 1\nREm6,9-MI\nEN LA FANTASIA.\nUNOS [A] OJOS [Bm] BAÑADOS DE [C#] LUZ\nSON [Cm] UN [E] [Bm] MOTIVO,\nY UNOS [C#] LABIOS QUERIENDO [C#] BESAR\nSON UN [A] MOTIVO.\nY ME [D] QUEDO MIRANDOTE A [Dm] TI,\n[A] ENCONTRANDOTE TANTOS [F#m] MOTIVOS;\nYO [Bm] CONCLUYO\nQUE [E] MI MOTIVO MEJOR [A] ERES [E] [Bm] [F#m] TU.\n[F#m] [A] [Dm] [D] Y [Bm] UNOS [Dm] [D] [E] OJOS...\nMI                               LA7M-DO,9+-LA7M\n....QUE MI MOTIVO MEJOR ERES TU.\n"
+  },
+  {
+    "id": "muchachita-sabanera",
+    "title": "Muchachita sabanera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/muchachita-sabanera.md",
+    "content": "---\ntitle: \"Muchachita sabanera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[Em]-[B7]-[Em]-[E]-[Am]-[Em]-[B7]-[Em]\nDEL HORIZONTE A LA [Em] PALMA SE OYE UN CANTO DE [B7] CIGARRAS\nEL CANTAR DE UNA GUITARRA LLEVA FLORES EN EL [Em] ALMA\nDEL HORIZONTE A LA [Em] PALMA SE OYE UN CANTO DE [B7] CIGARRAS\nEL CANTAR DE UNA GUITARRA LLEVA FLORES EN EL [E] [Em] ALMA\nVAMOS [Am] QUERIDA Y [D] ASÓMATE A LA [G] VENTANA\n[C] PARA QUE CUENTES [B7] MAÑANA COMO FUE MI [E] [Em] DESPEDIDA\nVAMOS [Am] QUERIDA Y [D] ASÓMATE A LA [G] VENTANA\n[C] PARA QUE CUENTES [B7] MAÑANA COMO FUE MI [E] [Em] DESPEDIDA\n## Instrumental\n[Am]-[D]-[G]-[B7]-[Em]-[Am]-[D]-[G]-[B7]-[Em]\nLAS ESPIGAS VAN [Em] JUGANDO CON EL PERFIL DE TU [B7] SOMBRA\nLLEVAN POR EL MISMO RUMBO CABALLO Y LUNA [Em] REDONDA\nLAS ESPIGAS VAN [Em] JUGANDO CON EL PERFIL DE TU [B7] SOMBRA\nLLEVAN POR EL MISMO RUMBO CABALLO Y LUNA [E] [Em] REDONDA\nYO NO TE [Am] CAMBIO [D] MUCHACHITA [G] SABANERA\n[C] NI POR LA LUZ DE [B7] LA LUNA NI POR LA DE LAS [E] [Em] ESTRELLAS\nYO NO TE [Am] CAMBIO [D] MUCHACHITA [G] SABANERA\n[C] NI POR LA LUZ [B7] DE LA LUNA NI POR LA DE LAS [E] [Em] ESTRELLAS\n## Instrumental\n[Am]-[D]-[G]-[B7]-[Em]-[Am]-[D]-[G]-[B7]-[Em]\n"
+  },
+  {
     "id": "mucho-mejor",
     "title": "Mucho mejor",
     "artist": "Los Rodríguez",
@@ -2485,6 +4090,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Mujer contra mujer\"\nartist: \"Mecano\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"80s\"]\n---\n## Verso 1\nYo soy uno de esos amantes\n\n[G] Nada tienen de espe[Bm]cial\nDos mu[C]jeres que se dan la [D] mano,\nEl ma[G]tiz viene des[Bm]pués,\nCuando lo [C] hacen por de[D]bajo del man[G]tel. [F#m7-5] [B7]\n\n[Em] Luego a solas, sin [G] nada que per[C]der,\n[Em] Tras las manos, [G] va el resto de la [C] piel.\n\n[G] Un amor por ocul[Bm]tar,\nAunque en [C] cueros no hay donde escon[D]derlo,\nLo dis[G]frazan de amis[Bm]tad,\nCuando [C] salen a pa[D]sear por la ciu[G]dad. [F#m7-5] [B7]\n\n[Em] Una opina que a[G]quello no está [C] bien,\n[Em] La otra opina que [G] qué se le va a ha[C]cer,\n[G] Y lo que opinen los de[F#m7-5]más está de [B7] más.\n\n[Em] Quién detiene pa[D]lomas al vuelo,\n[C#m7-5] Volando a ras del [C] suelo [Cm] mujer contra mu[G]jer\n\n[G] No estoy yo por la la[Bm]bor\nDe ti[C]rarles la primera [D] piedra,\nSi equi[G]voco la oca[Bm]sión,\nY las [C] hallo labio a [D] labio en el sa[G]lón. [F#m7-5] [B7]\n\n[Em] Ni siquiera me atreve[G]ría a to[C]ser,\n[Em] Si no gusto yo [G] sé lo que hay que ha[C]cer,\n[Em] Que con mis piedras [G] hacen ellas su pa[C]red. [F#m7-5] [B7]\n\n[Em] Quién detiene pa[D]lomas al vuelo…\n\n[Em] Una opina que a[G]quello no está [C] bien,\n[Em] La otra opina que [G] qué se le va a ha[C]cer,\n[G] Y lo que opinen los de[F#m7-5]más está de [B7] más.\n\n[Em] Quién detiene pa[D]lomas al vuelo…\n[C#m7-5] Oh [C] oh [Cm] oh\n[Em] Quién detiene pa[D]lomas al [C] vuelo [Cm] [G]\n"
   },
   {
+    "id": "mujer-espanola",
+    "title": "Mujer española",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/mujer-espanola.md",
+    "content": "---\ntitle: \"Mujer española\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Instrumental\nHOY VENIMOS A CANTAR [Am] A LA MUJER [E] ESPAÑOLA\nQUE ENTRE REJAS SABE ESTAR ESCUCHANDO SU [Am] GRAMOLA\nLa7ªRem\nES LA TUNA DE ESPAÑA LA QUE TE VIENE A RONDAR\nSi7ªMi\nEN LA NOCHE ESTRELLADA UN HOMENAJE SIN PAR\nHOY VENIMOS A [Am] CANTAR A TÍ [E] MUJER [Am] ESPAÑOLA\nERES MUJER [A] ESPAÑOLA\nLA QUE CONQUISTA LOS [E] CORAZONES\nERES MUJER [Bm] ESPAÑOLA\nMiLA\nLA QUE INSPIRA NUESTRAS CANCIONES\nMiLa\nA TÍ MUJER ESPAÑOLA\nHOY TE [A7] PEDIMOS CON [D] ILUSION\nMiLa\nQUE LLEVES NUESTRA BANDERA\nY EN LA [F#m] BOCA UNA [E] [Bm] ALABANZA\nQUE LLEGUE HASTA EL [A] [E] [A] CORAZÓN\n## Instrumental\nES LA MUJER ESPAÑOLA ....\n"
+  },
+  {
+    "id": "mujer",
+    "title": "Mujer",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/mujer.md",
+    "content": "---\ntitle: \"Mujer\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[E]-[A]-[F#m]-[Bm]-[E]-[A]-[A7] (bis)\n[A] MUJER,\n## Verso 1\nSI BAJO TU VENTANA\nLA NOCHE ES CALLADA\nY TE VENGO A [E] DECIR.\nMUJER,\nSI BAJO TUS CARICIAS\nY AL SON DE LA BRISA\nDE AMOR VENGO A [A] HABLAR.\nMUJER,\nSI BAJO TU VENTANA\nLA NOCHE ES [A7] CALLADA\nY TE VENGO A [D] DECIR.\n[A] MUJER, [E] SOÑE QUE TE [A7] [A] BESE.\nQUIERES [E] [D] MUJER, LINDA Y SIN [F#m] [A] PAR,\nCALMAS [Bm] MI [E] SED CUAL [A7] [A] MANANTIAL.\nSI POR [D] BONITA, [E] ROSA [F#m] [A] TEMPRANA,\nA TU VENTANA [E] [Bm] VENGO A [A] CANTAR.\n[A]-[E]-[A]\nMUJER,... (3º).\nMUJER,... (4º).\n"
+  },
+  {
+    "id": "munequita-linda",
+    "title": "Muñequita linda",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/munequita-linda.md",
+    "content": "---\ntitle: \"Muñequita linda\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nMUÑEQ\nTE [E] QUIERO,\n[E] DIJISTE,\n[E] TOMANDO MIS [G#m] MANOS\n[C#] ENTRE TUS [C#] MANITAS\n[F#m]-[Gm]-\nDE [G#] BLANCO MARFIL,\nY SENTI EN MI [F#] [C#m] PECHO\nUN FUERTE [G#] [B] LATIDO,\nDESPUES UN [C#] SUSPIRO\nY LUEGO EL [F#] CHASQUIDO\nDE UN BESO [B7] [B] FEBRIL.\n[E]  -[G#m]-[Gm]-\nMUÑEQUITA [F#m] LINDA\n[B7]                          [E]-[G#m]-[Gm]-\nDE [F#m] CABELLOS DE ORO,\n[B7] DE DIENTES [F#m] DE [F#m] [B7] PERLA\n[B7] LABIOS DE [E] RUBI,\n[E]  [G#m]-[Gm]-\nDIME [F#m] SI ME QUIERES\n[B7]                       [E]   -[G#m]-[Gm]-\nCOMO [F#m] YO TE ADORO,\n[B7]                          [F#m]    -[B7]-\nSI DE MI [F#m] TE ACUERDAS\n[B7] COMO YO DE [E7] [E] TI,\nY A VECES [B7] [A] ESCUCHO\n[E]\nUITA LINDA\nUN ECO DIVINO\nQUE ENVUELTO EN LA [F#m] BRISA\nPARECE [B7] DECIR.\n[E]  -[G#m]-\nYO [G] TE QUIERO [F#m] MUCHO\n[B7]                          [E]-[G#m]-[Gm]-\nMUCHO, [F#m] MUCHO, MUCHO\n[B7] TANTO COMO [F#m] [B7] [F#m] ENTONCES\n[B7] SIEMPRE HASTA [E] MORIR\nDIME  SI ME ...\nMUÑEQUITA LINDA...\n"
+  },
+  {
     "id": "nada-valgo-sin-tu-amor",
     "title": "Nada valgo sin tu amor",
     "artist": "Juanes",
@@ -2513,6 +4160,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/napa-es.md",
     "content": "---\ntitle: \"Ñapa es\"\nartist: \"Ska-P\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"ska punk\", \"español\", \"90s\"]\n---\n## Intro\n[Am] [F] [E]\n\n[Am] Hablo de España y me [F] lleno de emo[E]ción\n[Am] Y es que te llevo muy [F] dentro del cora[E]zón\n[Am] Castañuelas, [F] toros y ver[E]benas\n[Am] Mi España, la [F] tierra del ho[E]nor.\n[Am] Esta es la España del Fe[F]lipe y del Az[E]nar,\n[Am] La España demo[F]crática del [E] gal,\n[Am] La España de la es[F]tafa inmobi[E]liaria,\n[Am] La delincuencia en la [F] alta socie[E]dad.\n[Am] Politicuchos que se [F] inflan a ro[E]bar,\n[Am] Los asesinos hoy [F] vuelven a to[E]rear\n[Am] España, el [F] país de la pa[E]traña\n[Am] De trapicheos, pelo[F]tazos y de[E]más.\n\n[Am] Y aquí no pasa nada,\n[E] Nos tomamos la tostada\n[Am] Ni siquiera te le[E]vantes del sofá\n[Am] Vaya decepción en la mani[E]festación,\nSolamente [F] han ido los antidis[E]turbios\n[Am] Sí, Jesu[E]lín, España es a[Am]sí,\nLa tierra [E] donde yo na[Am]cí,\n[Am] Sí, Jesu[E]lín, España es a[Am]sí,\nQue sepas [F] que vamos a por [E] ti\n\n[Am] Y son curritos que no [F] pueden ni cu[E]rrar\n[Am] Negociaciones [F] dignas de un nean[E]dertal\n[Am] Trabajadores pa[F]gando los e[E]rrores\nComo [Am] siempre, al que no [F] tiene\nHay que explo[E]tar.\n[Am] Somos Europa, no [F] nos podemos que[E]jar\n[Am] Hemos entrado en el [F] gran capi[E]tal\n[Am] Imperialismo que de[F]vora tu ne[E]vera\n[Am] Y la vaselina en el [F] culo bien un[E]tá\n"
+  },
+  {
+    "id": "naranjitai",
+    "title": "Naranjitai",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/naranjitai.md",
+    "content": "---\ntitle: \"Naranjitai\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D7]-[G]-[B7]-[Em] (bis) (AD LIBITUM)\n[D7]-[G]-[B7]-[Em] (bis)-[B7]-[Em] (bis)\n[Em] NARANJITAI, [B7] LINDA [Em] [B7] [Em] INDITA.\n[Em] NARANJITAI, [B7] LINDA [Em] INDITA.\nTE HE DE ROBAR DE TU [D7] QUINTA (A CAPELLA TODO)\nSI NO ES [G] ESTA NOCHECITA\nMAÑANA [B7] POR LA MAÑANITA (BIS NO [Em] A CAPELLA)\n[D7]-[G]-[B7]-[Em] (bis)-[B7]-[Em] (bis)\n[Em] A LO [B7] LEJOS SE TE [Em] [B7] [Em] DIVISA.\n[Em] A LO LEJOS [B7] SE TE [Em] DIVISA.\nLA PUNTA DE TU [D7] ENAGUITA (A CAPELLA TODO)\nLA BOCA SE [G] ME HACE AGUITA\nY EL [B7] CORAZON ME PALPITA (BIS NO [Em] A CAPELLA).\n[D7]-[G]-[B7]-[Em] (bis)-[B7]-[Em] (bis)\n[Em] TUS HERMANOS [B7] MIS [Em] [B7] [Em] CUÑADITOS.\nTUS [Em] HERMANAS [B7] MIS [Em] CUÑADITAS.\nTU PAPA SERA MI [D7] SUEGRO (A CAPELLA TODO)\nTU MAMA [G] SERA MI SUEGRA\nY TU LA [B7] PRENDA MAS QUERIDA (BIS NO [Em] A CAPELLA).\n## Verso 1\nY TU LA PRENDA MAS QUERIDA, (A CAPPELLA)\n[B7] Y TU LA PRENDA MAS [Em] [B7] [Em] QUERIDA.\n"
   },
   {
     "id": "naturaleza-muerta",
@@ -2640,6 +4301,62 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Noche de invierno\"\nartist: \"Popular\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"folklore\", \"latino\", \"popular\"]\n---\n## Intro\n[Am] [G] [Am] [G] [C] [G] [Am]\n\n[Am] Que frío que hace, que [G] lluvia que hay,\nVen a calen[Am]tarme tú (bis)\n[G] Serás mi cariño, se[C]rás mi amorcito,\nSe[G]rás el refugio de mi [Am] corazón.\n\n[G] Quema y [C] moja por igual,\nTu re[G]cuerdo me hace bien o me hace [Am] mal\n"
   },
   {
+    "id": "noche-de-ronda",
+    "title": "Noche de ronda",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/noche-de-ronda.md",
+    "content": "---\ntitle: \"Noche de ronda\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nNOCHE\n[Am]-[Am]-[Dm]\nNOCHE DE [Dm] [Am] RONDA,\nQUE [Dm] TRISTE [Dm] [Am] PASAS,\nQUE [Dm] TRISTE [Dm] [Am] CRUZAS\nPOR [Dm] MI [E7] BALCON.\nNOCHE DE [Dm] RONDA,\nCOMO ME HIERES,\nCOMO LASTIMAS\nMI [E7] CORAZON.\nLUNA QUE SE [A7] QUIEBRA\nSOBRE LAS TINIEBLAS\nDE MI SOLEDAD,\nLAdis-MI\n¿A DONDE VAS?\nDIME SI ESTA [E] NOCHE\nTU TE VAS DE [Bm] RONDA\nCOMO ELLA SE [E] FUE,\n¿CON [Bm] QUIEN [A7] [E] ESTAS?\nDILE QUE LA [A7] QUIERO,\nDILE QUE ME MUERO\nDE TANTO ESPERAR;\nDE RONDA\n-[Dm] (ter)-[E7] [Dm]-[E7]\nQUE [A7] VUELVA [D] YA.\nQUE LAS [Dm] RONDAS NO SON [A7] BUENAS\nQUE HACEN [E] DAÑO\nQUE DAN [Am] PENA\nY SE [E7] ACABAN POR [A7] LLORAR\nLA7-LAdis-MI\n[E]-[Bm]-[E]-[Bm]-[E]-[A7]\nDILE QUE LA...\nQUE LAS RONDAS...\n"
+  },
+  {
+    "id": "noche-hermosa",
+    "title": "Noche hermosa",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/noche-hermosa.md",
+    "content": "---\ntitle: \"Noche hermosa\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nEscucha mi voz, el canto de un pobre corazón\nque sufre por tí, vagando en una triste soledad.\nMísero infeliz, le basta con que intentes esbozar\nsolo una sonrisa, es toda su ilusión.\nRecoge esta flor, no dejes que se muera de dolor\nal igual que yo no pude soportar la oscuridad.\nSueña con que un día dulcemente al despertar\nle iluminaran los rayos de tu sol.\nNoche hermosa si tu apareces radiante en tu balcón\nuna escala de notas me han de llevar cerca de ti\ny alcanzar las estrellas y besarte y adorarte\ny espresarte, con cariño todo mi amor.\nNoche hermosa, si tu me dices que sientes igual que yo.\nPronto volvera la tuna malageña y su canción\npermanecerá prendida entre los poros de tu piel,\ntan sólo la noche es testigo al saber\nque otro es el que ocupa hoy tu corazón.\n## Estribillo\nNoche hermosa.....\n"
+  },
+  {
+    "id": "noche-lobrega",
+    "title": "Noche lóbrega",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/noche-lobrega.md",
+    "content": "---\ntitle: \"Noche lóbrega\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nNOC\nESTE E\nDE AQ\nQUE SINTIEN\nFUE A ROND\nA PES\nFUE TAN\nQUE EL ROND\nLO LLEV\nEN NOCHE [D] LOBREGA GALAN INCOGNITO\nLAS CALLES SORDIDAS [A] ATRAVESO\nY BAJO [G] CLASICA VENTANA [D] GOTICA\nTEMPLO SU [A] CITARA Y ASI [D] CANTO;\nY BAJO [G] CLASICA VENTANA [D] GOTICA\nTEMPLO SU [A] CITARA Y ASI [D] CANTO.\nNIÑA PURISIMA DE ROSTRO [A] ANGELICAL\nE\nQUE EN NIVEAS SABANAS RONCANDO ESTAS;\nESCUCHA Y OYEME MI CANTO [A] ESDRUJULO,\nSUSPIROS PROFUGOS [D] ENCONTRARAS.\nPERO LA [D] SILFIDE QUE OYO ESTE CANTICO\nENTRE LAS SABANAS SE [A] ARREBUJO,\n[G] Y DIJO ¡CASPITA CON EL [D] MURCIELAGO!\nES UN [A] ROMANTICO, NO LE ABRO [D] YO.\nMAS EL GAZNAPIRO COGIO UNA PERTIGA\nY DE SALTO [D7] ELIPTICO SE [G] ENCARAMO,\nPERO POR [G] CASCARAS DE ALGUN [D] MALEVOLO\nCONTRA UN [A] SEMAFORO SE LA [D] PEGO;\n[G]                                      [D]\nHE LOBREGA\n[D] S [A] EL [D] TRISTE CANTICO\nUEL TUNO TAN LIGON\nDOSE ROMANTICO\nAR BAJO UN BALCON.\nAR DE SU FRENESI\nTA SU DESVENTURA\nAR A UNA GACHI\nO A LA SEPULTURA.\nPERO POR CASCARAS DE ALGUN MALEVOLO\nCONTRA UN SEMAFORO [A] SE LA [D] PEGO.\nNIÑA ESCLEROTICA Y ALGO [A] DIABETICA\nQUE ENTRE LOS SADICOS INCLUIDA [D] ESTAS;\nABRE YA EL PORTICO PORQUE ESTOY [A] GELIDO\nY CON LA PERTIGA NO SALTO [D] MAS.\nRMALDITA CASCARA, [D] QUE VENGA UN MEDICO,\nME DUELE EL PILORO Y EL [A] ESTERNON,\nY CON LAS [G] VERTEBRAS EN EL [D] ESTOMAGO\nVENTANA GOTICA [A] NO ESCALO [D] YO;\nY CON LAS [G] VERTEBRAS EN EL [D] ESTOMAGO\nVENTANA GOTICA [A] NO ESCALO [D] YO.\nY CUANDO EN MUSICA [D] LA NOCHE LABRASE\nBAJAN LOS [D7] CEFIROS A [G] CONSTIPAR,\n[G] OH, POBRE MUSICO, [D] COGE TU CITARA\nY A OTRA [A] PROJIMA VETE A [D] RONDAR;\nOH, POBRE [G] MUSICO, COGE TU [D] CITARA\nY A OTRA [A] PROJIMA VETE A [D] RONDAR.\n"
+  },
+  {
+    "id": "noche-plateada",
+    "title": "Noche plateada",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/noche-plateada.md",
+    "content": "---\ntitle: \"Noche plateada\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A]-[E]-[D]-[A]-[E]-[A] (bis)\nEN ESTA [E] [A] NOCHE DE [A] LUNA\nTE CANTA MI [E] CORAZON,\n[D] VIENE BUSCANDO [A] FORTUNA,\n[E] VIENE BUSCANDO TU [A] AMOR.\nEN ESTA [E] [A] NOCHE [A] CALLADA\nTE VENGO A CANTAR MI [E] BIEN,\n[D] TU QUE ERES MI [A] BIENAMADA,\n[E] LA DUEÑA DE MI [A] QUERER.\n[D]-[A] (bis)\n[D] DESPIERTA YA, [G] ALMA DE MI [A] ALMA,\nA TI TE LLAMA MI [D] CORAZON;\nDEJAME VER [D7] TUS LINDOS OJOS, [Gm] [G] (DEJAME)\nTUS LABIOS [D] ROJOS QUE ADORO [D] [A] YO.\n[A]-[E]-[D]-[A]-( (bis)\nTE [A] QUIERO MAS [E] QUE A MI [A] VIDA\nY MI VIDA ES PARA [E] TI,\n[D] POR ESO MI [A] BIENAMADA\n[E] NUNCA TE OLVIDES DE [A] MI.\nSI [A] VENGO A TURBAR [E] TU [A] SUEÑO\nPERDONA A MI [E] CORAZON,\n[D] ES QUE SE SIENTE TU [A] DUEÑO\n[E] Y VIENE A DARTE SU [A] AMOR.\n## Verso 1\nDESPIERTA YA...\n[D]-[G]-[A]-[D]\nDEJAME VER [D7] TUS LINDOS OJOS, [Gm] [G] (DEJAME)\nTUS LABIOS [D] ROJOS QUE ADORO [D] [A] YO.\n"
+  },
+  {
     "id": "noches-de-bohemia",
     "title": "Noches de Bohemia",
     "artist": "Navajita Plateá",
@@ -2669,6 +4386,76 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/nos-sobran-los-motivos.md",
     "content": "---\ntitle: \"Nos sobran los motivos\"\nartist: \"Joaquín Sabina\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"acústico\", \"español\"]\n---\n## Intro\n[Am] [F] [E] (2) [C] [G] [F] [E]\n\n[Am] Esta sala de espera sin espe[F]ranza, [E]\n[Am] Estas pilas de un timbre q se se[F]có, [E]\n[Am] Este helado de fresa de la ven[F]ganza, [E]\nEsta empresa de mu[F]danzas\nCon los muebles del a[E]mor\n[Am] Esta campana mora en el campa[F]nario, [E]\n[Am] Esta mitad partida por la mi[F]tad, [E]\n[Am] Estos besos de judas, este cal[F]vario, [E]\nEste look de presi[F]diario,\nEsta cura de humil[E]dad.\n[Am] Este cambio de acera de tus ca[F]deras\n[Am] Estas ganas de nada menos de [F] ti [E]\n[Am] Este arrabal sin grillos en prima[F]vera, [E]\nNi espaldas con crema[F]lleras,\nNi anillos de presu[E]mir\n[Am] Esta casita de muñecas de al[F]terne [E]\n[Am] Este racimo de pétalos de [F] sal [E]\n[Am] Este huracán sin ojos que lo go[F]biernen [E]\nEste jueves, este [F] viernes\nY el miércoles que ven[E]drá\n\n[C] No abuses de mi inspi[G]ración,\nNo acuses a mi cora[F]zón tan maltrecho\nY a[E]jado que está cerrado por derribo.\n[C] Por las arrugas de mi [G] voz se filtra la desola[F]ción\nDe saber que estos [E] son\nLos [Dm] últimos versos que te es[E]cribo,\nPara de[F]cir \"con Dios\" a los [E] dos\nNos sobran los mo[Am]tivos.\n\n[Am] Este nido de pájaro dise[F]cado [E]\n[Am] Este perro andaluz sin domesti[F]car [E]\n[Am] Este trono de príncipe destro[F]nado [E]\nEsta espina de pes[F]cado, esta ruina de Don [E] Juan.\n[Am] Esta lágrima de hombre de las ca[F]vernas [E]\n[Am] Esta horma de zapato de barba a[F]zul, [E]\n[Am] Que poco rato dura la vida e[F]terna [E]\nPor el túnel de tus [F] piernas entre Córdoba y Mai[E]pú.\n[Am] Esta guitarra cínica y dolori[F]da, [E]\nCon su terco\nKnock, knockin' on heaven's door,\n[Am] Estos labios que saben a despi[F]dida [E]\nA vinagre en las he[F]ridas, a pañuelo de esta[E]ción\n[Am] Este ladrón aparcado en tu [F] toga [E]\n[Am] La rueca de Penélope en Luna [F] Park [E]\n[Am] Estos celos que sueñan que te des[F]nudan [E]\nEsta caracola [F] viuda sin la pianola del [E] mar\n"
+  },
+  {
+    "id": "nostalgia",
+    "title": "Nostalgia",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/nostalgia.md",
+    "content": "---\ntitle: \"Nostalgia\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nN\nQuiero emborrachar mi\ncorazón,\npara guardarlo de un amor\nque más que amor es un sufri\ny aquí vengo para eso,\na borrar últimos besos\nen los besos de otras bocas\nSi su amor fue sólo un día\n¿porqué causa siempre es mía\nde la cruel preocupación?\nQuiero con los dos mi copa\nalzar\npara después poder brindar\npor los fracasos del amor.\nNostalgia,\nde escuchar su risa loca,\nOSTALGIA\nde sentir junto a mi boca\ncomo un fuego su respiración\nr,Angustia,\nde sentirme abandonado\ny pensar que otro a su lado\n.pronto, pronto le hablará de\namor.\nHermano,\nyo no quiero rebajarme,\nni pedirle ni llorarle\nni decirle que no puedo más\nvivir.\nDesde mi triste soledad\nveré caer las rosas rojas\nde mi juventud.\n"
+  },
+  {
+    "id": "nube-gris",
+    "title": "Nube gris",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/nube-gris.md",
+    "content": "---\ntitle: \"Nube gris\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[G]-[A]-[D]-[A]-[D]-[B7]-[Em]-[Gm]-[D]-[A]-[D]\nSI ME ALEJO DE [D] TI ES PORQUE HE [A] COMPRENDIDO\nQUE SOY LA NUBE GRIS QUE NUBLA TU [D] CAMINO;\nME VOY PARA [D7] DEJAR QUE CUMPLAS TU [G] DESTINO,\nQUE SEAS MUY FELIZ [D] MIENTRAS YO BUSCO [A] EL [D] MIO.\nSI ME ALEJO DE TI [D] ES PORQUE YO [A] QUISIERA\nQUE FUERAS MUY FELIZ AUNQUE MI AMOR SE [D] MUERA;\nME VOY SIN REALIZAR [D7] MI SUEÑO MAS [G] QUERIDO,\nME VOY CON EL PESAR [D] DE NO SER [D] [A] COMPRENDIDO.\nY OTRA VEZ [A] VOLVERE A SER EL ERRANTE [D] TROVADOR\nQUE VA EN [A] BUSCA DEL AMOR, DEL AMOR DE UNA [D] MUJER;\nSE [B7] PERDIO EL CELAJE AZUL DONDE GUARDABA [Em] LA [Gm] ILUSION,\n[D] VUELVE LA DESOLACION, [A] VIVO SIN [D] TI.\n[G]-[A]-[D]-[A]-[D]-[B7]-[Em]-[Gm]-[D]-[A]-[D]\nY OTRA VEZ [A] VOLVERE A SER EL ERRANTE [D] TROVADOR\nQUE VA EN BUSCA [A] DEL AMOR, DEL AMOR DE UNA [D] MUJER;\nSE [B7] PERDIO EL CELAJE AZUL DONDE GUARDABA [Em] LA [Gm] ILUSION,\nVUELVE [D] LA DESOLACION, [A] VIVO SIN [D] LUZ.\n"
+  },
+  {
+    "id": "ojos-de-espana",
+    "title": "Ojos de España",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/ojos-de-espana.md",
+    "content": "---\ntitle: \"Ojos de España\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nOJO\n[Dm]-[A]-[F#m]-[Bm]-[E]-[A]\nSON COMO [A] EL MAR,\nCOMO EL AZUL DEL CIELO\nY COMO EL [E] SOL.\nSON DEL COLOR\nDEL CLAVEL QUE [E7] EMPIEZA\nA [A] DESPERTAR.\nSON ALGO MAS\nQUE LAS ESTRELLAS\n[A7] AL [D] ANOCHECER.\n[Dm] OLE [A] Y [F#m] OLE,\nLOS [Bm] OJOS DE LA [E] ESPAÑOLA\nQUE YO [A] AME.\nS DE ESPAÑA\nYO FUI FELIZ\nMIRANDO AQUELLOS OJOS\nDE MI [E] AMOR.\nYO NUNCA VI\nNI EN EL ARCO [E7] IRIS\nSU [A] COLOR.\nSON ALGO...\nOLE Y OLE...\n[Dm]-[A]-[F#m]\nOJOS [Bm] DE AMOR\n[E] QUE NUNCA [A] [A#] [A] OLVIDARE\n"
+  },
+  {
+    "id": "ojos-negros",
+    "title": "Ojos negros",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/ojos-negros.md",
+    "content": "---\ntitle: \"Ojos negros\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nYo [Am] vendo unos ojos [E7] negros,\n¿quién me los quiere com[Am]prar?\nLos [Am] vendo por hechi[E7]ceros,\nporque me han hecho llo[Am]rar.\n\n## Coro\n[A7] Cada vez que tengo [Dm] pena,\nme voy a la orilla del [Am] mar\na pregun[E7]tarle a las olas\nsi han visto a mi amor pa[Am]sar.\n"
+  },
+  {
+    "id": "okal",
+    "title": "Okal",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/okal.md",
+    "content": "---\ntitle: \"Okal\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A] EN UNAS EXCAVACIONES [E] QUE HEMOS HECHO EN NUEVA [A] YORK\nEN UNAS EXCAVACIONES [E] QUE HEMOS HECHO EN NUEVA [A] YORK\nHEMOS DESCUBIERTO [E] COSAS DE MUCHISIMO [A] VALOR\nUNA LATA DE TOMATE, [D] LA CAMA DE [E] DOS [A] AMANTES,\nY UN CONDON CUADRICULADO, [E] DE DON MIGUEL DE [A] CERVANTES\n[D] OKAL, [A] OKAL, [E] OKAL, ES UN PRODUCTO [A] SUPERIOR\n[D] OKAL (CALIENTE, CALIENTE) [A] OKAL, [E] OKAL ES UN PRODUCTO [A] SUPERIOR\nEN OTRAS EXCAVACIONES [E] QUE HEMOS HECHO EN NUEVA [A] YORK\nEN OTRAS EXCAVACIONES [E] QUE HEMOS HECHO EN NUEVA [A] YORK\nHEMOS ENCONTRADO [E] COSAS DE MUCHISIMO [A] VALOR\nUN CONDON [D] FOSILIZADO, DE DON [E] CRISTOBAL [A] COLON\nY UNA TETA [E] DISECADA DE AGUSTINA DE [A] ARAGON\n## Verso 1\nOKAL...\nNO HAY COSA QUE MAS ME [E] JODA QUE PASEAR CUANDO [A] LLUEVE\nNO HAY COSA QUE MAS ME [E] JODA QUE PASEAR CUANDO [A] LLUEVE\nUNA BOTELLA SIN [D] VINO, UNA CAMA [E] SIN [A] MUJERES\nY AL LLEGAR AL CHAMINADE, [E] QUE MI NOVIA TENGA EL [A] MES\nOKAL...\nSE LIBRE ME CAGO EN LA, ES [A] LA COMPRESA, ME CAGO EN LA\nQUE MAS [E] ABSORBE Y MENOS [A] PESA\nSE LIBRE ME CAGO EN LA, ES [A] LA COMPRESA, ME CAGO EN LA\nQUE USAMOS [E] TODOS CUANDO NOS [A] LLEGA\nOKAL...    (TIRA DE LA CUERDA, CHINPUN)\n"
   },
   {
     "id": "oracion-del-remanso",
@@ -2702,6 +4489,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Over the Rainbow / What a Wonderful World\"\nartist: \"Israel Kamakawiwoʻole\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"hawaiian\", \"balada\", \"classic\", \"inglés\"]\n---\n\n## Verso 1\n[C] [G] [Am] [F] [C] [Em] [F] [C] [C] [E7] [Am] [F]\nOoh\n\n[C] Somewhere [Em] over the rainbow, [F] way up [C] high,\n[F] And the [C] dreams that you dream of, [G] once in a lulla[Am]by… [F]\n[C] Oh, somewhere [Em] over the rainbow, [F] bluebirds [C] fly\n[F] And the [C] dreams that you dreamed of, [G] dreams really do come [Am] true… [F]\n\n[C] Someday I’ll wish upon a star, [G] wake up where the clouds are far behind, [Am] me… [F]\n[C] Where trouble melts like lemon drops, [G] high above the chimney tops, that’s where, [Am] you’ll find [F] me…\n\n[C] Oh, somewhere [Em] over the rainbow, [F] bluebirds [C] fly\n[F] And the [C] dream that you dare to, oh [G] why, oh why can’t [Am] I… [F]\n\n[C] Well I see, [Em] trees of green and, [F] red roses [C] too,\n[F] I'll watch them [C] bloom for, [E7] me and [Am] you\n[F] And I, [G] think to myself: [Am] What a wonderful [F] world!\n\n[C] Well, I see [Em] skies of blue and I [F] see, clouds of [C] white,\n[F] And the brightness of [C] day [E7] highlight the [Am] dark\n[F] And I think to my[G]self: What a wonderful [C] world! [F] [C]\n\n[G] The colors of the rainbow, so [C] pretty in the sky\n[G] Are also on the faces, of [C] people passing by\n[F] I see friends shaking [C] hands saying, [F] \"How do you [C] do?\"\n[F] They're really [C] saying, [Dm] \"I, [G] I love you\"\n\n[C] I hear babies [Em] cry and [F] I watch them [C] grow.\n[F] They'll learn much [C] more [E7] than we'll [Am] know\n[F] And I think to my[G]self: What a wonderful [Am] wooorld, [F] wooorld\n\n[C] Someday I’ll wish upon a star, [G] wake up where the clouds are far behind, [Am] me… [F]\n[C] Where trouble melts like lemon drops, [G] high above the chimney tops, that’s where, [Am] you’ll find [F] me\n\n[C] Somewhere [Em] over the rainbow, [F] way up [C] high,\n[F] And the [C] dream that you dare to, oh [G] why, oh why can’t [Am] I… [F]\n\n[C] [Em] [F] [C] [C] [E7] [Am] [F]\nOoh\n"
   },
   {
+    "id": "pa-todo-el-ano",
+    "title": "Pa' todo el año",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/pa-todo-el-ano.md",
+    "content": "---\ntitle: \"Pa' todo el año\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nPor tu a[G]mor que tanto quiero y tanto ex[D7]traño,\nque me sirvan otra copa y muchas [G] más;\nque me sirvan de una vez pa' todo el [D7] año,\nque me pienso emborrachar hasta el fi[G]nal.\n\n## Coro\nSi me [G7] ven que estoy llorando por su [C] culpa,\nno se [D7] burlen ni me tengan compa[G]sión;\nque una [E7] pena como esta no se a[Am]paga\nsin la [D7] lumbre del tequila y del a[G]mor.\n"
+  },
+  {
+    "id": "pajaro-chogui",
+    "title": "Pájaro chogüí",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "G",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/pajaro-chogui.md",
+    "content": "---\ntitle: \"Pájaro chogüí\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nCuenta la le[G]yenda que en un árbol se encon[D7]traba\nencarama[Am]do un indiecito guara[G]ní;\nque sobre un tronco una paloma se apor[D7]taba\ny con su [Am] flecha la quiso perse[G]guir.\n\n## Coro\nChogüí, cho[C]güí, chogüí, cho[G]güí,\ncantando [D7] va, volando [G] va;\nchogüí, cho[C]güí, chogüí, cho[G]güí,\nlindo pa[D7]jarito de mi corre[G]dor.\n"
+  },
+  {
     "id": "para-volver-a-volver",
     "title": "Para volver a volver",
     "artist": "Siempre Así",
@@ -2715,6 +4530,76 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/para-volver-a-volver.md",
     "content": "---\ntitle: \"Para volver a volver\"\nartist: \"Siempre Así\"\nkey: \"C\"\ncapo: 2\ntempo: 100\ntags: [\"rumba\", \"español\", \"popular\"]\n---\n## Intro\n[C] [A7] [Dm] [G7] [C] (2)\n\n[C] Para volver a vol[A7]ver, no te marches a[Dm]hora, de una [G7] vez quéda[C]te,\nA ti te falta el co[A7]raje, ese que a mí me [Dm] sobra, para [G7] nunca vol[C]ver.\n[C] Para decir que te [A7] vas, y al doblar esa es[Dm]quina, que solo [G7] sabes llo[C]rar,\nPara eso no digas [A7] nunca que no cabe la [Dm] duda, de que un [G7] día te i[C]rás.\n\n[C] Para volver a vol[C7]ver, como has [F] vuelto mil [Fm] veces\n[C] Para decir que te [A7] vas, y al fi[Dm]nal te arre[G7]pientes\n[C] Deja tu orgullo co[C7]rrer, deja de [F] hablar y te [Fm] callas\n[C] No digas más que te [A7] marchas, no digas [Dm] más que te marchas, [G7] para volver a vol[C]ver (2)\n"
+  },
+  {
+    "id": "parate",
+    "title": "Párate",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/parate.md",
+    "content": "---\ntitle: \"Párate\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nInstrumental: [Gm] - [D] - [B7] - [Em] - [A] - [D]\nTU SABES BIEN QUE ME [D] ENAMORO DE TU BOCA\n## Verso 1\nCUANDO ME MIRAS EN SILENCIO ENTRE LA GENTE\nTU SABES BIEN QUE ALGUNA [G] PIEZA SE DISLOCA\nDENTRO DE [E] MI CUANDO ME MIRAS [A] FIJAMENTE\nPERO TU SABES BIEN QUE [D] CUANDO YO TE CANTE\nBAJO LA [F#] LUNA DE SEVILLA EN TU [Bm] BALCON\nCOMO NINGUN DESCONOCIDO [E] HABRA DELANTE\nENTONCES TU ME [A] ENTREGARAS TU CORAZON\n## Estribillo\nY DIRAS PARATE , PARATE [D] , PARATE\nY DIRAS CANTAME [A#] , CANTAME , [D] [A] CANTAME\nY DIRAS MIRAME , MIRAME [G] , MIRAME\nY DIRAS BESAME , [E] BESAME , BESAME [A] B I S\n[Gm] CUANDO PASE CON MI [D] TUNA\nCANTANDO [B7] BAJO LA [Em] LUNA\nDE MI [A] SEVILLA [D] MUJER\nInstrumental completo del estribillo y se toca entera otra vez.\n"
+  },
+  {
+    "id": "parranda-santacrucera",
+    "title": "Parranda santacrucera",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/parranda-santacrucera.md",
+    "content": "---\ntitle: \"Parranda santacrucera\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nPARRAND\nA SIXTO LE [D] CONSTRUYERON\nENTRE [G] FEBLES Y [A7] TEXEIRA\nUN TIMPLE PA QUE TOCARA\nCON ROJAS LAS [D] MALAGUEÑAS\nY DESPUES QUE LE PUSIERON\nLAS CUERDAS [G] AL TIMPLE [A7] NUEVO\nACORDARON ESTRENARLO\nLLENDO A CASA DEL [D] PUNTERO\nTOMAS [D7] DENIZ QUE [G] ALLI [A7] ESTABA\nE\nCON SU PALO DE MEMBRILLO\nA AQUEL QUE [A7] [G] [D7] DESAFINABA\nR\nLE DABA UN VARISCACILLO\nLE DABA UN [A7] [G] [D7] VARISCACILLO\nR\nCON SU PALO DE MEMBRILLO\nTRAJERON A MARCELINO\nLITA FRANQUIS, JUAN [A7] [G] CORDERO\nTROVADORES DE LOS CAMPOS\nDE LA TIERRA LOS [D] PRIMEROS\nEL VENTOSO CON LA CAÑA\nCANTANDOLE A [G] LA [A7] FAROLA\nLLEGO ALEGRE IMPROVISANDO\nASI DECIA LA [D] COPLA\nA SANTACRUCERA\nESTA NOCHE [D] NO ALUMBRA\nLA FAROLA [G] DEL [A7] MAR\nESTA NOCHE NO ALUMBRA\nPORQUE NO TIENE [D] GAS\nPORQUE YA TIENE GAS\nPORQUE [G] YA TIENE [A7] GAS\nESTA NOCHE SI ALUMBRA\nLA FAROLA DEL [D] MAR\n[D]-[G]-[A7]-[D]-[F]-\nR [A7] [F] [C] [A#] RE\nERAN LAS FIESTAS DE MAYO\nPLAZA ISLA DE [G] LA [A7] MADERA\nESE ENCONTRARON PARRANDEANDO\nCON DOMINGO [D] BERENGÜELA\nEAURORA ALEMAN CANTANDO\nAQUEL CANTAR [G] QUE [A7] EMPEZABA\nALLA EN LAS FALDAS DEL TEIDE\nSI ES QUE EL TEIDE\nTIENE [D] FALDAS\nAL FIN LLEGO PACO ZUPPO\nCON EL PITO Y [A7] [G] CARAMELOS\nY CANTARON RIKI-RAKA\nVIVAN LOS [D] SANTACRUCEROS\n"
+  },
+  {
+    "id": "parrandero-canario",
+    "title": "Parrandero canario",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/parrandero-canario.md",
+    "content": "---\ntitle: \"Parrandero canario\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nPARRA\n[A] SOY UN MAGO [E7] [D] PARRANDERO\nQUE VENGO A CANTAR [A] AQUI\nLAS [Dm] CANCIONES DE LA [E7] TIERRA\nSI ME LAS QUIEREN [A] OIR\nRISCO DE [D] SAN [E7] NICOLAS\nL\nCUANTAS PARRANDAS ME DEBES\nCUANTAS [Dm] CHISPAS HE [E7] COGIDO\nAL ZOCO DE TUS [A] PAREDES\nAhí [A7] viene maestro [E7] [D] Lorenzo\nDE LA FIESTA DEL [A] TABLERO\nAhí [A7] viene maestro [E7] [D] Lorenzo\nDE LA FIESTA DEL [A] TABLERO\n[A7] ESCORADO A [E7] [D] BARLOVENTO\nCOMO SI FUERA UN [A] VELERO\nDE LA FIESTA DEL TABLERO\nCOMO SI FUERA UN VELERO\nDE LA FIESTA DEL TABLERO\nLOS SIMBOLOS DEL CANARIO\nSON EL TIMPLE Y EL SUDOR\n[A] LOS SIMBOLOS [A7] DEL [E7] [B7] [D] CANARIO\n[A]\nNDERO CANARIO\nSON EL TIMPLE Y EL ZURRON\nEL MOJO Y EL [E7] [B7] [D] [A7] ESCALDON\nY EL VINO QUE BEBE A [A] DIARIO\nY EL VINO [A7] QUE BEBE [D] A [E7] [B7] DIARIO\nSON EL TIMPLE Y EL [A] ZURRON\nUNA SABANA [D] UNAS [E7] CAÑAS\nCARNE, COCHINO, BUEN [A] VINO\nPAN, [Dm] ACEITE Y UN [E7] BRASERO\nYA ESTA EN PLANTA\nEL [A] VENTORRILLO\nCON VINO [D] TINTO DEL [E7] MONTE\nRON DE ARUCAS [A] CARAJACA\nTRES [Dm] CANARIOS Y UN [E7] TIMBEQUE\nY YA ESTA LA JUERGA [A] ARMADA\nSANTA CRUZ ESTA [D] EN UN [E7] LLANO\nY MAS ARRIBA LA [A] CUESTA\n[A7] ECHA VINO [D] VENDEDORA\nQUE A MI DINERO [E7] ME [A] CUESTA\n[A7] ECHA VINO [D] VENDEDORA\nQUE A MI DINERO [E7] ME [A] CUESTA\n"
+  },
+  {
+    "id": "parrandero",
+    "title": "Parrandero",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/parrandero.md",
+    "content": "---\ntitle: \"Parrandero\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A]-[E]-[A] (bis)\nTANTO ME [A] GUSTA EL VINO,\n## Verso 1\nME VA LA PARRANDA,\nTODO SE ME VA EN EL [E] QUEHACER\nPARA ENAMORAR A ESA PERFIDA MUJER [A] (BIS).\nBELLO ES AMAR [A] A UNA [E] MUJER,\nPERO ES MEJOR A [A] 103,\nPORQUE EL [F#] AMOR ES BELLO Y [Bm] TRAICIONERO,\nYO SOY UN [A] PARRANDERO, POR [E] QUE LO VOY A [A] NEGAR.\nSI ESTO ES [A] ASI, QUE LE VOY A [E] HACER\nSI EN EL AMOR TODO ES [A] PERDER.\nPORQUE EL [F#] AMOR ES CIEGO Y [Bm] TRAICIONERO,\nYO SOY UN PARRANDERO, [A] POR QUE [E] LO VOY A [A] NEGAR.\n[A]-[E]-[A] (bis)\nBELLO ES AMAR...\nSI ESTO ES ASI...\n"
+  },
+  {
+    "id": "pasacalles-de-garita",
+    "title": "Pasacalles de garita",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/pasacalles-de-garita.md",
+    "content": "---\ntitle: \"Pasacalles de garita\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A]-[D]-[A]-[D]-[A]-[E7]-[A]\n[Am] MALAGA DE MADRUGADA [Dm] DUERME BAÑADA DE [Am] LUNA\n[E7] CUANDO ALEGRE POR SUS [Am] CALLES, [Dm] CANTANDO PASA [F] LA [E7] TUNA\n[Am] BAJO UN BALCON SE DETIENE [Dm] Y [G7] SE DETIENE HASTA EL [C] VIENTO\n[A7] PARA ESCUCHAR LAS CANCIONES [Dm] QUE [F] DICEN CON DULCE [E7] ACENTO\n[A] MUJER LLENA DE ILUSION, QUE SURGES ENTRE LAS [E7] FLORES\nQUE CUELGAN DE TU BALCON A ESCUCHAR NUESTRAS [A] CANCIONES\nAY, MUJER DE OJOS OSCUROS, [D] BRILLANDO ENTRE LOS [A] ROSALES\n[D] HOY POR TI CANTA LA [A] TUNA, HOY POR TI CANTA LA [E7] TUNA\nTUNA DE [A] FILOSOFIA\n[Am] EL BALCON SE QUEDO SOLO [Dm] PERO LA CANCION [Am] QUEDO\n[E7] SURGIO HACIENDOSE [Am] BRILLANTE Y [Dm] EN EL [F] CIELO SE [E7] PRENDIO\n[Am] CONVERTIDA EN UN [Am] LUCERO [G7] TODAS LAS NOCHES [C] SALDRA\n[A7] Y AL DESPUNTAR CADA [Dm] AURORA A TU [F] BOHIO [E7] CANTARA\n## Verso 1\nMUJER LLENA DE ILUSION...\n"
   },
   {
     "id": "paseando-por-la-mezquita",
@@ -2732,6 +4617,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Paseando por la mezquita\"\nartist: \"Medina Azahara\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"rock andaluz\", \"español\", \"70s\"]\n---\n\n## Verso 1\n(Medina Azahara ‘79)\n\n[Em] Pensaba una noche a [D] solas\nEn quien llegaría al [Em] cielo\nPaseaba por la mez[D]quita,\nEstuve un tiempo en si[Em]lencio\n\n[Em] Con el cuerpo destro[D]zado\nLleno de ira y des[Em]precio\nPor tantas humilla[D]ciones\nQue hace pasar por el [Em] tiempo\n\n[Em] Nos unimos en si[D]lencio\nCon una esperanza [Em] nueva\nDe ver surgir en el [D] cielo\nUnida nuestra ban[Em]dera\n"
   },
   {
+    "id": "payador",
+    "title": "Payador",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/payador.md",
+    "content": "---\ntitle: \"Payador\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[A7]-[Dm]-[A7]-[Dm]-[D7]-[Gm]-[C]-[F]\n[A7]-[Dm]\n[Dm] LUCIENDO UN CHAMBERGO [D] [A7] CASTO\n## Verso 1\nCRUZA LA LLANURA LA GENTIL FIGUR\nDE LA TRADICION, EL [A7] PAYADOR.\nPRENDIDO EN [Em] SU [A7] CHIRIPA\nLLEVA ROSETONES DE LOS CORAZON\nDE LAS QUE RINDIO CON [Dm] SU CANTA\nSI ALGUNA LE [A7] MIRA AL [Dm] PASAR,\nE7\nLA GUITARRA LLORA Y ES LA QUE ENAM\nCUANDO VE RENDIDO A [Gm] SU SEÑOR;\nHASTA HACERLA SUSPIRAR\nCON SU ACENTO [Dm] ARRULLADOR,\n[A7] DULCE, LA GUITARRA ENTONA EL PAYA\n[D] CLAVEL [A] DE [D] AMOR,\nFLORECITA DE MAYO SOY TU PAYADOR;\n[Em] JAMAS [A] PODRE\nVIVIR SIN TUS HALAGOS, [D] DE AMOR MORIR\nTE HARE [D] [A] [D] FELIZ,\nPAYADOR\n-[A#]-\nm\n[E] [D7] R\nMI ALMA YA NO LLORA AL DECIRTE QUE\n[G]\nA\nSI.\n[G] SUMIDO [A7] EN EL [Bm] [D] DOLOR,\n[Em]              [A]          [D]-\n[D7] ES\nQUISIERA SER TU DUEÑO, SOY TU\nPAYADOR.(BIS)\nR.\n[Dm] [A7] [Dm] [Gm] [D7] [Dm] [A7] [Dm] [A7] R\n[Dm] DESPUES QUE HA [A7] LOGRADO EL [Dm] AMOR\nORA\nDE SU PRENDA AMADA, LA FLOR DESHOJADA,\nCON SU DULCE SON SE VA [A7] EL CANTOR.\nMONTADO EN [Em] SU PINGO [A7] TROTON\n[D] CRUZA LA LLANURA LA GENTIL FIGURA\nDOR.\nDE LA TRADICION, EL [Dm] PAYADOR.\n[A7]            [Dm]\n[A] SI ALGUNA LE NIEGA EL AMOR,\nOTRA CHICA LINDA, DE BOQUITA [D7] LINDA,\nCON SU CUBRESOL HA [Gm] DE MIRAR;\nE.\nHASTA HACERLA SUSPIRAR\nCON SU ACENTO [Dm] ARRULLADOR,\n[A7] DULCE, LA CANCION ENTONA EL [D] PAYADOR.\nCLAVEL [D] DE [D] [A] AMOR...\nTE HARE [D] [A] [D] FELIZ,...\n"
+  },
+  {
+    "id": "pedro-navaja",
+    "title": "Pedro Navaja",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/pedro-navaja.md",
+    "content": "---\ntitle: \"Pedro Navaja\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[F#m]                               [B7]\nMIRA Y SONRIE Y EL DIENTE [E] DE ORO VUELVE A BRIL\n[Db7]\nMIENTRAS CAMINA [F#m] PASA LA [B7] VISTA DE ESQUINA\n## Verso 1\nESQUINA\nNO SE VE UN [F#m] ALMA ESTA DESIERTA [B7] TOA LA AVENI\n[Db7]\nCUANDO DE PRONTO [F#m] ESA [B7] MUJER SALE DEL ZAGUÁN\n[F#m]                         [B7]\nY PEDRO NAVAJA APRIETA [E] EL PUÑO DENTRO´L GABAN\nFA                                                  RE7                        S\n-[C7]\nRO NAVAJA\nIm-MIRA PA UN LADO MIRA PAL OTRO Y NO VE A NADIE\n[C7] Y A LA [Gm] CARRERA PERO SIN [C7] RUIDO CRUZA LA [F] CALLE\nY MIENTRAS [D7] TANTO, EN LA OTRA [Gm] ACERA, [C7] VA ESA MUJER\nINAR                 SOLm                                 DO7\nREFUNFUÑANDO PUES NO [F] HIZO PLATA CON QUE COMER\n[D7]\nMIENTRAS CAMINA [Gm] DEL VIEJO [C7] ABRIGO SACA UN\nÑALREVÓLVER\nIm-                     SOLm                        DO7\nY VA GUARDANDO EN SU [F] CARTERA PA QUE NO ESTORBE\nUN 38 SMITH AND [D7] WESSON DEL [C7] [Gm] ESPECIAL\nQUE CARGA [Gm] ENCIMA PA QUE LA [C7] LIBRE DE TODO [F] MAL\n[G]                                              [E7]\nY PEDRO NAVAJA PUÑAL [Am] EN [D7] MANO LE FUE PA ENCIMA\n[Am]                            [D7]\nEL DIENTE DE ORO LE [G] IBA ALUMBRANDO TOA LA\nAVENIDA\nA                                                          [E7]\nMIENTRAS REÍA EL [Am] PUÑAL [D7] HUNDÍA SIN COMPASIÓN\n[D7] [Am] VEZSOL\nCUANDO DE PRONTO SONÓ UN DISPARO COMO UN\nCAÑÓN\nA\n[A]                                                        [F#7]\nY PEDRO NAVAJA [Bm] CALLO EN LA [E7] ACERA MIENTRAS VEÍA A\nESA MUJER\n[B7]                                     [E7]\nQUE REVÓLVER EN MANO [A] Y DE MUERTE HERIDA A ÉL LE\nDECIA\n[F#7] MISIm-MI7\nCIALO QUE PENSABA:\"HOY NO ES MI DIA Y ESTOY SALÁ.\nPEDRO [Bm] NAVAJA TU ESTAS [E7] PEOR TU ESTAS EN [A] NÁ\"\nAN                                                                        FA#7\nY CREAME GENTE QUE [Bm] AUNQUE [E7] HUBO RUIDO NADIE\nLARSALIÓ\n[B7]                                   [E7]\nA NO HUBO CURIOSOS, NO [A] HUBO PREGUNTAS, NADIE\nLLORÓ\n[F#7] [E] DASIm-MI7\nSOLO UN BORRACHO CON LOS DOS CUERPOS SE\nTROPEZÓ\n[Bm]                                       [E7]\nCOGIÓ EL REVÓLVER, [A] EL [A7] PUÑAL, LOS PESOS Y SE\nOLm MARCHÓ\n[D]                             [Dm]                        [A]\nY TROPEZANDO SE FUE CANTANDO DESAFINAO\n[D]                                    [E7]\nEL CORO QUE AQUÍ LES [A] TRAJE MIRA EL MENSAJE D\nCANCION\n[F#7] LA VIDA TE DA [Bm] SORPRESAS, [E7] SORPRESAS TE DA LA VI\nPEDRO [F#7] NAVAJA, MATON DE [Bm] ESQUINA\nQUIEN A HIERRO MATA [E7] A HIERRO [A] TERMINA\n[F#7]                     [Bm]                  [E7]\nLA VIDA TE DA SORPRESAS, [A] SORPRESAS TE DA LA VI\n[F#7]                    [Bm]                 [E7]\nMIRA PEDRITO PISABA [A] FUERTE PERO HOY SE ACABÓ\nSUERTE\n[F#7]                       [Bm]                 [E7]\n[A]\nLA VIDA TE DA SORPRESAS, SORPRESAS TE DA LA VIDA\nVAYA CARNADA [F#7] QUE [Bm] PUSISTE\n[E] QUERÍAS UNA [E7] SARDINA Y PESCASTE UN [A] TIBURÓN\n[E7] [Bm] [F#7] [A] DALA\nLA VIDA TE DA SORPRESAS, SORPRESAS TE DA LA VIDA\nANDA [F#7] PEDRITO CAMINA CON [Bm] PESCAO\nANDA [E7] PEDRITO CAMINA [A] BACALAO\n[E7] [Bm] [F#7] DALA\nLA VIDA TE DA SORPRESAS, SORPRESAS TE DA LA VIDA\nTU SE ACABÓ\n"
+  },
+  {
     "id": "perfect",
     "title": "Perfect",
     "artist": "Ed Sheeran",
@@ -2746,6 +4659,34 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/perfect.md",
     "content": "---\ntitle: \"Perfect\"\nartist: \"Ed Sheeran\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"balada\", \"2010s\", \"inglés\"]\n---\n\n## Intro\n[G]\n\n## Verso 1\n[G] I found a love [Em] for me\nDarling, just [C] dive right in and follow my [D] lead\nWell, I found a [G] girl, beautiful and [Em] sweet\nOh, I never [C] knew you were the someone waiting for [D] me\n'Cause we were just kids when we [G] fell in love\nNot knowing [Em] what it was, I will not [C] give you up this [D] time\nDarling, just [G] kiss me slow, your heart is [Em] all I own\nAnd in your [C] eyes you're holding [D] mine\n\n## Coro\nBaby, [Em] I'm [C] dancing in the [G] dark with you be[D]tween my arms\n[Em] Barefoot on the [C] grass, [G] listening to our [D] favorite song\nWhen you [Em] said you looked a [C] mess, I whispered [G] underneath my [D] breath\nBut you [Em] heard it, darling, [C] you look [D] perfect to[G]night\n\n## Verso 2\nWell, I found a [G] woman, stronger than [Em] anyone I know\nShe shares my [C] dreams, I hope that someday I'll share her [D] home\nI found a [G] love to carry [Em] more than just my secrets\nTo carry [C] love, to carry children of our [D] own\nWe are still kids, but we're [G] so in love, fighting a[Em]gainst all odds\nI know we'll [C] be alright this [D] time\nDarling, just [G] hold my hand, be my girl, I'll [Em] be your man\nI see my [C] future in your [D] eyes\n\n## Coro\nBaby, [Em] I'm [C] dancing in the [G] dark with you be[D]tween my arms\n[Em] Barefoot on the [C] grass, [G] listening to our [D] favorite song\nWhen I [Em] saw you in that [C] dress, looking so [G] beautiful\nI [D] don't deserve this, [Em] darling, you look [C] perfect to[G]night\n\n## Solo\n[Em] [C] [G] [D]\n\n## Coro\nBaby, [Em] I'm [C] dancing in the [G] dark with you be[D]tween my arms\n[Em] Barefoot on the [C] grass, [G] listening to our [D] favorite song\nI have [Em] faith in what I [C] see, now I know [G] I have met an [D] angel in person\nAnd [Em] she looks [C] perfect, no I [D] don't deserve this\nYou look [G] perfect tonight\n"
+  },
+  {
+    "id": "perfidia",
+    "title": "Perfidia",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/perfidia.md",
+    "content": "---\ntitle: \"Perfidia\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D] [Cm] [D] [D#] [Cm] [Gm] [Cm] [Gm] RECITADO:\n[Gm]\nNADIE, COMPRENDE [Cm] LO QUE SUFRO YO\n[D7] CANTO, PUES YA NO PUEDO [Gm] SOLLOZAR\nSOLO, TEMBLANDO DE ANSIEDAD [Cm] ESTO\n[A7] TODOS, ME MIRAN Y SE [D7] VAN\n[G]-[Em]-[Am]-RE7(BIS)\n[Am] [Em] [G] MUJER\n[D7] SI PUEDES TU CON [G] DIOS [Am] [Em] HABLAR\n[D7] PREGUNTALE SI [G] YO ALGUNA [Em] VEZ\nTE [Am] HE DEJADO [C] DE [B7] ADORAR\n[G] EL [Am] [Em] MAR\n[D7] ESPEJO DE [G] MI [Am] [Em] CORAZON\nLAS [D7] VECES QUE ME HA [G] VISTO [Em] LLORAR\nLA [Am] PERFIDIA [C] DE TU [B7] AMOR\nHE BUSCADO DONDE [Am] QUIERA QUE YO V\n## Verso 1\nPERFIDIA\n7\nY NO TE PUEDO [B7] HALLAR\nPARA QUE QUIERO [Am] OTROS BESOS\n[D7]\nYSI TUS LABIOS NO [B7] ME QUIEREN YA BESAR\n[G] Y [Am] [Em] TU,\n[D7] QUIEN SABE POR [G] DONDE [Am] [Em] ANDARAS\n[D7] QUIEN SABE QUE [G] AVENTURAS [Em] TENDRAS\nQUE [Am] LEJOS [D7] ESTAS DE [G] MI\n[Em] [G] EL [D7] [Am] MAR...\n[G] Y [Am] [Em] TU,\nQUIEN [D7] SABE POR [G] DONDE [Am] [Em] ANDARAS\nOYQUIEN [D7] SABE QUE [G] AVENTURAS [Em] TENDRAS\n[Am] QUE [D7] LEJOS ESTAS [Em] [G] DE [D7] [Am] MI,\n[G]-[Em]-[Am]-[D7]\nDE [E], (AD LIBITUM)\n"
+  },
+  {
+    "id": "perfume-de-carnaval",
+    "title": "Perfume de carnaval",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/perfume-de-carnaval.md",
+    "content": "---\ntitle: \"Perfume de carnaval\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nPERFU\nMe voy sólo con mi suerte\nla llevaré en mi recuerdo\nbajo un añoso algarrobo\ncortaba el ángel pañuelo\nbailando una vieja zamba\nyo le entregaba mi sueño.\nEl Sol quemaba en la tarde\nsiluetas que parecían\nfantasmas amarillentos\nllenos de tierra y de vida,\ny yo rendido a tus ojos\nsintiendo que me querías.\nAy, perfume de Carnaval\nyo ya nunca me he de olvidar,\nME DE CARNAVAL\nsu piel llevaba el aroma\nde flor y tierra mojada,\nbellos recuerdos que siempre\nlos llevo dentro del alma.\n## Instrumental\nAy tiempos, donde han quedado\ndonde he perdido mi sueño,\nquién sabe si ella se acuerda\nde un viejo mes de febrero,\ny de aquel baile del campo\ny de mi amor verdadero.\nNo quise decirle nada\nla amé en silencio esa tarde\ny sobre sus trenzas negras\ndejé mi copla sentida,\nme fui llevando sus ojos\nun Miércoles de Ceniza.\nAy, perfume de Carnaval…\n"
   },
   {
     "id": "pero-a-tu-lado",
@@ -2791,6 +4732,34 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/piensa-en-mi.md",
     "content": "---\ntitle: \"Piensa en mí\"\nartist: \"Luz Casal\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"almodóvar\", \"español\"]\n---\n\n## Intro\n[Em] [B7] [Em] [E] [E7] [Am] [B7] [Em] [B7] [Em]\n\n## Verso 1\n[Em] Si tienes un [B7] hondo penar, [Em] piensa en mí.\n[E] Si tienes [E7] ganas de llorar, [Am] piensa en mí.\nYa [B7] ves que venero tu imagen divina,\nTu párvula [Em] boca que siendo tan niña\nMe ense[B7]ñó a pecar.\n\n## Coro\n[E] Piensa en mí cuando [B7] sufras,\nCuando llores también piensa en [E] mí.\nCuando [F#m] quieras quitarme la [B7] vida,\nNo la quiero para [E] nada,\nPara [F#m] nada me [B7] sirve sin [E] ti.\n\n## Verso 2\n[Em] Si tienes un [B7] hondo penar, [Em] piensa en mí.\n[E] Si tienes [E7] ganas de llorar, [Am] piensa en mí.\nYa [B7] ves que venero tu imagen divina,\nTu párvula [Em] boca que siendo tan niña\nMe ense[B7]ñó a pecar.\n\n## Coro Final\n[E] Piensa en mí cuando [B7] sufras,\nCuando llores también piensa en [E] mí.\nCuando [F#m] quieras quitarme la [B7] vida,\nNo la quiero para [E] nada,\nPara [F#m] nada me [B7] sirve sin [E] ti.\n"
+  },
+  {
+    "id": "pin-pirivi-pin-pin",
+    "title": "Pin piriví pin pin",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/pin-pirivi-pin-pin.md",
+    "content": "---\ntitle: \"Pin piriví pin pin\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nA MI ME GUSTA EL PIN PIRIVI [G] PIN PIN,\nDE LA BOTA [A] EMPINAR, PARAVA [D] PAN PAN.\nCON EL PIN PIRIVI [D] PIN PIN,\nCON EL PAN PARAVA [G] PAN PAN,\nA QUIEN [A] NO LE GUSTE EL [D] VINO\nES UN [D] [A] ANIMAL,\nES UN [D] [A] ANIMAL.\nCUANDO [D] YO ME MUERA TENGO YA [G] DISPUESTO\n[A] EN EL TESTAMENTO [D] QUE ME HAN DE [D] [A] ENTERRAR,\nQUE ME HAN DE [D] [A] ENTERRAR,\nEN UNA [D] BODEGA, AL PIE DE [G] UNA CUBA,\n[A] CON UN GRANO DE UVA [D] EN EL [A] PALADAR,EN [D] EL [D] [A] PALADAR.\n## Verso 1\nA MI ME GUSTA...\n[D] POBRECITOS LOS [G] BORRACHOS\nQUE ESTAIS EN [A] EL CAMPOSANTO [D] (BIS).\n[G] QUE DIOS OS TENGA EN LA [A] GLORIA\nPOR HABER BEBIDO TANTO [D] (BIS).\nAPAGA [A] LUZ, MARILUZ, APAGA [D] LUZ,\nQUE YO NO [A] PUEDO VIVIR CON TANTA [D] LUZ;\nLOS [D] BORRACHOS [D] EN EL [D] CEMENTERIO [A] [D] [D] JUEGAN [A] AL [D] [A] [D] [A] MUS.\n"
+  },
+  {
+    "id": "popurri-canario",
+    "title": "Popurrí canario",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/popurri-canario.md",
+    "content": "---\ntitle: \"Popurrí canario\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nPOTPO\n[D]-[G]-[A]-[D] (bis)\n[D] PALMERO SUBE A LA [A] [G] PALMA\nY DILE A LA [D] PALMERITA\nQUE SE ASOME A LA [A] [G] VENTANA\nQUE SU AMOR LA [D] SOLICITA,\nQUE SU AMOR LA [A] [G] SOLICITA,\nPALMERO SUBE A LA [D] PALMA.\nVIRGEN DE [D] CANDELARIA,\nLA MAS BONITA, LA MAS [A] [G] MORENA,\nLA QUE TIENDE SU MANTO\nDESDE LA CUMBRE HASTA LA [D] ARENA.\nHASTA LA ARENA, NIÑA,\nHASTA LA ARENA, HASTA LA [A] [G] ARENA,\nVIRGEN DE CANDELARIA,\nLA MAS BONITA, LA MAS [D] MORENA.\nDICEN QUE TE VAS, DICEN [D] QUE TE VAS,\nPARA LA [A] [G] GOMERA,\nDICEN QUE TE VAS, DICEN QUE TE VAS,\nPERO NO ME [D] LLEVAS,\nPERO NO ME LLEVAS, PERO NO ME LLEVAS,\nPERO NO ME [A] [G] LLEVAS,\nDICEN QUE TE VAS, DICEN QUE TE VAS,\nPARA LA [D] GOMERA.\nURRI CANARIO\n[D] ESTA NOCHE NO ALUMBRA LA FAROLA [G] DEL [A] MAR\nESTA NOCHE NO ALUMBRA PORQUE NO TIENE [D] GAS.\nPORQUE NO TIENE GAS, PORQUE NO [G] TIENE [A] GAS,\nESTA NOCHE NO ALUMBRA LA FAROLA DEL [D] MAR.\nQUIERO QUE TE PONGAS LA [D] MANTILLA BLANCA,\nQUIERO QUE TE [G] PONGAS LA MANTILLA [A] AZUL,\nQUIERO QUE TE PONGAS LA RECOLORADA\nQUIERO QUE TE PONGAS LA QUE SABES [D] TU.\nLA QUE SABES TU, LA QUE [G] SABES [A] TU,\nQUIERO QUE TE PONGAS LA MANTILLA BLANCA,\nQUIERO QUE TE PONGAS LA MANTILLA [D] AZUL.\n[D] BORRA-BORRA-BORRA-BORRA [A] [G] [D] BORRACHERA,\nBORRACHO, BORRACHO POR DENTRO Y POR [D] FUERA;\n[G]-\nPOR DENTRO Y POR FUERA, [A] POR DENTRO Y POR FUERA,\nBORRA-BORRA-BORRA-BORRA [D] BORRACHERA.\nME [D] GUSTA LA [A] [G] BORRACHERA\nPORQUE DE TODO ME OLVIDO [D] (BIS).\nY HASTA [D7] PIENSO EN EL [A] [G] PATRON\nCOMO SI FUERA UN AMIGO [D] (BIS).\n[D] ANDRES, ANDRES, REPASATE EL [A] MOTOR,\nQUE SE TE SALE EL AGUA POR EL CARBURADOR [D] (BIS).\n"
   },
   {
     "id": "popurri-de-rumbas",
@@ -2893,10 +4862,26 @@ export const DEFAULT_SONGS = [
     "tags": [
       "vals",
       "vals criollo",
-      "clásico"
+      "clásico",
+      "tuna",
+      "español"
     ],
     "file": "canciones/que-nadie-sepa-mi-sufrir.md",
-    "content": "---\ntitle: \"Que nadie sepa mi sufrir\"\nartist: \"Ángel Cabral\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"vals\", \"vals criollo\", \"clásico\"]\n---\n\n## Verso 1\n(Cabral/Ozedi ‘36)\n\n[Dm] [Am] [E7] [Am]\n\n[Am] No te asombres si te digo lo que [Dm] fuiste\nUna in[G7]grata con mi pobre cora[C]zón\nPorque el [E7] fuego de tus lindos ojos [Am] negros\nAlum[Dm]braron el camino de otro a[E7]mor\n\n[Am] Y pensar que te adoraba tierna[Dm]mente\nQue a tu [G7] lado como nunca me sen[C]tí\nY por [E7] esas cosas raras de la [Am] vida\nSin el [Dm] beso de tu [E7] boca yo me [Am] vi\n\n[G7] Amor de mis a[C]mores,\nReina [E7] mía que me hiciste\nQue no [Dm] puedo confor[F]marme,\nSin po[E]derte contemplar\nYa que [G7] pagaste mal\nA mi ca[C]riño tan sin[E7]cero\nSolo con[Am]seguirás\nQue no te [Dm] nombre [E] nunca [Am] más\n\n//:[G7] Amor de mis a[C]mores,\nSi de[E7]jaste de que[Am]rerme\nNo hay cui[Dm]dado que la [F] gente,\nDe esto [E] no se enterará\nQue gano [G7] con decir,\nQue una mu[C]jer cambió mi [E7] suerte\nSe burla[Am]rán de mí,\nQue nadie [Dm] sepa [E] mi su[Am]frir. ://\n"
+    "content": "---\ntitle: \"Que nadie sepa mi sufrir\"\nartist: \"Ángel Cabral\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"vals\", \"vals criollo\", \"clásico\", \"tuna\", \"español\"]\n---\n\n## Verso 1\n(Cabral/Ozedi ‘36)\n\n[Dm] [Am] [E7] [Am]\n\n[Am] No te asombres si te digo lo que [Dm] fuiste\nUna in[G7]grata con mi pobre cora[C]zón\nPorque el [E7] fuego de tus lindos ojos [Am] negros\nAlum[Dm]braron el camino de otro a[E7]mor\n\n[Am] Y pensar que te adoraba tierna[Dm]mente\nQue a tu [G7] lado como nunca me sen[C]tí\nY por [E7] esas cosas raras de la [Am] vida\nSin el [Dm] beso de tu [E7] boca yo me [Am] vi\n\n[G7] Amor de mis a[C]mores,\nReina [E7] mía que me hiciste\nQue no [Dm] puedo confor[F]marme,\nSin po[E]derte contemplar\nYa que [G7] pagaste mal\nA mi ca[C]riño tan sin[E7]cero\nSolo con[Am]seguirás\nQue no te [Dm] nombre [E] nunca [Am] más\n\n//:[G7] Amor de mis a[C]mores,\nSi de[E7]jaste de que[Am]rerme\nNo hay cui[Dm]dado que la [F] gente,\nDe esto [E] no se enterará\nQue gano [G7] con decir,\nQue una mu[C]jer cambió mi [E7] suerte\nSe burla[Am]rán de mí,\nQue nadie [Dm] sepa [E] mi su[Am]frir. ://\n"
+  },
+  {
+    "id": "queda-la-ilusion",
+    "title": "Queda la ilusión",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/queda-la-ilusion.md",
+    "content": "---\ntitle: \"Queda la ilusión\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nQue\n## Intro\n[Em], [G#m]\n[Em], [G#m], [A],\nDo#m;                  Si7\nTriste silencio en su alma quedó\nMiM,      Si7,       MiM.\ncuando aquel sobre se abrió,\ny en [A] su letra [B7] inconfundible [Em] leyó\n[G#7] palabras que no [C#] engañaban\n[F#7] que [F#7] decían serenas [B7] sin [G#7] voz:\nNo me esperes más bajo tu balcón\npara rondarte mi amor,\nque mañana estaré lejos de tí\ny aunque me llevo tus besos\nmi corazón no se queda aquí\n[Em] Es la [G#m] ilusión\nla [F#m] esperanza que nunca [B7] se acaba\n[G#7] sus recuerdos, sus [C#] miradas\ny [F#7] una cinta que nunca [B7] le dio.\n[Em] En su [G#m] interior\nSe [A] quedó y nunca pudo [B7] olvidar\n[C] viajando por mil [Em] lugares\n[C#7] siempre pensando que [F#m] un día\nSi7,         MiM;            Sol#7\nquizás la vuelva a encontrar.\nda la ilusión\n, [F#m], [B7], [G#7], [C#m], [F#7], Si7.\n[B7], [C], [Em], [C#7], [F#m], [B7], MiM; [G] [C#m],\n[G#7],\n## Instrumental\n[Em], [G#m], [F#m], [B7], [G#7], [C#m], [F#7], Si7.\n[F#] Re#7, [A#m] Sol#m, [B] Do#7, [D] [C#] Fa#M; [F#] Sol#7.\nCon su guitarra lo han visto pasar\nviejas ciudades y el mar,\nsin pensar más que en beber y en\ncantar\nbuscando la última fiesta\ndespertando en la barra de un bar.\nPero a su sueño buscándolo van\nhaciéndolo despertar\nesos ojos que hace tiempo no ve,\nque lejos ya de olvidarlos\nsin remedio le hacen volver.\nEs la ilusión\nla esperanza que nunca se acaba\nsus recuerdos, sus miradas\ny una cinta que nunca le dio.\nEn su interior\nSe quedó y nunca pudo olvidar\nviajando por mil lugares\nsiempre pensando que un día\nquizás la vuelva a encontrar.\nDoM (rítmico),         MiM\nviajando por mil lugares\n[C#7] siempre pensando que [F#m] un díaaaa\nquizás la vuelva a [Em] [C] encontraaaaar\n"
   },
   {
     "id": "querria",
@@ -2962,6 +4947,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Rayando el Sol\"\nartist: \"Maná\"\nkey: \"G\"\ncapo: 0\ntempo: 84\ntags: [\"rock\", \"pop\", \"latino\", \"90s\"]\n---\n\n## Intro\n[G] [D] [Em] [C]\n[G] [Bm] [C] [D] [Em]\n\n## Verso 1\n[G] Rayando el [C] sol,\n[D] Rayando por [C] ti,\n[G] Esta pena me duele,\n[C] Me quema [D] sin tu a[C]mor.\n[Bm] No me has llamado, estoy desespe[C]rado, [D]\n[Bm] Son muchas lunas las que te he llo[C]rado. [D]\n\n## Coro\n[G] Rayando el [D] sol, oe oh,\n[Em] Desespera[C]ción,\n[G] Es más fácil lle[Bm]gar al sol\n[C] Que a tu cora[D]zón.\n[G] Me muero por [D] ti, oe oh,\n[Em] Viviendo sin [C] ti,\n[G] Y no aguanto, me [Bm] duele tanto\n[C] Estar a[D]sí, rayando el [Em] sol.\n\n## Verso 2\n[G] A tu casa yo [C] fui\n[D] Y no te encon[C]tré,\n[G] En el parque, en la [C] plaza, en el cine\n[D] Yo te bus[C]qué.\n[Bm] Te tengo atrapada entre mi piel y mi [C] alma, [D]\n[Bm] Mas ya no puedo tanto y quiero estar junto a [C] ti. [D]\n\n## Coro Final\n[G] Rayando el [D] sol, oe oh,\n[Em] Desespera[C]ción,\n[G] Es más fácil lle[Bm]gar al sol\n[C] Que a tu cora[D]zón.\n[G] Me muero por [D] ti, oe oh,\n[Em] Viviendo sin [C] ti,\n[G] Y no aguanto, me [Bm] duele tanto\n[C] Estar a[D]sí, rayando el [Em] sol. [G]\n"
   },
   {
+    "id": "recuerdos",
+    "title": "Recuerdos",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Dm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/recuerdos.md",
+    "content": "---\ntitle: \"Recuerdos\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Dm]-[C]-[F]-[Gm]-[Dm]-[A]-[Dm]-[C]-[F]-[Gm]-[A7]-[Dm]\n[A7]-[Dm] (ter)\nMUCHO [D7] TIEMPO TE [Gm] DEDIQUE,\nLA VIDA [C] ENTERA YO TE LA [F] DI,\nHOY SOLO [A#7] QUEDA DE AQUEL [A7] AYER\nLOS MIL [Gm] RECUERDOS QUE [A7] DEJAS [Dm] IR(BIS).\nSE QUE [D7] TIENES OTRO [Gm] QUERER,\nQUE NO LO [C7] QUIERES TAMBIEN LO [F] SE;\nCUANDO LE [A#7] ABRAZAS PIENSAS EN [A7] MI\nEN LOS MIL [Gm] BESOS [A7] QUE YO TE [Dm] DI.\nQUIERES [D7] ALEJARTE DE [Gm] MI,\nCUANTO MAS [C] LEJOS [F] RECORDARAS\nY A CADA [A#7] INSTANTE [A7] REPETIRAS\nLAS [Gm] SIETE [A7] LETRAS DE MI [Dm] [A7] [Dm] NOMBRE.\n[Dm]-[C]-[F]-[Gm]-[Dm]-[A]-[Dm]-[C]-[F]-[Gm]-[A7]-[Dm]\n[A7]-[Dm] (ter)\n[D7]-[Gm]-[C7]-[F]-[A#7]-[A7]-[Gm]-[A7]-[Dm] (bis)\n## Verso 1\nSE QUE TIENES... (A CAPPELLA)\nQUIERES ALEJARTE DE MI...\n[Dm]-[C]-[F]-[Gm]-[Dm]-[A]-[Dm]-[C]-[F]-[Gm]-[A7]-REmLA7-[Dm] (ter)\n"
+  },
+  {
+    "id": "regalame-esta-noche",
+    "title": "Regálame esta noche",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/regalame-esta-noche.md",
+    "content": "---\ntitle: \"Regálame esta noche\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[C] [A7] [Dm] [G7] (bis)   [F] [G7] [C]\nNo [Am] quiero que te [Dm] [Em] vayas\nla [G7] noche esta muy [E7] [C] fría\nabrígame en tus [D7] [Am] brazos\nhasta que vuelva el [C] [G7] [F] [G] día\nMi [Am] almohada está [Dm] [Em] impaciente\nde [G7] acariciar tu [E7] [C] cara\ntal vez te de un [D7] [Am] consejo\ntal [G7] vez no diga [C] nada\nMañana muy [Dm] [Am] temprano\npracticarás [F] [E] conmigo\ny si estás [C] [Fm] decidida\na [A7] abandonar el [C] [G7] [Dm] [A7] [F] nido\nEntonces será [Am] en [Dm] vano\ntratar de [F] [E] retenerte\n[Fm] regálame esta [Dm] noche\n[G7] retrásame la [C] [G7] [F] [Dm] [A7] [C] muerte\nMúsica (Como 2ª  parte del estribillo)\nMañana muy temprano\npracticarás conmigo\ny si estás decidida\na abandonar el nido\nEntonces será en vano\ntratar de retenerte\nregálame esta noche\n[Dm] retrásame la [C] [Fm] [G#] muerte\n"
+  },
+  {
+    "id": "reloj",
+    "title": "Reloj",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/reloj.md",
+    "content": "---\ntitle: \"Reloj\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[Bm]-[Em]-[A]\n[D] RELOJ [Bm] NO MARQUES LAS [A7] [Em] HORAS\n[D] PORQUE [Bm] VOY A [A7] [Em] ENLOQUECER\n[D] ELLA [Bm] SE IRA PARA [A7] [Em] SIEMPRE\n[D] CUANDO [Bm] AMANEZCA OTRA [A7] [Em] VEZ\nNO [D] MAS NOS [Bm] QUEDA ESTA [A7] [Em] NOCHE\n[D] PARA VIVIR [Bm] NUESTRO [A7] [Em] AMOR\n[D] Y TU [Bm] TIC-TAC ME [A7] [Em] RECUERDA\n[D] MI [Bm] IRREMEDIABLE [A7] [Em] DOLOR\n[D] RELOJ [Bm] DETEN [F#m] TU [Em] [Fm] CAMINO\nPORQUE [A7] MI VIDA SE [D7] [D] APAGA\n[Em] ELLA ES LA [A7] ESTRELLA QUE [D] ALUMBRA MI [Bm] SER\n[Em] YO SIN SU [A7] AMOR NO SOY [D7] [D] NADA\n[D] DETEN [Bm] EL TIEMPO EN [F#m] TUS [Em] [Fm] MANOS\n[Em] HAZ ESTA [A7] NOCHE [D7] [D] PERPETUA\n[Em] PARA QUE [A7] NUNCA SE [D] ALEJE DE [Bm] MI\n[Em] PARA QUE [A7] NUNCA [D7] [D] AMANEZCA\n[Em] PARA QUE [A7] NUNCA [D7] [D] AMANEZCA\n[Em] PARA QUE [A7] NUNCA [D7] [D] AMANEZCA\n"
+  },
+  {
     "id": "resistire",
     "title": "Resistiré",
     "artist": "Dúo Dinámico",
@@ -3008,6 +5035,62 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Rocío\"\nartist: \"Rocío Jurado\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"copla\", \"andaluz\", \"clásico\"]\n---\n## Intro\n[Am] [E] [Am] [A7] [Dm] [E] [Am] [G] [C] [E] [Am]\n\n[Am] De Sevilla un patio, salpi[E]cao de flores,\nUna fuente en medio con un surti[Am]dor,\n[A7] Rosas y claveles de to[Dm]dos colores,\nQue no los so[E]ñara mejor ni un pin[Am]tor.\nJunto a la cancela de [G] hierro forjao,\nHay una mo[C]cita de tez bronceá,\nY jun[E]tito a ella, moreno y plantao,\nUn mozo encen[Am]dío, que hablándole está.\n\n[Am] La luna, rosa de plata, el [E] patio bañao de luz,\n[F] Muy cerquita de su novia dijo el mo[E7]cito andaluz:\n\n[Am] Rocío, ¡ay mi Ro[E7]cío!, manojito de cla[Am]veles,\nCapullitos flore[E7]cíos,\n[Am] De pensar en tus que[A7]reres voy a perder el sen[Dm]tío,\nPorque te quiero mi [G7] vía, como nadie te ha que[C]río,\n¡Ay Ro[E7]cío, ay mi Ro[Am]cío!\n\n[Am] [E] [Am] [A7] [Dm] [E] [Am] [G] [C] [E] [Am]\n\n[Am] Ahora es otro el patio salpi[E]cao de rosas,\nPatio de las monjas de la cari[Am]dad,\n[A7] Donde hasta la fuente llora [Dm] silenciosa\nLa canción a[E]marga de su sole[Am]dad.\nRegando las flores hay [G] una monjita,\nQue como ellas [C] tiene carita de flor,\nY que [E] se parece a aquella mocita\nQue tras la can[Am]cela le hablaban de amor.\n\n[Am] La luna, rosa de plata, el [E] patio bañao de luz,\n[F] Mas ya no suena la copla de aquel mo[E7]cito andaluz.\n\n[Am] Rocío, ¡ay mi Ro[E7]cío!, manojito de cla[Am]veles,\nCapullitos flore[E7]cíos,\n[Am] De pensar en tus que[A7]reres voy a perder el sen[Dm]tío,\nPorque te quiero mi [G7] vía, como nadie te ha que[C]río,\n¡Ay Ro[E7]cío, ay mi Ro[Am]cío!\n"
   },
   {
+    "id": "romanza-de-la-papilla",
+    "title": "Romanza de la papilla",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/romanza-de-la-papilla.md",
+    "content": "---\ntitle: \"Romanza de la papilla\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nROMANZA\n[D]-[A]-[F#m]-[Bm]-[E]-[A] (bis)\nESTANDO PRESUMIENDO [A] DE MI FACHA,\nMIRANDO UNA MANSION DE GENTE [E] BIEN,\nNOTE QUE EN LA VENTANA UNA MUCHACH\nA\nQUEDO TAN SOLO EN BRAGAS Y EN SOSTEN.\n¿QUE ES ESO QUE MIS [A] TIERNOS OJOS VEN?\nME [A7] DIJE CON LOS OJOS COMO [D] GACHAS,\nEL RECATO, EL SENTIR DE [A] DESDEN,\nPERO [Bm] TIENE LA [E] TIA BUENAS [A] CACHAS.\nTREPE [A] CON DILIGENCIA LAS [D] PAREDES\nL\nPOR VERLA DE ESA GUISA EN CERCANIA\nMAS [F#m] NO COMPRENDERAN VUESAS MERCED\nLA [E] GRANDE FERMOSURA DE LA [A] TIA.\nMAS VIOME Y PREGUNTOME [A7] QUE QUERIA;\nL\nTURBEME AL VERLE LA SU PIEL DESNUDA,\nMAS [F#m] LUEGO AL RECORDAR MI [Bm] TUNERIA\nMI                                                    L\nCANTELE CON MI VOZ MAS CAMPANUDA.\nTIENES LA COLOR DE LA [D] HIERBA LUISA,\nL\nTIENES LA BLANCURA DE LAS AZUCENAS,\nERES DELICADA [F#m] COMO UN [Bm] PARABRISAS,\n[E]\nEN MI VIDA HE VISTO [A7] UNA COSA TAN BUENA\nERES DEL MERCADO [D] LO MAS COMESTIBLE,\nCOMO UNA EMPANADA JUGOSA Y RELLENA,\nERES TAN SALADA [F#m] Y TAN [Bm] APETECIBLE\nQUE POR NOMBRE NIÑA [E] TE PONDRE\nDE LA PAPILLA\nMAICENA, [A] MAICENA,\nBUENA, BUENA, [E] BUENA,\nAMAICENA, MAICENA,\nTRES VECES [A] [E] [A] BUENA.\n[D]-[A]-[F#m]-[Bm]-(bis)\nQUEDO CONTENTA [A] Y DIJO CON DESMADRE:\n\"PRECIOSA, MI SEÑOR, FERMOSA [E] TROVA;\nPASAD AL APOSENTO PUES MI PADRE\nSI OS VE SEGURO QUE OS DARA UNA [A] SOBA\".\nPASE CON [A] DILIGENCIA A LA ALCOBA\n[Bm] ESY [A7] VIDE EL LECHO AMPLIO Y [D] PLACENTERO;\n[A]\nME DIJE \"ESTA [F#m] MUCHACHA ES UNA LOBA,\n[D] Y YO ESTA [Bm] NOCHE MOJO [E] EL [A] LAPICERO\".\nA\nMAS ELLA DESCUBRIOME [A7] MI [D] PREMURA,\nACORTOME CUAL SI FUERA [A] CIMITARRA;\n\"DONCELLA [F#m] SOY, SEÑOR, VIRGEN [Bm] Y PURA,\nASI [E] QUE NO PIENSE COSAS [A] GUARRAS\".\nA\nCOGI CHAMBERGO Y [A7] CAPA Y QUEDO [D] SOLA,\nLA YO FUIME Y OLVIDEME DE LA [A] DAMA,\n.MAS [F#m] SIEMPRE QUE ME TIRO A LA [Bm] BARTOLA\n[E] RECUERDO ESTA CANCION DESDE LA [A] CAMA.\n[A]\nTIENES LA [D] COLOR....\nERES DEL [D] MERCADO...\n"
+  },
+  {
+    "id": "ronda-del-silbidito",
+    "title": "Ronda del silbidito",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/ronda-del-silbidito.md",
+    "content": "---\ntitle: \"Ronda del silbidito\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[A]-[D]\n[D] EL DIA QUE YO ME CASE [A] HA DE SER A GUSTO [D] MIO, [D7] (BIS)\n[G] HAS DE SALIR AL [A] [D] BALCON AL TIEMPO DE HACER YO [D] [A] [D] [A] [D] PIO...\n[D] MUERTO DE HAMBRE Y SIN CENAR [A] Y TIRITANDO DE FRIO, [D7] [D] (BIS)\n[G] ESTOY PASANDO [D] Y PASANDO [A] SOLO POR HACER YO [D] [A] [D] [A] [D] PIO...\n[D] SI ME CASO Y TENGO SUEGRA [A] HA DE SER A CONDICION, [D7] [D] (BIS)\n[G] QUE SI AL AÑO NO [D] SE [A] MUERE LA TIRO POR EL [D] [A] [D] [A] [D] BAL...PIO...\n[D] EL OTRO DIA EN METRO [A] ME OCURRIO UNA GRAN DESDICHA, [D7] [D] (BIS)\n[G] QUE SE CERRARON [D] LAS [A] PUERTAS Y ME PILLARON LA [D] [A] [D] [A] [D] PIO...\n[D] Y AQUI SE ACABA LA HISTORIA [A] DE AQUELLOS AMORES [D] MIOS, [D7] (BIS)\n[G]                                  [D]       [A]                                            [D]-[A]-[D]-[A]-\nELLA SE MARCHO CON OTRO, [D] YO ME QUEDE HACIENDO PIO...\n"
+  },
+  {
+    "id": "rondalla",
+    "title": "Rondalla",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Am",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/rondalla.md",
+    "content": "---\ntitle: \"Rondalla\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Dm]-[Am]-[E7]-[Am] (bis)\nEN ESTA NOCHE [Am] CLARA DE INQUIETOS [Am] [E7] LUCEROS\nLO [Dm] QUE YO MAS [Am] QUIERO TE [E] VENGO A [Am] DECIR,\nEN TANTO QUE LA [Am] LUNA EXTIENDE [E7] EN EL [Am] CIELO\n[Dm] SU PALIDO [Am] VELO DE [E] PLATA Y [Am] MARFIL.\nEN MI CORAZON [G] SIEMPRE [C] ESTAS\nY NO [G] PUEDO OLVIDARTE [C] JAMAS,\nPORQUE YO NACI [G] PARA [C] TI,\nDE MI [G] ALMA LA [F] REINA [E] SERAS.\nEN ESTA NOCHE [Am] CLARA DE INQUIETOS [Am] [E7] LUCEROS\nLO [Dm] QUE YO MAS [Am] QUIERO TE [E7] VENGO A [A] DECIR.\nABRE EL BALCON [A] Y EL CORAZON\nSIEMPRE QUE PASE LA [E] RONDA;\nMIRA [Bm] MI BIEN, QUE YO [E] TAMBIEN\nTENGO UNA PENA MUY [A] HONDA\n## Verso 1\nPARA QUE ESTES CERCA DE MI\nTE BAJARE [A7] LAS [D] ESTRELLAS;\n[Dm] EN ESTA NOCHE [A] CALLADA,\nDE TODA MI [E] VIDA SERA LA [A] MEJOR.\n[G]-[C] (ter)-[G]-[F]-[E]\nEN ESTA NOCHE [Am] CLARA... (2º).\nABRE EL [A] BALCON...\n"
+  },
+  {
+    "id": "rosa-ardiente",
+    "title": "Rosa ardiente",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/rosa-ardiente.md",
+    "content": "---\ntitle: \"Rosa ardiente\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nRO\n[Dm]-[Am]-\n[Am] LA ROSA QUE TU ME [E7] DISTE\n[Dm] UN DIA EN LA [Am] FACULTAD\nSE PRENDIO [Dm] TANTO EN MI [Am] PECHO\nQUE NO [B7] LA PUEDO [E7] OLVIDAR.\n[Am] ES TAN PRECIOSA ESA [E7] ROSA,\n[Dm] ME TIENE QUE [Am] ACOMPAÑAR;\nREPRESENTA [Dm] MUCHAS [Am] COSAS\nQUE NO [E7] CONSIGO [A] OLVIDAR.\nESA ROSA ES [A] LA CAUSANTE\nDE QUE YO TE QUIERA [E] MAS,\nTANTAS [Bm] VECES COMO [E] ESTUDIO\nLA VUELVO YO A [A] RECORDAR.\nY HASTA ME PONGO [A] NERVIOSO\n[A7] PENSANDO EN LA [D] FACULTAD,\nEN SU [E] BOCA [F#m] [A] DELICIOSA\nQUE ES UN [Bm] DULCE [A] [E] MANANTIAL.\nSA ARDIENTE\n[E7]-[Am]-[A7] (bis)\n[Dm]-[Am]-[E7]-[Am]-[A7] (bis)\n[Am] LA ROSA CAMBIO DE [E7] ASPECTO,\n[Dm] PARA MI SIEMPRE ES [Am] IGUAL;\nLA LLEVO [Dm] DENTRO DE UN [Am] LIBRO,\nME SIRVE [B7] COMO [E7] SEÑAL.\n[Am] ES TAN PRECIOSA ESA [E7] ROSA,\n[Dm] ME TIENE QUE [Am] ACOMPAÑAR;\nREPRESENTA [Dm] MUCHAS [Am] COSAS\nQUE NO [E7] CONSIGO [A] OLVIDAR.\nESA ROSA [A] ES...\nY HASTA [A] ME...\n"
+  },
+  {
     "id": "row-your-boat",
     "title": "Row, Row, Row Your Boat",
     "artist": "Popular",
@@ -3037,6 +5120,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/ruido.md",
     "content": "---\ntitle: \"Ruido\"\nartist: \"Joaquín Sabina\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"canción de autor\", \"balada\", \"español\"]\n---\n## Verso 1\n(J. Sabina)\n\n[Dm] Ella le pidió que la lle[Am]vara al fin del mundo,\n[E7] Él puso a su nombre todas las [Am] olas del mar,\n[Dm] Se miraron un segundo, como [Am] dos desconocidos.\n[E7] Todas las ciudades eran [Am] pocas a sus ojos,\n[Dm] Ella quiso barcos y él no [Am] supo qué pescar,\n[E7] Y al final números rojos, en la [Am] cuenta del olvido,\nY hubo [F] tanto ruido, que al fi[G]nal llegó el fi[Am]nal.\n\n[Dm] Mucho, mucho ruido, [A7] ruido de ventanas,\nNidos de manzanas [G7] que se acaban por pudrir,\n[F] Mucho, mucho ruido, [E7] tanto, tanto ruido,\n[Am] Tanto ruido y al final, por fin el fin.\nTanto [E7] ruido y al final...\n\n[Dm] Hubo un accidente, se per[Am]dieron las postales,\n[E7] Quiso carnavales y encon[Am]tró fatalidad,\n[Dm] Porque todos los finales son el [Am] mismo repetido,\n[E7] Y con tanto ruido no escu[Am]charon el final.\n[Dm] Descubrieron que los besos, [Am] ¡no sabían a nada!\n[E7] Hubo una epidemia de tris[Am]teza en la ciudad,\n[Dm] Se borraron las pisadas, se apa[Am]garon los latidos,\nY con [F] tanto ruido, no se o[G]yó el ruido del [Am] mar.\n\n[Dm] Mucho, mucho ruido, [A7] ruido de tijeras,\nRuido de escaleras, que se acaban por ba[F]jar,\nMucho, mucho [E7] ruido, tanto, tanto [Am] ruido…\nTanto [E7] ruido y al final...\n\nRuido de tenazas,\nTanto ruido y al final,\nRuido de estaciones, ruido de amenazas,\nTanto ruido y al final, la soledad.\nRuido de escorpiones, tanto, tanto ruido.\nRuido de abogados, ruido compartido, ruido envenenado, demasiado ruido.\nRuido platos rotos, ruido años perdidos, ruido viejas fotos, ruido empedernido.\nRuido de cristales, ruido de gemidos, ruidos animales, contagioso ruido.\nRuido mentiroso, ruido entrometido, ruido escandaloso, silencioso ruido.\nRuido acomplejado, ruido introvertido, ruido del pasado, descastado ruido.\nRuido de conjuros, ruido malnacido, ruido tan oscuro, puro y duro ruido.\nRuido qué me has hecho, ruido yo no he sido, ruido insatisfecho, ruido a qué has venido.\nRuido como sables, ruido enloquecido, ruido intolerable, ruido incomprendido.\nRuido de frenazos, ruido sin sentido, ruido de arañazos… Ruido, ruido… ruido.\n(Tanto, tanto, tanto, demasiado ruido)\nRuiiiiiiido\n(Tanto, tanto, tanto, tanto, tanto ruido)\n"
+  },
+  {
+    "id": "rumor-en-los-balcones",
+    "title": "Rumor en los balcones",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/rumor-en-los-balcones.md",
+    "content": "---\ntitle: \"Rumor en los balcones\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nRUMOR\n[Em]-[B7] (bis)-[Em]-[Am]-[Em]-[B7]-[Em]\nRUMOR EN LOS [B7] BALCONES\nDE ETERNA [Em] MADRUGADA,\nUN ECO [B7] INCONFUNDIBLE\nANUNCIA [Em] SERENATA.\nDORMIDOS LOS AMORES [D7] DEL AYER,\nPARECE CON LA TUNA [G] DESPERTAR,\nUNOS OJOS BONITOS [B7] DE MUJER\nY UNA ILUSION QUE NO PODRE [Em] OLVIDAR.\nUN REVUELO DE CINTAS Y [D7] UNA VOZ,\nBANDURRIAS Y GUITARRAS [G] AL COMPAS,\nSUENA LA [B7] PANDERETA\nCON EL SON ALEGRE DE NUESTRO [E] CANTAR\nLA TUNA YA ESTA [E] AQUI,\nREPITE LA [B7] CANCION,\nY CANTA PARA TI,\nEN LOS BALCONES\nLA MAS PEQUEÑA [E] FLOR.\nSAL CORRIENDO A LA VENTANA, [B7] QUE YA\nDESPIERTA LA MAÑANA, [E] QUIZA,\nTUS OJOS SON ESTRELLAS DE [B7] AYER,\nTU CARA LA MAS BELLA, [E] MUJER.\nEN TU SONRISA [B7] HAY ALGO, SI,\nMOMENTOS DE [E] FELICIDAD,\nMALAGUEÑA BONITA [B7] COMO NOVIA [E] NINGUNA,\n[E7]                     [A]            [B7]\nY AL LLEGAR LA [B7] [E] MAÑANA [Em] YA SE MARCHA LA\nTUNA.\n[E] [B7] [Em] [Am] [Em] [B7] [Em] .\nLA TUNA YA...\nSAL CORRIENDO A...\nEN TU [E] [B7] SONRISA...\n"
   },
   {
     "id": "sabor-de-amor",
@@ -3071,6 +5168,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Sailing\"\nartist: \"Rod Stewart\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"rock\", \"balada\", \"70s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[C] [Am] [F] [C] [Dm] [Am] [Dm] [G]\n\n## Verso 1\nI am [C] sailing, I am [Am] sailing home a[F]gain 'cross the [C] sea\nI am [D] sailing stormy [Am] waters, to be [Dm] near you, to be [C] free [G]\n\n## Verso 2\nI am [C] flying, I am [Am] flying like a [F] bird 'cross the [C] sky\nI am [D] flying passing [Am] high clouds, to be [Dm] with you, to be [C] free [G]\n\n## Verso 3\nCan you [C] hear me, can you [Am] hear me, through the [F] dark night far a[C]way?\nI am [D] dying, forever [Am] crying, to be [Dm] with you; who can [C] say? [G]\n\n## Verso 4\nWe are [C] sailing, we are [Am] sailing home a[F]gain 'cross the [C] sea\nWe are [D] sailing stormy [Am] waters, to be [Dm] near you, to be [C] free [G]\nOh Lord, to be [Dm] near you, to be [C] free\n"
   },
   {
+    "id": "san-benito",
+    "title": "San Benito",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "F",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/san-benito.md",
+    "content": "---\ntitle: \"San Benito\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"F\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n¿DONDE SE HA METIDO MI NEGRA (A CAPPELLA)\nCON LA SAYA DE TUNDIQUI Y BAILANDO, (A CAPPELLA)\nCON LA SAYA DE TUNDIQUI Y CANTANDO? (A CAPPELLA)\n¿DONDE ESTA MI NEGRA BAILANDO, (A CAPPELLA)\nCARGADA DE SU AGUITA, BAILANDO, (A CAPPELLA)\nCARGADA DE SU AGUITA, CANTANDO? (A CAPPELLA)\nNEGRA, ZAMBA, AUNQUE TU ANDES  (A CAPPELLA)\nSIEMPRE ADELANTE (TER). (A CAPPELLA)\nHAY UN [A#] LORITO CON [C] SU [F] MONITO,\nHAY UN [A#] LORITO CON [C] SU [F] MONITO,\nQUE ES UN REGALO [A7] DE SAN [F] BENITO\nPARA LA FIESTA DE LOS [A7] NEGRITOS [Dm] (BIS).\n[A#]-[F]-[A#]-[F]-[A7]-[F]-[A7]-[Dm] (bis)\nUN VIEJO [A#] CAÑA CON SU [F] CABALLO,\nUN VIEJO [A#] CAÑA CON SU [F] CABALLO\nESTA DURMIENDO [A7] EN SU [F] CABAÑA,\nESTA DURMIENDO EN [A7] SU [Dm] CABAÑA.\nHAY [A#] UN LORITO...\n¿DONDE ESTA MI NEGRA BAILANDO, (A CAPPELLA)\nCARGADA DE SU AGUITA, BAILANDO, (A CAPPELLA)\nCARGADA DE SU AGUITA, CANTANDO? (A CAPPELLA)\nYA NOS VAMOS, YA NOS VAMOS BAILANDO, (A CAPPELLA)\nYA NOS VAMOS, YA NOS VAMOS CANTANDO, (A CAPPELLA)\nCON LA SAYA DE TUNDIQUI Y BAILANDO, (A CAPPELLA)\nCON LA SAYA DE TUNDIQUI Y CANTANDO, (A CAPPELLA)\n"
+  },
+  {
+    "id": "san-cayetano",
+    "title": "San Cayetano",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/san-cayetano.md",
+    "content": "---\ntitle: \"San Cayetano\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[C]-[G]-[C] (bis)\nHAY UN LUGAR [C] EN EL MUNDO\nDONDE DIOS PUSO LA [G] MANO,\nMADRID SE LLAMA [F] ESE SITIO\nY ES EN MADRID LA [G] VERBENA\nMAS CHULA DE SAN [C] CAYETANO.\nLAS CALLES [C] ENGALANADAS,\nLA [C] CORRALA, QUE [F] EMOCION,\nRECUERDAN [G] TIEMPOS [C] PASADOS\nCON EL [G] CHOTIS VERBENERO Y [C] CHULAPON.\nVERBENAS Y [C] VERBENAS,\nLAS MAS [G] CHIPEN,\n## Verso 1\nCHAVALAS DE ESTE BARRIO\nSON LAS QUE ESTAN [C] FETEN.\nVERBENAS Y [C] VERBENAS,\nLAS MAS [F] [C7] CHIPEN,\nCOHETES, COHETES [C] VERBENEROS\nY A BAILAR [G] A LA [C] QUERMES.\n[C]-[G]-[C] (bis)\nVERBENAS..\n"
+  },
+  {
     "id": "scarborough-fair",
     "title": "Scarborough Fair / Canticle",
     "artist": "Simon & Garfunkel",
@@ -3103,6 +5228,48 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Se me va\"\nartist: \"Manuel Alejandro\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"balada\", \"rumba\", \"español\"]\n---\n\n## Intro\n[D] [B7] [Em] [A7] [D] (2)\n\n## Verso 1\nSe me [D] va, este amor que he ido ama[B7]sando con mis manos, se me [Em] va;\nSe me [A7] va, lo que tanto tiempo yo he querido tanto, se me [D] va.\nNo hay razón que yo pierda en un mo[B7]mento lo que tanto me cos[Em]tó,\nNo hay ra[A7]zón que se vaya de mis manos, y en un soplo tanto [D] amor.\n\n## Coro\nY se me [D] va, como el agua que se escurre entre mis [B7] manos,\nY se me [Em] va, y como el aire que no puedes suje[A7]tarlo,\nComo el tiempo que implacable va pa[D]sando, como el humo, tu cariño se me [B7] va.\nAy, se me [Em] va, y no puedo ya luchar por rete[A7]nerlo,\nEste amor que en realidad se ha ido mu[D]riendo, y que por eso de mis manos se me va. (2)\n"
   },
   {
+    "id": "sebastopol",
+    "title": "Sebastopol",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/sebastopol.md",
+    "content": "---\ntitle: \"Sebastopol\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Am]-[E]  (bis)\nESCUCHA [Am] NIÑA ESTE [Am] [E] PASACALLES\nQUE DEDICADO A TU BELLEZA [E] VA\n## Verso 1\nPOR SER LA CHICA MAS GUAPA DEL BARRIO\nLA MAS BONITA DE LA [Am] [E] [Am] UNIVERSIDAD.\nPERO QUE GUAPAS [Am] QUE [E] GUAPAS QUE [Am] GUAPAS\nPERO QUE GUAPAS LAS NIÑAS DE [E] MADRID\nPERO MAS GUAPAS MAS GUAPAS MAS GUAPAS\nPERO MAS GUAPAS SON LAS QUE HAY [A] AQUI\nSE VA, SE VA, SE VA.SE [E] VA LA TUNA, YA SE VA\nSE VA, SE VA, SE VA,SE VA LA TUNA, YA SE [A] VA\nSE VA, SE VA, SE VA,SE VA LA TUNA, YA SE [D] VA\nSE VA, SE VA, SE [A] VA, PERO [E] MAÑANA [A] [E] [A] VOLVERA.\n"
+  },
+  {
+    "id": "serenata-a-la-mezquita",
+    "title": "Serenata a la Mezquita",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/serenata-a-la-mezquita.md",
+    "content": "---\ntitle: \"Serenata a la Mezquita\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nComo grabado por buril moro, vision sublime de un poeta emir\nCordoba tiene su lecho de oro cerca del viejo Guadalquivir\ny en el encanto de las plazuelas brindan las fuentes con su rumor\ncoplas de amores que a las vihuelas llevan al canto del rondador.\nSultana (Sultana), mi novia de Andalucia (mi novia)\nte has querido hacer cristiana para ser por siempre mia\nyo no te he de dar enojos te lo juro ante la cruz\nmientras pueda ver tus ojos que son veneros de luz.\nSultana la flor mas lozana del pueblo andaluz\nBajo los arcos de la mezquita, mansion que el arte diera a la fe\nse muestra el sueño del islamita como recuerdo de lo que fue\ny en el embrujo de las callejas, cuando se extiende la oscuridad\ncantan los novios junto a las rejas\ncoplas que dicen de su ansiedad\nSultana (sultana), mi novia de Andalucia (mi novia)\nte has querido hacer cristiana para ser por siempre mia\nyo no te he de dar enojos,te lo juro ante la cruz\nmientras pueda ver tus ojos que son veneros de luz\nSultana la flor mas lozana del pueblo andaluz.\nSILENCIO\n"
+  },
+  {
+    "id": "serenata-de-aldea",
+    "title": "Serenata de aldea",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/serenata-de-aldea.md",
+    "content": "---\ntitle: \"Serenata de aldea\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nAbre la ventana, rosita temprana\nque la tuna quiere verte sonreir\ny escucha la copla que la estudiantina\npreciosa madrina te viene a decir.\nA tu madre le he de hablar, le he de preguntar, le he de repetir\nPorque no te ha de dejar reir y cantar, entrar y salir...\nLa naranja y la mujer no se han de guardar con tanto rigor...\nPorque siendo buen manjar suelen acabar dando mal sabor...\n## Instrumental\nSi eres prisionera por sentir amores\naunque nadie quiera crecera esa flor\ncomo en la guitarra, de sus vibraciones\nbrotan por doquiera preludios de amor.\n## Instrumental\nLa estudiantina se va\nsin poderte hablar\nsin poderte ver.\nDeja ya de suspirar\nque a repetir su cantar\notra noche ha de volver.\n"
+  },
+  {
     "id": "silencio-bolero",
     "title": "Silencio",
     "artist": "Rafael Hernández",
@@ -3116,6 +5283,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/silencio-bolero.md",
     "content": "---\ntitle: \"Silencio\"\nartist: \"Rafael Hernández\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"bolero\", \"clásico\", \"latino\"]\n---\n\n## Intro\n[A7] [Dm] [D7] [Gm] [Dm] [A7] [Dm]\n\n## Verso 1\n[Dm] Duermen en mi jar[A7]dín las blancas azu[Dm]cenas, los nardos y las [A7] rosas.\n[D7] Mi alma, tan triste y pesa[Gm]rosa, a las [Dm] flores quiere ocul[A7]tar su amargo do[Dm]lor.\n\n[C] Yo no quiero que las flores [Bb] sepan [F] los tormentos [A7] que me da la [Gm] vida. [Dm]\n[C] Si supieran lo que estoy su[Bb]friendo, [F] de [Dm] pena mori[Gm]rían tam[A7]bién.\n\n## Coro\n[D] Silencio, que están dur[Em]miendo los [A7] nardos y las azu[D]cenas,\n[F#7] No quiero que [G] sepan mis [D] penas, [B7] porque [Em] si me ven llo[A7]rando mori[D]rán. (2)\n\n## Coro Final\n[F] Silencio, que están dur[Gm]miendo los [C7] nardos y las azu[F]cenas,\n[A7] No quiero que [Bb] sepan mis [F] penas, [D7] porque [Gm] si me ven llo[C7]rando mori[F]rán.\n"
+  },
+  {
+    "id": "silencio",
+    "title": "Silencio",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Em",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/silencio.md",
+    "content": "---\ntitle: \"Silencio\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Instrumental\n[B7]-[Em]-[B7]-[Em]-[E]-[E7]-[Am]-[Em]-[B7]-[Em]\n[Em] DUERMEN [B7] EN MI [Em] JARDIN\nLAS BLANCAS AZUCENAS , LOS [B7] NARDOS Y LAS [Em] ROSAS\nMI [E] ALMA TAN [E7] TRISTE Y [Am] PESAROSA\nYA LAS [Em] FLORES QUIEREN OCULTAR [B7] SU AMARGO [Em] DOLOR\nYO NO [D7] QUIERO QUE LAS FLORES [G] SEPAN\nLOS [B7] TORMENTOS QUE ME DA LA [Em] VIDA\nSI [D7] SUPIERAN LO QUE ESTOY [G] SUFRIENDO\nDE [Em] PENA [Am] MORIRÍAN [B7] TAMBIEN\nSILENCIO QUE ESTAN [A] DURMIENDO\nLOS NARDOS Y LAS AZUCENAS\nNO [G#] QUIERO QUE SEPAN MIS [A] PENAS\n[E] PORQUE [C#7] SI ME VEN [F#m] LLORANDO [E] [B7] MORIRAN\n## Instrumental\n[E]-[F#m]-[B7]-[F#m]-[B7]-[E]\nNO [G#] QUIERO QUE SEPAN MIS [A] PENAS\n[E] PORQUE [C#7] SI ME VEN [F#m] LLORANDO [E] [B7] MORIRAN\n[Am] .. [Em] MORIRAN...\n"
   },
   {
     "id": "sin-documentos",
@@ -3147,6 +5328,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/sofia.md",
     "content": "---\ntitle: \"Sofía\"\nartist: \"Álvaro Soler\"\nkey: \"Am\"\ncapo: 2\ntempo: 100\ntags: [\"pop latino\", \"alegre\", \"verano\"]\n---\n## Intro\n[Am] [C] [G] [F]\n\n> silbido\n[Am] Sueño cuando [C] era pequeño,\n[G] Sin preocupación [F] en el corazón.\n[Am] Sigo viendo a[C]quel momento,\n[G] Se desvaneció, [F] desapareció.\n[F] Ya no te creo, [Am] ya no te deseo, [G] eh oh\n[F] Solo te dejo, [Am] solo te deseo, [G] eh oh [E]\n\n[F] Mira, So[C]fia,\n[G] Sin tu mirada, [Dm] sigo, sin tu mirada, [F] sigo.\n[F] Dime So[C]fia, ¿cómo te mira?\n[G] Dime cómo te [Dm] mira, dime.\n[F] Sé que no, [C] sé que no, sé que solo,\n[G] Sé que ya no [Dm] soy, oy oy oy.\n[F] Mira, So[C]fia,\n[G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.\n\n[Am] Dices que éra[C]mos felices,\n[G] Todo ya pasó, [F] todo ya pasó.\n[Am] Sé que te cor[C]té las alas,\n[G] Él te hizo volar, [F] él te hizo soñar.\n[F] Ya no te creo, [Am] ya no te deseo, [G] eh oh\n[F] Solo te dejo, [Am] solo te deseo, [G] eh oh [E]\n\n[F] Mira, So[C]fia,\n[G] Sin tu mirada, [Dm] sigo, sin tu mirada, [F] sigo.\n[F] Dime So[C]fia, ¿cómo te mira?\n[G] Dime cómo te [Dm] mira, dime.\n[F] Sé que no, [C] sé que no, sé que solo,\n[G] Sé que ya no [Dm] soy, oy oy oy.\n[F] Mira, So[C]fia,\n[G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.\n\n[Am] Y, ¿por qué no me [C] dices la ver[G]dad? [F]\n[Am] Sigo sin tu mi[C]rada, So[G]fia. [F]\n[Am] Y, ¿por qué no me [C] dices la ver[G]dad? [F] [Am]\n\n[F] Mira, So[C]fia\n\n> (1º a capela)\nSin tu mirada, sigo, sin tu mirada, sigo\n[G] Dime Sofia, [Dm] cómo te mira\nDime cómo te mira, dime\n[F] Sé que no, [C] sé que no, sé que solo,\n[G] Sé que ya no [Dm] soy oy oy oy.\n[F] Mira, So[C]fia,\n[G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.\n"
+  },
+  {
+    "id": "solamente-una-vez",
+    "title": "Solamente una vez",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/solamente-una-vez.md",
+    "content": "---\ntitle: \"Solamente una vez\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n[C] Solamente una vez, [Cmaj7] amé en la [C7] vida;\n[F] solamente una [Fm] vez y nada [C] más.\n[Dm] Una vez nada [G7] más en mi [C] pecho\nbrilló la espe[Am]ranza,\nla esperanza que a[D7]lumbra el camino\nde mi sole[G7]dad.\n\n## Verso 2\n[C] Una vez nada más se entrega el [Cmaj7] alma [C7]\ncon la [F] dulce y total [Fm] renuncia[C]ción.\nY [Dm] cuando ese mi[G7]lagro re[C]aliza\nel prodigio de a[Am]marse,\nhay cam[Dm]panas de [G7] fiesta\nque cantan en el cora[C]zón.\n"
   },
   {
     "id": "soldadito-marinero",
@@ -3210,6 +5405,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Solo si es contigo\"\nartist: \"Bombai & Bebe\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"ukelele\", \"español\"]\n---\n## Intro\n[G] [D] [Em] [Bm7] [G] [D] [C] [D] (2)\n\n[G] Tú me haces di[D]ferente simplemente\n[Em] Con el solo [Bm7] hecho de existir.\n[G] Cambiaría lo que [D] fuera, si hace falta\n[C] Solamente por [D] verte feliz.\n\n[G] Tanto tiempo espe[D]rando una promesa,\n[Em] Una caricia, [Bm7] una señal.\n[G] Formas parte de este [D] sueño y yo con[Em]tigo\n[C] Llegaría [D] hasta el final.\n\n[C] Te juro que, nada puede ir me[D]jor, solo si es con[C]tigo\nPorque esta vida me lo ense[D]ñó, ya ves te nece[D7]sito.\n\nCon[G]tigo, reco[D]rrería el mundo en[Em]tero con[C]tigo, [D]\nMe pasa[G]ría todo el [D] tiempo mirando el firma[Em]mento\nY con tus [C] dedos ta[D]pando el sol.\nSolo si es con[G]tigo, me perde[D]ría en una [Em] isla con[C]tigo, [D]\nCami[G]naría de tu [D] mano y ahora que te tengo al [Em] lado\n[C] Tener bien lle[D]nito el corazón.\n\n[G] Debería estar prohi[D]bida tu mirada\n[Em] Y tu forma [Bm7] de caminar\n[G] Has logrado que mi [D] cuerpo y mi mente\n[C] Ahora vayan [D] al mismo compás.\n[G] Ya no existe en este [D] mundo la manera\n[Em] Para sepa[Bm7]rarme de ti,\n[G] Todo es bueno y es per[D]fecto,\n[C] Claro, si te [D] quedas junto a mí.\n\n[C] Te juro que, nada puede ir me[D]jor, solo si es con[C]tigo\nPorque esta vida me lo ense[D]ñó, ya ves te nece[D7]sito.\nPorque nada valgo, porque nada tengo, si no tengo lo mejor:\n\nCon[G]tigo, reco[D]rrería el mundo en[Em]tero con[C]tigo, [D]\nMe pasa[G]ría todo el [D] tiempo mirando el firma[Em]mento\nY con tus [C] dedos ta[D]pando el sol.\nSolo si es con[G]tigo, me perde[D]ría en una [Em] isla con[C]tigo, [D]\nCami[G]naría de tu [D] mano y ahora que te tengo al [Em] lado,\nSolo si es con[C]tigo, [D] me siento mucho me[G]jor.\n\n[Em] Y ahora estoy de[D]biéndote la [G] vida,\nPasando desa[Am7]percibida\nMi ma[C]nera de sufrir, porque con[Am7]tigo soy fe[D]liz.\n\nCon[G]tigo, reco[D]rrería el mundo en[Em]tero con[C]tigo, [D]\nMe pasa[G]ría todo el [D] tiempo mirando el firma[Em]mento\nY con tus [C] dedos ta[D]pando el sol.\nSolo si es con[G]tigo, me perde[D]ría en una [Em] isla con[C]tigo, [D]\nCami[G]naría de tu [D] mano y ahora que te tengo al [Em] lado...\n[C] Porque nada valgo… [D]\nPor eso yo quiero...\nPorque nada valgo…\nVen amor, me siento débil… [G]\n"
   },
   {
+    "id": "solo",
+    "title": "Solo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/solo.md",
+    "content": "---\ntitle: \"Solo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nSé muy bien que te vas\ny sufro tanto.\nSolo me dejarás\npor otro amor\nPero qué voy a hacer\nsi así lo quieres.\nSacrifico mi amor, te dejaré partir\ncon tu nueva ilusión.\nSolo me dejarás\nsolo, muy solo\nSé que no volverás\nnunca jamás\nSolo, siempre solo\nsin tu dulce calor\nsólo queda mi amor\n"
+  },
+  {
     "id": "sombras",
     "title": "Sombras",
     "artist": "Rosario Sansores",
@@ -3254,6 +5463,34 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/son-borinqueno.md",
     "content": "---\ntitle: \"Son borinqueño\"\nartist: \"Tuna de Cayey\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"puerto rico\", \"tuna\", \"popular\"]\n---\n\n## Intro\n[G] [D] [Em] [Bm] [C] [G] [D7] [G] (2)\n\n[G] Canta mi pueblo, [D] canta mi gente, [Em] canta en enero, [Bm] canta en diciembre.\n[C] Canta mi pueblo, [G] canta mi gente, [D7] canta en enero, [G] canta en diciembre.\n\n[G] [F#] [F] [E]\n[Am] Suenan, tamboriles y bongós, [D7] suenan las maracas y el tam[G]bor.\n[E7] Yaaa, va a empe[Am]zar la fiesta, [D7] suena un loco la trom[G]peta\n[E7] Y María la pande[Am]reta. Nos ponemo’ a bai[D7]lar cuando Nano toca [G] conga.\n\n[G] [D] [Em] [Bm] [C] [G] [D7] [G] (2)\n\n[G] [F#] [F] [E7]\n[Am] Oye, que la fiesta ya empezó, [D7] unos invitados y otros [G] no.\n[E7] Oye ya la algara[Am]bía, [D7] y la gente no se [G] cansa.\n[E7] Un tipo pidió una danza, [Am] una señora, un danzón,\n[D7] Y una nena pidió bomba y un mamito un guaguan[G]có.\n\n[G] Canta mi pueblo, [D] canta mi gente, [Em] canta en enero, [Bm] canta en diciembre… [C] [G] [D7] [G]\n\n[C] Si no hubiera nacido en la [F] tierra en que na[G]cí,\n[C] Estaría arrepentido de no [F] haber nacido a[G]quí. (bis) ¡Por eso!\n[E7] [Am] [D7] [G]\nSon… borinqueño.\n\n[G] [D] [Em] [Bm] [C] [G] [D7] [G] (2)\n"
+  },
+  {
+    "id": "son-de-la-loma",
+    "title": "Son de la loma",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "F#m",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/son-de-la-loma.md",
+    "content": "---\ntitle: \"Son de la loma\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"F#m\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nMAMA YO QUIERO [E] SABER (AY MAMA)\nDE DONDE [C#7] SON LOS CANTANTES [F#m] (SON SON [B7] SON)\nQUE LOS [F#m] ENCUENTRO GALANTES [B7] (GALANTES)\nY LOS [F#m] QUIERO CONOCER [B7] (CONOCER)\nCON SUS [F#m] TROVAS FASCINANTES [B7] QUE ME LAS QUIERO [E] APRENDER\n## Verso 1\nMAMA YO...\nDE DONDE SERAN (AY [C#7] MAMA)\nSERAN [F#m] DE LA HABANA [C#] (SI SEÑOR)\nSERAN DE [F#m] SANTIAGO (COMO [C#] NO)\nTIERRA [F#m] SOBERANA\nSON DE LA LOMA, CANTAN [B7] EN LLANO\nSI SEÑOR, COMO NO; A QUE SON DE LA LOMA\nSI SEÑOR, A QUE CANTAN EN LLANO, COMO NO\nA QUE SON DE LA LOMA PERO ELLOS CANTAN EN LLANO\nDE DONDE SERAN, DE DONDE SERAN\nDE DONDE SERAN, DE DONDE SERAN\nPERO MAMA QUE SON DE LA LOMA\nPERO MAMA QUE CANTAN EN LLANO\n"
+  },
+  {
+    "id": "soy-borinqueno",
+    "title": "Soy borinqueño",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/soy-borinqueno.md",
+    "content": "---\ntitle: \"Soy borinqueño\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nCanta mi pueblo, canta mi gente,\ncanta en Enero, canta en Diciembre,\ncanta mi pueblo, canta mi gente\nsoy borinqueño.\n(bis)\nOye, que la fiesta ya empezó.\nUnos invitados y otros no.\ny la gente no se cansa,\nun tipo pidió; una danza,\nuna señora un danzón,\ny mi amigo un guaguancó;\n¡ Por éso !\nCanta mi pueblo....\nSi yo no hubiera nacido\nen la tierra en que nací,\nestaría arrepentido de no haber nacido aquí.\nSi yo no hubiera nacido\nen la tierra en que nací,\nestaría arrepentido de no haber nacido aquí.\n¡ Por éso !\nCanta mi pueblo...\n(bis)\nsoy borinqueño, soy borinqueño,\nsoooooooy bo-rin-que-ñoooooo.\n"
   },
   {
     "id": "soy-rebelde",
@@ -3499,6 +5736,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Those Were the Days\"\nartist: \"Mary Hopkin\"\nkey: \"Em\"\ncapo: 0\ntempo: 100\ntags: [\"folk\", \"pop\", \"60s\", \"classic\", \"inglés\"]\n---\n\n## Intro\n[Em] [Am] [Em] [B7]\n\n## Verso 1\n[Em] Once upon a time there was a tavern\nWhere we [Am] used to raise a glass or two\n[Em] Remember how we laughed away the hours\nAnd [B7] dreamed of all the great things we would do.\n\n## Coro\n[Em] Those were the [B7] days my [Em] friend\nWe [Am] thought they'd never [D] end,\nWe'd [G] sing and dance for[Am]ever and a day\nWe'd [Em] live the life we choose\nWe'd [B7] fight and never lose\nFor we were [Em] young and sure to have our way.\n[Am] La la la la [Em] la la, [B7] la la la la [Em] la la,\nThose were the [B7] days, oh yes, those were the [Em] days.\n\n## Verso 2\n[Em] Then the busy years went rushing by us\nWe [Am] lost our starry notions on the way\n[Em] If by chance I'd see you in the tavern\nWe'd [B7] smile at one another and we'd say:\n\n## Coro\n[Em] Those were the [B7] days my [Em] friend\nWe [Am] thought they'd never [D] end,\nWe'd [G] sing and dance for[Am]ever and a day\nWe'd [Em] live the life we choose\nWe'd [B7] fight and never lose\nThose were the [B7] days, oh yes, those were the [Em] days.\n\n## Verso 3\n[Em] Just tonight I stood before the tavern\n[Am] Nothing seemed the way it used to be\n[Em] In the glass I saw a strange reflection\n[B7] Was that lonely woman really me?\n\n## Coro\n[Em] Those were the [B7] days my [Em] friend\nWe [Am] thought they'd never [D] end,\nWe'd [G] sing and dance for[Am]ever and a day\nWe'd [Em] live the life we choose\nWe'd [B7] fight and never lose\nThose were the [B7] days, oh yes, those were the [Em] days.\n\n## Verso 4\n[Em] Through the door there came familiar laughter\nI [Am] heard your voice and heard you call my name\n[Em] Oh, my friend, we're older but no wiser\nFor [B7] in our hearts the dreams are still the same.\n\n## Coro Final\n[Em] Those were the [B7] days my [Em] friend\nWe [Am] thought they'd never [D] end,\nWe'd [G] sing and dance for[Am]ever and a day\nWe'd [Em] live the life we choose\nWe'd [B7] fight and never lose\nThose were the [B7] days, oh yes, those were the [Em] days.\n"
   },
   {
+    "id": "tierra-canaria",
+    "title": "Tierra canaria",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/tierra-canaria.md",
+    "content": "---\ntitle: \"Tierra canaria\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nTIE\nBENDITA LA [C] GRAN CANARIA\nCON EL NUBLO POR [G7] BANDERA\nDORADA FUERTEVENTURA\nES LANZAROTE [C] COSTERA\nLA PALMA , GOMERA VERDE\n[C7] Y EL HIERRO LA [F] LEGENDARIA\nEL [Fm] TEIDE POR [C] TENERIFE\n[G7] BENDITA TIERRA [C] CANARIA\n[B7]-[C]-[B7]-[C]\nISLAS CANARIAS [Em] JARDIN ESPAÑOL\nORO Y VERDE TU SUELO [B7] ENGALANA\nERES ALFOMBRA DE MAGICA LUZ\nQUE ACARICIA LA BRISA [Em] AFRICANA\nSOBRE TUS CAMPOS CUBIERTOS DE LU\nSON DE [E] NIEVE Y ROSAL TUS [Am] MUJERES\nm\nLLEVAN EL FUEGO QUE LES DA EL TEID\nPARA [B7] FUNDIRLO CON SUS [Em] QUERERES\n[Em]-[D]-[C]-[B7]\nLA LUNA CUANDO TE [G] BESA\nLA LUNA CUANDO TE [C] BESA\nPONE PLATA EN LA [G] ENRAMADA\nY AL CONTEMPLAR TU [D] BELLEZA\nRRA CANARIA\nCOMO NOVIA [G] ENAMORADA\nY [Em] ABAJO EN LA [D] PLAYA LAS OLAS [B7] [C] PARECEN\n[Em]                [D]                 [C]\nQUE ARRULLAN LA [B7] NOCHE QUE EN EL MAR\nSE MECEN\n[B7]-[Em]-[C]-[B7] (bis)\nISLAS CANARIAS [Em] QUE SURGEN DEL MAR\nCOMO SIETE NOTAS [B7] MUSICALES\nPARA FORMAR LA FRAGANTE CANCION\nQUE SE TIENDE SOBRE SUS [Em] PALMARES\nISLAS DE SUEÑO QUE DICEN AMOR\nEN [E] EL ALMA LAS LLEVO [Am] PRENDIDAS\nISLAS CANARIAS TIERRA DE [E] GUANCHES\nISLAS [B7] BENDITAS TIERRA [E] QUERIDA\n[E] MIRA QUE BONITA BAJA MI [B7] MARIA\nZ\nCUANDO VA A LA [E] FIESTA O A LA ROMERÍA\nMIO A LA ROMERÍA ,O A LA [B7] ROMERIA\n[F#] ESOL-SOL#\nMIRA QUE BONITA BAJA MI   MA RI-    I-      A\n[C#] MIRA QUE BONITA BAJA MI [G#] MARIA\nCUANDO VA A LA [C#] FIESTA O A LA ROMERÍA\nO A LA ROMERÍA ,O A LA [G#] ROMERIA\nMIRA QUE BONITA BAJA MI MA RI [C#] A\n"
+  },
+  {
+    "id": "tira-de-la-cuerda",
+    "title": "Tira de la cuerda",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/tira-de-la-cuerda.md",
+    "content": "---\ntitle: \"Tira de la cuerda\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nTIRA DE LA [A] CUERDA\n## Verso 1\nDE LA CUERDA ESTOY TIRANDO\nAL SON DE LA MANDOLINA\nADIOS QUE ME VOY [E] FERMINA\nNOCHE DE [A] [E] [A] CABARET\nMAÑANA PARTO PARA VENECIA\nADIOS [E] LUCRECIA [A] TE ESCRIBIRE\nMAÑANA PARTO PARA LA HABANA\nADIOS [E] SUSANA, LO MISMO [A] [E] [A] HARE\nQUE BONITO QUE BONITO\nQUE BONITO ES UN [E] ENTIERRO\nCON SUS CABALLITOS BLANCOS\nY SUS CABALLITOS [A] NEGROS\nQUE BONITO QUE BONITO\nQUE BONITO ES UN [E] ENTIERRO\nCON SU CAJITA DE PINO\nY SU MUERTECITO [A] DENTRO.\nLARALALA [D] LALALALA\nLARALALA [A] LALALALA\nLARALALA LALA [E] LALA\nLARALALA LALA [A] LALA\nBUENA CERVEZA [E] LA QUE TOMAMOS AQUI\nBUENA CERVEZA SAQUEME UN NUEVO [A] BARRIL\nBUENA CERVEZA, ¿QUE MAS SE PUEDE [D] PEDIR?\nQUE NOS SIRVAN OTRA [A] RONDA\nPARA [E] BEBER Y [A] [E] [A] CONSUMIR.\n"
+  },
+  {
     "id": "toda-una-vida",
     "title": "Toda una vida",
     "artist": "Antonio Machín",
@@ -3527,6 +5792,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/todos-los-besos.md",
     "content": "---\ntitle: \"Todos los besos\"\nartist: \"Los Rebujitos\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"pop flamenco\", \"balada\", \"español\"]\n---\n## Verso 1\n[C] Tú, mi otra parte que [Am] esperaba\nLo que siento aquí en mi [F] alma,\nLo siento en mi sen[G]tir\n[C] Tú, que endulzas las pa[Am]labras\nY cuando te [F] callas\nEl silencio sabe a [G] ti\n\n[F] Hoy creo, que he sido un poco [Am] tonto\nQue hoy no te he lla[G]mado\nPero es que se me ha pa[F]sado\nPor buscar en el ca[G]jón\n\n[C] Todos los besos po[Am]sibles\nLas llaves para abrir tu cora[F]zón.\nIrresis[G]tible\n[C] Mil flores pa entre[Am]garte\nA mi ma[F]nera\nY un sol pa que te a[G]yude\nA despertar sin mí\n\n[C] Y un barquito de [Am] vela\nY un viento de le[F]vante\nPa llevarte a todas [G] partes\n[C] El cielo, un penta[Am]grama\nY compo[F]nerte\nCon notas de co[G]lores\nUna canción pa ti\n\n[C] Eres el motor de mi cora[Am]zón\nUna mujer hecha can[F]ción, eso [G] eres\n[C] Miro, siempre a mi alrede[Am]dor\nPara ver si veo [F] yo,\nAlgo más [G] bello, bello\n\n[C] [Am] [F] [G]\n"
+  },
+  {
+    "id": "tomando-te",
+    "title": "Tomando té",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/tomando-te.md",
+    "content": "---\ntitle: \"Tomando té\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nNO PUEDO TOMAR [D] CAFE\nEL CAFE ME QUITA EL [A] SUEÑO\n## Verso 1\nSOLO PUEDO TOMAR TE\nY TOMANDO TE ME [D] MUERO\nLA OTRA NOCHE TE TOME\nAY QUE BIEN QUE ME [G] SENTO\nY ESTARIA TODO EL DIA\nY ESTARIA TODO [D] EL DIA\nTOMANDO [A] TE TOMANDO [D] TE\nEL DOCTOR QUE A MI ME VE\nME HA DICHO QUE ESTO SE [A] PASA\nQUE SOLO ME CURARE\nSI TE TOMO EN LA [D] CAMA\nLA OTRA NOCHE TE TOME....\nLARALAI LALAI LALA...\nLA OTRA NOCHE TE TOME...\n"
   },
   {
     "id": "torn",
@@ -3621,6 +5900,20 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Tu recuerdo (Ricky Martin)\"\nartist: \"Ricky Martin\"\nkey: \"Dm\"\ncapo: 0\ntempo: 100\ntags: [\"pop latino\", \"balada\", \"acústico\"]\n---\n\n## Intro\n[Dm] [C] [Gm] [Am] (4) [Dm]\n\n[Dm] Tu recuerdo [C] sigue aquí, (como un agua[Gm]cero, [Am] ay, pero a fuego lento)\n[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]\n[Dm] Quema y [C] moja por igual, (y ya no [Gm] sé lo que pen[Am]sar\n[Gm] Si tu recuerdo me hace bien o me hace [Am] mal) [Dm]\n\n[Dm] Un beso gris, [C] un beso blanco\n[Gm] Todo depende del lu[Am]gar\n[Dm] Que yo me fui, [C] eso está claro\n[Gm] Pero tu recuerdo no se [Am] va\n[Dm] Siento tus labios en las [C] noches de verano\n[Gm] Ahí están, cuidándome en mi sole[Am]dad\nPero a [Gm] veces me quieren ma[Am]tar [Dm]\n\n[Dm] Tu recuerdo [C] sigue aquí, (como un agua[Gm]cero, [Am] ay, pero a fuego lento)\n[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]\n[Dm] Quema y [C] moja por igual, (y ya no [Gm] sé lo que pen[Am]sar)\n[Gm] Si tu recuerdo me hace bien o me hace [Am] mal [Dm]\n\n[Dm] A veces gris, [C] a veces blanco\n[Gm] Todo depende del lu[Am]gar\n[Dm] Que tú te fuiste, [C] eso es pasado\n[Gm] Sé que te tengo que olvi[Am]dar\nPero [Dm] yo le puse una ve[C]lita a to' mis santos\n[Gm] Ahí está, pa' que pienses mucho en [Am] mí\nNo dejes de pensar en [Dm] mí\n\n[Dm] Tu recuerdo [C] sigue aquí, (como un agua[Gm]cero) [Am]\n[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]\n[Dm] Quema y [C] moja por igual, (ay, pero a fuego [Gm] lento y ya no sé lo que pen[Am]sar)\n[Gm] Si tu recuerdo me hace bien o me hace [Am] mal [Dm]\n\n[Gm] Piensa en mí\nPiensa, [Am] piensa\n¿Tú dónde es[Dm]tás?\n\n[Dm] Tu recuerdo [C] sigue aquí, [Gm] [Am]\n[Dm] Rompe [C] fuerte sobre [Gm] mí, [Am]\n[Dm] Quema y [C] moja por igual, (y ya no [Gm] sé lo que pen[Am]sar)\n[Gm] Si tu recuerdo me hace bien o me hace [Am] mal [Dm]\n\n[Dm] Tu recuerdo [C] sigue aquí, [Gm] [Am]\n[Dm] Rompe [C] fuerte sobre [Gm] mí [Am] [Dm]\n"
   },
   {
+    "id": "tuna-compostelana",
+    "title": "Tuna compostelana",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/tuna-compostelana.md",
+    "content": "---\ntitle: \"Tuna compostelana\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[D]-[A]-[A]-[D] (bis) [D]-[A]-[D] (bis)\n[G]-[A]-[D]-[Bm]-[Em]-[A]-[D]-[D7] (bis)-[A7]\n[Dm] PASA LA TUNA EN [Gm] SANTIAGO\nCANTANDO MUY [Dm] QUEDO [A7] ROMANCES DE [Dm] AMOR.\nLUEGO LA NOCHE, EN SUS [Gm] ECOS,\nLOS LLEVA DE [C] RONDA POR TODO [F] BALCON.\nPERO ALLA EN EL [A7] TEMPLO DEL APOSTOL [Dm] SANTO\nUNA NIÑA [Gm] LLORA ANTE SU [Dm] PATRON.\nPORQUE LA [Gm] CAPA DEL TUNO QUE [Dm] ADORA\n## Verso 1\nLA7                                   REm(-RE7)(RE)\nNO LLEVA LA CINTA QUE ELLA LE BORDO (BIS).\nCUANDO LA TUNA TE DE [D] SERENATA,\nNO TE ENAMORES [D] [A] COMPOSTELANA;\nQUE CADA CINTA QUE ADORNA SU CAPA\nGUARDA UN [A] TROCITO DE [D7] [D] CORAZON.\nAY, [Bm] [D] [A] [G] TRALALA...\nNO TE [Em] ENAMORES, [D7] [D] [A] COMPOSTELANA;\n[G] Y DEJA LA [A] TUNA [Bm] [D] PASAR\nCON SU [D] [A] [Em] TRALALA...\n[Dm] HOY VA LA TUNA DE [Gm] GALA\nCANTANDO Y [Dm] TOCANDO LA [A7] MARCHA [Dm] NUPCIAL.\nSUENAN CAMPANAS DE [Gm] GLORIA\nQUE DEJAN [C] DESIERTA LA [F] UNIVERSIDAD.\nY ALLA EN EL [A7] TEMPLO DEL APOSTOL [Dm] SANTO\nCON [Gm] EL ESTUDIANTE HOY SE VA [Dm] A CASAR.\nLA GALLEGUIÑA, [Gm] MELOSA Y [Dm] CELOSA,\nLA7                               RE(-RE7)(RE)\nQUE OYENDO ESTA COPLA YA NO LLORARA (BIS).\nCUANDO LA [D] TUNA...\nAY, [Bm] [D] [A] [G] TRALALA.\n"
+  },
+  {
     "id": "turnedo",
     "title": "Turnedo",
     "artist": "Iván Ferreiro",
@@ -3635,6 +5928,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/turnedo.md",
     "content": "---\ntitle: \"Turnedo\"\nartist: \"Iván Ferreiro\"\nkey: \"A\"\ncapo: 0\ntempo: 105\ntags: [\"indie\", \"pop\", \"español\", \"2000s\"]\n---\n\n## Intro\n[A]\n\n## Verso 1\n[A] Desde aquí, desde mi casa, veo la playa vacía,\n[D] Ya lo estaba hace unos días, ahora está llena de lluvia.\n[A] Y tú ahí sigues sin paraguas, sin tu ropa, paseando,\n[D] Como una tarde de julio pero con frío y tronando.\n\n## Puente 1\n[E] ¿Se puede saber qué esperas? ¿Qué te mire y que te seque?\n[D] Que te vea y que me quede tomando la luna juntos,\n[Bm] La luna, tú y yo expectantes [C#m] a que pase algún cometa\n[D] O baje un platillo volante.\n\n## Verso 2\n[A] Y la playa llora y llora y desde mi casa grito\n[D] Que aunque pienso en abrazarte, que aunque pienso en ir contigo,\n[E] El doctor me recomienda que no me quite mi abrigo,\n[D] Que no esté ya más contigo [Bm] y yo no puedo ne[C#m]garme\nPues el [E] tipo soy yo mismo, estudié mientras dor[D]mías\nY aún repaso las lecciones una a una cada [A] día.\n\n## Verso 3\n[A] Yo no puedo aconsejarte, ya es muy duro lo que llevo,\n[D] Dejemos que corra el aire [A] y digámonos adiós.\n[A] Aunque siga suspirando por algo que no era cierto,\n[D] Me lo dicen en los bares, es algo que llevas dentro,\n[E] Que no dejas que te quieran, [D] sólo quieres que te abracen\n[Bm] Y publicas que no [C#m] tuve ni valor para que[D]darme.\nYo rompí todas tus fotos, [E] tú no dejas de llamarme...\n\n## Coro\n¿Quién no tiene el [D] valor para marcharse?\n¿Quién no tiene el [E] valor para marcharse?\n¿Quién no tiene el [D] valor para marcharse?\n¿Quién prefiere que[Bm]darse [C#m] y aguan[A]tar?\n"
+  },
+  {
+    "id": "tus-ojos",
+    "title": "Tus ojos",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/tus-ojos.md",
+    "content": "---\ntitle: \"Tus ojos\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nTus ojos, que son mi alegría\ntus ojos, que son mi esperanza\npor ellos mi alma suspira\nen tierno arrullo, arrullo de amor\nSon noches de luna y jazmines\ny auroras de risa y de miel\nson cielos de estrellas y sol\nTus ojos, tus ojos de tierno mirar\n## Instrumental\nSon cielos de estrellas y sol\nTus ojos, tus ojos de tierno mirar\nTus ojos de tierno mirar\n"
   },
   {
     "id": "twist-and-shout",
@@ -3762,6 +6069,34 @@ export const DEFAULT_SONGS = [
     "content": "---\ntitle: \"Una rosa es una rosa\"\nartist: \"Mecano\"\nkey: \"G\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"rumba\", \"español\", \"90s\"]\n---\n\n## Intro\n[G] [D] [Em] [Bm] [C] [B7] [C] [D7] (2)\n\n## Verso 1\n[G] Es por culpa [D] de una hembra, [Em] que me estoy vol[Bm]viendo loco,\n[C] No puedo vi[B7]vir sin ella, [C] pero con ella tam[D7]poco. [B7]\n[G] Y si de este [D] mal de amores [Em] yo me fuera [Bm] pa' la tumba,\n[C] A mí no me man[B7]déis flores, [C] y como dice esta [D7] rumba: [B7]\n\n## Coro\n[Em] Quise cortar la flor más tierna del rosal, [D] pensando que de amor no me podría pinchar,\n[C] Y mientras me pinchaba me enseñó una cosa: [B7] que una rosa es una rosa es una rosa. (2)\n[Em] Y cuando abrí la mano y la dejé caer, [D] rompieron a sangrar las llagas en mi piel,\n[C] Y con sus pétalos me la curó mimosa: [B7] que una rosa es una rosa es una rosa.\n\n## Verso 2\n[G] Pero cuanto [D] más me cura, [Em] al ratito [Bm] más me escuece,\n[C] Porque amar es [B7] el empiece [C] de la palabra amar[D7]gura. [B7]\n[G] Una mentira [D] y un credo [Em] en cada espina [Bm] del tallo,\n[C] Injertándose [B7] en los dedos, [C] una rosa es un ro[D7]sario. [B7]\n\n## Coro Final\n[Em] Quise cortar la flor más tierna del rosal, [D] pensando que de amor no me podría pinchar,\n[C] Y mientras me pinchaba me enseñó una cosa: [B7] que una rosa es una rosa es una rosa.\n[Em] Y cuando abrí la mano y la dejé caer, [D] rompieron a sangrar las llagas en mi piel,\n[C] Y con sus pétalos me la curó mimosa: [B7] que una rosa es una rosa es una rosa.\n"
   },
   {
+    "id": "vagabundo",
+    "title": "Vagabundo",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "Gm",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/vagabundo.md",
+    "content": "---\ntitle: \"Vagabundo\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"Gm\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm]-RE7(BIS)\nQUE [Dm] IMPORTA SABER QUIEN [Gm] SOY\nNI DE DONDE [A] VENGO NI POR DONDE [Dm] VOY\nLO QUE YO [D7] QUIERO SON TUS LINDOS [Gm] OJOS [C] MORENA\nTAN LLENOS DE [F] AMOR\nEL [A#] SOL BRILLA EN LO [A] INFINITO\nY EL [A#] MUNDO TAN [A] PEQUEÑITO\nQUE [Gm] IMPORTA SABER [C7] QUIEN [F] SOY\n[A#] NI DE DONDE [A] VENGO NI POR DONDE [D7] [Dm] VOY\nYO SOLO [Gm] QUIERO QUE ME DES [C7] TU [F] AMOR\nQUE ME [A#] DA LA [A] VIDA QUE ME DA EL [Dm] CALOR\n[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm]-RE7(BIS)\nTU ME [Gm] DESPRECIAS POR SER [A7] VAGABUNDO\nY MI [D7] DESTINO ES [A7] VIVIR [Dm] ASI\nSI VAGABUNDO ES EL PROPIO [C] MUNDO\nQUE VA [A#] GIRANDO EN UN CIELO [A] AZUL\n## Verso 1\nQUE IMPORTA...\n[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm]-RE7(BIS)\nTU ME DESPRECIAS...\nQUE [Gm] IMPORTA [C7] SABER QUIEN [F] SOY [A#] NI DE DONDE [A] VENGO NI POR [G] [Dm] DONDE [D] VOY\n"
+  },
+  {
+    "id": "valencia",
+    "title": "Valencia",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/valencia.md",
+    "content": "---\ntitle: \"Valencia\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Intro\n[C] [G7] [C]\n\n## Verso 1\nVa[C]lencia, es la tierra de las [G7] flores,\nde la luz y del a[C]mor;\nVa[C]lencia, tus mujeres todas [G7] tienen\nde las rosas el co[C]lor.\n\n## Coro\nVa[C]lencia, al sentir cómo te [F] cantan\nmis can[G7]ciones con a[C]mor,\nel [G7] alma se me enciende y se me en[C]canta\ncon la [G7] gloria de tu [C] sol.\n"
+  },
+  {
     "id": "valerie",
     "title": "Valerie",
     "artist": "Amy Winehouse",
@@ -3776,6 +6111,34 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/valerie.md",
     "content": "---\ntitle: \"Valerie\"\nartist: \"Amy Winehouse\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"soul\", \"pop\", \"2000s\", \"inglés\"]\n---\n\n## Intro\n[D] [Em] (2)\n\n## Verso 1\n[D] Well sometimes I go out by myself\nAnd I [Em] look across the water\nAnd I [D] think of all the things, what you're doing\nAnd in my [Em] head I paint a picture\n\n'Cause [G] since I've come on home,\nWell my [F#m] body's been a mess\nAnd I've [G] missed your ginger hair\nAnd the [F#m] way you like to dress\n[G] Won't you come on over\n[F#m] Stop making a fool out of me\nWhy don't you [A] come on over, [D] Valerie?\n[D] Valerie? [Em] Valerie? [D] Valerie? [Em]\n\n[D] Did you have to go to jail,\nPut your [Em] house up on for sale, did you get a good lawyer?\n[D] I hope you didn't catch a tan,\nI hope you'll [Em] find the right man who'll fix it for ya\n[D] And are you shoppin' anywhere,\nChanged the [Em] color of your hair, are you busy?\n[D] And did you have to pay the fine\nYou were [Em] dodging all the time, are you still dizzy?\n\n'Cause [G] since I've come on home,\nWell my [F#m] body's been a mess\nAnd I've [G] missed your ginger hair\nAnd the [F#m] way you like to dress\n[G] Won't you come on over\n[F#m] Stop making a fool out of me\nWhy don't you [A] come on over, [D] Valerie? [Em] (4)\n\n[D] Well sometimes I go out by myself\nAnd I [Em] look across the water\nAnd I [D] think of all the things, what you're doing\nAnd in my [Em] head I paint a picture\n\n'Cause [G] since I've come on home,\nWell my [F#m] body's been a mess\nAnd I've [G] missed your ginger hair\nAnd the [F#m] way you like to dress\n[G] Won't you come on over\n[F#m] Stop making a fool out of me\nWhy don't you [A] come on over, [D] Valerie? [Em] (4)\n\n[D] Oh Valerie? [Em] Valerie? [D] Valerie? [Em]\nWhy don't you [A] come on over [Em] Valerie? [D]\n"
+  },
+  {
+    "id": "vampiro",
+    "title": "Vampiro",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/vampiro.md",
+    "content": "---\ntitle: \"Vampiro\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n[D]-[D7]-[G]-[Gm]-[D]-[A]-[D] [D7] (BI\n[A]-[D] (bis)-[Dm]-[Dm]-[Dm]-[Dm]\nSI ESTA NOCHE, FACIENDO [Dm] UN FRIO QUE PE\nME CONTEMPLAS VESTIDO DE [A] VAMPIRO,\n## Verso 1\nNO TE CREAS QUE COBRO ALGUNA PELA\nLO QUE PASA ES QUE POR TU AMOR [Dm] SUSPIRO\nSI ESTA NOCHE ESTUDIANDO ME ENCONTRABA,\nL\nCUAL GALLINA EMPOLLABA LA LECCION;\nSI PENSABA QUE YA NO TE ACORDABAS\nDE AQUEL TUNO QUE UN DIA TE [D] RONDO\nPUESTO DE CUERVO Y COGIENDO EL INSTRUME\nDEJANDO LIBROS, [D7] APUNTES Y [G] DEMAS,\nHEMOS VENIDO A DARTE [D] TORMENTO\n[A7]\nY A VER UN MOMENTO [D7] LO BUENA QUE EST\nPUES NO TE [Gm] CREAS QUE SOMOS [D] CARADUR\nQUE SOMOS DE LA [A7] TUNA, ¡NO FALTARIA MA\n[A]-[D] (bis)-[D]-[D]-[D]-[D]\nABRE TU CORAZON, MIRA [D] CON QUE PASIO\nTE ESTOY CANTANDO, CANTANDO, CANTAN\nVAMPIRO\nS))\n[A],\n7\nMIRA CON QUE CALOR, MIRA CON QUE VALOR\n;                                                                  RE\nTE ESTOY TOCANDO, TOCANDO, TOCANDO.\n.\nCON TODA LA ILUSION ABRENOS EL PORTON,\nQUIERO BESARTE [D7] COMO NADIE HIZO [G] JAMAS;\n[D] [Gm] A7\nMIRA QUE TUNA SOLAMENTE HAY UNA\nY COMO ESTA [A] TUNA NO HAY NINGUNA [D7] [D] IGUAL.\n.                     SOLm                                  RE\nMIRA QUE TUNA SOLAMENTE HAY UNA\nNTO,Y DESPUES DE LA UNA NOS VAMOS A [D] ACOSTAR.\nm\n[D] [A] CON TODA [D] LA [D] [A] [D] [D] [D] [D] ILUSION...\n[Dm]-\nMIRA QUE [Gm] TUNA...\nAS.\nAS,[A]-[D] (bis)-[D]-[D]-[D]-[D]\n[D] MIRA QUE TUNA SOLAMENTE HAY UNA (A CAPPELLA)\nS!\n-[D]\n(10 (veces)\nY COMO ESTA TUNA NO HAY NINGUNA IGUAL. (A\nCAPPELLA)\nMIRA QUE [Gm] TUNA SOLAMENTE HAY [D] UNA\nN\n[A] Y DESPUES DE LA [A] UNA\nDO;\nNOS VAMOS A ACOSTAR. (AD [D] [A] LIBITUM) ( A [D] [D] [D] [D] CAPPELLA)\n"
+  },
+  {
+    "id": "verde-campina",
+    "title": "Verde campiña",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "E",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/verde-campina.md",
+    "content": "---\ntitle: \"Verde campiña\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Estribillo\nVerde campiña, dormida al sol.\nVerde esperanza, ¿ que fue de nuestro amor ?.\nEl valle umbrío, ya el cielo no es azul.\nLa flor se muere porqué me fuiste tú.\nTodo lo llenan tu ausencia y mi amor.\nCuando cruelmente dijiste adiós\ny el verde valle sin alma apareció\nde los zarzales el trigo se quebró\ny de los ríos, la cantarina voz.\nSolo se oía llorar mi dolor.\n## Estribillo\nNo quiero amor saber a donde vas\nni si me quiere ni si me olvidaras\nquiero no mas seguir pensando en ti\ny pensar que un dia volverás a mi\ntodo lo llena tu ausencia y mi amor\nVIOLETAS IMPERIALES\n"
   },
   {
     "id": "verde-que-te-quiero-verde",
@@ -3806,6 +6169,48 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/vida-de-rico.md",
     "content": "---\ntitle: \"Vida de rico\"\nartist: \"Camilo\"\nkey: \"E\"\ncapo: 0\ntempo: 100\ntags: [\"cumbia pop\", \"latino\", \"alegre\"]\n---\n## Verso 1\n[C] [Am] [Dm] [G]\n\n[C] Yo puedo ofrecerte una [Am] vida muy interesante.\nPero de[Dm]pende para ti, qué es inte[G]resante.\n[C] Si estás pensando en disco[Am]tecas, carros y diamantes,\nEn[Dm]tonces puede que pa ti sea insignifi[G]cante.\n\n[C] No es vida de rico, pero se pasa bien [Am] rico\nY si en la casa no al[Dm]canza pal aire, te pongo aba[G]nico.\n\n[C] Yo no tengo pa darte ni un peso\nPero [Am] sí puedo darte mis besos\nPa sa[Dm]carte yo tengo poquito\nPero es [G] gratis bailar pegaíto\n[C] Yo no tengo pa abrirte champaña\nPero [Am] sí cervecita en la playa\nAunque es [Dm] poco lo que yo te ofrezco, con orgullo\n[G] Todo lo que tengo es tuyo. [C]\n\n[C] Sería mentira decir que ahora mismo\nPuedo [Am] darte el viaje que tú te mereces\nNo se[Dm]rá Europa, pero el sol cayendo\nDesde mi bal[G]cón medio se le parece\nY yo [C] que tú no me acostumbraría\nA estar a[Am]quí en estas cuatro paredes\nHaría [Dm] todo por comprarte un día\nCasa con pis[G]cina si Diosito quiere.\n\n[C] Yo no tengo pa darte ni un peso… [Am] [Dm] [G]\n\nAunque no es [C] mucho, [Am] es tuyo, [Dm] tuyo, [G] tuyo.\n\n[C] No es vida de rico, pero se pasa bien [Am] rico\nY si en la casa no al[Dm]canza pa'l aire, te pongo aba[G]nico. [C]\n"
+  },
+  {
+    "id": "violetas-imperiales",
+    "title": "Violetas imperiales",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/violetas-imperiales.md",
+    "content": "---\ntitle: \"Violetas imperiales\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n> [!NOTE]\n> En el cancionero original de la Tuna de Filosofía y Letras de Málaga este tema venía recogido únicamente con la letra (sin cifrado de acordes).\n\n## Verso 1\nVioletas para tí tengo yo una\ncanción\nla misma que aprendí en tu ant\npregón\nte acuerdas en Granada al pie\nAlbaicín\njuntos en el jardín que nos dio\nocasión\nSabes que ya no habrá primavera\nsi tú no estás aquí violetera\nLa primavera ha venido\ny yo sé por qué ha sido\nentre las flores que ofreces\neres una flor.\nPiensa que en esta corte france\neres más que gitana princesa\nY violetas de España\ntú en tierra estraña\niguo vives para el recuerdo de aquel\namor.\ndel\nYo tuve un ruiseñor que llegó a\nsuspirar\nsu para que quiero amor si nadie me\nva a dar\nun ramito de violetas que luzca en\nel ojal\nme siento emperador de violeta\nimperial.\nEra un cielo de primavera\ncuando me dijo la violetera\ncompreme usted mis violetas\nque son las primeras\npara traele la suerte,\nsu suerte es mi flor\nvuelve a tu rincón de la Alhambra\ndonde copia la luna tus zambras\nsay violetas de España\ntú en tierra estraña\nvive dando sentido a mi amor\nmi amor.\n"
+  },
+  {
+    "id": "viva-el-pasodoble",
+    "title": "Viva el pasodoble",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "D",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/viva-el-pasodoble.md",
+    "content": "---\ntitle: \"Viva el pasodoble\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"D\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\nItroducción :  DO,LA#,FA, SOLm,Rem,LA7ª,Rem,LA# ,BORDONEO,\nRem,LA#m,Rem,LA#m\nOro, [D] plata, sombra y sol\nel gentío [Dm] y el clamor.\nTres [G] monteras, tres [C] capotes en el [F] redondel.\n[Em] Y un clarín que rompe el [A7] viento\nSOLm                       LA7ª                      Rem,DO,LA#,LA7ª\nanunciando un toro negro que da miedo ver.\nChicuelinas de verdad\ntres verónicas sin par\ny a caballo con nobleza lucha el picador,\ny la música que suena\nRE,SI7ª,Mim,LA7ª\ncuando el toro y la muleta van al mismo son\n[D] Viva el pasodoble\nque [F#m] hace alegre la [B7] tragedia, viva lo [Em] español\nLA7º                     Mim                     LA7ª\nRE,SI7ª,Mim,LA7ª\nLa bravura sin medida, el valor y el temple de esta vieja fiesta.\nViva el [D] pasodoble\n[F#m] melodía de colores, [B7] garbo de esta [Em] tierra.\nQueda [G] ya el recuerdo, [A] cuando ya en el ruedo, [A7] la corrida [D] terminó\n## Instrumental\nSOLISTA : Chicuelinas ...\nViva el pasodoble que...\n"
+  },
+  {
+    "id": "viva-espana",
+    "title": "Viva España",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "A",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/viva-espana.md",
+    "content": "---\ntitle: \"Viva España\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"A\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\nENTRE FLORES [Dm] FANDANGUILLOS Y ALEGRIAS,\nNACIO MI [C] ESPAÑA, LA [A#] TIERRA DEL [A] AMOR\nSOLO DIOS PUDIERA [Dm] HACER TANTA BELLEZA\nY ES [C] IMPOSIBLE QUE [A#] PUEDA HABER [A] DOS\n[Gm] ESPAÑA SIEMPRE HA SIDO Y [A] SERA\n[Gm] ETERNO PARAISO SIN [A] IGUAL\nPOR ESO SE OYE [D] ESTE CANTAR\nQUE VIVA ESPAÑA, Y SIEMPRE [A] LA RECORDARA\nQUE VIVA ESPAÑA, LA TUNA [D] CANTA CON AMOR\nQUE VIVA ESPAÑA, LA VIDA TIENE [A] OTRO COLOR\nESPAÑA ES LA [A] [A#] [C] [Dm] MEJOR\nQUE BONITO ES EL [Dm] MAR MEDITERRÁNEO\nLA COSTA [C] BRAVA Y [A#] LA COSTA DEL [A] SOL\nLA SARDANA Y EL FANDANGO [Dm] ME EMOCIONAN\nPORQUE EN SUS [C] NOTAS HAY [A#] VIDA Y HAY [A] AMOR\nY [Gm] TODOS SABEN QUE ES [A] VERDAD,\n[Gm] Y LLORAN CUANDO TIENEN QUE [A] MARCHAR\n## Verso 1\nPOR ESO...\n"
   },
   {
     "id": "volando-voy",
@@ -3966,6 +6371,20 @@ export const DEFAULT_SONGS = [
     ],
     "file": "canciones/yo-contigo-tu-conmigo.md",
     "content": "---\ntitle: \"Yo contigo, tú conmigo\"\nartist: \"Morat & Álvaro Soler\"\nkey: \"Am\"\ncapo: 0\ntempo: 100\ntags: [\"pop\", \"latino\", \"soundtrack\"]\n---\n## Intro\n[Am] [Em] (2) / [F] [G] [Am] (2) [F]\n\n[Am] ¿Por qué, por qué, por qué? [Em]\n[Am] Te veo en el espejo aunque no es[Em]tés\n[F] Reconozco [G] tu voz, [Am] sé que hay algo aquí entre los dos\n[Am] Siento, siento, siento [Em]\n[Am] Que te conozco de antes de hace [Em] tiempo\n[F] Que el destino cum[G]plió su mi[Am]sión\n[F] Y aunque quieran quitarme la voz\n\n[F] Yo pegaré un [C] grito al cielo [G]\n[Am] Soy más fuerte [Em] si estamos los [F] dos\n[F] Va a rendirse el [C] mundo entero [G]\nYo contigo, tú conmigo\n[F] Le daré la [C] vuelta al cuento [G]\n[Am] Y aunque muera [Em] en el in[F]tento\n[C] Vamos a escribir lo me[G]jor\nYo contigo, tú conmigo\n\n[Am] Gon gon [Em] goro gon gon [F] [C]\n[Am] Que va a ser mi [Em] gon gon goro gon gon [F] [C]\n\n[Am] ¿Por qué, por qué, por qué? [Em]\n[Am] Te escucho cuando hablo y aunque no es[Em]tés\n[F] Eres parte [G] de mí y no [Am] quiero verme sin ti\n[Am] Siento, siento, siento [Em]\n[Am] Que te conozco de antes, de hace [Em] tiempo\n[F] Que el destino cum[G]plió su mi[Am]sión\n[F] Y aunque quieran quitarme la voz\n\n[F] Yo pegaré un [C] grito al cielo… [G]\n\n[Am] Contra el viento, [Em]\n[F] Nuestro mo[C]mento, sé que ya [G] llegó y lo presi[Am]ento\n[F] Contra el mundo, [C] los mares,\n[G] No habrá quien nos se[Am]pare.\n[F] Contra el viento, el [C] viento oh [G]\n"
+  },
+  {
+    "id": "yo-te-dire",
+    "title": "Yo te diré",
+    "artist": "Tuna de Filosofía y Letras de Málaga",
+    "key": "C",
+    "capo": 0,
+    "tempo": 100,
+    "tags": [
+      "tuna",
+      "español"
+    ],
+    "file": "canciones/yo-te-dire.md",
+    "content": "---\ntitle: \"Yo te diré\"\nartist: \"Tuna de Filosofía y Letras de Málaga\"\nkey: \"C\"\ncapo: 0\ntempo: 100\ntags: [\"tuna\", \"español\"]\n---\n\n## Verso 1\n[C] Yo te diré por qué mi can[G7]ción\nte llama sin ce[C]sar;\nte lo di[Am]rá el arroyo al pa[Dm]sar,\nte lo di[G7]rá el rumor del pal[C]mar.\n\n## Coro\n[C] Yo te diré por qué en el jar[G7]dín\nlas flores tienen su a[C]mor;\nte lo di[Am]rá la brisa de a[Dm]bril,\nte lo di[G7]rá mi tierno can[C]tor.\n"
   },
   {
     "id": "yolanda",

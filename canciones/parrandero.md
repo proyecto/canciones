@@ -1,0 +1,26 @@
+---
+title: "Parrandero"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "A"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[A]-[E]-[A] (bis)
+TANTO ME [A] GUSTA EL VINO,
+## Verso 1
+ME VA LA PARRANDA,
+TODO SE ME VA EN EL [E] QUEHACER
+PARA ENAMORAR A ESA PERFIDA MUJER [A] (BIS).
+BELLO ES AMAR [A] A UNA [E] MUJER,
+PERO ES MEJOR A [A] 103,
+PORQUE EL [F#] AMOR ES BELLO Y [Bm] TRAICIONERO,
+YO SOY UN [A] PARRANDERO, POR [E] QUE LO VOY A [A] NEGAR.
+SI ESTO ES [A] ASI, QUE LE VOY A [E] HACER
+SI EN EL AMOR TODO ES [A] PERDER.
+PORQUE EL [F#] AMOR ES CIEGO Y [Bm] TRAICIONERO,
+YO SOY UN PARRANDERO, [A] POR QUE [E] LO VOY A [A] NEGAR.
+[A]-[E]-[A] (bis)
+BELLO ES AMAR...
+SI ESTO ES ASI...

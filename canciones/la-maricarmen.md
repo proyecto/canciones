@@ -1,0 +1,26 @@
+---
+title: "La Maricarmen"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "A"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[A]-[E]-[A] (bis)
+LA MARICARMEN [A] NO SABE [E] COSER,
+LA MARICARMEN NO SABE [A] BORDAR,
+LA MARICARMEN SI SABE [E] QUERER,
+LA MARICARMEN SI SABE [A] BESAR.
+MARICARMEN, [D] [A7] MARICARMEN,
+YA TE LO DECIA [A] YO,
+LOS MUCHACHOS DE LA [E] TUNA
+VAN A SER TU [A] PERDICION.
+MARICARMEN, [D] [A7] MARICARMEN,
+QUIEN TE HA VISTO Y QUIEN TE [A] VE,
+ANTES TE QUERIA [E] MUCHO
+Y AHORA NO TE PUEDO [A] VER.
+[A]-[E]-[A] (bis)
+## Verso 1
+MARICARMEN,... (PRIMERA).
+MARICARMEN,... (SEGUNDA).

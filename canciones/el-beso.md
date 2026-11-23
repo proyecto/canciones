@@ -1,0 +1,38 @@
+---
+title: "El beso"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "E"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+(ENTRADA EN [E]
+EN [B7] ESPAÑA BENDITA [E] TIERRA LAm-SI7
+## Verso 1
+SI7                                MIPERO UN BESO DE AMOR
+DONDE PUSO SU TRONO EL AMOR                                              MI-SI7-
+DO#mNO [E] [G#] [F#m] SE LO DAN A CUALQUIERA.
+SOLO EN ELLA        EL BESO
+ENCIERRA
+ALEGRIA, [A] SENTIDO [B7] Y [E] [B7] [A] [Em] [Am] [E] [Em] [B7] [Em] [E] VALOR.(BIS)
+LAm LAmES TAN NOBLE YO LE [E] [B7] ASEGURO
+LA ESPAÑOLA CUANDO BESA                             SI7
+DO     DO         SI7MI
+ES QUE BESA DE VERDADQUE HA DE CAUSARLE MAYOR
+LAm               LAmEMOCION
+Y A NINGUNA LE INTERESAEL BESO (CONTINUACION)
+[C] BESAR CON [B7] [C] FRIVOLIDAD. FA#m-SOL#
+MIm ESE BESO TAN NOBLE [C#] Y PURO
+[B7] EL BESO, EL BESO, EL BESO EN QUE [A] LLEVAMOS EN [B7] EL [E] CORAZON.
+ESPAÑA
+RE7 SOLLA [Em] ESPAÑOLA...
+LO LLEVAAA LA HEMBRAAA MUY
+DENTROOO DEL ALMA.                          MIm
+[Am] MImEL [B7] [B7] BESO, EL BESO, EL BESO EN
+LE PUEDES DAR UN BESO EN LA ESPAÑA
+MANO                                   MIm          RE7
+[Am] DOSE [G] [B7] DA SIII SE QUIEREEE CON EL
+O PUEDES DARLE UN BESO DE NOOO SE ENGAÑA.
+HERMANO
+Y ASI [Am] LA BESARAS [Am] CUANDO [Em] QUIERASLE PUEDES DAR UN BESO...

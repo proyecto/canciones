@@ -1,0 +1,37 @@
+---
+title: "Noche plateada"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "A"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[A]-[E]-[D]-[A]-[E]-[A] (bis)
+EN ESTA [E] [A] NOCHE DE [A] LUNA
+TE CANTA MI [E] CORAZON,
+[D] VIENE BUSCANDO [A] FORTUNA,
+[E] VIENE BUSCANDO TU [A] AMOR.
+EN ESTA [E] [A] NOCHE [A] CALLADA
+TE VENGO A CANTAR MI [E] BIEN,
+[D] TU QUE ERES MI [A] BIENAMADA,
+[E] LA DUEÑA DE MI [A] QUERER.
+[D]-[A] (bis)
+[D] DESPIERTA YA, [G] ALMA DE MI [A] ALMA,
+A TI TE LLAMA MI [D] CORAZON;
+DEJAME VER [D7] TUS LINDOS OJOS, [Gm] [G] (DEJAME)
+TUS LABIOS [D] ROJOS QUE ADORO [D] [A] YO.
+[A]-[E]-[D]-[A]-( (bis)
+TE [A] QUIERO MAS [E] QUE A MI [A] VIDA
+Y MI VIDA ES PARA [E] TI,
+[D] POR ESO MI [A] BIENAMADA
+[E] NUNCA TE OLVIDES DE [A] MI.
+SI [A] VENGO A TURBAR [E] TU [A] SUEÑO
+PERDONA A MI [E] CORAZON,
+[D] ES QUE SE SIENTE TU [A] DUEÑO
+[E] Y VIENE A DARTE SU [A] AMOR.
+## Verso 1
+DESPIERTA YA...
+[D]-[G]-[A]-[D]
+DEJAME VER [D7] TUS LINDOS OJOS, [Gm] [G] (DEJAME)
+TUS LABIOS [D] ROJOS QUE ADORO [D] [A] YO.

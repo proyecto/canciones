@@ -4,7 +4,7 @@ artist: "Chabuca Granda"
 key: "D"
 capo: 0
 tempo: 100
-tags: ["vals peruano", "clásico", "latino"]
+tags: ["vals peruano", "clásico", "latino", "tuna", "español"]
 ---
 
 ## Intro

@@ -4,7 +4,7 @@ artist: "Joan Manuel Serrat"
 key: "Am7"
 capo: 0
 tempo: 100
-tags: ["canción de autor", "clásico", "español"]
+tags: ["canción de autor", "clásico", "español", "tuna"]
 ---
 
 ## Verso 1

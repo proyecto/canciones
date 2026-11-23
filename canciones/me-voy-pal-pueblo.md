@@ -1,0 +1,33 @@
+---
+title: "Me voy pa'l pueblo"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "E"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Verso 1
+ME VOY PAL PUEBLO
+ME VOY PAL [B7] [F#m] PUEBLO
+HOY ES [E] MI [C#m] DIA
+VOY [F#m] ALEGRAR TODA [B7] EL ALMA [E7] [E] MIA
+ME VOY PAL [B7] [F#m] PUEBLO
+HOY ES [E] MI [C#m] DIA
+VOY [F#m] A ALEGRAR TODA [B7] EL ALMA [E7] [E] MIA
+[C#m] [G#m] [E] [B7] [A] [F#m] LARALA....
+[F#m] TANTO COMO YO [B7] TRABAJO Y NUNCA [E] PUEDO [G#m] IRME AL [C#m] VACILON
+NO SE QUE [F#m] PASA CON ESTA [B7] GUAJIRA
+QUE NO LE [E] GUSTA EL [G#m] GUATEQUE Y EL [C#] RON
+AHORA [F#] MISMO [A] LA VOY A [B7] DEJAR EN SU [E] BOHÍO [G#m] ASANDO [C#m] MAIZ
+ME VOY PAL PUEBLO [F#m] A TOMARME UN [A] GARRON
+Y CUANDO [E] VUELVA SE [G#m] ACABO EL [C#m] CARBON
+ME VOY...
+LARA...
+[F#m] DESDE EL DIA EN QUE NOS [B7] CASAMOS HASTA LA [E] FECHA [G#m] TRABAJANDO [C#m] ESTOY
+QUIERO QUE [F#m] SEPAS QUE NO ESTOY [B7] DISPUESTO
+A [E] ENTERRARME EN [G#m] VIDA EN UN [C#] RINCON
+[F#m]             [A]               [B7]                      [E]                 [G#m]
+ES LINDO EL CAMPO MUY BIEN YA LO [C#m] SE PERO PAL PUEBLO VOY ECHANDO UN PIE
+SI TU [F#m] NO VIENES [A] MEJOR ES [B7] ASI PERO NO [E] SE LO QUE [G#m] SERA DE [C#m] MI
+ME VOY...

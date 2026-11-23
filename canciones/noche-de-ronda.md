@@ -1,0 +1,43 @@
+---
+title: "Noche de ronda"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "E"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Verso 1
+NOCHE
+[Am]-[Am]-[Dm]
+NOCHE DE [Dm] [Am] RONDA,
+QUE [Dm] TRISTE [Dm] [Am] PASAS,
+QUE [Dm] TRISTE [Dm] [Am] CRUZAS
+POR [Dm] MI [E7] BALCON.
+NOCHE DE [Dm] RONDA,
+COMO ME HIERES,
+COMO LASTIMAS
+MI [E7] CORAZON.
+LUNA QUE SE [A7] QUIEBRA
+SOBRE LAS TINIEBLAS
+DE MI SOLEDAD,
+LAdis-MI
+¿A DONDE VAS?
+DIME SI ESTA [E] NOCHE
+TU TE VAS DE [Bm] RONDA
+COMO ELLA SE [E] FUE,
+¿CON [Bm] QUIEN [A7] [E] ESTAS?
+DILE QUE LA [A7] QUIERO,
+DILE QUE ME MUERO
+DE TANTO ESPERAR;
+DE RONDA
+-[Dm] (ter)-[E7] [Dm]-[E7]
+QUE [A7] VUELVA [D] YA.
+QUE LAS [Dm] RONDAS NO SON [A7] BUENAS
+QUE HACEN [E] DAÑO
+QUE DAN [Am] PENA
+Y SE [E7] ACABAN POR [A7] LLORAR
+LA7-LAdis-MI
+[E]-[Bm]-[E]-[Bm]-[E]-[A7]
+DILE QUE LA...
+QUE LAS RONDAS...

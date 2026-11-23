@@ -4,7 +4,7 @@ artist: "Quirino Mendoza"
 key: "D"
 capo: 0
 tempo: 100
-tags: ["mariachi", "ranchera", "mexicano"]
+tags: ["mariachi", "ranchera", "mexicano", "tuna", "español"]
 ---
 
 ## Intro

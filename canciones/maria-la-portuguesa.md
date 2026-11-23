@@ -4,7 +4,7 @@ artist: "Carlos Cano"
 key: "Em"
 capo: 0
 tempo: 100
-tags: ["copla", "fado", "español"]
+tags: ["copla", "fado", "español", "tuna"]
 ---
 
 ## Verso 1

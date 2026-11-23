@@ -4,7 +4,7 @@ artist: "Tradicional"
 key: "G"
 capo: 0
 tempo: 110
-tags: ["latino", "folk", "fácil", "clásico"]
+tags: ["latino", "folk", "fácil", "clásico", "tuna", "español"]
 ---
 
 // Una de las canciones más fáciles para empezar: sólo usa G - C - D

@@ -1,0 +1,31 @@
+---
+title: "Amelia"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "Dm"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[Dm]-[A7]-[Dm]
+[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm] (bis)
+TU GRAN [Dm] SINCERIDAD
+Y TU BUEN [A7] CORAZON
+## Verso 1
+INSPIRAN EN MI SER
+ESTA BELLA [Dm] CANCION.
+PERDONA QUE TE [Gm] CANTE [C7] MAL,
+ME FALTA EL [A#7] [F] ALIENTO
+PARA DECIRTE [A7] NIÑA
+LO QUE TE QUIERO YO [Dm] (BIS).
+OH, [D] AMELIA, TU ERES [D#] FLOR DE [A] [Em] PRIMAVERA,
+NIÑA HERMOSA [Em] DE MIS SUEÑOS [A] MAS [D] SINCEROS;
+ESTOS [Dm] VERSOS SON EL [Gm] CANTO DE MI [A7] VIDA
+[Gm] INSPIRADOS EN TU [A7] DULCE [D] SONREIR.
+LA [D] CANCION QUE EN ESTE DIA YO TE [A] [Em] CANTO
+SOLO [Em] QUIERO QUE LA GUARDES [A] EN TU [D] MENTE,
+Y CUANDO [Dm] HAYAN TRANSCURRIDO [Gm] YA LOS [A7] AÑOS
+NO SE [Gm] ESFUME COMO EL [A7] HUMO ESTA [D] CANCION.
+[Dm]-[A7]-[Dm]
+[Gm]-[C7]-[F]-[A#7]-[A7]-[Dm] (bis)
+OH, AMELIA,... [D] LA [D] CANCION...

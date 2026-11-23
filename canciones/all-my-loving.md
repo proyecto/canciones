@@ -4,7 +4,7 @@ artist: "The Beatles"
 key: "Dm"
 capo: 0
 tempo: 100
-tags: ["rock", "pop", "60s", "classic", "inglés"]
+tags: ["rock", "pop", "60s", "classic", "inglés", "tuna", "español"]
 ---
 
 ## Intro

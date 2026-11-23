@@ -1,0 +1,25 @@
+---
+title: "La sirenita"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "Am"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+[Am]-[E7]-[Am]
+CUANDO MI [Am] BARCO NAVEGA
+POR LAS LLANURAS DEL [E7] MAR,
+## Verso 1
+PONGO ATENCION POR SI ESCUCHO
+A UNA SIRENA [Am] CANTAR.
+DICEN QUE [Am] MURIO DE AMORES
+QUIEN SU CANCION [E7] ESCUCHO;
+YO DOY GUSTOSO LA VIDA
+SIEMPRE QUE SEA DE [Am] AMOR.
+MIRA COMO CORRE, [Am] VUELA,
+CORTA LAS OLAS DEL [E7] MAR,
+QUIEN PUDIERA
+A UNA SIRENA ENCONTRAR [Am] (BIS).
+[Am]-[E7]-[Am]
+MIRA COMO CORRE,... [Am] (BIS).

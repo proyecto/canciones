@@ -4,7 +4,7 @@ artist: "Ángel Cabral"
 key: "Dm"
 capo: 0
 tempo: 100
-tags: ["vals", "vals criollo", "clásico"]
+tags: ["vals", "vals criollo", "clásico", "tuna", "español"]
 ---
 
 ## Verso 1

@@ -1,0 +1,28 @@
+---
+title: "Silencio"
+artist: "Tuna de Filosofía y Letras de Málaga"
+key: "Em"
+capo: 0
+tempo: 100
+tags: ["tuna", "español"]
+---
+
+## Instrumental
+[B7]-[Em]-[B7]-[Em]-[E]-[E7]-[Am]-[Em]-[B7]-[Em]
+[Em] DUERMEN [B7] EN MI [Em] JARDIN
+LAS BLANCAS AZUCENAS , LOS [B7] NARDOS Y LAS [Em] ROSAS
+MI [E] ALMA TAN [E7] TRISTE Y [Am] PESAROSA
+YA LAS [Em] FLORES QUIEREN OCULTAR [B7] SU AMARGO [Em] DOLOR
+YO NO [D7] QUIERO QUE LAS FLORES [G] SEPAN
+LOS [B7] TORMENTOS QUE ME DA LA [Em] VIDA
+SI [D7] SUPIERAN LO QUE ESTOY [G] SUFRIENDO
+DE [Em] PENA [Am] MORIRÍAN [B7] TAMBIEN
+SILENCIO QUE ESTAN [A] DURMIENDO
+LOS NARDOS Y LAS AZUCENAS
+NO [G#] QUIERO QUE SEPAN MIS [A] PENAS
+[E] PORQUE [C#7] SI ME VEN [F#m] LLORANDO [E] [B7] MORIRAN
+## Instrumental
+[E]-[F#m]-[B7]-[F#m]-[B7]-[E]
+NO [G#] QUIERO QUE SEPAN MIS [A] PENAS
+[E] PORQUE [C#7] SI ME VEN [F#m] LLORANDO [E] [B7] MORIRAN
+[Am] .. [Em] MORIRAN...
