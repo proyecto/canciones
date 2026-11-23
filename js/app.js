@@ -4680,44 +4680,29 @@
   }
 
   function openSidebar() {
-    if (isMobile()) {
-      elements.sidebar.classList.add('open');
-      if (elements.sidebarOverlay) {
-        elements.sidebarOverlay.classList.add('active');
-      }
-      document.body.style.overflow = 'hidden';
-    } else {
-      elements.sidebar.classList.remove('collapsed');
-      localStorage.setItem('cancionero_sidebar_collapsed', '0');
+    elements.sidebar.classList.add('open');
+    if (elements.sidebarOverlay) {
+      elements.sidebarOverlay.classList.add('active');
+    }
+    document.body.style.overflow = 'hidden';
+    if (elements.searchInput) {
+      setTimeout(() => elements.searchInput.focus(), 150);
     }
   }
 
   function closeSidebar() {
-    if (isMobile()) {
-      elements.sidebar.classList.remove('open');
-      if (elements.sidebarOverlay) {
-        elements.sidebarOverlay.classList.remove('active');
-      }
-      document.body.style.overflow = '';
-    } else {
-      elements.sidebar.classList.add('collapsed');
-      localStorage.setItem('cancionero_sidebar_collapsed', '1');
+    elements.sidebar.classList.remove('open');
+    if (elements.sidebarOverlay) {
+      elements.sidebarOverlay.classList.remove('active');
     }
+    document.body.style.overflow = '';
   }
 
   function toggleSidebar() {
-    if (isMobile()) {
-      if (elements.sidebar.classList.contains('open')) {
-        closeSidebar();
-      } else {
-        openSidebar();
-      }
+    if (elements.sidebar.classList.contains('open')) {
+      closeSidebar();
     } else {
-      if (elements.sidebar.classList.contains('collapsed')) {
-        openSidebar();
-      } else {
-        closeSidebar();
-      }
+      openSidebar();
     }
   }
 
@@ -5066,27 +5051,6 @@ capo: ${song.capo || 0}
         closeSidebar();
         closeEditor();
         elements.modalSettings.classList.add('hidden');
-      }
-    });
-
-    // Restaurar estado de barra colapsada en escritorio si el usuario la cerró
-    if (!isMobile()) {
-      const wasCollapsed = localStorage.getItem('cancionero_sidebar_collapsed') === '1';
-      if (wasCollapsed) {
-        elements.sidebar.classList.add('collapsed');
-      }
-    }
-
-    // Gestionar cambios de tamaño de pantalla (móvil <-> escritorio)
-    window.addEventListener('resize', () => {
-      if (!isMobile()) {
-        if (elements.sidebarOverlay) elements.sidebarOverlay.classList.remove('active');
-        document.body.style.overflow = '';
-        const wasCollapsed = localStorage.getItem('cancionero_sidebar_collapsed') === '1';
-        elements.sidebar.classList.toggle('collapsed', wasCollapsed);
-        elements.sidebar.classList.remove('open');
-      } else {
-        elements.sidebar.classList.remove('collapsed');
       }
     });
 
