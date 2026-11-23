@@ -6,9 +6,8 @@ capo: 0
 tempo: 100
 tags: ["pop", "80s", "español"]
 ---
-
 ## Intro
-[C]-[C4]/5-[C] (2) [G] [Am] -[F]- [G] (3)
+[C]-[C4] /5-[C] (2) [G] [Am] -[F]- [G] (3)
 
 [C] Yo soy uno de esos amantes, tan elegantes
 Como los de antes,
@@ -20,13 +19,13 @@ Con mi [F] chaqué de lino.
 Bellas [Am] Julietas para mis canciones
 Y [F] hacerles los honores.
 
-[F] [G]/ [F] [Am] / [F] [G]/[F]_[C]-[F]-[G]
+[F] [G] / [F] [Am] / [F] [G] / [F]_[C]-[F]-[G]
 [F] Y siempre estoy rompiéndome la voz
 [G] Cantando coplas bajo tu ventana,
 [F] Amor, sal ya, que este trovador
 [C] Se está asando de calor.
 
-[C]-[C4]/5-[C] (2) [G] [Am] -[F]- [G] (3)
+[C]-[C4] /5-[C] (2) [G] [Am] -[F]- [G] (3)
 [C] Soy educado caballero, bello, cortés
 Y [G] amable compañero, un codiciado soltero.
 [Am] Y como no tengo complejos,
@@ -36,10 +35,10 @@ Antes de [G] echar los tejos.
 pa que no [Am] llores pido mil perdones,
 Con un [F] millón de flores.
 
-[F] [G]/ [F] [Am] / [F] [G]/ [F] [C]-[F]-[G]
+[F] [G] / [F] [Am] / [F] [G] / [F] [C]-[F]-[G]
 [F] Y siempre estoy rompiéndome la voz
 [G] Cantando coplas bajo tu ventana,
 [F] Amor, sal ya, que este trovador
 [C] Se está asando de calor.
 
-[C] [C4]/5 [C]
+[C] [C4] /5 [C]

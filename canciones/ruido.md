@@ -6,14 +6,13 @@ capo: 0
 tempo: 100
 tags: ["canción de autor", "balada", "español"]
 ---
-
 ## Verso 1
 (J. Sabina)
 
 [Dm] Ella le pidió que la lle[Am]vara al fin del mundo,
 [E7] Él puso a su nombre todas las [Am] olas del mar,
 [Dm] Se miraron un segundo, como [Am] dos desconocidos.
--[E7] Todas las ciudades eran [Am] pocas a sus ojos,
+[E7] Todas las ciudades eran [Am] pocas a sus ojos,
 [Dm] Ella quiso barcos y él no [Am] supo qué pescar,
 [E7] Y al final números rojos, en la [Am] cuenta del olvido,
 Y hubo [F] tanto ruido, que al fi[G]nal llegó el fi[Am]nal.
@@ -45,13 +44,13 @@ Tanto ruido y al final, la soledad.
 Ruido de escorpiones, tanto, tanto ruido.
 Ruido de abogados, ruido compartido, ruido envenenado, demasiado ruido.
 Ruido platos rotos, ruido años perdidos, ruido viejas fotos, ruido empedernido.
--Ruido de cristales, ruido de gemidos, ruidos animales, contagioso ruido.
+Ruido de cristales, ruido de gemidos, ruidos animales, contagioso ruido.
 Ruido mentiroso, ruido entrometido, ruido escandaloso, silencioso ruido.
--Ruido acomplejado, ruido introvertido, ruido del pasado, descastado ruido.
+Ruido acomplejado, ruido introvertido, ruido del pasado, descastado ruido.
 Ruido de conjuros, ruido malnacido, ruido tan oscuro, puro y duro ruido.
--Ruido qué me has hecho, ruido yo no he sido, ruido insatisfecho, ruido a qué has venido.
+Ruido qué me has hecho, ruido yo no he sido, ruido insatisfecho, ruido a qué has venido.
 Ruido como sables, ruido enloquecido, ruido intolerable, ruido incomprendido.
--Ruido de frenazos, ruido sin sentido, ruido de arañazos… Ruido, ruido… ruido.
+Ruido de frenazos, ruido sin sentido, ruido de arañazos… Ruido, ruido… ruido.
 (Tanto, tanto, tanto, demasiado ruido)
 Ruiiiiiiido
 (Tanto, tanto, tanto, tanto, tanto ruido)

@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["copla", "andaluz", "clásico"]
 ---
-
 ## Intro
 [Am] [E] [Am] [A7] [Dm] [E] [Am] [G] [C] [E] [Am]
 
@@ -14,7 +13,7 @@ tags: ["copla", "andaluz", "clásico"]
 Una fuente en medio con un surti[Am]dor,
 [A7] Rosas y claveles de to[Dm]dos colores,
 Que no los so[E]ñara mejor ni un pin[Am]tor.
--Junto a la cancela de [G] hierro forjao,
+Junto a la cancela de [G] hierro forjao,
 Hay una mo[C]cita de tez bronceá,
 Y jun[E]tito a ella, moreno y plantao,
 Un mozo encen[Am]dío, que hablándole está.
@@ -34,7 +33,7 @@ Porque te quiero mi [G7] vía, como nadie te ha que[C]río,
 Patio de las monjas de la cari[Am]dad,
 [A7] Donde hasta la fuente llora [Dm] silenciosa
 La canción a[E]marga de su sole[Am]dad.
--Regando las flores hay [G] una monjita,
+Regando las flores hay [G] una monjita,
 Que como ellas [C] tiene carita de flor,
 Y que [E] se parece a aquella mocita
 Que tras la can[Am]cela le hablaban de amor.

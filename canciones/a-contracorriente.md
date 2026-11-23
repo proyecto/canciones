@@ -6,14 +6,13 @@ capo: 1
 tempo: 100
 tags: ["pop latino", "alegre", "español"]
 ---
-
 ## Intro
 [#1] [Em] [D] [C] (2)
 
 ## Verso 1
 [Em] Voy contracorriente, al andar, pero no me pueden [D] cansar
 [C] Levantando el polvo, para atrás, [D] sé que la batalla acaba de empezar
--[Em] Suenan los tambores del alma, [D] llorando las luces de la alarma
+[Em] Suenan los tambores del alma, [D] llorando las luces de la alarma
 [C] Llevo mi bandera, a [B7] jugar… la batalla acaba de empezar
 
 ## Verso 2
@@ -24,7 +23,7 @@ tags: ["pop latino", "alegre", "español"]
 ## Coro
 [Em] A contracorriente, y aunque caiga la tormenta, [D] yo nunca pierdo la fuerza
 [C] Este es mi lugar, persiguiendo al [B7] sol
--[Em] A contracorriente, y aunque caiga la tormenta, [D] yo nunca pierdo la fuerza
+[Em] A contracorriente, y aunque caiga la tormenta, [D] yo nunca pierdo la fuerza
 [C] Este es mi lugar, persiguiendo, persiguiendo al sol, oh
 
 ## Puente
@@ -37,7 +36,7 @@ Soñando fuerte y además, mi batalla es la única que hay…
 [C] Subo el río, a contracorriente, nadie me detiene, [D] voy persiguiendo al sol
 [Em] A contracorriente, y aunque caiga la tormenta, [D] yo nunca pierdo la fuerza
 [C] Este es mi lugar, persiguiendo al sol
--[Em] A contracorriente, y aunque caiga la tormenta, [D] yo nunca pierdo la fuerza
+[Em] A contracorriente, y aunque caiga la tormenta, [D] yo nunca pierdo la fuerza
 [C] Este es mi lugar, persiguiendo, persiguiendo al sol
 
 Pero cuando me lloren las manos (Cuando me lloren las manos)

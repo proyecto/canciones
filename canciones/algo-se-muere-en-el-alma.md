@@ -7,17 +7,49 @@ tempo: 100
 tags: ["sevillana", "clásico", "popular"]
 ---
 
-## Verso 1
-Algo se muere en el alma, cuando un amigo se va
-Y va dejando una huella que no se puede borrar
+## Intro
+[E] [F] [E] (2)
 
-No te vayas todavía, no te vayas por favor
-No te vayas todavía que hasta la guitarra mía
-Llora cuando dice adiós.
+## 1ª Sevillana
+[E] Algo se muere en el alma, cuando un a[F]migo se [E] va.
+Algo se muere en el alma, cuando un a[F]migo se [E] va.
+Y va de[Am]jando una huella que no se [F] puede bo[E]rrar.
+Y va de[Am]jando una huella que no se [F] puede bo[E]rrar.
 
-Un pañuelo de silencio a la hora de partir
-Porque hay palabras que hieren y no se deben decir
-Un barco se hace pequeño cuando se aleja en el mar
-Y cuando se va perdiendo que grande es la soledad
-Ese vacío que deja, el amigo que se va.
-Es como un pozo sin fondo que no se vuelve a llenar.
+## Estribillo
+No te [Am] vayas toda[E]vía, no te [F] vayas, por fa[E]vor,
+No te [Am] vayas toda[E]vía, que hasta la gui[F]tarra [E] mía
+Llora [F] cuando dice a[E]diós.
+
+## 2ª Sevillana
+[E] Un pañuelo de silencio a la hora [F] de par[E]tir.
+Un pañuelo de silencio a la hora [F] de par[E]tir.
+Porque hay pa[Am]labras que hieren y no se [F] deben de[E]cir.
+Porque hay pa[Am]labras que hieren y no se [F] deben de[E]cir.
+
+## Estribillo
+No te [Am] vayas toda[E]vía, no te [F] vayas, por fa[E]vor,
+No te [Am] vayas toda[E]vía, que hasta la gui[F]tarra [E] mía
+Llora [F] cuando dice a[E]diós.
+
+## 3ª Sevillana
+[E] El barco se hace pequeño cuando se a[F]leja en el [E] mar.
+El barco se hace pequeño cuando se a[F]leja en el [E] mar.
+Y cuando [Am] se va perdiendo, ¡qué grande [F] es la sole[E]dad!
+Y cuando [Am] se va perdiendo, ¡qué grande [F] es la sole[E]dad!
+
+## Estribillo
+No te [Am] vayas toda[E]vía, no te [F] vayas, por fa[E]vor,
+No te [Am] vayas toda[E]vía, que hasta la gui[F]tarra [E] mía
+Llora [F] cuando dice a[E]diós.
+
+## 4ª Sevillana
+[E] Ese vacío que deja el amigo [F] que se [E] va.
+Ese vacío que deja el amigo [F] que se [E] va.
+Es como un [Am] pozo sin fondo que no se [F] vuelve a lle[E]nar.
+Es como un [Am] pozo sin fondo que no se [F] vuelve a lle[E]nar.
+
+## Estribillo Final
+No te [Am] vayas toda[E]vía, no te [F] vayas, por fa[E]vor,
+No te [Am] vayas toda[E]vía, que hasta la gui[F]tarra [E] mía
+Llora [F] cuando dice a[E]diós.

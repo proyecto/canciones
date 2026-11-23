@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["rock andaluz", "psicodelia", "clásico"]
 ---
-
 ## Intro
 [Am] [G] [Am]
 
@@ -42,7 +41,7 @@ tags: ["rock andaluz", "psicodelia", "clásico"]
 [Am] Deseos que se re[G]tuercen,
 [F] Muy dentro del cora[G]zón. [Am]
 
--[Am] Hay una fuente, [G] niña,
+[Am] Hay una fuente, [G] niña,
 [F] Que la llaman del a[G]mor [Am]
 [Am] Donde bailan los lu[G]ceros
 [F] Y la luna con el [G] sol. [Am]

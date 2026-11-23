@@ -1,7 +1,7 @@
 ---
 title: "Las dos puntas"
 artist: "Osvaldo Rocha"
-key: "G7"
+key: "C"
 capo: 0
 tempo: 100
 tags: ["cueca", "folklore", "cuyo"]

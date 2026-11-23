@@ -6,23 +6,22 @@ capo: 2
 tempo: 100
 tags: ["pop latino", "alegre", "verano"]
 ---
-
 ## Intro
 [Am] [C] [G] [F]
 
 > silbido
 [Am] Sueño cuando [C] era pequeño,
 [G] Sin preocupación [F] en el corazón.
--[Am] Sigo viendo a[C]quel momento,
+[Am] Sigo viendo a[C]quel momento,
 [G] Se desvaneció, [F] desapareció.
 [F] Ya no te creo, [Am] ya no te deseo, [G] eh oh
 [F] Solo te dejo, [Am] solo te deseo, [G] eh oh [E]
 
--[F] Mira, So[C]fia,
+[F] Mira, So[C]fia,
 [G] Sin tu mirada, [Dm] sigo, sin tu mirada, [F] sigo.
--[F] Dime So[C]fia, ¿cómo te mira?
+[F] Dime So[C]fia, ¿cómo te mira?
 [G] Dime cómo te [Dm] mira, dime.
--[F] Sé que no, [C] sé que no, sé que solo,
+[F] Sé que no, [C] sé que no, sé que solo,
 [G] Sé que ya no [Dm] soy, oy oy oy.
 [F] Mira, So[C]fia,
 [G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.
@@ -53,7 +52,7 @@ tags: ["pop latino", "alegre", "verano"]
 Sin tu mirada, sigo, sin tu mirada, sigo
 [G] Dime Sofia, [Dm] cómo te mira
 Dime cómo te mira, dime
--[F] Sé que no, [C] sé que no, sé que solo,
+[F] Sé que no, [C] sé que no, sé que solo,
 [G] Sé que ya no [Dm] soy oy oy oy.
 [F] Mira, So[C]fia,
 [G] Sin tu mirada, [Dm] sigo, sin tu mirada, So[Am]fia.

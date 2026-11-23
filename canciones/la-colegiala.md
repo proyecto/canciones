@@ -8,21 +8,32 @@ tags: ["cumbia", "latino", "bailable"]
 ---
 
 ## Intro
-[Am] [G]
+[Am] [G] [Am] [G]
 
-[Am] Hoy te he visto, con tus libros cami[G]nando
-Y tu carita de coqueta, cole[Am]giala de mi amor
-Tú sonríes sin pensar que al mi[G]rarte
-Solo por ti estoy sufriendo, cole[Am]giala de mi amor
+## Verso 1
+[Am] Hoy te he visto con tus libros cami[G]nando,
+Y tu carita de coqueta, cole[Am]giala de mi amor.
+Tú sonríes sin pensar que al mi[G]rarte,
+Solo por ti estoy sufriendo, cole[Am]giala de mi amor.
 
-Cole[G]giala, colegiala, colegiala, linda cole[Am]giala
+## Coro
+Cole[G]giala, colegiala, colegiala, linda cole[Am]giala,
 Cole[G]giala no seas tan coqueta,
-Cole[Am]giala ven dime que sí (bis)
+Cole[Am]giala ven dime que sí.
+Cole[G]giala, colegiala, colegiala, linda cole[Am]giala,
+Cole[G]giala no seas tan coqueta,
+Cole[Am]giala ven dime que sí.
 
-[G] [Am]
-Moliendo café
+## Verso 2
+[Am] Hoy te he visto con tus libros cami[G]nando,
+Y tu carita de coqueta, cole[Am]giala de mi amor.
+Tú sonríes sin pensar que al mi[G]rarte,
+Solo por ti estoy sufriendo, cole[Am]giala de mi amor.
 
-[Am] Cuando la tarde languidece, [Dm] renacen las sombras
-[G7] Y en la quietud de los cafeta[C]les vuelve a sentir [F] [E7]
-[Am] Es la triste canción de a[Dm]mor de la vieja molienda
-[G7] Que en el letargo de la noche [C] parece de[F]cir [E7] [Am] (BIS)
+## Coro Final
+Cole[G]giala, colegiala, colegiala, linda cole[Am]giala,
+Cole[G]giala no seas tan coqueta,
+Cole[Am]giala ven dime que sí.
+Cole[G]giala, colegiala, colegiala, linda cole[Am]giala,
+Cole[G]giala no seas tan coqueta,
+Cole[Am]giala ven dime que sí.

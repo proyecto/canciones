@@ -6,13 +6,12 @@ capo: 0
 tempo: 100
 tags: ["folk", "canción protesta", "clásico"]
 ---
-
 ## Intro
 [C] [G] [Am] [F] [Em] [Dm] [Am] [Em] [G] [F] [Em] [Am]
 
 [C] Solo le pido a [G] Dios que el do[Am]lor no me sea indiferente,
 Que la re[F]seca muerte no me en[Em]cuentre, va[Dm]cío y solo sin haber hecho lo suficiente.
--[Am] Solo le pido a [Em] Dios que lo in[G]justo no me sea indiferente,
+[Am] Solo le pido a [Em] Dios que lo in[G]justo no me sea indiferente,
 Que no me abo[F]feteen la otra me[Em]jilla después de que una [Am] garra me arañó esta suerte.
 
 [C] Solo le pido a [G] Dios que la [Am] guerra no me sea indiferente,

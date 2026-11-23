@@ -1,7 +1,7 @@
 ---
 title: "Escuela de calor"
 artist: "Radio Futura"
-key: "G7"
+key: "G"
 capo: 0
 tempo: 100
 tags: ["pop rock", "movida madrileña", "80s"]

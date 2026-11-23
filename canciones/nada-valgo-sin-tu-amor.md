@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["pop rock", "latino", "2000s"]
 ---
-
 ## Intro
 [C] [G] [Am] [G] [F] [D7] [G] (2)
 
@@ -51,7 +50,7 @@ Contigo,
 Y me [F] hago fuerte [Dm] cuando estás a[G]quí,
 [C] Sin ti yo ya no [G] sé qué es vivir,
 [Am] Mi vida es un [G] túnel [F] sin [Dm] tu [G] luz.
--[C] Quiero pasar más [G] tiempo junto a ti,
+[C] Quiero pasar más [G] tiempo junto a ti,
 [Am] Recuperar las [G] noches que perdí,
 [F] Vencer el miedo in[Dm]menso de morir,
 Y [G] ser eterno junto a ti.

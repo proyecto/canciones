@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["canción de autor", "balada", "clásico"]
 ---
-
 ## Intro
 [D] [A] [Gmaj7] [A] [Bm] [G] [A] [D] [A] [G] [E7] [A]
 
@@ -37,6 +36,6 @@ Solo pienso en [A] ti.
 [F] España camisa [C] blanca de mi espe[A#]ranza,
 [Dm] Reseca historia [F] que nos abrasa,
 [D] Con acercarse [Gm] sólo a mi[A#]rarla. [C] [G]
--Paloma buscando cielos más estrellados,
+Paloma buscando cielos más estrellados,
 Donde entendernos sin destrozarnos,
 Donde sentarnos y conversar.

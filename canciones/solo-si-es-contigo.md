@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["pop", "ukelele", "español"]
 ---
-
 ## Intro
 [G] [D] [Em] [Bm7] [G] [D] [C] [D] (2)
 
@@ -15,7 +14,7 @@ tags: ["pop", "ukelele", "español"]
 [G] Cambiaría lo que [D] fuera, si hace falta
 [C] Solamente por [D] verte feliz.
 
--[G] Tanto tiempo espe[D]rando una promesa,
+[G] Tanto tiempo espe[D]rando una promesa,
 [Em] Una caricia, [Bm7] una señal.
 [G] Formas parte de este [D] sueño y yo con[Em]tigo
 [C] Llegaría [D] hasta el final.
@@ -23,7 +22,7 @@ tags: ["pop", "ukelele", "español"]
 [C] Te juro que, nada puede ir me[D]jor, solo si es con[C]tigo
 Porque esta vida me lo ense[D]ñó, ya ves te nece[D7]sito.
 
--Con[G]tigo, reco[D]rrería el mundo en[Em]tero con[C]tigo, [D]
+Con[G]tigo, reco[D]rrería el mundo en[Em]tero con[C]tigo, [D]
 Me pasa[G]ría todo el [D] tiempo mirando el firma[Em]mento
 Y con tus [C] dedos ta[D]pando el sol.
 Solo si es con[G]tigo, me perde[D]ría en una [Em] isla con[C]tigo, [D]

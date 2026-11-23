@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["pop rock", "80s", "español"]
 ---
-
 ## Intro
 [Em] [C] [G] [D] / [Em] [C] [G]
 
@@ -15,7 +14,7 @@ tags: ["pop rock", "80s", "español"]
 [Am] Yo no quiero hablarte,
 [C] Quiero escribirte una can[D]ción
 
-- [Em] Y entonces ten[C]drás que escu[G]charme, [D]
+[Em] Y entonces ten[C]drás que escu[G]charme, [D]
 [Em] Y por la [C] radio oirás mi [G] voz, [D]
 [Am] Intentaré tocarte [C] tu pequeño cora[D]zón.
 
@@ -26,7 +25,7 @@ tags: ["pop rock", "80s", "español"]
 [Em] Y ni si[C]quiera me mira[G]rás, [D]
 [Am] Probablemente te reirás,
 [C] Siempre te ha gustado interpre[D]tar
-- [Em] pero la pe[C]lícula termi[G]nó, [D]
+[Em] pero la pe[C]lícula termi[G]nó, [D]
 [Em] Y ya sólo se [C] oye mi can[G]ción, [D]
 [Am] Frase tras frase,
 [C] Va perforando tu cora[D]zón

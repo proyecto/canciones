@@ -1,7 +1,7 @@
 ---
 title: "Row, Row, Row Your Boat"
 artist: "Popular"
-key: "A7"
+key: "D"
 capo: 0
 tempo: 100
 tags: ["popular", "infantil", "tradicional", "inglés"]

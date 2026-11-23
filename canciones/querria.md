@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["canción de autor", "rumba", "poético"]
 ---
-
 ## Intro
 [Am] [Dm] [E] [Am] (2)
 
@@ -20,7 +19,7 @@ tags: ["canción de autor", "rumba", "poético"]
 [E] [Am] (4[)/] [Dm] [Am] [E] [Am] (2)
 [E] Si yo pudiera, si me dejaras
 Si me atreviera, si el cielo hablara
--Te diría que pierdo las ganas de odiar
+Te diría que pierdo las ganas de odiar
 Si acomodo mis pasos a tu caminar
 Y que el mundo contigo se ve, menos enfermo
 Que ya es primavera en el Corte Inglés

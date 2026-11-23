@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["balada", "español", "80s"]
 ---
-
 ## Intro
 [A] [Bm] [E7] [C#m] [F#m] [Bm] [E7] [A]
 
@@ -14,7 +13,7 @@ tags: ["balada", "español", "80s"]
 Por ella los sueños de [C#m] amor y las noches a[F#m]margas
 Por ella las palabras [Bm] bellas, las dulces can[E7]ciones
 El llanto, la risa, el a[A]brazo, las cavilaciones
--[A] Por ella cada desper[Bm]tar, cada senti[E7]miento
+[A] Por ella cada desper[Bm]tar, cada senti[E7]miento
 Las flores, la música, el [C#m] mar, la lluvia y el [F#m] viento
 La luz, el color, el [Bm] fuego, la tierra y el [E7] agua
 Azules y grises re[A]cuerdos, el cuerpo y el alma

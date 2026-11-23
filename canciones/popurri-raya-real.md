@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["rumba", "popurrí", "fiesta"]
 ---
-
 ## Intro
 [Am] [E] [Am] (2)
 
@@ -34,7 +33,7 @@ La separó de ti, se la ha lle[Am]vado.
 
 [A] Me va (5) me va la vida, me va la gente de aquí y de a[E]llá,
 Me van las cosas que son sencillas de comprender me va el amor de ver[A]dad
--[A] Me va (5) me va la noche y el frío sol del amane[E]cer,
+[A] Me va (5) me va la noche y el frío sol del amane[E]cer,
 Me va el paisaje, las golondrinas y el frío aquel me va el amor, de ver[A]dad.
 
 [A] Porque mi guitarra está completamente enamo[Bm]rada de [E] ti
@@ -45,7 +44,7 @@ Color moreno, el que tienen las flamencas por los sen[A]deros
 Color moreno, el color de la gitana que yo más [E] quiero
 Color moreno, el color de la arena del camino ro[A]ciero
 
--[Am] Hago el camino, los pinares y prados [Dm] verdes
+[Am] Hago el camino, los pinares y prados [Dm] verdes
 La luz de una can[E]dela, la noche y el re[Am]lente
 [Am] Hago el camino, los pinares y prados [Dm] verdes
 Voy contando los [E] días, que faltan para [Am] verte

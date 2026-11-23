@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["rumba", "reggae", "latino"]
 ---
-
 ## Intro
 [Am] [E]
 
@@ -65,7 +64,7 @@ Me dicen el desagradecido (¿Cuándo llegaré?)
 Que nunca deja de rolar (¿Cuándo llegaré?)
 [Am] Llevo en el alma un camino [E] (¿Cdo llegaré?)
 Destinado a nunca llegar [Am] (¿Cuándo llegaré?)-
--Me llaman el desaparecido [E] (¿Cuándo llegaré?)
+Me llaman el desaparecido [E] (¿Cuándo llegaré?)
 Cuando llega ya se ha ido (¿Cuándo llegaré?)
 [Am] Volando vengo, volando voy [E] (¿Cd llegaré?)
 Deprisa, deprisa a rumbo perdido (¿Cd llegaré?)

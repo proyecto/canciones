@@ -1,35 +1,49 @@
 ---
 title: "Un sorbito de champán"
 artist: "Los Brincos"
-key: "D"
+key: "C"
 capo: 0
 tempo: 100
 tags: ["pop", "60s", "español"]
 ---
 
 ## Intro
-[D] [A] [G] [A] [Bm]
+[C] [F] [Dm] [G7]
 
-16 añitos fiera
-
-Y así fue…
-
+## Verso 1
 [C] Nunca te po[F]dré olvidar,
-[Dm] Porque me ense[E]ñaste a amar.
-[C] Nunca te po[F]dré olvidar,
-[Dm] Porque me ense[E]ñaste a amar.
+[Dm] Porque me ense[G7]ñaste a amar,
+[C] Con un sor[F]bito de champán,
+[Dm] Brindando [G7] por el nuevo a[C]mor.
+La suave [F] luz de aquel rincón
+[Dm] Hizo la[G7]tir mi cora[C]zón.
 
-[Am] Con un sor[G]bito de cham[F]pán, [E]
-[Am] Brindando [G] por el nuevo a[F]mor, [E]
-[Am] La suave [G] luz de aquel rin[F]cón [E]
-[Am] Hizo la[G]tir mi cora[F]zón. [E]
-
+## Verso 2
 [C] Es tan fá[F]cil recordar,
-[Dm] Siempre que [E] vuelvo a brindar
-[C] Es tan fá[F]cil recordar,
-[Dm] Siempre que [E] vuelvo a brindar
+[Dm] Siempre que [G7] vuelvo a brindar,
+[C] Con un sor[F]bito de champán,
+[Dm] Brindando [G7] por el nuevo a[C]mor.
 
-[Am] Con un sor[G]bito de cham[F]pán, [E]
-[Am] Brindando [G] por el nuevo a[F]mor [E]
+## Puente
+[Am] Y entonces [Em] fue,
+[F] Cuando te be[G]sé.
+[Am] De tu mi[Em]rar,
+[F] Yo me enamo[G]ré.
 
-[Dm] [Am] [F] [G] [Em] [E] (2)
+## Coro
+[C] Con un sor[F]bito de champán,
+[Dm] Brindando [G7] por el nuevo a[C]mor.
+La suave [F] luz de aquel rincón
+[Dm] Hizo la[G7]tir mi cora[C]zón.
+
+## Puente
+[Am] Y entonces [Em] fue,
+[F] Cuando te be[G]sé.
+[Am] De tu mi[Em]rar,
+[F] Yo me enamo[G]ré.
+
+## Coro Final
+[C] Con un sor[F]bito de champán,
+[Dm] Brindando [G7] por el nuevo a[C]mor.
+La suave [F] luz de aquel rincón
+[Dm] Hizo la[G7]tir mi cora[C]zón.

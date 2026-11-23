@@ -6,11 +6,10 @@ capo: 0
 tempo: 100
 tags: ["pop", "balada", "80s"]
 ---
-
 ## Verso 1
 Yo soy uno de esos amantes
 
--[G] Nada tienen de espe[Bm]cial
+[G] Nada tienen de espe[Bm]cial
 Dos mu[C]jeres que se dan la [D] mano,
 El ma[G]tiz viene des[Bm]pués,
 Cuando lo [C] hacen por de[D]bajo del man[G]tel. [F#m7-5] [B7]
@@ -30,7 +29,7 @@ Cuando [C] salen a pa[D]sear por la ciu[G]dad. [F#m7-5] [B7]
 [Em] Quién detiene pa[D]lomas al vuelo,
 [C#m7-5] Volando a ras del [C] suelo [Cm] mujer contra mu[G]jer
 
--[G] No estoy yo por la la[Bm]bor
+[G] No estoy yo por la la[Bm]bor
 De ti[C]rarles la primera [D] piedra,
 Si equi[G]voco la oca[Bm]sión,
 Y las [C] hallo labio a [D] labio en el sa[G]lón. [F#m7-5] [B7]

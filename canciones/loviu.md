@@ -6,9 +6,8 @@ capo: 0
 tempo: 100
 tags: ["pop", "eurovisión junior", "alegre"]
 ---
-
 ## Intro
-[F] [Am][__] [A#]_ [C]_ //[C] [Em] [F] [G]
+[F] [Am][__] [A#]_ [C]_ // [C] [Em] [F] [G]
 
 [F] I love you, mon amour, je t'aime
 [Am] Ti amo, eu amo-te

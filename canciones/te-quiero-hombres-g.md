@@ -6,9 +6,8 @@ capo: 0
 tempo: 100
 tags: ["pop rock", "80s", "balada"]
 ---
-
 ## Intro
-[C] [Am] [Em]/ [F] [G] [C] [G](2)
+[C] [Am] [Em] / [F] [G] [C] [G](2)
 
 [C] No, no, no me llores,
 No me vayas a [Am] hacer llorar a mi
@@ -20,7 +19,7 @@ Inténtalo mi [F] niña, quiero [G] verte reír
 [C] Te quiero, te quiero, te [F] quiero
 Y no hago [Fm] otra cosa que [G] pensar en [C] ti
 
-[C] [Am] [Em]/ [F] [G] [C] [G](2)
+[C] [Am] [Em] / [F] [G] [C] [G](2)
 [C] Tú, que estás dormida,
 Y yo te [Am] abrazo y siento que respiras
 [Em] Sueño, con tu sonrisa,
@@ -32,7 +31,7 @@ Te [Cm] quiero, te quiero, te [Fm] quiero
 Y no hago [Gm] otra cosa que [Cm] pensar en [Am] ti
 Sólo [Fm] vivo y respiro para [Gm] ti
 
-[F] [G] [C] [Am]/ [F] [G] [C] [Cm] [G]
+[F] [G] [C] [Am] / [F] [G] [C] [Cm] [G]
 [F] Te quiero, te [G] quiero,
 [C] Te quiero, te [Am] quiero
 

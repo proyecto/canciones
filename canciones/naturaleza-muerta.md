@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["pop", "balada", "90s"]
 ---
-
 ## Intro
 [C] [G] [Am] [G] [F] [Em] [Dm] [G]
 
@@ -24,7 +23,7 @@ Sobre [G] su [F] barca
 Dame un [Em] beso amor, y [Dm] espera [G] quieta
 Junto a la [C] playa
 
--[G] Y el mar mur[F]mura en su lenguaje:
+[G] Y el mar mur[F]mura en su lenguaje:
 [G] ¡Maldito pesca[F]dor! Des[G]pídete de [F] ella,
 No [G] quiero compar[F]tir su cora[E]zón
 

@@ -1,7 +1,7 @@
 ---
 title: "Bongo Bong / Je ne t'aime plus"
 artist: "Manu Chao"
-key: "Dm"
+key: "Am"
 capo: 0
 tempo: 100
 tags: ["reggae", "mestizaje", "internacional"]

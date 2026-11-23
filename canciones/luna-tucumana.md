@@ -6,7 +6,6 @@ capo: 0
 tempo: 100
 tags: ["zamba", "folklore", "argentino"]
 ---
-
 ## Intro
 [Dm]-[A7] [Dm] (2) [D7] / [Gm] [Dm] [A7] [Dm]
 
@@ -18,7 +17,7 @@ tags: ["zamba", "folklore", "argentino"]
 [Dm] Ay, lunita tucumana,
 [A7] Tamborcito calchaquí
 
--
+
 /:[Gm] Compañera de los gauchos,
 [Dm] En las sendas de [A7] Tafí
 
@@ -53,9 +52,9 @@ Cantaré, [A7] cantaré
 Cantaré, [A7] cantaré
 
 
-> https://es.wikipedia.org/wiki/Provincia_de_Tucumán
+> https://es.wikipedia.org/wiki/Provincia de Tucumán
 > https://es.wikipedia.org/wiki/Calchaqu%C3%ADes
-> https://es.wikipedia.org/wiki/Taf%C3%AD_del_Valle
+> https://es.wikipedia.org/wiki/Taf%C3%AD del Valle
 > https://es.wikipedia.org/wiki/Acheral
 https://youtu.be/0k6kG1WFIA4 (entrevista imperdible)
 https://youtu.be/fMGwTBHx6h0

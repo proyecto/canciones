@@ -1,7 +1,7 @@
 ---
 title: "En el campo"
 artist: "Grupo Celeste"
-key: "G"
+key: "Dm"
 capo: 0
 tempo: 100
 tags: ["cumbia", "peruano", "popular"]

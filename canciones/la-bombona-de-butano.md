@@ -7,18 +7,21 @@ tempo: 100
 tags: ["rumba", "popular", "humor"]
 ---
 
-## Verso 1
-[E] Si me aconvenzo, si me aconvenzo
-[Am] Dame tu ausenci que sabe a beso, naina...
-
+## Intro
 [E] [F] [E] (2) [Am] [G] [F] [E]
-[E] Ay métela (3) muy rápidamente
-[Am] La bombona de butano,
-[G] Que necesito agüita [E] caliente.
 
-[E] [B7] [E]
-[E7] [A] [E] [B7] [E]
+## Estribillo
+[E] Ay métela, métela, métela muy rápidamente
+[Am] La bombona de butano,
+[G] Que necesito agüita [E] caliente. (2)
+
+## Verso 1
 [E7] Ay dígame usted señora,
-[A] Donde quiere que se la meta,
+[A] Dónde quiere que se la meta,
 [E] Debajo de la escalera
 [B7] O bien detrás de la [E] puerta.
+
+## Estribillo
+[E] Ay métela, métela, métela muy rápidamente
+[Am] La bombona de butano,
+[G] Que necesito agüita [E] caliente.
