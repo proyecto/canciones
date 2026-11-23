@@ -7,7 +7,7 @@ tempo: 100
 tags: ["pop rock", "español", "2010s"]
 ---
 
-## Intro 1
+## Intro
 [C] [G] / [Am] [Em] (2)
 [F] [G] / [C] [G]
 
