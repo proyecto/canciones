@@ -8,16 +8,21 @@ tags: ["rock", "balada", "70s", "classic", "inglés"]
 ---
 
 ## Intro
-[C] [Am] [F] [C] [D] [Am] [Dm] [C] [G]
+[C] [Am] [F] [C] [Dm] [Am] [Dm] [G]
 
 ## Verso 1
-I am sailing (2) home again, ‘cross the sea
-I am sailing stormy waters, to be near you, to be free
+I am [C] sailing, I am [Am] sailing home a[F]gain 'cross the [C] sea
+I am [D] sailing stormy [Am] waters, to be [Dm] near you, to be [C] free [G]
 
-I am flying, I am flying like a bird ‘cross the sky
-I am flying passing high clouds to be with you, to be free
+## Verso 2
+I am [C] flying, I am [Am] flying like a [F] bird 'cross the [C] sky
+I am [D] flying passing [Am] high clouds, to be [Dm] with you, to be [C] free [G]
 
-Can you help me? (2)
-Through the dark night, faraway
-I am dying, for ever crying
-To be with you, who can say?
+## Verso 3
+Can you [C] hear me, can you [Am] hear me, through the [F] dark night far a[C]way?
+I am [D] dying, forever [Am] crying, to be [Dm] with you; who can [C] say? [G]
+
+## Verso 4
+We are [C] sailing, we are [Am] sailing home a[F]gain 'cross the [C] sea
+We are [D] sailing stormy [Am] waters, to be [Dm] near you, to be [C] free [G]
+Oh Lord, to be [Dm] near you, to be [C] free

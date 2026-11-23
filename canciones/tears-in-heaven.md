@@ -8,30 +8,39 @@ tags: ["acoustic", "balada", "90s", "classic", "inglés"]
 ---
 
 ## Intro
-[A] [E] [F#m]  [D] [Bm] [E] (2)/ [F#m] [E] (2) [D] [E] -7 [A]
+[A] [E] [F#m] [D] [Bm] [E] [A] (2)
 
 ## Verso 1
-Would you know my name if i saw you in heaven?
-Would it be the same if i saw you in heaven?
-I must be strong and carry on
-‘Cause i know I don’t belong, here in heaven
+[A] Would you [E] know my [F#m] name [D]
+If I [A] saw you in [E] heaven?
+[A] Would it [E] be the [F#m] same [D]
+If I [A] saw you in [E] heaven?
+[F#m] I must be [C#m] strong [Em] and carry [F#7] on
+'Cause I [Bm] know I don't be[E7]long here in [A] heaven
 
-Would you hold my hand if I saw you in heaven?
-Would you help me stand if I saw you in heaven?
-I’ll find my way through night and day
-‘Cause i know i just can’t stay here in heaven
+## Verso 2
+[A] Would you [E] hold my [F#m] hand [D]
+If I [A] saw you in [E] heaven?
+[A] Would you [E] help me [F#m] stand [D]
+If I [A] saw you in [E] heaven?
+[F#m] I'll find my [C#m] way [Em] through night and [F#7] day
+'Cause I [Bm] know I just can't [E7] stay here in [A] heaven
 
-[A] [E] [F#m] [Bm] [E]
-Time can bring you down
-Time can bend your knees,
-Time can break your heart
-Have you begging please, (begging please)
-Beyond the door, there’s peace I’m sure
-And I know there’ll be no more tears in heaven
+## Puente
+[C] Time can [G] bring you [Am] down, time can [D] bend your [G] knees [Em] [C]
+Time can [G] break your [Am] heart, have you [D] begging [G] please, begging [E] please
 
-[A] [E] [F#m]  [D] [Bm] [E] (2)/ [F#m] [E] (2) [D] [E] -7 [A]
-Would you know my name if i saw you in heaven?
-Would it be the same if i saw you in heaven?
-I must be strong and carry on
-‘Cause I know I don’t belong, here in heaven
-‘Cause I know I don’t belong, here in heaven
+## Solo
+[F#m] [C#m] [Em] [F#7] [Bm] [E7] [A]
+
+## Verso 3
+[F#m] Beyond the [C#m] door, there's [Em] peace, I'm [F#7] sure
+And I [Bm] know there'll be no [E7] more tears in [A] heaven
+
+## Verso 4
+[A] Would you [E] know my [F#m] name [D]
+If I [A] saw you in [E] heaven?
+[A] Would it [E] be the [F#m] same [D]
+If I [A] saw you in [E] heaven?
+[F#m] I must be [C#m] strong [Em] and carry [F#7] on
+'Cause I [Bm] know I don't be[E7]long here in [A] heaven

@@ -8,45 +8,46 @@ tags: ["pop", "balada", "2010s", "inglés"]
 ---
 
 ## Intro
-[G] [Em] [C] [D] (4)
+[G]
 
 ## Verso 1
-I found a love, for me,
-Darling, just dive right in, and follow my lead.
-Well I found a girl, beautiful and sweet
-Oh, I never knew you were the someone waiting for me
+[G] I found a love [Em] for me
+Darling, just [C] dive right in and follow my [D] lead
+Well, I found a [G] girl, beautiful and [Em] sweet
+Oh, I never [C] knew you were the someone waiting for [D] me
+'Cause we were just kids when we [G] fell in love
+Not knowing [Em] what it was, I will not [C] give you up this [D] time
+Darling, just [G] kiss me slow, your heart is [Em] all I own
+And in your [C] eyes you're holding [D] mine
 
-'Cause we were just kids_when we fell in love
-Not knowing what it was, I will not give you up, this time
-But darling, just kiss me slow, your heart is all I own,
-And in your eyes you're holding mine
+## Coro
+Baby, [Em] I'm [C] dancing in the [G] dark with you be[D]tween my arms
+[Em] Barefoot on the [C] grass, [G] listening to our [D] favorite song
+When you [Em] said you looked a [C] mess, I whispered [G] underneath my [D] breath
+But you [Em] heard it, darling, [C] you look [D] perfect to[G]night
 
-[Em] [C] [G] [D]/ [Em] [C] [G] [D] (2) [G]
-Baby, I'm dancing in the dark, with you between my arms
-Barefoot on the grass, listening to, our favourite song
-When you said you looked a mess, I whispered underneath my breath
-But you heard it, darling you, look perfect, tonight.
+## Verso 2
+Well, I found a [G] woman, stronger than [Em] anyone I know
+She shares my [C] dreams, I hope that someday I'll share her [D] home
+I found a [G] love to carry [Em] more than just my secrets
+To carry [C] love, to carry children of our [D] own
+We are still kids, but we're [G] so in love, fighting a[Em]gainst all odds
+I know we'll [C] be alright this [D] time
+Darling, just [G] hold my hand, be my girl, I'll [Em] be your man
+I see my [C] future in your [D] eyes
 
-[G] [Em] [C] [D] (4)
-Well, I found a woman, stronger than anyone I know
-She shares my dreams, I hope that someday I'll share her home
-I found a love, to carry more than just my secrets
-To carry love, to carry children of our own
+## Coro
+Baby, [Em] I'm [C] dancing in the [G] dark with you be[D]tween my arms
+[Em] Barefoot on the [C] grass, [G] listening to our [D] favorite song
+When I [Em] saw you in that [C] dress, looking so [G] beautiful
+I [D] don't deserve this, [Em] darling, you look [C] perfect to[G]night
 
-We are still kids but we're so in love, fighting against all odds
-I know we'll be alright this time,
-Darling, just hold my hand, be my girl, I'll be your man,
-I see my future in your eyes
+## Solo
+[Em] [C] [G] [D]
 
-[Em] [C] [G] [D]/ [Em] [C] [G] [D] (2) [G]
-Baby, I'm dancing in the dark with you between my arms
-Barefoot on the grass, listening to our favourite song
-When I saw you in that dress, looking so beautiful
-I don't deserve this, darling you look perfect tonight.
-
-Baby, I'm dancing in the dark with you between my arms
-Barefoot on the grass, listening to our favourite song
-I have faith in what I see, now I know I have met an angel,
-In person and she looks perfect.
-[G]/[B]    [C]           [Dsus4]      [D]          [G]
-I don't deserve this, you look perfect tonight
+## Coro
+Baby, [Em] I'm [C] dancing in the [G] dark with you be[D]tween my arms
+[Em] Barefoot on the [C] grass, [G] listening to our [D] favorite song
+I have [Em] faith in what I [C] see, now I know [G] I have met an [D] angel in person
+And [Em] she looks [C] perfect, no I [D] don't deserve this
+You look [G] perfect tonight

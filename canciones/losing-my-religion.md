@@ -1,54 +1,60 @@
 ---
 title: "Losing My Religion"
 artist: "R.E.M."
-key: "F"
+key: "Am"
 capo: 0
-tempo: 100
+tempo: 125
 tags: ["alt rock", "90s", "classic", "inglés"]
 ---
 
+## Intro
+[F] [Dm] [G] [Am] (2)
+
 ## Verso 1
-Intro: [F] [Dm] [G] [Am] (2) [G]_
+Oh, [Am] life is bigger, [Em] it's bigger than you
+And you are [Am] not me, the lengths that I will [Em] go to
+The distance in your [Am] eyes
+[Em] Oh no, I've said too [Dm] much, I set it [G] up
 
-[Am] [Em] [Am] (2) [Em]_[Dm] [G]
-Oh, life is bigger, it's bigger than you, and you are not me
-The lengths that I will go to, the distance in your eyes…
-Oh no, I've said too much. I set it up.
+## Coro
+That's me in the [Am] corner, that's me in the [Em] spotlight
+Losing my re[Am]ligion, trying to [Em] keep up with you
+And [Am] I don't know if I can do it
+[Em] Oh no, I've said too [Dm] much, I haven't said e[G]nough
 
-[Am] [Em] [Am] (2) [Em] [Dm] [G]
-That's me in the corner, that's me in the spotlight, losing my religion,
-Trying to keep, up with you, and I don't know if I can do it
-Oh no, I've said too much, I haven't said enough
-_[F] [G]-[Am]/ [F] [G]-[Am]_[G]
-I thought that I heard you laughing, I thought that I heard you sing.
-I think I thought I saw you try
+## Hook
+I thought that I heard you [F] laughing
+I [G] thought that I heard you [Am] sing
+I [F] think I thought I saw you [G] try [Am] [G]
 
-[Am] [Em] [Am] (2) [Em]_[Dm] [G]
-Every whisper, of every waking hour I'm choosing my confessions
-Trying to keep, an eye on you, like a hurt lost and blinded fool, fool
-Oh no, I've said too much. I set it up
+## Verso 2
+Every [Am] whisper of every waking [Em] hour
+I'm choosing my con[Am]fessions, trying to keep an [Em] eye on you
+Like a [Am] hurt, lost and blinded fool, fool
+[Em] Oh no, I've said too [Dm] much, I set it [G] up
 
-[Am] [Em] [Am] (2) [Em]_[Dm] [G]
-Consider this, consider this, the hint of the century, consider this
-The slip, that brought me to my knees failed, what if all, these fantasies come,
-Flailing around, now I've said, too much
+## Verso 3
+Consider [Am] this, consider this, the [Em] hint of the century
+Consider [Am] this, the slip that brought me [Em] to my knees, failed
+[Am] What if all these fantasies come [Em] flailing around?
+Now I've [Dm] said too [G] much
 
-_[F] [G]-[Am]/ [F] [G]-[Am]
-I thought that I heard you laughing, I thought that I heard you sing.
-I think I thought I saw you try…
+## Hook
+I thought that I heard you [F] laughing
+I [G] thought that I heard you [Am] sing
+I [F] think I thought I saw you [G] try [Am] [G]
 
-[C] [D] (2)
-But that was just a dream, that was just a dream
+## Puente
+[C] But that was just a [D] dream
+[C] That was just a [D] dream
 
-[Am] [Em] [Am] (2) [Em] [Dm] [G]
-That's me in the corner, that's me in the spotlight
-Losing my religion, trying to keep, up with you
-And I don't know if I can do it
-Oh no, I've said too much, I haven't said enough
-_[F] [G]-[Am]/ [F] [G]-[Am]
-I thought that I heard you laughing, I thought that I heard you sing
-I think I thought I saw you try
+## Coro
+That's me in the [Am] corner, that's me in the [Em] spotlight
+Losing my re[Am]ligion, trying to [Em] keep up with you
+And [Am] I don't know if I can do it
+[Em] Oh no, I've said too [Dm] much, I haven't said e[G]nough
 
-[F] [G]/[Am]/[F]/ [G]-[Am]/_[G] -[Am]
-But that was just a dream. Try, cry. Why, try?
-That was just a dream, just a dream, just a dream, dream.
+## Hook
+I thought that I heard you [F] laughing
+I [G] thought that I heard you [Am] sing
+I [F] think I thought I saw you [G] try [Am] [G]

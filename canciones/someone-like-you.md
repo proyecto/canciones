@@ -8,30 +8,54 @@ tags: ["pop", "balada", "2010s", "inglés"]
 ---
 
 ## Intro
-[G] [Bm] [Em] [C]
+[G] [D] [Em] [C]
 
 ## Verso 1
-I heard, that you're, settled down that you, found a girl and you're, married now
-I heard that your dreams came true, guess she gave you things, I didn't give to you
-Old friend, why are you so shy? Ain't like you to hold back or hide from the light
+I heard that you're [G] settled down
+That you [D] found a girl and you're [Em] married now [C]
+I heard that your [G] dreams came true
+Guess she [D] gave you things I didn't [Em] give to you [C]
+Old [G] friend, why are you [D] so shy?
+Ain't like [Em] you to hold back or hide [C] from the light
 
-[D] [Em] [C] (2)
-I hate to turn up out of the blue, uninvited, but I couldn't stay away, I couldn't fight it
-I had hoped you'd see my face, and that you'd be reminded that for me, it isn't over
-[G] [D] [Em] [C] (5)
-Never mind, I'll find someone like you, I wish nothing but the best for you, too
-"Don't forget me, " I beg. I remember, you said
-"Sometimes it lasts in love, but sometimes it hurts instead"(2)
+## Pre-coro
+I [D] hate to turn up out of the [Em] blue, uninvited
+But I [C] couldn't stay away, I couldn't fight it
+I had [D] hoped you'd see my face and [Em] that you'd be reminded
+That for [C] me, it isn't over
 
-[G] [Bm] [Em] [C]
-You know how the, time flies only, yesterday was the time of our lives
-We were born and raised in a summer haze, bound by the surprise, of our glory days
-[D] [Em] [C] (2)/ [G] [D] [Em] [C] (5)
-I hate to turn up out of the blue, uninvited…
+## Coro
+Never [G] mind, I'll [D] find someone like [Em] you [C]
+I wish [G] nothing but the [D] best for [Em] you, [C] too
+"Don't for[G]get me, I [D] beg, I re[Em]member you [C] said:
+Sometimes it [G] lasts in love, but [D] sometimes it hurts in[Em]stead" [C]
+Sometimes it [G] lasts in love, but [D] sometimes it hurts in[Em]stead [C]
 
-[D] [Em] [C]/ [Am] [G] [C]
-Nothing compares, no worries or cares
-Regrets and mistakes, they're memories made
-Who would have known how bittersweet this would taste?
-[G] [D] [Em] [C] (5)
-Never mind, I'll find someone like you… (2)
+## Verso 2
+You know how the [G] time flies
+Only [D] yesterday was the time [Em] of our lives [C]
+We were born and raised [G] in a summer haze
+Bound [D] by the surprise of our [Em] glory days [C]
+
+## Pre-coro
+I [D] hate to turn up out of the [Em] blue, uninvited
+But I [C] couldn't stay away, I couldn't fight it
+I had [D] hoped you'd see my face and [Em] that you'd be reminded
+That for [C] me, it isn't over
+
+## Coro
+Never [G] mind, I'll [D] find someone like [Em] you [C]
+I wish [G] nothing but the [D] best for [Em] you, [C] too
+"Don't for[G]get me, I [D] beg, I re[Em]member you [C] said:
+Sometimes it [G] lasts in love, but [D] sometimes it hurts in[Em]stead" [C]
+
+## Puente
+[D] Nothing compares, no worries or cares
+[Em] Regrets and mistakes, they're memories made
+[C] Who would have known how [Am] bittersweet [Bm] this would [C] taste? [D]
+
+## Coro
+Never [G] mind, I'll [D] find someone like [Em] you [C]
+I wish [G] nothing but the [D] best for [Em] you, [C] too
+"Don't for[G]get me, I [D] beg, I re[Em]member you [C] said:
+Sometimes it [G] lasts in love, but [D] sometimes it hurts in[Em]stead" [C]

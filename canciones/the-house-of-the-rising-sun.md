@@ -8,35 +8,40 @@ tags: ["folk rock", "classic", "60s", "himno", "inglés"]
 ---
 
 ## Intro
-[Am] [C] [D] [F]/ [Am] [C] [E]/ [Am] [C] [D] [F]/ [Am] [E] [Am]
+[Am] [C] [D] [F] / [Am] [E] [Am] [E]
 
 ## Verso 1
-There is a house in New Orleans
-They call the Rising Sun
-And it's been the ruin of many a poor boy
-And God, I know I'm one
+There [Am] is a [C] house in [D] New Or[F]leans
+They [Am] call the [C] Rising [E] Sun
+And it's [Am] been the [C] ruin of [D] many a poor [F] boy
+And [Am] God, I [E] know I'm [Am] one [C] [D] [F] [Am] [E] [Am] [E]
 
-My mother was a tailor
-She sewed my new blue jeans
-My father was a gamblin' man
-Down in New Orleans
+## Verso 2
+My [Am] mother [C] was a [D] tailor [F]
+She [Am] sewed my [C] new blue [E] jeans
+My [Am] father [C] was a [D] gamblin' [F] man
+[Am] Down in [E] New Or[Am]leans [C] [D] [F] [Am] [E] [Am] [E]
 
-Now the only thing a gambler needs
-Is a suitcase and a trunk
-And the only time he'll be satisfied
-Is when he's on a trump
+## Verso 3
+Now the [Am] only [C] thing a [D] gambler [F] needs
+Is a [Am] suitcase [C] and a [E] trunk
+And the [Am] only [C] time he's [D] satis[F]fied
+Is [Am] when he's [E] on a [Am] drunk [C] [D] [F] [Am] [E] [Am] [E]
 
-Oh, mother, tell your children
-Not to do what I have done
-Spend your lives in sin and misery
-In the House of the Rising Sun
+## Verso 4
+Oh [Am] mother, [C] tell your [D] children [F]
+Not to [Am] do what [C] I have [E] done
+[Am] Spend your [C] lives in [D] sin and mise[F]ry
+In the [Am] House of the [E] Rising [Am] Sun [C] [D] [F] [Am] [E] [Am] [E]
 
-Well, I got one foot on the platform
-The other foot on the train
-I'm goin' back to New Orleans
-To wear that ball and chain
+## Verso 5
+Well, I got [Am] one foot [C] on the [D] platform [F]
+The [Am] other foot [C] on the [E] train
+I'm [Am] goin' [C] back to [D] New Or[F]leans
+To [Am] wear that [E] ball and [Am] chain [C] [D] [F] [Am] [E] [Am] [E]
 
-Well, there is a house in New Orleans
-They call the Rising Sun
-And it's been the ruin of many a poor boy
-And God, I know I'm one.
+## Verso 6
+Well, there [Am] is a [C] house in [D] New Or[F]leans
+They [Am] call the [C] Rising [E] Sun
+And it's [Am] been the [C] ruin of [D] many a poor [F] boy
+And [Am] God, I [E] know I'm [Am] one [C] [D] [F] [Am] [E] [Am]

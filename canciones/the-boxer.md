@@ -8,44 +8,46 @@ tags: ["folk", "classic", "60s", "himno", "inglés"]
 ---
 
 ## Intro
-[C] [Am] [G] [G7] [C]/ [C] [Am] [G] [F]/ [C] [G7] [C]
+[C]
 
 ## Verso 1
-I am just a poor boy and my story’s seldom told
-I’ve squandered my resistance
-For a pocketful of mumbles, such are promises
-All lies and jest, still the man hears
-What he wants to hear
-And disregards the rest, hmmmm
+I am [C] just a poor boy though my story's seldom [Am] told
+I have [G] squandered my resistance for a [G7] pocketful of mumbles
+Such are [C] promises, all lies and [Am] jest
+Still a [G] man hears what he [F] wants to hear and disregards the [C] rest [G] [C]
 
-[C] [Am] /[G] [G7] [C]/ [C] [Am] [G] [F]/_[C] [G7] [C]
-When I left my home and my family, I was no more than a boy
-In the company of strangers, in the quiet of the railway station, running scared
-Laying low, seeking out the poorer quarters,
-Where the ragged people go, looking for the places only they would know
+## Verso 2
+When I [C] left my home and my family, I was no more than a [Am] boy
+In the [G] company of strangers, in the [G7] quiet of the railway station
+Running [C] scared, laying [Am] low
+Seeking [G] out the poorer [F] quarters where the ragged people [C] go
+Looking [G] for the places [F] only they would [C] know
 
-[Am] [Em] [Am] [G] [C]
-Lie la lie...
+## Coro
+Lie-la-[Am]lie, lie-la-[Em]lie-la-lie-la-[Am]lie
+Lie-la-[G]lie, lie-la-[F]lie-la-lie-la-lie, la-la-[C]lie
 
-[C] [Am] /[G] [G7] [C]/ [C] [Am] [G] [F]/_[C] [G7] [C]
-Asking only workman’s wages, I come looking for a job, but I get no offers
-Just a come on from the whores on 7th avenue, I do declare,
-There were times, when I was so lonesome
-I took some comfort there
+## Verso 3
+Asking [C] only workman's wages, I come looking for a [Am] job
+But I get no [G] offers, just a [G7] come-on from the whores on Seventh [C] Avenue
+I do de[Am]clare there were [G] times when I was [F] so lonesome
+I took some comfort [C] there, la la [G] la la la la [C]
 
-[C] [Am] [G] [G7] [C]/ [C] [Am] [G] [F]/ [C] [G7] [C]
-And I’m laying out my winter clothes,
-Wishing I was gone, going home
-Where the New York city winters
-Aren’t bleeding me, leading me, to go home
+## Coro
+Lie-la-[Am]lie, lie-la-[Em]lie-la-lie-la-[Am]lie
+Lie-la-[G]lie, lie-la-[F]lie-la-lie-la-lie, la-la-[C]lie
 
-[C] [Am] [G] [G7] [C]/ [C] [Am] [G] [F]/ [C] [G7] [C]
-In the clearing stands a boxer, and a fighter by his trade
-and he carries the reminders of every glove
-That laid him down or cut him til he cried out
-In his anger and his shame,
-I am leaving, I am leaving,
-But the fighter still remains, yes, he still remains
+## Verso 4
+Then I'm [C] laying out my winter clothes and wishing I was [Am] gone
+Going [G] home, where the [G7] New York City winters aren't [C] bleeding me
+Leading [Am] me, [G] going [C] home
 
-[Am] [Em] [Am] [G] [C]
-Lie la lie...
+## Verso 5
+In the [C] clearing stands a boxer and a fighter by his [Am] trade
+And he [G] carries the reminders of every [G7] glove that laid him down
+Or cut him [C] till he cried out in his anger and his [Am] shame
+"I am [G] leaving, I am [F] leaving", but the fighter still re[C]mains [G] [C]
+
+## Outro
+Lie-la-[Am]lie, lie-la-[Em]lie-la-lie-la-[Am]lie
+Lie-la-[G]lie, lie-la-[F]lie-la-lie-la-lie, la-la-[C]lie

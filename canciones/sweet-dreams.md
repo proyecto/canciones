@@ -3,27 +3,43 @@ title: "Sweet Dreams (Are Made of This)"
 artist: "Eurythmics"
 key: "Am"
 capo: 0
-tempo: 100
+tempo: 125
 tags: ["synth-pop", "80s", "classic", "inglés"]
 ---
 
 ## Intro
-[Am] [F] [E]
+[Am] [F] [E] (4)
+
+## Coro
+[Am] Sweet dreams are [F] made of [E] this
+[Am] Who am I to [F] disa[E]gree?
+[Am] I travel the world and the [F] seven [E] seas
+[Am] Everybody's [F] looking for [E] something
 
 ## Verso 1
-Sweet dreams are made of this who am I to disagree?
-I traveled the world and the seven seas
-Everybody's looking for something
+[Am] Some of them want to [F] use [E] you
+[Am] Some of them want to get [F] used by [E] you
+[Am] Some of them want to a[F]buse [E] you
+[Am] Some of them want to be a[F]bused [E]
 
-Some of them want to use you. Some of them want to get used by you
-Some of them want to abuse you. Some of them want to be abused
+## Puente
+[F] Hold your head up, [E] keep your head up, movin' on
+[F] Hold your head up, [E] movin' on
+[F] Keep your head up, [E] movin' on
+[F] Hold your head up, [E] movin' on
+[F] Keep your head up, [E] movin' on
 
-Sweet dreams are made of this…
+## Coro
+[Am] Sweet dreams are [F] made of [E] this
+[Am] Who am I to [F] disa[E]gree?
+[Am] I travel the world and the [F] seven [E] seas
+[Am] Everybody's [F] looking for [E] something
 
-[Am] [C] [Am]
-Hold your head up. Keep your head up (movin' on)
-Hold your head up (movin' on) (3) Keep your head up
+## Verso 2
+[Am] Some of them want to [F] use [E] you
+[Am] Some of them want to get [F] used by [E] you
+[Am] Some of them want to a[F]buse [E] you
+[Am] Some of them want to be a[F]bused [E]
 
-Some of them want to use you…
-
-Sweet dreams are made of this…(4)
+## Outro
+[Am] Sweet dreams are [F] made of [E] this... (4)
